@@ -1,0 +1,172 @@
+{
+  "enrichment_stats": {
+    "total": 442,
+    "levels": {
+      "Higher Education (General/Unspecified)": 117,
+      "Not specified / General": 103,
+      "Higher Education (Undergraduate)": 92,
+      "Teacher Education (In-service)": 71,
+      "Teacher Education (Pre-service)": 23,
+      "Higher Education (Graduate/Postgraduate)": 20,
+      "Professional/Continuing Education": 16
+    },
+    "ct_dims": {
+      "Critical Thinking (Generic)": 374,
+      "Problem-solving": 35,
+      "Reflection": 19,
+      "Self-regulation/Metacognition": 18,
+      "Decision-making": 5,
+      "Creative Thinking": 4,
+      "Higher-order Thinking (General)": 2,
+      "Evaluation": 2,
+      "Argumentation": 1,
+      "Analysis": 1
+    },
+    "ai_tools": {
+      "Generative AI (Generic)": 441,
+      "ChatGPT": 1
+    },
+    "designs": {
+      "Case Study": 117,
+      "Survey": 105,
+      "Quantitative": 57,
+      "Qualitative": 53,
+      "Interview-based": 52,
+      "Mixed Methods": 42,
+      "Action Research": 23,
+      "Experimental": 18,
+      "Content Analysis": 14,
+      "Quasi-experimental": 9,
+      "Systematic Review": 6
+    },
+    "level_source": {
+      "llm": 441,
+      "regex": 1
+    }
+  },
+  "level_distribution": {
+    "Higher Education (General/Unspecified)": 117,
+    "Not specified / General": 103,
+    "Higher Education (Undergraduate)": 92,
+    "Teacher Education (In-service)": 71,
+    "Teacher Education (Pre-service)": 23,
+    "Higher Education (Graduate/Postgraduate)": 20,
+    "Professional/Continuing Education": 16
+  },
+  "crosstab": {
+    "Higher Education (General/Unspecified)": {
+      "Critical Thinking (Generic)": 98,
+      "Problem-solving": 10,
+      "Reflection": 5,
+      "Self-regulation/Metacognition": 9,
+      "Decision-making": 2,
+      "Higher-order Thinking (General)": 1
+    },
+    "Teacher Education (In-service)": {
+      "Critical Thinking (Generic)": 60,
+      "Problem-solving": 3,
+      "Reflection": 7,
+      "Self-regulation/Metacognition": 2
+    },
+    "Higher Education (Undergraduate)": {
+      "Critical Thinking (Generic)": 78,
+      "Problem-solving": 10,
+      "Higher-order Thinking (General)": 1,
+      "Decision-making": 3,
+      "Self-regulation/Metacognition": 1,
+      "Reflection": 3,
+      "Creative Thinking": 1
+    },
+    "Not specified / General": {
+      "Critical Thinking (Generic)": 92,
+      "Reflection": 2,
+      "Problem-solving": 5,
+      "Self-regulation/Metacognition": 3,
+      "Creative Thinking": 2,
+      "Evaluation": 1
+    },
+    "Teacher Education (Pre-service)": {
+      "Critical Thinking (Generic)": 17,
+      "Argumentation": 1,
+      "Problem-solving": 3,
+      "Reflection": 1,
+      "Self-regulation/Metacognition": 2
+    },
+    "Higher Education (Graduate/Postgraduate)": {
+      "Critical Thinking (Generic)": 13,
+      "Evaluation": 1,
+      "Self-regulation/Metacognition": 1,
+      "Reflection": 1,
+      "Analysis": 1,
+      "Problem-solving": 3,
+      "Creative Thinking": 1
+    },
+    "Professional/Continuing Education": {
+      "Critical Thinking (Generic)": 16,
+      "Problem-solving": 1
+    }
+  },
+  "sankey_flows": 19,
+  "temporal_year_range": [
+    2013,
+    2026
+  ],
+  "design_combinations": 68,
+  "radar_levels_shown": [],
+  "sample_size_stats": {
+    "n_studies": 143,
+    "median": 190,
+    "mean": 1016.5,
+    "min": 4,
+    "max": 61376
+  },
+  "top_countries": {
+    "Germany": 28,
+    "Spain": 19,
+    "China": 17,
+    "UK": 17,
+    "Malaysia": 13,
+    "Sweden": 8,
+    "Colombia": 7,
+    "South Africa": 7,
+    "Indonesia": 6,
+    "United States": 5,
+    "Ireland": 5,
+    "Taiwan": 5,
+    "USA": 5,
+    "United Kingdom": 5,
+    "Japan": 5,
+    "Australia": 5,
+    "Mexico": 5,
+    "Norway": 5,
+    "Pakistan": 4,
+    "Portugal": 4,
+    "Romania": 3,
+    "UAE": 3,
+    "Brazil": 3,
+    "Switzerland": 3,
+    "Serbia": 3
+  },
+  "top_disciplines": {
+    "engineering": 11,
+    "education for sustainable development": 8,
+    "sustainable development": 8,
+    "Education for Sustainable Development": 7,
+    "business": 7,
+    "sustainability": 7,
+    "teacher education": 6,
+    "sustainability education": 3,
+    "education": 3,
+    "geography": 3,
+    "accounting": 3,
+    "engineering education": 2,
+    "nursing": 2,
+    "sustainable urban development": 2,
+    "science education": 2,
+    "Business": 2,
+    "Accounting": 2,
+    "Geography": 2,
+    "Engineering": 2,
+    "economics": 2
+  }
+}

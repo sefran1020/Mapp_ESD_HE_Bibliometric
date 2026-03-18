@@ -1,0 +1,74 @@
+{
+  "session_id": "20260219_043423",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-02-19T05:03:57.600942",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Cognitive and Metacognitive Skill Development",
+        "theme_b": "AI-Enhanced Pedagogical Methods",
+        "relationship_type": "complementary",
+        "description": "AI-enhanced pedagogical methods are designed to facilitate the development of cognitive and metacognitive skills, as implied by their definitions focusing on educational outcomes and approaches.",
+        "n_studies_support": "Approximately 20-30 studies (inferred from theme overlaps)",
+        "robustness": "Low"
+      },
+      {
+        "theme_a": "AI-Enhanced Pedagogical Methods",
+        "theme_b": "AI Implementation and Literacy Challenges",
+        "relationship_type": "association",
+        "description": "The implementation of AI-enhanced pedagogical methods is associated with ethical and practical challenges, necessitating AI literacy development, as suggested by the themes' definitions.",
+        "n_studies_support": "Approximately 15-25 studies (inferred from theme overlaps)",
+        "robustness": "Low"
+      },
+      {
+        "theme_a": "Cognitive and Metacognitive Skill Development",
+        "theme_b": "AI Implementation and Literacy Challenges",
+        "relationship_type": "association",
+        "description": "Developing cognitive and metacognitive skills with AI tools involves navigating implementation challenges and building ethical competence, based on the interconnected nature of these themes.",
+        "n_studies_support": "Approximately 30-40 studies (inferred from theme overlaps)",
+        "robustness": "Low"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Integration of AI for personalized learning to enhance critical thinking while addressing ethical challenges.",
+        "components": [
+          "Personalized and Adaptive Learning Support",
+          "Critical and Higher-Order Thinking Enhancement",
+          "Ethical and Practical Challenges in AI Implementation"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Using AI agents for collaborative learning to develop metacognitive and reflective skills.",
+        "components": [
+          "Collaborative Learning with AI Agents",
+          "Metacognitive and Reflective Skill Development"
+        ],
+        "frequency": "Low"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Skill Enhancement vs. Implementation Challenges",
+        "justification": "This axis highlights the tension between achieving educational outcomes through AI and overcoming practical and ethical barriers, which is central to effective integration.",
+        "coverage": "Approximately 70-80% of studies (combining high-robustness themes: Cognitive and Metacognitive Skill Development and AI Implementation and Literacy Challenges)",
+        "research_potential": "Guides research on optimizing AI tools for learning while addressing implementation hurdles, such as literacy development and ethical concerns."
+      },
+      {
+        "axis": "Pedagogical Innovation with AI",
+        "justification": "Focuses on how AI transforms teaching methods and learning experiences, including personalized and collaborative approaches.",
+        "coverage": "Approximately 20-30% of studies (based on AI-Enhanced Pedagogical Methods theme)",
+        "research_potential": "Explores novel educational models, their efficacy, and scalability in diverse contexts."
+      }
+    ],
+    "gaps_and_contradictions": "Notable gaps include limited studies on long-term effects of AI on skill retention and transfer, and contradictions between the potential for enhanced learning through personalization and ethical issues like data privacy and over-reliance on AI.",
+    "_theme_reference_check": {
+      "valid_references": 6,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true
+    }
+  }
+}

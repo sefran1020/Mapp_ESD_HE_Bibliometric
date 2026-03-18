@@ -1,0 +1,309 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 7,
+  "timestamp": "2026-02-19T06:03:31.841624",
+  "data": {
+    "themes": [
+      {
+        "name": "AI-Enhanced Critical Thinking Development",
+        "definition": "Integration of AI tools in educational practices to improve students' critical thinking skills through analysis, evaluation, and synthesis of information. This involves structured pedagogical approaches that specifically target cognitive skills like problem-solving, logical reasoning, and reflective analysis.",
+        "evidence": [
+          "[Abdulayeva2025] \"The system fostered improved critical thinking, research competencies, and self-assessment skills\"",
+          "[Rolf2025] \"promoted student engagement, critical thinking skills, and learning about contract law\"",
+          "[Pan2025] \"integration of TCSA method with artificial intelligence into engineering education\""
+        ],
+        "articles": [
+          "Abdulayeva2025",
+          "Rolf2025",
+          "Syahri2025",
+          "Yuan2024",
+          "Farinetti2024",
+          "Nawafleh2025",
+          "Lee2025b",
+          "Argüelles-Álvarez2025",
+          "Li2025e",
+          "Cigerci2025",
+          "Tu2025",
+          "Chen2025d",
+          "Shen2026",
+          "Elizondo-García2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Problem-Based Learning",
+          "Reflection",
+          "Analytical Reasoning",
+          "Scientific Discourse"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Augmented Problem-Based Learning Frameworks",
+        "definition": "Development and implementation of instructional models combining AI technologies with problem-based learning (PBL) to engage students in real-world challenges. These frameworks emphasize iterative design processes, metacognitive operations, and collaborative problem-solving.",
+        "evidence": [
+          "[Syahri2025] \"AI-PBL Framework: Innovative Problem Based Learning Model Supported by Artificial Intelligence\"",
+          "[Chen2025d] \"GenAI-Empowered Group-Based Authentic Assessment for Network Engineering\""
+        ],
+        "articles": [
+          "Syahri2025",
+          "Chen2025d",
+          "Chen2025c"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Design Thinking",
+          "Simulation-Based Learning",
+          "Iterative Development"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Driven Self-Directed Learning",
+        "definition": "Implementation of AI tools and systems that enable students to control their own learning processes through personalized prompts, adaptive feedback mechanisms, and scaffolded exploration environments.",
+        "evidence": [
+          "[Xiaolei2024] \"focus on the moderating role of self-directed learning competency\"",
+          "[Lowry2025] \"promote readiness for self-directed learning among graduate students\""
+        ],
+        "articles": [
+          "Xiaolei2024",
+          "Lowry2025",
+          "Lee2025b",
+          "Ahmed2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Metacognitive Regulation",
+          "Personalized Learning",
+          "Learnersourcing"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Induced Metacognitive Operations",
+        "definition": "Enhancement of metacognitive processes (planning, monitoring, evaluating) through AI integration that requires students to critically examine their own thinking processes and system outputs.",
+        "evidence": [
+          "[Chen2025c] \"GenAI played a dual role in metacognition of design: it not only propelled design actions, but also created opportunities for reflection\"",
+          "[Singh2025a] \"metacognitive prompts—designed to encourage people to pause, reflect, assess their understanding\""
+        ],
+        "articles": [
+          "Chen2025c",
+          "Singh2025a",
+          "Li2025e",
+          "Zeng2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Critical Analysis of AI Outputs",
+          "Reflective Practices",
+          "Cognitive Regulation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Dual-Edged Impact of Generative AI",
+        "definition": "Recognition of generative AI's paradoxical effects on educational outcomes where the same technology simultaneously facilitates skill development while potentially undermining specific cognitive processes or learning objectives.",
+        "evidence": [
+          "[Balá2024] \"results highlight a dual-edged impact of AI tools in education: while they enhance efficiency, they may undermine the development of critical thinking\"",
+          "[Derakhshan2025] \"AI serves as a double-edged sword, capable of both fostering and impeding the development of higher-order thinking skills\""
+        ],
+        "articles": [
+          "Balá2024",
+          "Derakhshan2025",
+          "Farinetti2024",
+          "Chen2025d"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Overreliance on AI",
+          "Critical Evaluation of AI Outputs",
+          "Pedagogical Balance"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Abstracts show strong focus on enhancing critical thinking through AI integration, with emerging patterns of AI-PBL frameworks. Multiple methodological approaches exist, though many lack quantitative data. There's tension between AI-facilitated efficiency and its potential negative impacts on deeper cognitive development.",
+    "grounding_notes": "Critical thinking terminology is widely used but with varying operationalizations across studies. Some themes have verbatim support while others show conceptual overlap requiring careful distinction. Missing objective/method sections in many abstracts limited contextual understanding but did not affect evidence extraction.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 1.0,
+      "total_hallucination_flags": 0,
+      "verification_details": [
+        {
+          "theme_name": "AI-Enhanced Critical Thinking Development",
+          "evidence_verified": [
+            {
+              "quote": "[Abdulayeva2025] \"The system fostered improved critical thinking, research competencies, and self-assessment skills\"",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Rolf2025] \"promoted student engagement, critical thinking skills, and learning about contract law\"",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Pan2025] \"integration of TCSA method with artificial intelligence into engineering education\"",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Abdulayeva2025",
+            "Rolf2025",
+            "Syahri2025",
+            "Yuan2024",
+            "Farinetti2024",
+            "Nawafleh2025",
+            "Lee2025b",
+            "Argüelles-Álvarez2025",
+            "Li2025e",
+            "Cigerci2025",
+            "Tu2025",
+            "Chen2025d",
+            "Shen2026",
+            "Elizondo-García2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Augmented Problem-Based Learning Frameworks",
+          "evidence_verified": [
+            {
+              "quote": "[Syahri2025] \"AI-PBL Framework: Innovative Problem Based Learning Model Supported by Artificial Intelligence\"",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Chen2025d] \"GenAI-Empowered Group-Based Authentic Assessment for Network Engineering\"",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Syahri2025",
+            "Chen2025d",
+            "Chen2025c"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Driven Self-Directed Learning",
+          "evidence_verified": [
+            {
+              "quote": "[Xiaolei2024] \"focus on the moderating role of self-directed learning competency\"",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Lowry2025] \"promote readiness for self-directed learning among graduate students\"",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Xiaolei2024",
+            "Lowry2025",
+            "Lee2025b",
+            "Ahmed2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Induced Metacognitive Operations",
+          "evidence_verified": [
+            {
+              "quote": "[Chen2025c] \"GenAI played a dual role in metacognition of design: it not only propelled design actions, but also created opportunities for reflection\"",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Singh2025a] \"metacognitive prompts—designed to encourage people to pause, reflect, assess their understanding\"",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Chen2025c",
+            "Singh2025a",
+            "Li2025e",
+            "Zeng2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Dual-Edged Impact of Generative AI",
+          "evidence_verified": [
+            {
+              "quote": "[Balá2024] \"results highlight a dual-edged impact of AI tools in education: while they enhance efficiency, they may undermine the development of critical thinking\"",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Derakhshan2025] \"AI serves as a double-edged sword, capable of both fostering and impeding the development of higher-order thinking skills\"",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Balá2024",
+            "Derakhshan2025",
+            "Farinetti2024",
+            "Chen2025d"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

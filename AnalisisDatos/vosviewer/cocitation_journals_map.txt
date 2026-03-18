@@ -1,0 +1,1074 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>	score<Avg. pub. year>	description	url
+1	Sustainability Science	-0.6146	2.4397	12	537	3012	168			
+2	International Sociology	2.628	0.279	2	9	23	3			
+3	Computers	-1.236	2.1229	13	2	4	2			
+4	Environmental Politics	-0.773	2.6862	12	1	2	2			
+5	Socio-Ecological Practice Research	-0.9332	2.4551	13	5	10	2			
+6	College Teaching	2.4199	-0.0815	1	50	133	9			
+7	Journal of Statistical Software	1.6593	1.5605	6	2	4	2			
+8	New Directions for Adult and Continuing Education	-0.5928	2.3682	12	64	206	17			
+9	Educational Psychologist	2.4805	0.0683	1	34	98	10			
+10	Environment International	-1.3706	2.4114	13	1	2	2			
+11	Local Economy The Journal of the Local Economy Policy Unit	-1.3929	2.3272	13	1	2	2			
+12	Field Methods	1.8006	1.802	6	22	58	5			
+13	European Educational Research Journal	-0.7049	2.3519	12	14	38	5			
+14	Channel View Publications eBooks	-0.5822	2.2107	12	3	6	2			
+15	Teachers College Record The Voice of Scholarship in Education	2.3901	0.0518	1	40	113	9			
+16	International Journal of Environmental Science and Technology	1.7773	1.9979	6	11	26	3			
+17	South African Journal of Accounting Research	1.493	2.0597	6	2	4	2			
+18	Qualitative Research in Psychology	2.4628	-0.1121	1	72	251	20			
+19	SHILAP Revista de lepidopterología	2.4926	-0.0572	1	123	416	31			
+20	Conservation Letters	1.7811	1.761	6	12	27	4			
+21	Comunicar	-0.7308	2.243	13	2	4	2			
+22	Elsevier eBooks	2.3275	0.3673	2	71	243	22			
+23	Medical Entomology and Zoology	-2.2326	1.067	17	159	621	47			
+24	New Directions for Student Services	-1.1019	1.9918	13	4	8	2			
+25	Center for Educational Policy Studies Journal	-0.7212	2.4338	12	32	95	8			
+26	International Journal of Progressive Education	-1.0403	2.0077	13	2	4	2			
+27	Computer Applications in Engineering Education	1.4979	2.0299	6	5	13	3			
+28	Teaching and Learning in Medicine	1.5328	2.0905	6	5	10	2			
+29	European Journal of Open Distance and E-Learning	-1.2193	2.343	13	4	8	2			
+30	Journal of Research in International Education	-0.7308	2.3693	13	3	6	2			
+31	TRENDS IN THE SCIENCES	-2.3769	0.8369	17	5	10	2			
+32	QUT ePrints (Queensland University of Technology)	1.9313	2.1272	6	3	6	2			
+33	Western CEDAR (Western Washington University)	1.7033	1.7383	6	17	39	4			
+34	International Journal of Emerging Technologies in Learning (iJET)	-0.8059	2.3616	13	5	10	3			
+35	Progress in Development Studies	-0.7304	2.303	13	3	6	2			
+36	Verlag Barbara Budrich eBooks	-0.6176	2.4905	12	46	163	13			
+37	Ra Ximhai	-2.3673	-0.1296	20	9	18	2			
+38	Design Management Journal (Former Series)	1.6357	1.5907	6	4	8	2			
+39	Frontiers in Public Health	-1.0756	2.3955	13	8	22	4			
+40	DergiPark (Istanbul University)	1.6891	1.7848	6	16	42	4			
+41	Journal of Biological Education	1.7031	1.9342	6	23	65	7			
+42	Ecological Engineering	-2.3773	-0.2148	20	10	22	3			
+43	International Legal Materials	-0.8476	2.2433	13	11	26	5			
+44	Economies	-1.1776	2.1216	13	4	8	2			
+45	Canadian Journal of Educational Administration and Policy	-0.7409	2.4149	12	15	41	4			
+46	Revista Electrónica Educare	-2.2039	-0.1389	20	18	39	3			
+47	Figshare	-2.5635	1.2086	17	9	18	2			
+48	Journal of Technology and Science Education	1.6635	1.978	6	12	26	3			
+49	Scandinavian Journal of Educational Research	1.6445	1.9643	6	9	21	3			
+50	Public Understanding of Science	-2.3654	1.5678	17	1	2	2			
+51	Land	2.2816	0.5024	2	13	35	6			
+52	Methodology of educational measurement and assessment	-0.9482	2.03	13	3	6	2			
+53	Behavioral Sciences	2.1873	0.4914	2	5	10	2			
+54	Accounting Education	-0.8606	2.1848	13	21	49	6			
+55	The International Encyclopedia of Communication Research Methods	-2.4247	1.2299	17	12	27	3			
+56	edoc (University of Basel)	1.6282	1.5601	6	2	4	2			
+57	European Political Science	2.6124	0.6382	2	1	2	2			
+58	Journal of Community Psychology	1.7797	1.5785	6	3	6	2			
+59	Industrial and Commercial Training	-0.4608	2.5555	12	4	9	3			
+60	Nature Communications	1.5738	1.6932	6	7	16	4			
+61	Procedia Engineering	-1.0804	2.3682	13	8	21	4			
+62	European Journal of Information Systems	1.9301	2.0808	6	3	6	2			
+63	Science Technology & Human Values	-0.9715	2.1606	13	7	18	4			
+64	The Learning Organization	-2.4696	1.188	17	9	20	3			
+65	Philosophical Transactions of the Royal Society B Biological Sciences	1.767	2.0353	6	6	12	2			
+66	European Journal of Teacher Education	2.4526	-0.2002	1	16	40	5			
+67	Entrepreneurship Theory and Practice	2.3064	0.5756	2	9	19	3			
+68	Earth System Governance	2.3365	0.2172	2	6	12	2			
+69	Economics & Sociology	-1.3831	2.3567	13	1	2	2			
+70	Journal of Human Development and Capabilities	1.5172	1.6496	6	4	8	2			
+71	Journal of Nursing Education	-2.3397	0.8048	18	0	0	2			
+72	Construction Management and Economics	-2.4335	0.4876	19	0	0	2			
+73	Educational Research	1.7411	1.8053	6	29	85	7			
+74	Harvard Educational Review	1.8141	1.8238	6	17	48	6			
+75	Sustainable Earth Reviews	1.7489	1.6933	6	7	14	2			
+76	Creative Education	-0.5469	2.5115	12	23	66	6			
+77	Planning for higher education	-0.5613	2.4074	12	71	271	22			
+78	Theory and Research in Education	-0.86	2.2952	13	10	32	7			
+79	Management Research News	1.5109	1.617	6	5	10	2			
+80	International journal on teaching and learning in higher education	-0.9411	2.4327	13	7	15	3			
+81	Adult Education Quarterly	-0.5407	2.3309	12	19	55	6			
+82	International Journal of Global Warming	1.8288	1.7962	6	9	18	2			
+83	The Clearing House A Journal of Educational Strategies Issues and Ideas	-0.9712	2.1263	13	8	19	4			
+84	Dykinson eBooks	-0.746	2.4244	13	3	6	2			
+85	Clean Technologies and Environmental Policy	-0.6052	2.2901	12	12	35	5			
+86	The TQM Journal	-1.1399	2.2946	13	12	27	3			
+87	Environmental Values	-1.13	2.3389	13	11	26	3			
+88	ACM Transactions on Computing Education	-0.7816	2.2347	13	2	6	3			
+89	Innovative Higher Education	-0.5413	2.4376	12	53	178	15			
+90	Public administration and public policy	-2.1881	1.0785	17	21	42	2			
+91	Journal of Education and Training Studies	1.8263	1.7296	6	8	19	3			
+92	Environmental Innovation and Societal Transitions	1.5294	1.8689	6	13	30	4			
+93	Natural Resources Forum	-0.8043	2.2546	13	3	6	2			
+94	Natural Science/Natural science	1.5908	1.9875	6	7	14	2			
+95	Healthcare	1.8757	2.1041	6	2	4	2			
+96	IEEE Access	-0.9695	2.5293	13	3	6	2			
+97	Open Access CRIS of the University of Bern	-0.6465	2.5183	12	14	34	3			
+98	Journal of Product Innovation Management	-0.4841	2.6383	12	7	14	2			
+99	International Studies in Sociology of Education	-0.3934	2.3337	12	4	8	2			
+100	Journal of Global Responsibility	-0.5003	2.4263	12	22	63	6			
+101	PUB – Publications at Bielefeld University (Bielefeld University)	-0.7116	2.5378	12	14	38	5			
+102	Current Opinion in Behavioral Sciences	1.8339	1.9078	6	8	16	2			
+103	Journal of Moral Education	1.768	2.0156	6	9	21	3			
+104	New Directions for Institutional Research	-0.9006	2.0993	13	6	14	3			
+105	Management of Environmental Quality An International Journal	1.5803	1.5763	6	3	6	2			
+106	Journal of Public Economics	2.6459	0.3562	1	6	12	2			
+107	Environmental Policy and Governance	1.8273	2.0039	6	4	8	2			
+108	Revista de educación/Revista de educación	-2.6322	0.2032	20	14	36	4			
+109	International Journal of Project Management	-2.4776	-0.4232	21	0	0	2			
+110	Psychological Methods	2.5116	0.2581	2	11	26	4			
+111	The Journal of Economic Education	-2.4615	1.0935	17	9	19	3			
+112	Journal of educational multimedia and hypermedia	2.168	0.2576	1	7	14	2			
+113	Asian Social Science	2.7701	0.5014	2	7	14	2			
+114	Organization Management Journal	1.61	1.5799	6	3	6	2			
+115	Curriculum Perspectives	-1.3608	2.2244	13	2	4	2			
+116	Human Behavior and Emerging Technologies	1.6117	1.915	6	13	32	4			
+117	Written Communication	-1.8939	-1.4972	24	0	0	2			
+118	Journal of Geography in Higher Education	2.5101	-0.0705	1	113	400	28			
+119	Revista Española de Educación Comparada	-1.2504	2.4197	13	2	4	3			
+120	Technology Innovation Management Review	-0.9361	2.3955	13	11	25	3			
+121	Climate change management	1.7101	1.6969	6	11	34	6			
+122	Bulletin of the American Meteorological Society	-0.9377	1.9039	13	1	2	2			
+123	Encyclopedia of the UN sustainable development goals	1.6947	1.9053	6	34	125	14			
+124	Peter Lang eBooks	-0.7402	2.5762	13	2	4	2			
+125	International Journal of STEM Education	1.6637	1.9412	6	31	79	8			
+126	Teachers and Teaching	2.3246	-0.0838	1	20	52	6			
+127	She ji	1.6492	1.7079	6	22	69	9			
+128	State University of New York Press eBooks	1.787	1.9054	6	10	24	4			
+129	Journal of Research in Personality	1.8413	1.8414	6	7	14	2			
+130	International Journal of Intercultural Relations	2.566	-0.1269	1	16	42	6			
+131	Open Journal of Social Sciences	1.7355	1.9663	6	9	20	3			
+132	Applied Linguistics	1.5537	1.6129	6	2	4	2			
+133	The International Journal of Environmental and Science Education	-0.7535	2.3709	12	17	44	7			
+134	Current Opinion in Environmental Sustainability	-0.583	2.4631	12	78	321	26			
+135	Social Indicators Research	1.7874	1.8782	6	19	61	7			
+136	International Journal of Social Science and Human Research	-1.1883	2.4058	13	4	8	2			
+137	Canadian Journal of Education / Revue canadienne de l éducation	-2.2352	1.371	17	14	29	4			
+138	Accounting and Business Research	-0.7384	2.1469	13	4	8	2			
+139	Journal of Environmental Management	1.686	1.91	6	31	98	12			
+140	Corporate Social Responsibility and Environmental Management	2.5483	0.2982	2	24	68	10			
+141	The International Journal of Human Resource Management	-0.3765	2.4769	12	5	10	2			
+142	International Journal of Inclusive Education	-1.126	2.4911	13	5	11	3			
+143	Equity & Excellence in Education	-1.9297	0.9262	17	4	8	2			
+144	International Research in Geographical and Environmental Education	1.7489	1.859	6	90	309	21			
+145	International Journal of Climate Change Strategies and Management	-0.7211	2.2177	12	6	15	3			
+146	Journal of Planning Education and Research	-0.8932	2.1923	13	11	27	4			
+147	Social Forces	-1.7167	-1.8122	25	0	0	2			
+148	Nurse Education in Practice	1.8422	2.1939	6	3	6	2			
+149	Journal of Educational Psychology	2.2858	0.0969	1	12	24	4			
+150	Regional Sustainability	1.4961	1.6651	6	3	6	2			
+151	Journal of Computing in Higher Education	-1.1923	2.3517	13	7	15	3			
+152	American Psychological Association eBooks	1.8622	1.7685	6	8	19	3			
+153	Journal of Educational Computing Research	2.5937	0.0611	1	20	45	4			
+154	Annals of Tourism Research	-1.0503	2.6275	13	3	6	2			
+155	Luna Azul	-2.2723	-0.1532	20	18	44	4			
+156	International Journal of Educational Technology in Higher Education	2.5854	-0.0776	1	33	90	8			
+157	Accounting Auditing & Accountability Journal	-0.8883	2.2313	13	14	34	5			
+158	Urban Policy and Research	1.8034	1.5947	6	2	4	2			
+159	Journal of Integrative Environmental Sciences	-1.0397	2.2794	13	21	82	10			
+160	Climate	2.1418	0.1244	1	3	6	3			
+161	Research Online (University of Wollongong)	-0.6411	2.1624	12	9	20	5			
+162	Project Management Journal	-0.9042	1.9106	13	3	6	2			
+163	Change The Magazine of Higher Learning	-0.5169	2.4565	12	15	44	5			
+164	Industrial Management & Data Systems	2.3562	0.6915	2	5	10	2			
+165	Zeitschrift für Hochschulentwicklung	-0.7864	2.6054	12	6	14	3			
+166	Innovations in higher education teaching and learning	-1.1212	2.4069	13	7	14	2			
+167	Sociology	1.5288	1.9828	6	6	12	2			
+168	Journal of Turkish Science Education	2.7265	0.1807	1	11	26	4			
+169	Climate and Development	1.6433	2.0948	6	3	6	3			
+170	African Journal of Agricultural Research	1.7954	1.8455	6	12	24	2			
+171	The Journal of Experimental Education	1.7549	1.5849	6	6	12	2			
+172	Review of Educational Research	2.6682	-0.1726	1	16	45	7			
+173	Business Strategy and the Environment	2.4757	0.3647	2	60	196	14			
+174	European Journal of Education Studies	1.4436	1.9156	6	2	4	2			
+175	Environmental Conservation	-0.4121	2.5615	12	2	4	2			
+176	Journal of Retailing and Consumer Services	2.7161	0.4434	2	6	12	2			
+177	Zenodo (CERN European Organization for Nuclear Research)	-0.9977	2.1149	13	8	19	4			
+178	Nature Sustainability	1.6692	1.8262	6	63	234	19			
+179	Academe	-0.365	2.4139	12	3	6	2			
+180	Sport Education and Society	-1.0366	2.4258	13	8	18	3			
+181	Risk Analysis	1.806	1.749	6	11	25	3			
+182	IOP Conference Series Materials Science and Engineering	-2.5673	1.1575	17	3	6	2			
+183	The Journal of the Abraham Lincoln Association	-0.7105	2.2299	13	2	4	2			
+184	Tertiary Education and Management	-0.6652	2.3194	12	16	45	5			
+185	Learning and Instruction	2.5314	0.0432	1	39	106	7			
+186	Organizational Behavior and Human Decision Processes	2.4231	0.4726	2	48	143	12			
+187	Technometrics	1.9391	1.7961	6	5	10	2			
+188	Journal of Marketing Education	-2.2765	1.4805	17	11	31	5			
+189	The Qualitative Report	-0.5325	2.3518	12	23	62	6			
+190	People and Nature	-1.0751	2.0122	13	3	6	2			
+191	Education + Training	2.5419	-0.0831	1	35	99	8			
+192	Journal of Industrial and Production Engineering	-0.8717	2.2474	13	5	13	3			
+193	Group & Organization Studies	-0.5523	2.2126	12	6	12	2			
+194	Mountain Research and Development	-1.0564	2.0284	13	3	6	2			
+195	South African Journal of Higher Education	-0.9618	2.431	13	7	17	4			
+196	Energies	1.713	1.9915	6	7	17	3			
+197	California Management Review	2.5355	0.4928	2	17	45	5			
+198	Climate Policy	1.888	1.8645	6	5	10	2			
+199	Electronics	-0.8832	2.2046	13	15	40	6			
+200	Foro de Educación	-2.5744	0.064	20	21	72	9			
+201	Journal of Personality and Social Psychology	1.5703	1.9102	6	22	59	6			
+202	Academy of Management Proceedings	-0.713	2.2058	13	3	6	2			
+203	Economic Research-Ekonomska Istraživanja	-1.0097	1.8988	13	1	2	2			
+204	International Journal of Medical Education	1.857	1.9008	6	9	21	3			
+205	Gothenburg University Publications Electronic Archive (Gothenburg University)	-1.9443	1.4033	17	5	10	2			
+206	BioScience	-2.209	1.0981	17	22	48	3			
+207	Education for Chemical Engineers	-0.9482	2.2767	13	17	45	6			
+208	Journal of Hospitality & Tourism Education	-1.1869	2.3131	13	6	14	3			
+209	The Journal of Indonesia Sustainable Development Planning	1.5612	1.7946	6	8	16	2			
+210	Energy Procedia	-2.2625	-0.1868	20	32	85	7			
+211	Active Learning in Higher Education	2.4136	0.0099	1	58	157	14			
+212	Land Use Policy	-0.9267	2.2519	13	16	51	7			
+213	Renewable and Sustainable Energy Reviews	-1.0806	2.3005	13	9	26	5			
+214	Journal of Technical Education and Training	1.4626	1.7	6	3	6	2			
+215	Instructional Science	2.4289	0.1102	1	16	41	4			
+216	AJP Advances in Physiology Education	1.4118	1.797	6	3	6	2			
+217	Proceedings of the ... International Conference on Business Excellence	-0.8121	2.2005	13	3	6	2			
+218	The Lancet	1.8223	1.8438	6	42	132	14			
+219	Journal of the Learning Sciences	-0.9667	2.0078	13	3	6	2			
+220	Etikk i praksis - Nordic Journal of Applied Ethics	-0.6247	2.7317	12	1	2	2			
+221	Chemistry Education Research and Practice	1.6034	1.8505	6	19	54	7			
+222	Nomos eBooks	-1.0502	2.569	13	3	6	2			
+223	Journal of Business Venturing	2.3529	0.5261	2	19	45	5			
+224	International Journal of Educational Development	2.5361	0.379	2	42	145	13			
+225	The Journal of Marketing Theory and Practice	1.4258	1.9324	6	4	8	2			
+226	Human Resource Management	2.246	0.3349	2	5	10	2			
+227	Advances in Health Sciences Education	-0.4924	2.2837	12	9	25	4			
+228	International Journal of Environmental Research and Public Health	2.3853	0.4849	2	129	441	29			
+229	Production Planning & Control	2.0211	1.7183	6	4	8	2			
+230	Qualitative Market Research An International Journal	2.0699	1.8744	6	4	8	2			
+231	Applied Psychological Measurement	-0.5309	2.2261	12	8	16	2			
+232	Geoforum	-0.7487	2.3238	12	10	22	4			
+233	Journal of European Industrial Training	2.5243	0.5453	2	14	35	5			
+234	Humanities and Social Sciences Communications	-0.9292	2.1905	13	7	17	4			
+235	Universe Books	1.9906	1.6803	6	3	6	2			
+236	Theory Into Practice	-1.0633	2.2923	13	19	63	7			
+237	Journal of Hospitality and Tourism Management	-1.2586	2.2362	13	5	10	2			
+238	Educational Technology Research and Development	2.6104	0.028	1	41	123	11			
+239	International Journal of Development Education and Global Learning	-0.5348	2.6545	12	5	10	2			
+240	Journal of Engineering Education	-0.9639	2.2186	13	51	146	14			
+241	Socio-Environmental Systems Modeling	-0.6614	2.4209	12	53	210	22			
+242	Journal of Global Ethics	-0.657	2.2706	12	8	20	3			
+243	OECD green growth studies	-0.9882	2.0552	13	4	9	3			
+244	Discourse Studies in the Cultural Politics of Education	-1.3508	2.4723	13	1	2	2			
+245	Continuum eBooks	-2.414	1.5392	17	3	6	2			
+246	Frontiers in Environmental Science	1.4726	1.9911	6	2	4	2			
+247	Tecné Episteme y Didaxis TED	-2.3304	0.1858	20	3	6	2			
+248	Oxford Review of Education	-0.706	2.5561	12	9	21	3			
+249	International Journal of Science Education	1.691	1.8714	6	102	348	22			
+250	PLoS ONE	1.7566	1.879	6	90	310	23			
+251	Journal of Innovation and Entrepreneurship	-0.7914	2.2932	13	4	8	2			
+252	The World Bank eBooks	-0.709	2.3125	13	2	4	2			
+253	Praxis	-2.2912	-0.2112	20	18	40	3			
+254	Educación XX1	-2.6303	0.0497	20	21	59	6			
+255	Population and Environment	-2.2625	0.8352	17	3	6	2			
+256	The Journal of Open Source Software	-0.8781	2.3577	13	10	23	3			
+257	Journal of Classification	2.8713	-0.1645	1	7	14	2			
+258	Russian Journal of Sociology	-0.7852	2.084	13	9	18	2			
+259	International Journal of Psychology	-0.4977	2.5155	12	11	24	3			
+260	Perspectives in Education	1.5666	1.8243	6	10	29	5			
+261	Global Ecology and Conservation	-1.3905	-2.1162	26	0	0	2			
+262	On the Horizon The International Journal of Learning Futures	1.4455	1.7621	6	2	4	2			
+263	Ethics and Education	-0.4072	2.2247	12	1	2	2			
+264	International Journal of Early Childhood	-0.7546	2.4402	12	9	23	3			
+265	Gothic.net	-0.6434	2.4513	13	2	4	2			
+266	International Journal of Qualitative Methods	-2.3502	1.1629	17	34	121	14			
+267	Nature Climate Change	2.2948	-0.0124	1	29	82	11			
+268	Business & Society	-0.7055	2.255	13	2	4	2			
+269	Nature Energy	2.7655	0.6142	2	3	6	2			
+270	Social Sciences	-2.0151	1.1201	17	14	36	4			
+271	Language Teaching	-1.2522	2.1954	13	9	18	3			
+272	Marine Policy	-0.6016	-2.5192	28	0	0	2			
+273	Educational Review	-1.1876	2.2779	13	5	11	3			
+274	Australasian journal of engineering education	-0.742	2.1755	13	3	6	2			
+275	Sustainable development goals series	1.7635	1.808	6	81	296	24			
+276	RePEc: Research Papers in Economics	-0.6645	2.3874	12	27	78	10			
+277	International Journal of Nursing Studies	-0.2927	-2.5196	29	0	0	2			
+278	Educational Psychology Review	2.5391	0.095	1	82	237	15			
+279	Competitiveness Review An International Business Journal incorporating Journal of Global Competitiveness	-2.58	1.3131	17	4	8	2			
+280	Max Planck Institute for Plasma Physics	-0.7231	2.5143	12	13	36	4			
+281	Administrative Sciences	-1.2158	2.1423	13	2	4	3			
+282	International Journal of Higher Education and Sustainability	-0.779	2.4265	12	9	21	3			
+283	Journal of Urban Design	-0.8731	2.0796	13	5	10	2			
+284	Springer eBooks	1.687	2.1069	6	4	8	2			
+285	Organizational Behavior Teaching Review	-0.5569	2.3867	12	51	163	13			
+286	Tourism Recreation Research	1.5105	1.8026	6	6	12	2			
+287	Higher Education in Europe	-0.7556	2.1294	13	2	4	2			
+288	Learning Environments Research	-1.0473	1.9019	13	1	2	2			
+289	Geographical Research	-1.0865	1.909	13	1	2	2			
+290	Games and Culture	2.3162	-0.1688	1	6	12	2			
+291	International Journal of Construction Education and Research	-0.8114	2.4141	13	5	12	3			
+292	International Journal of Contemporary Hospitality Management	-1.0353	2.4471	13	17	40	4			
+293	Education Sciences	1.6588	1.8855	6	144	542	39			
+294	Critical Studies in Education	-0.7483	2.23	12	5	10	2			
+295	KTH Publication Database DiVA (KTH Royal Institute of Technology)	-1.0127	2.2252	13	23	75	11			
+296	Decision Sciences Journal of Innovative Education	-0.7932	2.2875	12	5	10	2			
+297	The urban book series	-0.936	2.1496	13	8	18	3			
+298	Quality of Life Research	1.8418	1.8871	6	8	16	2			
+299	RMIT Research Repository (RMIT University Library)	-0.8312	2.0928	13	5	12	3			
+300	Journal of Environmental Economics and Management	-1.2885	2.3869	13	4	8	2			
+301	Bibliothèque et Archives nationales du Québec (Québec government)	-1.0747	2.0823	13	4	8	2			
+302	Social Business	2.4439	0.1682	2	5	10	2			
+303	Sains Humanika	1.8833	1.69	6	4	8	2			
+304	Oxford Review of Economic Policy	-1.1353	2.2141	13	5	12	3			
+305	Building Research & Information	0.1558	-2.4757	30	0	0	2			
+306	Journal of Environmental Planning and Management	-0.8999	2.306	13	8	23	5			
+307	Developments in marketing science: proceedings of the Academy of Marketing Science	-0.6211	2.2025	13	2	4	2			
+308	Journal of Marketing Analytics	2.5057	0.586	2	8	16	2			
+309	International Journal of Educational Management	-2.0462	1.382	17	11	23	4			
+310	Interdisciplinary Journal of Problem-based Learning	-2.2897	1.1457	17	46	117	8			
+311	School Science and Mathematics	1.5323	1.8205	6	5	10	2			
+312	TESOL Quarterly	-1.0063	2.5081	13	6	13	3			
+313	Long Range Planning	-0.4697	2.5987	12	4	8	2			
+314	Cities	-0.8081	2.6253	13	1	2	2			
+315	Policy Studies	2.2276	0.2709	2	7	15	3			
+316	Amfiteatru Economic	2.624	0.5315	2	11	29	4			
+317	Comparative Education Review	-2.0148	1.458	17	8	18	3			
+318	International Journal of Research & Method in Education	-2.1949	1.4634	17	11	25	3			
+319	Poiesis & Praxis	-2.1684	1.0991	17	21	42	2			
+320	Waste Management	-1.0875	2.218	13	10	27	4			
+321	AMBIO	-0.62	2.348	12	45	115	8			
+322	Agricultural Systems	0.5683	-2.4941	31	0	0	2			
+323	International Organization	1.5074	1.7519	6	5	10	2			
+324	MINISTERIO DE EDUCACION	-0.6923	2.4624	12	18	65	9			
+325	Australian Journal of Environmental Education	-0.6119	2.3902	12	98	342	25			
+326	Meditari Accountancy Research	2.5134	0.3227	2	30	84	7			
+327	Entrepreneurship Education	2.24	0.7102	2	5	10	2			
+328	International Journal of Art & Design Education	-1.388	2.2025	13	2	4	2			
+329	Journal of Hispanic Higher Education	2.6485	0.4664	2	14	28	2			
+330	Zukunft der Hochschulbildung	1.0775	-2.3007	32	0	0	2			
+331	Sociology of Education	1.4246	1.8344	6	4	8	2			
+332	Nurse Education Today	1.8373	1.9295	6	12	29	6			
+333	MedEdPublish	-1.2138	2.371	13	3	6	2			
+334	BMJ	-1.025	2.3901	13	16	44	7			
+335	Nomos Verlagsgesellschaft mbH & Co. KG eBooks	-0.6231	2.5393	12	22	59	6			
+336	Environmental Education Research	1.6828	1.8339	6	650	3699	191			
+337	ePrints Soton (University of Southampton)	-0.6376	2.3125	12	16	47	5			
+338	IGI Global eBooks	-0.8682	1.9217	13	1	2	3			
+339	Development Policy Review	-0.7897	2.1577	13	4	8	2			
+340	Journal of higher education outreach & engagement/Journal of higher education outreach and engagement.	-1.8881	0.9699	17	5	10	3			
+341	Revista de Contabilidad	-0.9152	2.4868	13	3	6	2			
+342	Organizational Research Methods	2.3924	0.3994	2	24	64	6			
+343	Journal of Further and Higher Education	2.3803	-0.1543	1	22	58	6			
+344	Sustainable Production and Consumption	2.4954	0.4461	2	56	170	12			
+345	Environmental Development	1.5988	1.6025	6	2	4	2			
+346	The Anthropocene Review	-0.9039	2.0433	13	3	6	2			
+347	Psychometrika	2.3414	0.5044	2	25	66	6			
+348	The International Journal of Logistics Management	-2.4286	1.182	17	9	18	2			
+349	Canadian Journal of University Continuing Education	-0.9973	2.4687	13	7	14	2			
+350	ECS Transactions	1.7921	1.71	6	8	16	2			
+351	Journal of Science and Technology Policy Management	2.3369	0.4516	2	11	24	3			
+352	American Journal of Public Health	-0.7583	2.5165	12	8	21	4			
+353	GAIA - Ecological Perspectives for Science and Society	-0.6496	2.427	12	58	225	18			
+354	American Political Science Review	2.7811	0.4537	2	5	10	2			
+355	Journal of Applied Research in Higher Education	2.465	0.3383	2	31	83	8			
+356	Environmental Research Letters	-1.1005	2.1936	13	17	38	5			
+357	PLOS Climate	1.7552	1.7176	6	9	21	3			
+358	Environmental Policy and Law	2.7089	0.3324	2	16	43	5			
+359	Revista Española de Pedagogía	-2.812	0.0668	20	10	22	3			
+360	Management Decision	2.57	0.2542	2	8	19	3			
+361	Nonprofit Management and Leadership	-1.1292	2.1324	13	5	10	2			
+362	Environmental discourses in science education	1.663	2.1058	6	4	8	2			
+363	American Psychologist	2.552	0.1663	1	42	114	9			
+364	Culture Unbound Journal of Current Cultural Research	-1.1596	2.6242	13	2	4	3			
+365	Frontiers in Ecology and the Environment	-1.3089	2.5354	13	1	2	2			
+366	Qualitative Psychology	-0.4279	2.5345	12	9	22	3			
+367	Zurich Open Repository and Archive (University of Zurich)	1.6077	1.6514	6	6	13	3			
+368	Conservation Science and Practice	1.6023	2.0849	6	3	6	2			
+369	Language and Intercultural Communication	-2.044	1.5161	17	3	6	2			
+370	Industry and Higher Education	1.6966	-1.9105	34	0	0	2			
+371	Sustainability Accounting Management and Policy Journal	-0.5433	2.4128	12	58	194	17			
+372	Wageningen Academic Publishers eBooks	1.955	1.847	6	3	6	2			
+373	Distance Education	2.596	-0.1727	1	16	36	4			
+374	The International Journal of Climate Change Impacts and Responses	1.7246	1.6244	6	5	10	2			
+375	Energy Research & Social Science	2.2138	-0.0429	1	15	36	6			
+376	Research in Learning Technology	2.6972	0.1099	1	8	16	2			
+377	Educational Philosophy and Theory	1.7133	1.7728	6	33	103	10			
+378	Journal of Education for Business	-2.1683	1.3376	17	27	74	6			
+379	Lund University Publications (Lund University)	-1.0606	2.1623	13	7	17	3			
+380	Canadian Journal of Science Mathematics and Technology Education	-0.7297	2.3868	12	16	41	4			
+381	Frontiers in Psychology	2.4086	0.4453	2	103	338	22			
+382	Australian Accounting Review	-0.8329	2.0536	13	2	4	2			
+383	RIED Revista Iberoamericana de Educación a Distancia	-0.9358	2.495	13	4	8	2			
+384	Development in Practice	-0.8864	2.4845	13	3	6	3			
+385	Educational Studies in Japan	1.9456	-1.53	35	0	0	2			
+386	Circular Economy and Sustainability	-1.1341	2.2587	13	7	19	4			
+387	Crime Law and Social Change	1.9033	1.563	6	4	8	2			
+388	Universal Journal of Educational Research	-1.0606	2.4219	13	6	16	4			
+389	Journal of Advanced Nursing	-1.2173	2.2212	13	4	9	4			
+390	Management in Education	-0.798	2.3963	12	9	21	3			
+391	Bloomsbury Academic eBooks	1.8431	1.8266	6	8	18	4			
+392	Ethics & International Affairs	-0.6765	2.5051	13	1	2	2			
+393	Prospects	-1.0909	2.5053	13	3	6	2			
+394	Small Business Economics	1.7171	1.5714	6	5	10	2			
+395	Studies in Science Education	1.6608	1.9058	6	22	60	6			
+396	London School of Economics and Political Science Research Online (London School of Economics and Political Science)	-1.0535	2.1944	13	9	25	5			
+397	Unitec Research Bank (Unitec Institute of Technology)	2.1411	-1.1711	36	0	0	2			
+398	Journal of Marketing for HIGHER EDUCATION	-0.8504	2.2759	13	9	22	4			
+399	Dipòsit Digital de Documents de la UAB (Universitat Autònoma de Barcelona)	-2.5814	0.3665	20	6	12	2			
+400	Business Horizons	-1.0196	2.1253	13	5	12	3			
+401	Higher Education Research & Development	-0.5607	2.4516	12	68	219	17			
+402	Journal of Teacher Education for Sustainability	1.7355	1.8173	6	67	245	21			
+403	Psychological Science	2.0305	1.7591	6	2	4	2			
+404	Harvard University Press eBooks	-0.9446	2.2536	13	8	27	6			
+405	Resources Conservation and Recycling	-0.9709	2.2504	13	31	93	9			
+406	Biosaintifika Journal of Biology & Biology Education	1.6066	2.0031	6	7	14	2			
+407	Higher Education Policy	-0.6034	2.4091	12	132	584	44			
+408	Die Unterrichtspraxis/Teaching German	-1.9103	1.3431	17	4	8	2			
+409	ZDM	1.9914	1.9539	6	4	8	2			
+410	Culture and Organization	-1.0494	2.5033	13	5	10	2			
+411	Journal of Physics Conference Series	1.6369	1.9278	6	24	75	9			
+412	Harvard business review	-1.1228	2.5361	13	6	12	2			
+413	Smart innovation, systems and technologies	-0.9771	2.4148	13	6	16	4			
+414	The International Review of Research in Open and Distributed Learning	2.5411	-0.2069	1	20	54	8			
+415	Smart and Sustainable Built Environment	2.2822	0.3073	2	9	18	2			
+416	British Journal of Management	1.7116	2.0402	6	6	12	2			
+417	The JALT CALL Journal	2.5757	-0.3101	1	4	8	2			
+418	Educational Theory	1.8488	1.9898	6	5	10	2			
+419	UTS ePRESS (University of Technology Sydney)	-0.9994	2.5771	13	2	4	2			
+420	Columbia Academic Commons (Columbia University)	1.8378	1.6635	6	3	6	3			
+421	International Journal of Fashion Design Technology and Education	1.4145	1.7533	6	5	10	2			
+422	Envigogika	-0.8337	2.4086	12	8	19	3			
+423	Journal of Experiential Education	1.4304	1.8648	6	4	8	2			
+424	Business Ethics A European Review	-0.5071	2.4085	12	17	42	4			
+425	European Journal Of Dental Education	-1.3677	2.4429	13	1	2	3			
+426	Medical Education	-0.9263	2.3011	13	38	135	15			
+427	RAM. Revista de Administração Mackenzie	-0.7081	2.5446	13	1	2	2			
+428	The International Journal of Management Education	2.4617	0.3873	2	249	1059	58			
+429	Springer-Lehrbuch	2.3533	0.2657	1	5	10	2			
+430	Producción + Limpia	-0.9269	2.1659	13	8	20	3			
+431	Annual Review of Psychology	1.7521	1.824	6	43	139	12			
+432	Wiley Interdisciplinary Reviews Climate Change	1.6451	1.7263	6	8	16	4			
+433	Frontiers in Psychiatry	2.1725	0.6377	2	5	10	2			
+434	Profesorado Revista de Currículum y Formación del Profesorado	-0.8707	2.4549	13	9	24	5			
+435	Professional Development in Education	-2.102	1.5181	17	5	10	2			
+436	International Education Studies	1.6019	1.895	6	10	25	3			
+437	International Journal of Training Research	-0.7757	2.1904	13	4	8	2			
+438	European Journal of Geography	1.8772	1.9516	6	6	12	2			
+439	Annual Review of Environment and Resources	1.6583	1.7942	6	31	89	7			
+440	Planet	2.4303	-0.2216	1	10	22	4			
+441	International Journal of Sustainability in Higher Education	-0.9815	2.3042	13	892	5646	310			
+442	Insecta mundi	1.3373	-2.1075	33	0	0	2			
+443	Higher Education Skills and Work-based Learning	-0.9106	2.1904	13	37	97	11			
+444	Higher Learning Research Communications	-0.8912	2.4667	13	4	8	2			
+445	South African Journal of Education	2.6278	-0.182	1	19	45	5			
+446	Compare A Journal of Comparative and International Education	-1.0728	2.2648	13	16	51	6			
+447	The Curriculum Journal	1.7011	1.8599	6	43	149	12			
+448	Scandinavian Journal of Caring Sciences	-2.4187	0.8674	17	1	2	2			
+449	Journal of Management	2.3282	0.2725	2	16	39	4			
+450	Topics in Cognitive Science	-0.7009	2.2891	13	3	6	2			
+451	Lund University Publications Student Papers (Lund University)	2.8837	0.4656	2	5	10	2			
+452	Island Press/Center for Resource Economics eBooks	-0.817	2.4626	12	5	10	2			
+453	European Business Review	2.4036	0.5196	2	14	32	3			
+454	Environment and Planning C Government and Policy	-0.7345	2.2078	13	3	6	2			
+455	Higher Education Pedagogies	-2.2929	0.7856	17	4	8	3			
+456	Palgrave Communications	-2.2051	1.3173	17	15	38	4			
+457	International Review of Education	-0.664	2.4477	12	113	439	33			
+458	International Journal of Computer-Supported Collaborative Learning	2.4025	0.3021	1	4	8	2			
+459	Kybernetes	-0.856	2.4471	13	4	8	2			
+460	EDULEARN proceedings	1.9249	2.0591	6	8	18	4			
+461	Bern Open Repository and Information System (University of Bern)	-0.6071	2.48	12	27	90	7			
+462	International Journal of Educational Reform	-2.4905	1.3524	17	8	16	2			
+463	Science education international	1.4532	1.9454	6	4	8	2			
+464	Journal of the Knowledge Economy	-0.996	2.3881	13	13	36	4			
+465	PS Political Science & Politics	-0.8111	2.225	13	4	8	2			
+466	Tabula rasa	-0.8358	2.4449	13	4	8	2			
+467	Journal of Continuing Education in the Health Professions	-0.7191	2.6239	12	4	8	2			
+468	UWE Research Repository (UWE Bristol)	2.6212	0.2203	2	4	8	2			
+469	Journal of Elementary Science Education	1.5728	1.6015	6	3	6	2			
+470	Child Development	-0.8204	2.5097	13	4	8	2			
+471	Journal of Air Transport Management	1.4879	1.6936	6	5	10	2			
+472	Qualitative Inquiry	-0.7311	2.4623	12	13	29	3			
+473	British Journal of Educational Psychology	-0.7881	1.9626	13	1	2	2			
+474	Revista de Investigación Educativa	-2.9304	0.0061	20	3	6	2			
+475	Teaching & Learning Inquiry The ISSOTL Journal	-0.8838	2.1067	13	3	6	2			
+476	Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)	2.7555	0.1102	1	10	20	3			
+477	Teaching Sociology	-2.0887	1.1355	17	24	68	7			
+478	Biological Conservation	-1.1018	2.1422	13	3	8	4			
+479	J.B. Metzler eBooks	-0.7889	2.5138	12	6	14	3			
+480	Strategies for sustainability	-0.4225	2.4237	12	4	10	3			
+481	Eurasia Journal of Mathematics Science and Technology Education	1.7597	1.9587	6	34	97	10			
+482	Environmental Management	2.3345	0.9044	3	0	0	2			
+483	Information Technologies and Learning Tools	-0.8474	2.6449	13	1	2	2			
+484	Food Quality and Preference	-1.2232	2.3176	13	3	6	2			
+485	International Journal of Management Reviews	2.3949	0.2175	2	5	10	2			
+486	Ecological Economics	-0.5687	2.4652	12	61	214	21			
+487	Journal of International and Intercultural Communication	-1.8884	1.2791	17	5	10	2			
+488	International Journal of Science and Mathematics Education	1.7094	1.9096	6	19	49	5			
+489	Journal of Sustainable Development	-0.9708	2.3472	13	14	41	6			
+490	International Journal of Architectural Research Archnet-IJAR	1.577	1.7936	6	8	19	4			
+491	IATSS Research	-2.1907	-0.2853	20	13	26	2			
+492	Psychological Bulletin	2.4144	0.5701	2	23	58	6			
+493	Leisure Studies	2.198	1.137	4	0	0	2			
+494	QRU Quaderns de Recerca en Urbanisme	-1.1529	2.3498	13	5	13	3			
+495	Asia Pacific Journal of Management	2.3609	0.6067	2	8	16	2			
+496	Journal of Teaching in International Business	1.8742	1.6434	6	4	8	2			
+497	Journal of Physical Therapy Education	-2.4898	0.9767	17	8	17	3			
+498	Canadian Journal of Higher Education	1.6518	1.8227	6	51	157	14			
+499	Journal of Experimental Social Psychology	1.7679	1.6664	6	7	14	2			
+500	International Journal of Innovation and Regional Development	-0.8587	2.4207	13	5	10	2			
+501	Advances in experimental social psychology	1.7263	1.7147	6	11	26	3			
+502	United Nations eBooks	-0.7779	2.4741	12	9	21	4			
+503	Journal for Multicultural Education	-0.9385	2.0754	13	3	6	2			
+504	Procedia Computer Science	1.7437	1.9161	6	20	55	5			
+505	Learning and Individual Differences	2.014	1.4745	5	0	0	2			
+506	Revista eureka sobre enseñanza y divulgación de las ciencias	-2.6831	0.1623	20	20	64	8			
+507	Multilingual Matters (Channel View Publications)	-0.6403	2.4614	12	31	100	9			
+508	Journal of college student development	-1.9909	1.0645	17	13	28	4			
+509	Transactions	2.5906	-0.4115	1	1	2	2			
+510	LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)	-2.5648	0.1831	20	21	69	10			
+511	Ambiente & sociedade	2.8877	0.2831	2	6	12	2			
+512	Structural Survey	-0.4688	2.3757	12	12	26	3			
+513	Psychology and Marketing	2.1855	0.5276	2	4	8	2			
+514	Social Epistemology	-1.1343	2.1113	13	4	8	2			
+515	The Journal of Technology Transfer	-1.3337	2.504	13	2	4	2			
+516	Lecture notes in computer science	2.6901	-0.0494	1	19	58	7			
+517	Journal of Adventure Education & Outdoor Learning	1.6171	1.7969	6	20	49	5			
+518	Strategic Management Journal	2.6509	0.2476	2	9	21	4			
+519	The turkish online journal of educational technology	-0.8517	2.3497	13	8	19	3			
+520	The Journal of Academic Librarianship	-1.0779	2.1227	13	7	15	3			
+521	International Journal of Educational Research	-2.3233	1.2076	17	78	254	19			
+522	Studies in Art Education	1.7392	1.6632	6	6	13	3			
+523	Econstor (Econstor)	-1.0553	2.1129	13	6	13	3			
+524	Small Group Research	-1.9343	1.4576	17	7	14	2			
+525	Nature Reviews Earth & Environment	-0.8318	2.3867	13	3	6	2			
+526	Journal of Education for Teaching International Research and Pedagogy	2.381	-0.0178	1	45	133	14			
+527	Leadership & Organization Development Journal	-0.426	2.3221	12	5	10	2			
+528	Adult Education	-1.1501	2.4505	13	3	6	2			
+529	PRESENCE Virtual and Augmented Reality	2.375	-0.9097	37	0	0	2			
+530	The Journal of General Education	-0.4886	2.2147	12	6	12	2			
+531	Educational Research for Social Change	-0.7731	2.3846	13	3	7	3			
+532	Analyses of Social Issues and Public Policy	-1.9812	1.0083	17	4	8	2			
+533	Journal of Environmental Studies and Sciences	-0.6474	2.3737	12	40	145	15			
+534	Trends in Ecology & Evolution	-1.1985	2.081	13	3	6	2			
+535	Higher Education Studies	-0.9496	2.3069	13	22	64	7			
+536	TechTrends	-0.9997	2.2459	13	18	57	7			
+537	Journal of Science Teacher Education	1.5534	1.8607	6	15	31	3			
+538	Social Science Research	-1.1626	2.3777	13	5	10	2			
+539	Medicine and War	-2.3887	-0.1726	20	23	57	5			
+540	Ecological Indicators	2.6494	0.3868	2	43	148	12			
+541	Journal of the American Statistical Association	-0.8104	2.3852	13	4	8	2			
+542	Greener Management International	-0.6205	2.1859	12	4	8	2			
+543	Cogent Education	2.5133	0.4499	2	40	119	10			
+544	International Journal of Adult Vocational Education and Technology	-1.9823	1.4932	17	3	6	2			
+545	Societies	-1.004	2.4174	13	6	15	4			
+546	VS Verlag für Sozialwissenschaften eBooks	-0.6599	2.4799	12	59	220	18			
+547	uwf UmweltWirtschaftsForum	1.301	2.1028	7	0	0	2			
+548	Scientific Reports	2.404	0.4251	2	42	125	12			
+549	International Journal of Disability Development and Education	-1.1108	2.0933	13	3	6	2			
+550	Journal of Graduate Medical Education	-0.7146	2.3959	13	2	4	2			
+551	Teacher Development	-0.422	2.492	12	10	22	3			
+552	Journal of Business Ethics	2.4707	0.3867	2	125	458	30			
+553	Social Science Quarterly	-2.2291	0.7872	17	6	12	2			
+554	International Journal of Research on Service-Learning and Community Engagement	-1.3935	2.2616	13	3	6	2			
+555	Eos	1.0412	2.298	8	0	0	2			
+556	Cambridge Journal of Education	-0.6104	2.3186	12	23	65	7			
+557	Journal of Teacher Education	2.3637	0.042	1	36	128	12			
+558	Quality & Quantity	-0.8786	2.2821	13	11	27	4			
+559	Water Research	-1.1974	2.3855	13	4	8	2			
+560	Physical Geography	1.5161	1.906	6	5	10	3			
+561	IEEE Transactions on Education	1.6475	1.9986	6	8	17	4			
+562	The Journal of Nervous and Mental Disease	2.2247	0.0505	1	10	23	4			
+563	New Directions for Teaching and Learning	-1.0269	2.1644	13	20	57	7			
+564	Review of General Psychology	2.5072	0.3885	1	8	16	2			
+565	Daedalus	1.5432	1.9999	6	3	6	2			
+566	Frontiers in Education	2.4804	-0.0313	1	86	325	27			
+567	Frontiers in Communication	-1.0345	2.0699	13	3	6	2			
+568	Educational Researcher	2.4486	0.0031	1	93	302	24			
+569	Journal of Environmental Psychology	1.7465	1.7919	6	121	445	25			
+570	IFAC-PapersOnLine	-1.1071	2.5593	13	4	8	2			
+571	OpenGrey (Institut de l'Information Scientifique et Technique)	-0.6692	1.9317	12	4	8	3			
+572	The Science of The Total Environment	1.7422	1.7707	6	42	128	13			
+573	One Earth	1.7413	2.0402	6	4	8	2			
+574	Lancaster EPrints (Lancaster University)	-2.2396	1.2575	17	14	31	3			
+575	Journal of Education and Learning (EduLearn)	-1.1757	2.0643	13	2	4	2			
+576	Expert Systems with Applications	-0.8489	2.1311	13	3	6	2			
+577	The Proceedings of the ASEAN School of Business Network International Conference	-0.7698	2.1091	13	9	18	2			
+578	Professional and practice-based learning	2.5543	0.1908	2	5	10	2			
+579	The Design Journal	1.5658	1.5091	6	6	13	4			
+580	National Academies Press eBooks	2.5332	0.3014	1	4	9	3			
+581	Journal of Policy Analysis and Management	1.7947	1.7712	6	13	29	4			
+582	American Journal of Community Psychology	-2.1017	0.8279	17	3	7	3			
+583	Trends in Higher Education	-0.9684	2.5748	13	2	4	2			
+584	Education Sustainability & Society	1.7766	1.9748	6	5	10	2			
+585	Journal of Knowledge Management	2.5031	0.4946	2	15	39	4			
+586	Journal of Political Science Education	1.5776	1.6696	6	7	17	3			
+587	Journal of global entrepreneurship research	1.432	1.7347	6	5	10	2			
+588	Proceedings of the Design Society	-1.2134	1.9845	13	1	2	2			
+589	Research in Dance Education	1.8225	1.6891	6	4	8	2			
+590	Computers and Education Artificial Intelligence	-2.6153	1.0568	17	6	12	2			
+591	Journal of Chemical Education	2.6196	0.0129	1	39	119	11			
+592	Cogent Business & Management	2.4737	0.5166	2	27	69	6			
+593	CSR, sustainability, ethics & governance	2.5542	0.5282	2	12	29	4			
+594	Academy of Management Review	-0.9849	2.2213	13	30	89	10			
+595	Palgrave Macmillan US eBooks	-0.8333	2.3132	13	4	10	3			
+596	American Journal of Distance Education	-0.6028	2.5739	12	11	29	4			
+597	Nature Geoscience	-1.0762	2.4866	13	4	8	2			
+598	Journal of Management Development	2.4132	0.2819	2	20	64	8			
+599	Computers in Human Behavior	2.5195	0.0701	1	59	174	12			
+600	OpenMETU (Middle East Technical University)	1.4236	1.7783	6	3	6	2			
+601	Journal of Philosophy of Education	2.235	0.2015	1	8	16	3			
+602	HAL (Le Centre pour la Communication Scientifique Directe)	-1.079	2.5644	13	3	6	2			
+603	Formación universitaria	-1.0158	2.4822	13	5	14	4			
+604	Design Studies	-0.838	2.2759	12	7	15	3			
+605	Geography Compass	2.2106	0.357	2	8	17	3			
+606	Technology in Society	1.757	2.1	6	5	10	2			
+607	Applied Environmental Education & Communication	1.7634	1.928	6	46	149	14			
+608	Management Teaching Review	-0.7905	2.3439	13	3	6	2			
+609	Sociological Methods & Research	1.4588	1.7292	6	4	8	2			
+610	European Journal of Engineering Education	1.7338	1.9	6	103	359	25			
+611	Energy Policy	2.4752	0.5551	2	17	44	6			
+612	British Educational Research Journal	-0.5826	2.3181	12	18	62	8			
+613	REGEPE - Revista de Empreendedorismo e Gestão de Pequenas Empresas	-0.9222	2.5614	13	2	4	2			
+614	Revista Complutense de Educación	-2.7986	-0.0048	20	12	28	4			
+615	Informe de los Objetivos de desarrollo sostenible ...	-1.1232	2.0573	13	2	4	2			
+616	Journal of Social Sciences	-0.4962	2.3897	12	30	81	7			
+617	Business Ethics Quarterly	-0.9724	1.8999	13	1	2	2			
+618	International Journal of Training and Development	-0.7332	2.2718	12	7	14	2			
+619	ReVision	-0.7469	2.6126	12	4	8	2			
+620	Organization	2.4714	0.1904	2	9	19	3			
+621	Sustainability	-1.0302	2.2978	13	850	5020	260			
+622	Communication Education	2.2141	0.3012	1	7	14	2			
+623	Ecological Modelling	1.9583	1.6445	6	4	8	2			
+624	European Journal of Higher Education	-2.3764	1.1075	17	10	22	3			
+625	Qualitative Research in Organizations and Management An International Journal	-0.371	2.534	12	8	16	2			
+626	International Journal of Technology Enhanced Learning	-0.6074	2.6126	12	6	12	2			
+627	International Journal of Disaster Risk Reduction	1.9529	1.8742	6	3	6	2			
+628	Research in Science Education	1.6736	1.7729	6	20	53	6			
+629	Environmental Impact Assessment Review	-1.0507	2.3462	13	19	47	5			
+630	Journal of Educational Change	-0.9529	2.0673	13	5	12	3			
+631	European Journal of Operational Research	-1.1493	2.1548	13	5	11	3			
+632	Biometrika	-1.2634	2.1653	13	3	6	2			
+633	Urban Studies	1.6517	1.6797	6	5	13	3			
+634	International Journal of Science and Research Archive	-0.7926	2.127	13	10	21	3			
+635	Sustainable Cities and Society	-0.9696	2.3243	13	17	49	7			
+636	Communications in computer and information science	-1.3939	2.2958	13	2	4	2			
+637	Psychological Review	2.47	0.1206	1	51	142	9			
+638	European Journal of Innovation Management	1.7509	1.7433	6	16	37	3			
+639	International Journal of Research and Innovation in Social Science	-1.0974	2.4509	13	4	8	2			
+640	Journal of International Development	-0.7169	2.2731	13	2	4	2			
+641	Programme for international student assessment/Internationale Schulleistungsstudie	1.8509	1.7338	6	6	12	2			
+642	Nature	-0.5838	2.412	12	90	302	22			
+643	Indiana Magazine of History (Indiana University)	-0.5559	2.2537	12	15	33	4			
+644	Systems Research and Behavioral Science	2.6596	0.0471	1	14	51	8			
+645	Journal of Epidemiology & Community Health	1.7401	1.5617	6	4	8	2			
+646	Information Sciences	-1.2131	2.2844	13	5	10	2			
+647	Journal of Adult and Continuing Education	1.7034	1.9567	6	13	30	3			
+648	Agriculture and Human Values	-1.0951	2.1063	13	6	12	2			
+649	Practice, progress, and proficiency in sustainability	2.3105	0.3871	2	25	74	8			
+650	Quality Assurance in Education	2.4952	0.1412	2	9	21	3			
+651	Journal of Sustainable Tourism	2.5365	0.4123	2	28	81	7			
+652	Applied Sciences	-1.0975	2.3187	13	11	27	4			
+653	BMC Medical Research Methodology	-1.8353	1.2797	17	8	20	3			
+654	The International Journal for Academic Development	-0.9392	2.3283	13	20	60	8			
+655	International Journal of Evaluation and Research in Education (IJERE)	1.4999	2.1324	6	3	6	2			
+656	IEEE Transactions on Learning Technologies	2.7573	-0.0917	1	10	20	2			
+657	Journal of Curriculum Studies	1.6326	1.8292	6	29	92	10			
+658	Zeitschrift für Wirtschafts- und Unternehmensethik	-0.6766	2.6361	12	5	10	2			
+659	Climatic Change	1.7801	1.8249	6	43	126	11			
+660	Impact Assessment and Project Appraisal	-1.1173	2.3714	13	8	20	3			
+661	Language Learning in Higher Education	-1.0471	2.652	13	2	4	2			
+662	Warwick Research Archive Portal (University of Warwick)	-1.3191	2.0921	13	1	2	3			
+663	International Journal of Higher Education	-0.9991	2.2918	13	23	77	9			
+664	Contemporary Educational Psychology	-0.9467	2.3711	13	11	28	6			
+665	Nordic Studies in Science Education	-1.1769	2.478	13	3	6	2			
+666	Science Advances	-0.7061	2.3238	12	18	48	6			
+667	Research in Higher Education	1.5506	1.9077	6	10	23	3			
+668	Journal of Management Inquiry	2.5949	0.3986	2	8	17	3			
+669	Regional Environmental Change	0.6079	2.4084	9	0	0	2			
+670	Studies in Higher Education	-2.2626	1.2051	17	148	556	37			
+671	Sociological Inquiry	-1.9891	1.2261	17	7	17	3			
+672	Journal of Education and Learning	1.5659	2.1378	6	5	10	2			
+673	AAOU Journal/AAOU journal	1.667	2.0194	6	10	23	3			
+674	Cleaner and Responsible Consumption	1.8208	1.919	6	10	26	4			
+675	Public Opinion Quarterly	-0.8336	2.4191	13	3	6	2			
+676	oekom verlag eBooks	-0.728	2.4992	12	10	27	5			
+677	Psychology Press eBooks	-2.1447	1.126	17	42	106	8			
+678	Review of higher education/The review of higher education	-2.1012	1.0881	17	39	101	7			
+679	Journal of Travel Research	-1.1404	2.5257	13	6	12	2			
+680	Murdoch Research Repository (Murdoch University)	-0.7831	2.4654	13	2	4	2			
+681	Environmental and Climate Technologies	1.6984	1.9755	6	9	23	3			
+682	Biodiversity and Conservation	-0.7404	1.9951	13	2	4	2			
+683	Administration and Policy in Mental Health and Mental Health Services Research	-0.7741	2.6035	13	1	2	2			
+684	Journal of Green Building	1.5205	2.0347	6	3	6	2			
+685	OECD eBooks	2.8222	0.3864	2	7	16	3			
+686	Contemporary Sociology A Journal of Reviews	1.7612	1.8635	6	50	145	11			
+687	Cogent Arts and Humanities	-0.7643	2.094	13	9	18	2			
+688	npj Climate Action	1.8349	1.7669	6	7	15	3			
+689	International Journal of Entrepreneurial Behaviour & Research	2.3152	0.5513	2	13	33	4			
+690	Marine Pollution Bulletin	2.1764	-0.1363	1	4	8	2			
+691	Geography and sustainability	-1.0347	2.2567	13	38	138	14			
+692	International Journal of Sustainable Development & World Ecology	2.5589	0.4374	2	124	469	30			
+693	Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)	0.1325	2.4555	10	0	0	2			
+694	Conservation Biology	1.6906	1.7551	6	12	35	6			
+695	PsyEcology Bilingual Journal of Environmental Psychology	1.8958	1.5861	6	3	6	2			
+696	ELT Journal	-1.2038	2.2538	13	9	19	3			
+697	Improving Schools	-1.095	2.377	13	10	26	4			
+698	Energy Reports	-0.9347	2.0918	13	3	6	2			
+699	Research in Comparative and International Education	-1.0225	2.1859	13	14	36	5			
+700	International explorations in outdoor and environmental education	1.8041	1.8739	6	16	38	4			
+701	The Journal of Psychology	1.9388	1.618	6	2	4	2			
+702	Journal of Workplace Learning	2.3761	0.3031	2	11	25	3			
+703	Environmental Health Perspectives	-0.9492	2.1164	13	4	11	4			
+704	SAGE Open	-2.3228	1.2644	17	15	48	8			
+705	Journal of Educational and Social Research	-0.8914	2.6608	13	1	2	2			
+706	Policy Futures in Education	1.5336	1.7076	6	5	11	3			
+707	Proceedings of the National Academy of Sciences	-0.6696	2.435	12	61	202	14			
+708	International Journal of Research in Marketing	-2.1463	-0.255	20	17	38	3			
+709	Energy	-0.7225	2.1766	13	3	6	2			
+710	Reflective Practice	-1.0828	2.4261	13	10	25	4			
+711	SSRN Electronic Journal	2.3557	0.4075	2	85	285	25			
+712	peDOCS	-0.6508	2.4952	12	38	124	10			
+713	Cogent Social Sciences	-1.1154	2.3509	13	6	15	3			
+714	Internet Research	-0.7658	2.4421	13	2	4	2			
+715	MIS Quarterly	2.5771	0.1996	1	21	51	6			
+716	Oxford University Press eBooks	1.7141	1.8162	6	35	110	11			
+717	Technology and Culture	-0.8722	2.5399	13	2	4	2			
+718	PubMed	2.3514	0.3437	2	28	93	12			
+719	Journal of Building Engineering	-1.0514	2.0824	13	3	6	2			
+720	Studies In Educational Evaluation	2.6614	-0.0728	1	48	131	9			
+721	ACM SIGMIS Database the DATABASE for Advances in Information Systems	-1.0101	2.0079	13	2	4	2			
+722	The Leadership Quarterly	-0.8378	2.5083	13	2	4	2			
+723	Journal of Science Education and Technology	1.6407	1.9096	6	53	160	13			
+724	Water	-0.87	2.3886	13	6	14	4			
+725	Nonprofit and Voluntary Sector Quarterly	1.4102	1.9912	6	5	10	2			
+726	Journal of Climate Change	1.9078	2.084	6	3	6	2			
+727	World sustainability series	-0.6146	2.4162	12	285	1373	93			
+728	Global Health Action	-1.1223	2.2417	13	8	20	3			
+729	Phi Delta Kappan	1.5383	1.6338	6	3	6	2			
+730	Science Education	1.709	1.8879	6	46	140	13			
+731	Innovation in Teaching and Learning in Information and Computer Sciences	-1.1605	2.181	13	7	15	3			
+732	Heliyon	2.4338	0.4632	2	46	144	12			
+733	Frontiers in Conservation Science	1.8683	1.7905	6	7	17	3			
+734	Interactive Learning Environments	2.5753	0.0391	1	41	110	8			
+735	International Journal of Lifelong Education	-0.5544	2.3536	12	34	96	9			
+736	Educational Research Review	2.6206	-0.0385	1	80	233	15			
+737	The Sustainable development goals report	-1.1741	2.2223	13	15	34	4			
+738	Journal of Hospitality Leisure Sport & Tourism Education	-1.1229	2.3056	13	13	35	6			
+739	Environmental Science & Policy	-0.5938	2.4938	12	29	99	10			
+740	Environmental Science and Pollution Research	2.4577	0.4936	2	34	94	8			
+741	Journal of Applied Communication Research	1.4696	1.6586	6	2	4	2			
+742	Teaching Education	1.5527	1.952	6	7	14	2			
+743	Higher Education Management	-0.4714	2.4398	12	12	29	4			
+744	European Journal of Education	-0.5931	2.42	12	80	318	27			
+745	Environmental Research	-0.7913	2.3191	13	5	10	3			
+746	Science	1.7772	1.8121	6	109	387	30			
+747	Journal of Social Issues	1.7273	1.8045	6	57	212	17			
+748	Remote Sensing	-1.276	2.5696	13	1	2	2			
+749	Journal of Teaching in Travel & Tourism	-1.252	2.328	13	5	10	3			
+750	Comparative Education	-1.2872	2.2513	13	2	4	3			
+751	Business Strategy & Development	-0.2295	2.5443	11	0	0	2			
+752	Digital Library Of The Commons Repository (Indiana University)	-1.1084	2.6539	13	2	4	2			
+753	Structural Equation Modeling A Multidisciplinary Journal	2.3902	0.4658	2	55	157	10			
+754	Multilingual Matters eBooks	-1.2435	2.2423	13	11	22	3			
+755	Proceedings of the ... International Design Conference/Design ...	-0.9336	2.4094	12	2	4	3			
+756	Journal of Agricultural and Environmental Ethics	1.8826	1.804	6	5	10	2			
+757	Journal of the Medical Library Association JMLA	-1.8452	1.2242	17	3	6	2			
+758	Foreign Language Annals	-1.1901	2.2089	13	10	23	3			
+759	Asia-Pacific Journal of Teacher Education	1.6562	1.8366	6	17	42	4			
+760	Current Psychology	1.9724	1.7615	6	8	16	3			
+761	Sustainable Futures	2.5586	0.6026	2	6	12	2			
+762	Management and industrial engineering	-0.9155	2.2825	13	9	31	6			
+763	Academy of Management Perspectives	-1.0921	2.3386	13	10	26	4			
+764	Medical Teacher	1.6367	1.7651	6	13	31	4			
+765	Earth s Future	-1.2356	2.4932	13	3	6	2			
+766	Science and Engineering Ethics	-2.1874	1.1259	17	53	157	12			
+767	Journal of Transformative Education	-0.5815	2.388	12	133	520	34			
+768	Social Science Computer Review	-0.6723	2.5775	12	9	18	2			
+769	UCL Press eBooks	-2.3058	1.5856	17	3	6	2			
+770	Evidence-Based Nursing	-0.7207	2.3493	13	2	4	2			
+771	Revista Latinoamericana de Psicología	-0.5219	2.3002	12	8	20	3			
+772	Tourism Management	-1.1446	2.2781	13	16	38	5			
+773	Choice Reviews Online	-2.2605	1.318	17	137	484	31			
+774	Green energy and technology	-1.1376	2.3193	13	9	21	3			
+775	International Affairs	2.4482	0.2563	2	21	58	7			
+776	International Journal of Sustainable Development	-1.0417	2.2056	13	12	39	6			
+777	World Journal of Science Technology and Sustainable Development	2.8446	0.3158	2	6	12	2			
+778	BMC Medical Education	-0.9009	2.3652	13	9	22	5			
+779	Green Theory & Praxis The Journal of Ecopedagogy	-2.4576	1.4992	17	4	8	2			
+780	Environment Science and Policy for Sustainable Development	-0.5912	2.4461	12	91	279	19			
+781	The Australian journal of teacher education	1.4608	1.8089	6	4	8	2			
+782	PERIPHERIE – Politik • Ökonomie • Kultur	-1.338	2.1745	13	2	4	2			
+783	E-Learning and Digital Media	-0.9922	2.0772	13	4	8	2			
+784	CERN Document Server (European Organization for Nuclear Research)	2.4831	-0.4996	38	0	0	2			
+785	Journal of Geography	1.8028	1.9291	6	15	38	6			
+786	Qualitative Research in Sport Exercise and Health	1.4386	1.8904	6	3	6	2			
+787	Asian Education and Development Studies	1.8057	2.0316	6	6	12	2			
+788	Journal of Consumer Marketing	2.4267	0.6036	2	13	28	3			
+789	Irish Educational Studies	2.3972	-0.2607	1	5	10	2			
+790	IOP Conference Series Earth and Environmental Science	2.4201	0.5365	2	23	59	6			
+791	Technical and vocational education and training	-0.8664	2.2073	13	13	30	4			
+792	Liberal education	-0.7064	2.3358	13	2	4	2			
+793	American Anthropologist	-1.1375	2.1799	13	5	10	2			
+794	International Journal of Technology and Design Education	-0.6741	2.3634	12	44	145	15			
+795	Advances in Science, Technology & Innovation/Advances in science, technology & innovation	2.5363	0.1525	2	5	10	2			
+796	Journal for Education in the Built Environment	-0.8174	2.2893	13	6	12	3			
+797	Environmental Quality Management	-0.6832	2.4273	12	37	125	10			
+798	Multivariate Behavioral Research	-2.5484	1.09	17	5	10	2			
+799	Journal of Consumer Research	-0.9468	2.5687	13	4	8	2			
+800	Journal of Marketing	2.6557	0.4245	2	12	29	3			
+801	Social Studies of Science	-2.2096	1.155	17	24	60	5			
+802	Emerald Open Research	1.5799	1.8649	6	14	43	6			
+803	Journal of Applied Social Psychology	2.3688	0.5552	2	22	64	7			
+804	TDX (Tesis Doctorals en Xarxa)	-0.8988	2.5524	13	3	6	2			
+805	Journal of Problem Based Learning in Higher Education	-1.0265	2.5089	13	3	6	2			
+806	Journal of Management & Organization	1.5499	1.7368	6	8	21	4			
+807	Kluwer Academic Publishers eBooks	1.6246	2.0052	6	8	18	3			
+808	Qualitative Research Journal	-1.0875	2.2429	13	7	22	5			
+809	Lecture notes in educational technology	1.526	1.9353	6	6	12	2			
+810	Innovations in science education and technology	2.0877	0.2612	2	1	2	2			
+811	World Development	1.7225	1.8567	6	45	136	12			
+812	Journal of Research on Technology in Education	2.4604	0.258	1	9	20	3			
+813	Action Research	-2.0654	1.0137	17	7	17	4			
+814	Urban Planning	-0.9742	2.0948	13	4	8	2			
+815	Journal of Applied Psychology	-2.1304	-0.2034	20	21	56	5			
+816	Tourism and Hospitality Research	1.7993	1.9769	6	6	12	2			
+817	Building and Environment	-1.3512	2.0737	14	0	0	2			
+818	Disciplinary and Interdisciplinary Science Education Research	-2.2233	1.1232	17	21	42	2			
+819	Zaguan (University of Zaragoza Repository)	-1.2356	1.9796	13	3	6	2			
+820	Educational Action Research	-0.5729	2.2865	12	17	47	7			
+821	Language Sciences	-1.8513	1.3424	17	3	6	2			
+822	Cambridge University Press eBooks	2.4922	0.0108	1	165	613	42			
+823	Advances in Developing Human Resources	1.9036	1.8933	6	4	8	2			
+824	Applied Energy	-1.7271	1.8699	15	0	0	2			
+825	Preprints.org	-0.9699	2.2765	13	22	81	10			
+826	Scholarworks (University of Massachusetts Amherst)	-0.6187	2.6645	12	5	10	2			
+827	European Management Journal	-1.0499	2.2278	13	16	45	6			
+828	The Journal of Educational Research	1.7859	1.9448	6	11	25	4			
+829	Organization Science	-1.0492	2.3837	13	10	26	4			
+830	Procedia CIRP	1.4377	2.0384	6	4	8	2			
+831	Discourse and Communication for Sustainable Education	1.6141	1.7669	6	12	28	5			
+832	Canadian journal of environmental education	-0.9978	2.1522	13	7	21	4			
+833	International Journal of Environment and Sustainable Development	-0.9248	2.1166	13	3	7	3			
+834	Contemporary trends and issues in science education	1.6015	1.9566	6	7	14	2			
+835	Jurnal Ekonomi & Studi Pembangunan	2.2414	0.4357	2	7	14	2			
+836	Current Issues in Tourism	1.5349	1.5986	6	3	6	2			
+837	Strategic Organization	1.2722	1.839	6	5	10	2			
+838	Evaluation Review	-1.0499	2.4685	13	6	12	2			
+839	Biometrics	-2.256	0.118	20	3	6	2			
+840	Columbia University Press eBooks	1.688	1.8072	6	26	74	8			
+841	International Journal of Social Ecology and Sustainable Development	-0.9611	2.4579	13	6	12	2			
+842	Revista Romaneasca pentru Educatie Multidimensionala	-1.9213	1.5821	16	0	0	2			
+843	Journal of Social Work Education	-0.9135	2.4384	13	6	12	2			
+844	Children s Geographies	1.5439	2.0523	6	3	6	2			
+845	Advanced Education	-2.4065	-0.8272	22	0	0	2			
+846	SensePublishers eBooks	-1.0365	2.236	13	33	92	9			
+847	American Sociological Review	2.4354	0.2275	2	8	20	3			
+848	Journal of the American Society for Information Science and Technology	2.5929	0.1974	2	5	10	2			
+849	Journal of Community Practice	1.9553	1.8207	6	3	6	2			
+850	Americanae (AECID Library)	-0.7778	2.2786	13	4	9	3			
+851	Asian Journal of University Education	-0.8294	2.1507	13	12	25	3			
+852	Educational and Psychological Measurement	1.6208	1.9514	6	9	19	3			
+853	Journal of Innovation & Knowledge	-0.8884	2.4156	13	4	10	3			
+854	Qualitative Research in Accounting & Management	1.6914	1.553	6	4	8	2			
+855	Sustainable Development	1.6881	1.8664	6	224	943	56			
+856	International Journal of Human-Computer Studies	2.6211	0.1183	1	14	34	4			
+857	The MIT Press eBooks	-0.5029	2.4781	12	16	49	7			
+858	System	-0.9224	2.4138	13	6	15	3			
+859	Research Policy	2.3815	0.4349	2	43	117	10			
+860	Enseñanza de las ciencias: revista de investigación y experiencias didácticas	-2.8565	0.3357	20	5	10	2			
+861	Internationales Jahrbuch der Erwachsenenbildung	-2.3326	0.8204	17	4	8	2			
+862	Dialnet (Universidad de la Rioja)	-2.1387	1.0581	17	12	32	6			
+863	Environmental Modelling & Software	-1.2314	2.29	13	3	6	2			
+864	Teaching in Higher Education	2.5418	-0.0226	1	87	275	22			
+865	Nurse Researcher	-0.2431	2.3199	12	4	8	2			
+866	Teaching and Teacher Education	2.4494	-0.0659	1	73	244	19			
+867	Journal of Political Ecology	1.901	1.7403	6	4	8	2			
+868	Palgrave Macmillan UK eBooks	-2.1796	1.1835	17	69	223	16			
+869	Australasian Journal of Educational Technology	2.5325	-0.1097	1	29	68	5			
+870	Peter Lang D eBooks	-0.6954	2.4828	12	20	56	7			
+871	Local Environment	2.7507	0.5355	2	13	36	6			
+872	InTech eBooks	-1.023	2.5727	13	4	8	2			
+873	Technological Forecasting and Social Change	2.6208	0.4217	2	56	202	17			
+874	Revista Iberoamericana de Educación	-2.4525	-0.0098	20	35	108	11			
+875	Frontiers in Sustainability	-1.0208	2.3289	13	44	145	14			
+876	Academic Medicine	1.6075	1.8654	6	39	123	11			
+877	Environmental Sciences Europe	1.7307	1.7698	6	27	85	9			
+878	European Journal of Psychological Assessment	-0.8444	2.4817	12	5	10	2			
+879	Energy and Buildings	-0.9593	2.3749	13	17	46	7			
+880	Journal of Higher Education Policy and Management	-0.886	2.3182	13	20	49	6			
+881	Edward Elgar Publishing eBooks	2.4298	0.3658	2	66	199	16			
+882	Journal of Environmental Policy & Planning	-0.5584	2.6643	12	3	6	2			
+883	International Journal of Construction Management	-0.9609	2.5015	13	4	8	2			
+884	European Journal of Sustainable Development	-1.0307	2.3613	13	22	62	8			
+885	Journal of Documentation	1.407	1.8203	6	4	8	2			
+886	IEEE Transactions on Engineering Management	-0.7991	2.5289	12	7	16	3			
+887	Educar	-2.8771	-0.0612	20	6	12	2			
+888	Information Communication & Society	-1.1708	2.6459	13	1	2	2			
+889	Communications of the ACM	-1.1479	2.229	13	12	26	3			
+890	Cultural studies of science education	-1.0868	2.1549	13	8	16	3			
+891	Journal of Baltic Science Education	-2.0946	1.1674	17	24	70	9			
+892	American Journal of Pharmaceutical Education	2.0722	1.8326	6	2	4	2			
+893	Journal of Computer Assisted Learning	2.6684	-0.004	1	18	42	5			
+894	Rose-Hulman Scholar (Rose–Hulman Institute of Technology)	-0.6746	2.2484	12	4	8	2			
+895	Design Issues	-0.864	2.3317	12	6	12	4			
+896	Brock Education Journal	-0.9376	2.3499	13	9	27	5			
+897	Journal of Comparative & International Higher Education	-1.3258	2.0509	13	2	4	2			
+898	Research Repository (University of Gloucestershire)	-0.6317	2.3665	12	39	150	14			
+899	Science and Public Policy	2.5587	0.469	2	15	49	6			
+900	American Educational Research Journal	-0.91	2.3889	13	5	12	4			
+901	Social Responsibility Journal	1.735	1.9331	6	15	42	5			
+902	Journal of Industrial Ecology	2.6017	0.4629	2	24	61	6			
+903	Journal of Food Science Education	2.1204	0.4088	2	4	8	2			
+904	SPIRE - Sciences Po Institutional REpository	1.9551	2.0397	6	4	8	2			
+905	Journal of Business Research	2.4814	0.4051	2	79	239	15			
+906	Revista de Educación a Distancia (RED)	-2.1821	-1.1411	23	0	0	2			
+907	Journal of International Business Studies	-0.8366	2.1747	13	5	10	2			
+908	Revista Interuniversitaria de Formación del Profesorado Continuación de la antigua Revista de Escuelas Normales	-0.6543	2.6988	13	1	2	2			
+909	Science & Education	1.4588	1.8418	6	7	15	3			
+910	AIP conference proceedings	-1.0681	2.3528	13	13	37	6			
+911	Journal of Geoscience Education	1.7763	1.8829	6	18	44	5			
+912	Planning Practice and Research	-0.8856	2.1379	13	5	10	2			
+913	The Journal of Social Psychology	-0.9971	2.1835	13	13	33	5			
+914	Nordic Journal of Comparative and International Education (NJCIE)	1.8895	2.1528	6	4	8	2			
+915	Revista Educación	-2.3228	-0.0978	20	11	23	3			
+916	Environmental Science & Technology	-1.175	2.3304	13	7	17	3			
+917	Environment and Behavior	1.7409	1.8301	6	64	234	15			
+918	American Journal of Sociology	-1.1123	2.2735	13	8	19	3			
+919	Asia Pacific Journal of Education	-1.8629	1.1765	17	3	6	2			
+920	Environmental Communication	-0.5819	2.3362	12	17	52	7			
+921	Revista Iberoamericana de Educación Superior	-1.8852	1.4005	17	4	8	2			
+922	Landscape and Urban Planning	-0.986	2.3715	13	13	35	6			
+923	Digital Commons - USU (Utah State University)	-1.1316	1.9235	13	2	4	2			
+924	Sustainability The Journal of Record	-0.5994	2.4344	12	88	280	18			
+925	Qualitative Health Research	-1.1125	2.1676	13	7	14	2			
+926	The Lancet Planetary Health	-0.6642	2.3434	12	29	79	7			
+927	Psychological Inquiry	1.8946	1.9212	6	4	8	2			
+928	International journal of engineering education	1.6156	1.8855	6	18	46	5			
+929	Review of Regional Research	-0.6396	2.5511	12	19	48	6			
+930	Behavior Research Methods	2.2494	0.5985	2	8	18	3			
+931	Procedia - Social and Behavioral Sciences	-2.2862	1.1705	17	160	563	37			
+932	Journal of Education Technology	1.4047	1.8598	6	3	6	2			
+933	Journal of Learning Development in Higher Education	2.6078	0.1751	1	5	10	3			
+934	ASCILITE Publications	-2.458	1.0266	17	1	2	2			
+935	Journal of Change Management	-0.7837	2.3414	12	9	21	3			
+936	Telematics and Informatics	-1.1872	1.9475	13	1	2	2			
+937	Research in Science & Technological Education	1.6636	1.8604	6	42	144	14			
+938	International Journal of Consumer Studies	1.8262	1.8609	6	10	26	4			
+939	Innovations in Education and Teaching International	2.6317	0.077	1	34	95	9			
+940	Critical Perspectives on Accounting	-2.1238	1.4183	17	17	36	4			
+941	International Journal of Adolescence and Youth	1.8888	1.8405	6	6	12	2			
+942	Annual Review of Applied Linguistics	-1.1893	2.1773	13	6	12	2			
+943	The International Journal of Human Rights	-0.9748	2.473	13	4	8	2			
+944	Higher Education Quarterly	2.4512	0.2958	2	29	74	7			
+945	Annals of the New York Academy of Sciences	1.6911	1.5789	6	2	4	2			
+946	Accounting Forum	2.4343	0.143	2	7	14	2			
+947	Enseñanza de las Ciencias Revista de investigación y experiencias didácticas	-2.7029	0.028	20	21	58	6			
+948	Data Archiving and Networked Services (DANS)	-0.5781	2.537	12	20	57	7			
+949	The Internet and Higher Education	2.6232	-0.078	1	41	114	10			
+950	International Journal of Social Research Methodology	-2.1718	0.7901	17	4	8	2			
+951	PDXScholar  (Portland State University)	1.4886	1.6348	6	5	10	2			
+952	Studies in Philosophy and Education	1.4506	1.6785	6	3	6	2			
+953	International Journal of Sustainable Development and Planning	1.5627	2.0752	6	4	8	2			
+954	Governance	-1.3078	2.0654	13	2	4	2			
+955	Current Opinion in Psychology	2.2011	0.6699	2	9	20	3			
+956	Cornell University Press eBooks	1.856	1.7032	6	6	12	2			
+957	Journal of the Academy of Marketing Science	2.425	0.504	2	35	95	6			
+958	Open Research Online (The Open University)	-0.7156	2.3683	12	19	50	5			
+959	Physics Today	1.94	1.5877	6	2	4	2			
+960	The Southern African Journal of Environmental Education	2.1775	-0.029	1	9	20	4			
+961	Assessment & Evaluation in Higher Education	2.432	0.0576	1	128	481	34			
+962	Language Teaching Research	-1.1649	2.2424	13	12	31	4			
+963	Journal of European Public Policy	-1.1545	2.0459	13	3	6	2			
+964	Decision Support Systems	1.6634	1.5863	6	5	10	2			
+965	Journal of Management Studies	2.3566	0.3112	2	18	48	5			
+966	Global Environmental Change	1.77	1.7922	6	75	250	17			
+967	World Development Perspectives	-1.107	2.4819	13	4	8	2			
+968	Journal of International Education in Business	2.7639	-0.0265	1	20	54	6			
+969	Environmental Sciences	-0.4745	2.3211	12	7	18	3			
+970	Human Resource Development Review	-0.5738	2.5951	12	8	21	3			
+971	Journal of Education for Sustainable Development	-0.6382	2.4115	12	403	2128	125			
+972	Australasian Journal of Paramedicine	-1.0908	2.4067	13	7	16	3			
+973	International journal of organizational analysis	-0.5049	2.5553	12	11	24	3			
+974	Journal of New Approaches in Educational Research	-0.9383	2.6708	13	1	2	2			
+975	Resources Policy	-1.0205	2.0826	13	3	6	2			
+976	Academy of Management Learning and Education	2.495	0.372	2	124	460	31			
+977	Journal of Dental Education	2.8037	0.0662	1	11	30	5			
+978	WSEAS TRANSACTIONS ON ENVIRONMENT AND DEVELOPMENT	1.714	2.1058	6	4	8	2			
+979	Online Learning	-1.388	2.3862	13	1	2	2			
+980	Management Learning	2.4165	0.3322	2	22	83	10			
+981	VBN Forskningsportal (Aalborg Universitet)	-0.8983	2.1744	13	6	15	3			
+982	Journal of the International Council for Small Business	-0.8609	2.1369	13	3	6	2			
+983	Journal of Work-Applied Management	2.321	-0.2513	1	8	17	3			
+984	Journal of the Association for Information Systems	-1.1511	2.4004	13	4	8	2			
+985	University of Huddersfield Repository (University of Huddersfield)	2.2843	-0.0797	1	11	27	4			
+986	International Journal of Qualitative Studies in Education	-1.8838	1.0776	17	4	8	2			
+987	American Journal of Preventive Medicine	-0.4006	2.4503	12	5	10	2			
+988	Language Testing	-2.1701	1.1478	17	21	45	3			
+989	Journal of Urban Technology	-0.5974	2.2452	12	5	10	2			
+990	Innovation	2.6446	0.3274	2	7	14	2			
+991	Science China Information Sciences	-1.2355	2.4548	13	3	6	2			
+992	Journal of Marketing Research	2.4814	0.4257	2	65	194	12			
+993	Academy of Management Journal	2.3748	0.2585	2	21	59	6			
+994	Asia Pacific Education Review	2.4885	0.3241	2	30	108	11			
+995	Environment Development and Sustainability	1.7173	1.833	6	126	488	32			
+996	Regional Studies Regional Science	-1.0282	-2.2987	27	0	0	2			
+997	Theorie und Praxis der Nachhaltigkeit	-0.6856	2.552	12	10	24	5			
+998	Advances in business strategy and competitive advantage book series	-0.9076	2.1351	13	4	8	2			
+999	Journal of Accounting Education	-0.9022	2.2224	13	24	61	6			
+1000	Discover Sustainability	2.459	0.4363	2	67	225	16			
+1001	Computers & Education	2.5597	0.0008	1	73	253	20			
+1002	The Educational Forum	-0.7414	2.3976	13	3	6	2			
+1003	Development Engineering	2.2329	0.3961	2	8	16	2			
+1004	Participatory Educational Research	1.9011	1.973	6	4	8	2			
+1005	Routledge eBooks	-0.6906	2.3945	12	27	93	11			
+1006	FAO, IFAD, UNICEF, WFP and WHO eBooks	-1.1357	2.4221	13	4	8	2			
+1007	Ecology and Society	1.7304	1.7933	6	51	172	17			
+1008	Postdigital Science and Education	-0.8088	2.3361	13	6	12	3			
+1009	Global Challenges	1.8508	1.972	6	7	14	3			
+1010	Journal of educational thought.	-1.8166	1.5276	17	3	6	2			
+1011	Education and Information Technologies	2.5703	-0.0065	1	90	265	16			
+1012	Journal of Microbiology and Biology Education	-2.1735	1.3976	17	7	14	3			
+1013	Journal of Research in Science Teaching	1.6781	1.881	6	44	125	11			
+1014	BMC Nursing	1.6728	1.7176	6	10	22	3			
+1015	Information	-1.2196	2.1003	13	3	6	2			
+1016	Getting skills right	-1.1926	2.4946	13	3	6	4			
+1017	Problems and Perspectives in Management	-0.899	2.2641	13	12	31	4			
+1018	Total Quality Management & Business Excellence	-2.4049	1.3573	17	8	16	2			
+1019	Omega	-1.2076	2.2374	13	5	10	2			
+1020	Quality in Higher Education	1.6209	2.1011	6	1	2	2			
+1021	European Planning Studies	-0.9661	2.1927	13	8	24	4			
+1022	Policy Sciences	-0.5469	2.482	12	42	128	12			
+1023	Economics	-0.5211	2.5802	12	5	10	2			
+1024	Social Work	1.584	2.0679	6	5	10	2			
+1025	The American Biology Teacher	-2.3346	0.9876	17	8	19	4			
+1026	Benchmarking An International Journal	-0.4094	2.3635	12	9	21	3			
+1027	Futures	-0.6073	2.4533	12	87	334	27			
+1028	Planning Theory & Practice	-1.1635	2.2901	13	4	11	3			
+1029	Globalisation Societies and Education	-1.111	2.2161	13	24	71	9			
+1030	Teoría de la Educación Revista Interuniversitaria	-2.6605	0.0903	20	24	72	9			
+1031	Journal of Studies in International Education	-1.1173	2.1932	13	17	44	7			
+1032	Teaching of Psychology	-1.026	2.4635	13	6	12	2			
+1033	The Journal of Environmental Education	1.7449	1.8597	6	271	1156	64			
+1034	Journal of the American Planning Association	-0.8682	2.3352	13	6	15	3			
+1035	Acta Paedagogica Vilnensia	-0.8269	1.9377	13	1	2	2			
+1036	The International Journal of Life Cycle Assessment	-1.1241	2.4454	13	6	13	3			
+1037	Organicom	1.4365	1.7089	6	4	8	2			
+1038	Journal of Cleaner Production	-0.9927	2.265	13	824	5040	272			
+1039	Thinking Skills and Creativity	-0.9965	2.3418	13	15	48	7			
+1040	Australian and New Zealand Journal of Public Health	-1.0725	2.4569	13	6	13	3			
+1041	REVISTA DE EDUCACIÓN AMBIENTAL Y SOSTENIBILIDAD	-2.7032	0.2647	20	7	19	4			
+1042	Educational leadership	-2.3662	1.0594	17	12	27	3			
+1043	E3S Web of Conferences	-0.9081	2.3406	13	6	19	4			
+1044	International Journal of Cross Cultural Management	2.7932	-0.1797	1	5	10	2			
+1045	UNESCO eBooks	-1.029	2.3175	13	278	1339	85			
+1046	Higher Education	-2.1209	1.2424	17	218	881	55			
+1047	Advances in intelligent systems and computing	-1.0319	2.1512	13	8	19	4			
+1048	Simulation & Gaming	2.4092	-0.0371	1	41	116	11			
+1049	Social Sciences & Humanities Open	1.8033	1.6672	6	8	18	3			
+1050	Human Rights Documents online	1.413	1.8981	6	4	8	2			
+1051	Kasetsart Journal of Social Sciences	1.4543	1.9694	6	4	8	2			
+1052	Evaluation and Program Planning	2.5959	0.3852	2	53	185	14			
+1053	British Journal of Educational Technology	2.5242	-0.0419	1	39	102	9			
+1054	Bulletin of Miscellaneous Information (Royal Gardens Kew)	1.7833	1.7242	6	14	36	6			
+1055	Research Open (London South Bank University)	-0.4371	2.2625	12	5	10	2			
+1056	The Journal of Higher Education	-2.1444	1.1721	17	71	243	18			
+1057	DMU Open Research Archive (De Montfort University)	-2.1627	0.8371	17	2	4	2			
+1058	Journal of Professional Issues in Engineering Education and Practice	-0.9533	2.2357	13	16	50	7			
+1059	International Journal of Academic Research in Business and Social Sciences	2.5794	0.4462	2	19	43	3			
+1060	Publication Server of the Wuppertal Institute (Wuppertal Institute)	-0.6416	2.5892	12	10	22	4			
+1061	Acquire (CQUniversity)	1.694	1.648	6	5	10	2			
+1062	Journal of Student Affairs Research and Practice	-0.8536	2.0181	13	5	10	2			
+1063	Journal of Organizational Change Management	-0.9877	2.4458	13	6	14	3			
+1064	Smart Learning Environments	-1.1726	2.427	13	4	8	2			
+1065	Springer international handbooks of education	2.5659	-0.1615	1	13	29	3			
+1066	Cultural Studies of Science Education	1.7327	1.8696	6	24	71	7			
+1067	Journal of Technology Education	-1.2067	2.4466	13	2	4	2			
+1068	Canadian Journal of Behavioural Science/Revue canadienne des sciences du comportement	1.7256	2.0685	6	5	10	2			
+1069	Organization & Environment	1.5166	1.8394	6	16	62	8			
+1070	CBE—Life Sciences Education	2.3767	-0.0736	1	35	91	10			
+1071	Administrative Science Quarterly	-0.5056	2.3667	12	16	43	6			
+1072	Education in science	-0.5861	2.4796	12	51	181	20			
+1073	International Journal of Innovation and Sustainable Development	-0.6254	2.4747	12	54	213	19			

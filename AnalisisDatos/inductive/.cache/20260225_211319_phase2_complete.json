@@ -1,0 +1,112 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-02-25T21:47:27.990654",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Curriculum Design and Content Integration",
+        "theme_b": "Pedagogical Approaches and Learning Environments",
+        "relationship_type": "complementary",
+        "description": "Curriculum design provides the content framework for sustainability education, while pedagogical approaches deliver it through specific teaching methods and learning environments.",
+        "n_studies_support": "10-15",
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Educator Professional Development",
+        "theme_b": "Curriculum Design and Content Integration",
+        "relationship_type": "causation",
+        "description": "Training programs for academic staff enhance their ability to integrate sustainability into curricula, leading to improved curriculum design and content integration.",
+        "n_studies_support": "5-10",
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Institutional and Collaborative Strategies",
+        "theme_b": "Curriculum Design and Content Integration",
+        "relationship_type": "association",
+        "description": "University-level policies and partnerships enable and support the embedding of sustainability principles into curricula through whole-institution approaches.",
+        "n_studies_support": "5-10",
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Assessment of Education for Sustainable Development Effectiveness",
+        "theme_b": "Sustainability Competencies and Educational Outcomes",
+        "relationship_type": "complementary",
+        "description": "Evaluation methods and competency measurement are used to assess the development of knowledge, skills, attitudes, and behaviors related to sustainability, directly linking to educational outcomes.",
+        "n_studies_support": "5-10",
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Pedagogical Approaches and Learning Environments",
+        "theme_b": "Sustainability Competencies and Educational Outcomes",
+        "relationship_type": "causation",
+        "description": "Active and problem-based learning, experiential learning, and technology use contribute to the acquisition of sustainability competencies, including leadership and activism skills.",
+        "n_studies_support": "5-10",
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Institutional and Collaborative Strategies",
+        "theme_b": "Educator Professional Development",
+        "relationship_type": "association",
+        "description": "Whole-institution approaches and external collaborations often include or support training programs for academic staff to enhance teaching competence in sustainability.",
+        "n_studies_support": "5-10",
+        "robustness": "High"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Integrated education design combining curriculum, pedagogy, and outcomes for a holistic approach to sustainability education.",
+        "components": [
+          "Curriculum Design and Content Integration",
+          "Pedagogical Approaches and Learning Environments",
+          "Sustainability Competencies and Educational Outcomes"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Institutional support system linking organizational strategies with educator development to enable sustainability integration.",
+        "components": [
+          "Institutional and Collaborative Strategies",
+          "Educator Professional Development"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Assessment and outcome alignment focusing on measuring the effectiveness of education through competency evaluation.",
+        "components": [
+          "Assessment of Education for Sustainable Development Effectiveness",
+          "Sustainability Competencies and Educational Outcomes"
+        ],
+        "frequency": "Medium"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Educational Delivery vs. Institutional Support",
+        "justification": "This axis distinguishes between themes directly involved in teaching and learning (e.g., curriculum, pedagogy) and those providing organizational frameworks (e.g., institutional strategies, professional development), helping to analyze how institutional factors influence educational effectiveness.",
+        "coverage": "Approximately 60-70% of studies",
+        "research_potential": "Can inform research objectives on optimizing resource allocation and policy-making to enhance sustainability education outcomes."
+      },
+      {
+        "axis": "Process vs. Outcome",
+        "justification": "Separates themes related to the implementation of education (curriculum design, pedagogical approaches) from those focused on results (competencies, assessment), enabling evaluation of how different educational processes impact sustainability outcomes.",
+        "coverage": "Approximately 50-60% of studies",
+        "research_potential": "Useful for designing interventions and assessing the causal links between teaching methods and competency development."
+      },
+      {
+        "axis": "Human Capital Development vs. Structural Integration",
+        "justification": "Highlights the balance between enhancing educator competence through professional development and integrating sustainability into institutional structures and curricula, addressing both individual and systemic factors.",
+        "coverage": "Approximately 40-50% of studies",
+        "research_potential": "Can guide research on synergies between training initiatives and institutional reforms for scalable sustainability education."
+      }
+    ],
+    "gaps_and_contradictions": "Notable gaps include limited explicit connections between subthemes like 'Use of Technology in Sustainability Education' and other pedagogical or assessment themes, and insufficient exploration of how 'Leadership and Activism Competencies' are measured or integrated into broader institutional strategies. Contradictions may arise in the effectiveness of different assessment methods or pedagogical approaches across contexts, but the taxonomy suggests overall coherence without major conflicts.",
+    "_theme_reference_check": {
+      "valid_references": 12,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "session_id": "20260219_061730",
+  "phase": "1",
+  "batch": 10,
+  "timestamp": "2026-02-19T06:24:22.427568",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking in AI-Integrated Education",
+        "definition": "The development and enhancement of critical thinking skills through structured integration of AI tools across diverse educational contexts, emphasizing evaluation of AI-generated outputs and problem-solving.",
+        "evidence": [
+          "[Maya2024] Students reported significant improvement in critical thinking skills (Mean = 3.82, SD = 0.86)",
+          "[Malang2025] ChatGPT supports students in understanding complex concepts, improving writing and critical thinking skills",
+          "[Han2025b] Foster the development of critical and creative thinking skills among learners"
+        ],
+        "articles": [
+          "Maya2024",
+          "Malang2025",
+          "Han2025b",
+          "Molina-Barrón2025",
+          "Kim2023",
+          "AlYakin2024",
+          "King2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Analytical depth",
+          "Evaluative judgment",
+          "Prompt literacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Generative AI in Language/Writing Instruction",
+        "definition": "Application of generative AI tools to improve disciplinary literacy, academic writing quality, and language acquisition through multimodal scaffolding and collaborative frameworks.",
+        "evidence": [
+          "[Sánchez-Fortún2026] Significant improvements observed in textual coherence, grammatical accuracy, and integration of visual elements",
+          "[Yang2024] Six-step human-AI hybrid framework enhanced prompt engineering techniques and critical assessment of AI responses",
+          "[Chen2025f] Gen AI influences cognitive processes like reflection and critical thinking in inquiry-based language learning"
+        ],
+        "articles": [
+          "Sánchez-Fortún2026",
+          "Yang2024",
+          "Chen2025f",
+          "Wang2025e",
+          "Rass2025",
+          "Huang2024"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Prompt engineering",
+          "Academic writing",
+          "Multimodal resources"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Pedagogical Strategies for AI Integration",
+        "definition": "Structured methodologies combining AI tools with traditional educational frameworks to optimize learning outcomes, including BOPPPS model, TPACK framework, and dual-report assessments.",
+        "evidence": [
+          "[Han2025b] Integrated generative AI with BOPPPS instructional design to stimulate deep thinking",
+          "[Ravi2025] TPACK framework for designing AI-enabled learning activities that foster critical thinking",
+          "[Browning2024] Dual-report assessment evaluates both project outcomes and students' prompt engineering proficiency"
+        ],
+        "articles": [
+          "Han2025b",
+          "Ravi2025",
+          "Browning2024",
+          "Maya2024",
+          "Che2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Scaffolded learning",
+          "Interactive models",
+          "Assessment frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Ethical and Reliability Considerations",
+        "definition": "Challenges relating to academic integrity, critical evaluation of AI outputs, and ethical use of AI tools as emphasized in both qualitative reflections and quantitative surveys.",
+        "evidence": [
+          "[Camarillo2025] Students recognized GenAI's ethical limitations despite its information access advantages",
+          "[Alexander2025] Emphasis on ethical use of ChatGPT and critical reflection of its implications",
+          "[Rachmat2025] Students perceived chatbots as unreliable due to hallucinations and inaccurate code snippets"
+        ],
+        "articles": [
+          "Camarillo2025",
+          "Alexander2025",
+          "Rachmat2025",
+          "Fahmi2025",
+          "Sánchez-Fortún2026",
+          "AlYakin2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Academic integrity",
+          "Overreliance risks",
+          "Source verification"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Technology-Induced Learning Challenges",
+        "definition": "Emerging issues such as reduced peer discussion, initial anxiety about AI literacy, and varying effectiveness of AI tools across disciplines and learner demographics.",
+        "evidence": [
+          "[Kim2023] Overreliance on ChatGPT leading to reduced discussions",
+          "[Huang2024] Concerns about reduced academic integrity fears",
+          "[Lu2025] Over-reliance on AI-generated content may weaken higher-order thinking skills"
+        ],
+        "articles": [
+          "Kim2023",
+          "Huang2024",
+          "Lu2025",
+          "Browning2024",
+          "Rachmat2025",
+          "King2025"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Technological dependency",
+          "Access disparities",
+          "Gendered impacts"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Emergent themes heavily focus on critical thinking enhancement, with generative AI serving as both facilitator and object of critical analysis. Language/writing emerges as the most experimentally adopted field for AI integration. Ethical considerations remain secondary to skill-focused outcomes. Methodological rigor varies significantly across abstracts, with many lacking quantitative results or conclusions.",
+    "grounding_notes": "All themes strictly derive from explicit data. Some articles (e.g., Han2026, Zakirova2025) contribute to critical thinking themes but were excluded due to weaker direct terminology. High confidence in most themes; technology-induced challenges has lower confidence due to limited explicit mentions.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.44,
+      "total_hallucination_flags": 12,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking in AI-Integrated Education",
+          "evidence_verified": [
+            {
+              "quote": "[Maya2024] Students reported significant improvement in critical thinking skills (Mean = 3.82, SD = 0.86)",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Malang2025] ChatGPT supports students in understanding complex concepts, improving writing and critical thinking skills",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Han2025b] Foster the development of critical and creative thinking skills among learners",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Maya2024",
+            "Malang2025",
+            "Han2025b",
+            "Molina-Barrón2025",
+            "Kim2023",
+            "AlYakin2024",
+            "King2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Generative AI in Language/Writing Instruction",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Sánchez-Fortún2026] Significant improvements observed in textual coherence, grammatical accuracy, and integration of visual elements",
+              "score": 0.33,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Yang2024] Six-step human-AI hybrid framework enhanced prompt engineering techniques and critical assessment of AI responses",
+              "score": 0.29,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Chen2025f] Gen AI influences cognitive processes like reflection and critical thinking in inquiry-based language learning",
+              "score": 0.31,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Sánchez-Fortún2026",
+            "Yang2024",
+            "Chen2025f",
+            "Wang2025e",
+            "Rass2025",
+            "Huang2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.33): '[Sánchez-Fortún2026] Significant improvements obse...'",
+            "Quote not found in source texts (score=0.29): '[Yang2024] Six-step human-AI hybrid framework enha...'",
+            "Quote not found in source texts (score=0.31): '[Chen2025f] Gen AI influences cognitive processes ...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Strategies for AI Integration",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Han2025b] Integrated generative AI with BOPPPS instructional design to stimulate deep thinking",
+              "score": 0.33,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Ravi2025] TPACK framework for designing AI-enabled learning activities that foster critical thinking",
+              "score": 0.54,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Browning2024] Dual-report assessment evaluates both project outcomes and students' prompt engineering proficiency",
+              "score": 0.23,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Han2025b",
+            "Ravi2025",
+            "Browning2024",
+            "Maya2024",
+            "Che2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.33): '[Han2025b] Integrated generative AI with BOPPPS in...'",
+            "Quote not found in source texts (score=0.54): '[Ravi2025] TPACK framework for designing AI-enable...'",
+            "Quote not found in source texts (score=0.23): '[Browning2024] Dual-report assessment evaluates bo...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Reliability Considerations",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Camarillo2025] Students recognized GenAI's ethical limitations despite its information access advantages",
+              "score": 0.17,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Alexander2025] Emphasis on ethical use of ChatGPT and critical reflection of its implications",
+              "score": 0.38,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Rachmat2025] Students perceived chatbots as unreliable due to hallucinations and inaccurate code snippets",
+              "score": 0.23,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Camarillo2025",
+            "Alexander2025",
+            "Rachmat2025",
+            "Fahmi2025",
+            "Sánchez-Fortún2026",
+            "AlYakin2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.17): '[Camarillo2025] Students recognized GenAI's ethica...'",
+            "Quote not found in source texts (score=0.38): '[Alexander2025] Emphasis on ethical use of ChatGPT...'",
+            "Quote not found in source texts (score=0.23): '[Rachmat2025] Students perceived chatbots as unrel...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Technology-Induced Learning Challenges",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Kim2023] Overreliance on ChatGPT leading to reduced discussions",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Huang2024] Concerns about reduced academic integrity fears",
+              "score": 0.29,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Lu2025] Over-reliance on AI-generated content may weaken higher-order thinking skills",
+              "score": 0.31,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Kim2023",
+            "Huang2024",
+            "Lu2025",
+            "Browning2024",
+            "Rachmat2025",
+            "King2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[Kim2023] Overreliance on ChatGPT leading to reduc...'",
+            "Quote not found in source texts (score=0.29): '[Huang2024] Concerns about reduced academic integr...'",
+            "Quote not found in source texts (score=0.31): '[Lu2025] Over-reliance on AI-generated content may...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

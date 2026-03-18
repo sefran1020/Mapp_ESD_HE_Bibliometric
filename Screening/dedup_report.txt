@@ -1,0 +1,75 @@
+============================================================
+  DEDUPLICATION REPORT
+============================================================
+
+--- Records per source (raw parsed) ---
+  Scopus  :  2,096
+  WoS     :  1,195
+  ERIC    :     76
+  TOTAL   :  3,367
+
+--- Quality filtering (pre-dedup) ---
+  Removed records missing title or authors:
+    Scopus  :     2
+    TOTAL   :     2
+
+--- Content filter (medical ESD — endoscopic) ---
+    Scopus  :   317
+    WoS     :   203
+    TOTAL   :   520
+
+  Into dedup:   2,845
+
+--- Quality filtering (post-merge) ---
+  Removed records without abstract:
+    Scopus                  :    15
+    TOTAL                   :    15
+
+--- Deduplication results ---
+  DOI-based matches:        812
+  Title-fuzzy matches:       46
+  Duplicates removed:       858
+  Unique records:         1,987
+  Uncertain pairs:            2
+
+--- Records per source (after dedup) ---
+  ERIC                    :    55
+  ERIC+Scopus             :    15
+  ERIC+Scopus+WoS         :     5
+  ERIC+WoS                :     1
+  Scopus                  :   910
+  Scopus+WoS              :   824
+  WoS                     :   162
+
+--- Overlap between source pairs ---
+  ERIC-Scopus     :    20 shared records
+  ERIC-WoS        :     6 shared records
+  Scopus-WoS      :   829 shared records
+
+--- Top 10 largest duplicate groups ---
+   1. [3 recs] ERIC+Scopus+WoS      | Can Online Short Courses Foster Business Education for Sustainable Dev
+   2. [3 recs] ERIC+Scopus+WoS      | Learning to change: Climate action pedagogy
+   3. [3 recs] ERIC+Scopus+WoS      | Training in Mathematics Education from a Sustainability Perspective: A
+   4. [3 recs] ERIC+Scopus+WoS      | Pre-Service Geography Teachers’ Professional Competencies in Education
+   5. [3 recs] ERIC+Scopus+WoS      | Achieving the sustainable development goals through company staff voca
+   6. [3 recs] Scopus               | Sustainability in an educational institution: Analysing the transition
+   7. [2 recs] Scopus+WoS           | Virtual solutions for diversity: the emerging role of assistive techno
+   8. [2 recs] Scopus+WoS           | Bridging the knowledge gap: capacity building and education on antimic
+   9. [2 recs] Scopus+WoS           | Advancing sustainable islamic management education through education f
+  10. [2 recs] Scopus+WoS           | Effectiveness of an educational program on improving the knowledge and
+
+--- Metadata completeness (final export) ---
+  Authors           : 100.0%  [####################]
+  Title             : 100.0%  [####################]
+  Year              : 100.0%  [####################]
+  Abstract          : 100.0%  [####################]
+  DOI               :  92.9%  [##################..]
+  Journal           : 100.0%  [####################]
+  Volume            :  77.2%  [###############.....]
+  Issue             :  64.2%  [############........]
+  Pages             :  95.8%  [###################.]
+  Keywords          :  93.0%  [##################..]
+  Affiliations      :  96.3%  [###################.]
+  ISSN              :  96.5%  [###################.]
+  Language          :  99.8%  [###################.]
+

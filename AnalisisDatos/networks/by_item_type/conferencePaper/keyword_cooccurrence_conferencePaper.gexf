@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-02-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="long" />
+      <attribute id="1" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="curricula" label="curricula">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="high educations" label="high educations">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="digital-learning" label="digital-learning">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="e-learning" label="e-learning">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="sustainable development" label="sustainable development">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="education computing" label="education computing">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="students" label="students">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="learning systems" label="learning systems">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="planning" label="planning">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="teaching" label="teaching">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="education for sustainable development" label="education for sustainable development">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="electrostatic devices" label="electrostatic devices">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="surveys" label="surveys">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="education" label="education">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="climate change" label="climate change">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="esd" label="esd">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="engineering education" label="engineering education">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="design thinking" label="design thinking">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="higher education" label="higher education">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="educational program" label="educational program">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="higher education institutions" label="higher education institutions">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="economic and social effects" label="economic and social effects">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="personnel training" label="personnel training">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="curricula" target="high educations" id="0" weight="2" />
+      <edge source="curricula" target="education computing" id="1" weight="4" />
+      <edge source="curricula" target="students" id="2" weight="4" />
+      <edge source="curricula" target="sustainable development" id="3" weight="5" />
+      <edge source="curricula" target="learning systems" id="4" weight="2" />
+      <edge source="curricula" target="planning" id="5" weight="2" />
+      <edge source="curricula" target="education for sustainable development" id="6" weight="4" />
+      <edge source="curricula" target="electrostatic devices" id="7" weight="3" />
+      <edge source="curricula" target="surveys" id="8" weight="2" />
+      <edge source="high educations" target="digital-learning" id="9" weight="2" />
+      <edge source="high educations" target="e-learning" id="10" weight="2" />
+      <edge source="high educations" target="sustainable development" id="11" weight="3" />
+      <edge source="high educations" target="education for sustainable development" id="12" weight="3" />
+      <edge source="high educations" target="higher education" id="13" weight="2" />
+      <edge source="digital-learning" target="e-learning" id="14" weight="2" />
+      <edge source="digital-learning" target="sustainable development" id="15" weight="2" />
+      <edge source="e-learning" target="sustainable development" id="16" weight="3" />
+      <edge source="sustainable development" target="education computing" id="17" weight="4" />
+      <edge source="sustainable development" target="students" id="18" weight="5" />
+      <edge source="sustainable development" target="learning systems" id="19" weight="2" />
+      <edge source="sustainable development" target="teaching" id="20" weight="3" />
+      <edge source="sustainable development" target="planning" id="21" weight="6" />
+      <edge source="sustainable development" target="education for sustainable development" id="22" weight="9" />
+      <edge source="sustainable development" target="electrostatic devices" id="23" weight="6" />
+      <edge source="sustainable development" target="surveys" id="24" weight="3" />
+      <edge source="sustainable development" target="education" id="25" weight="2" />
+      <edge source="sustainable development" target="esd" id="26" weight="2" />
+      <edge source="sustainable development" target="engineering education" id="27" weight="3" />
+      <edge source="sustainable development" target="higher education" id="28" weight="2" />
+      <edge source="sustainable development" target="educational program" id="29" weight="2" />
+      <edge source="sustainable development" target="higher education institutions" id="30" weight="2" />
+      <edge source="sustainable development" target="economic and social effects" id="31" weight="2" />
+      <edge source="sustainable development" target="personnel training" id="32" weight="2" />
+      <edge source="education computing" target="students" id="33" weight="4" />
+      <edge source="education computing" target="learning systems" id="34" weight="2" />
+      <edge source="education computing" target="planning" id="35" weight="2" />
+      <edge source="education computing" target="education for sustainable development" id="36" weight="3" />
+      <edge source="education computing" target="electrostatic devices" id="37" weight="2" />
+      <edge source="education computing" target="surveys" id="38" weight="2" />
+      <edge source="students" target="learning systems" id="39" weight="2" />
+      <edge source="students" target="planning" id="40" weight="3" />
+      <edge source="students" target="education for sustainable development" id="41" weight="3" />
+      <edge source="students" target="electrostatic devices" id="42" weight="3" />
+      <edge source="students" target="surveys" id="43" weight="3" />
+      <edge source="students" target="climate change" id="44" weight="2" />
+      <edge source="students" target="esd" id="45" weight="2" />
+      <edge source="students" target="engineering education" id="46" weight="3" />
+      <edge source="planning" target="teaching" id="47" weight="2" />
+      <edge source="planning" target="education for sustainable development" id="48" weight="5" />
+      <edge source="planning" target="electrostatic devices" id="49" weight="5" />
+      <edge source="planning" target="surveys" id="50" weight="3" />
+      <edge source="planning" target="engineering education" id="51" weight="2" />
+      <edge source="teaching" target="education for sustainable development" id="52" weight="3" />
+      <edge source="education for sustainable development" target="electrostatic devices" id="53" weight="5" />
+      <edge source="education for sustainable development" target="surveys" id="54" weight="2" />
+      <edge source="education for sustainable development" target="engineering education" id="55" weight="2" />
+      <edge source="education for sustainable development" target="design thinking" id="56" weight="2" />
+      <edge source="education for sustainable development" target="higher education" id="57" weight="3" />
+      <edge source="education for sustainable development" target="educational program" id="58" weight="2" />
+      <edge source="education for sustainable development" target="higher education institutions" id="59" weight="2" />
+      <edge source="education for sustainable development" target="economic and social effects" id="60" weight="2" />
+      <edge source="education for sustainable development" target="personnel training" id="61" weight="2" />
+      <edge source="electrostatic devices" target="surveys" id="62" weight="3" />
+      <edge source="electrostatic devices" target="engineering education" id="63" weight="2" />
+      <edge source="electrostatic devices" target="educational program" id="64" weight="2" />
+      <edge source="electrostatic devices" target="higher education institutions" id="65" weight="2" />
+      <edge source="surveys" target="engineering education" id="66" weight="2" />
+      <edge source="educational program" target="higher education institutions" id="67" weight="2" />
+    </edges>
+  </graph>
+</gexf>

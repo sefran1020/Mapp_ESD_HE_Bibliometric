@@ -1,0 +1,557 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "1",
+  "batch": 9,
+  "timestamp": "2026-02-25T21:32:25.666610",
+  "data": {
+    "themes": [
+      {
+        "name": "ESD Competence Development",
+        "definition": "Focus on identifying, developing, and assessing specific competences or skills related to Education for Sustainable Development in higher education contexts, often through frameworks and training programs.",
+        "evidence": [
+          "[TraA f_2019] A set of seven sustainability competencies are identified by means of a systematic literature review as the current knowledge of Education for Sustainable Development (ESD) competencies.",
+          "[SchDev_2020] Education for Sustainable Development (ESD) competences have been widely discussed over the past decade. A number of frameworks have been developed, and the Erasmus+ Project “A Rounder Sense of Purpose” (RSP) set out to establish a profound and practical framework of competences to be used in any European context to enable in-service and pre-service educators to demonstrate their competence in ESD.",
+          "[LenEdu_2025] This study aims to present a competence model for higher education (HE) professors with a focus on the value dimension of education for sustainable development (ESD) and corporate social responsibility (CSR)."
+        ],
+        "articles": [
+          "TraA f_2019",
+          "SchDev_2020",
+          "LenEdu_2025",
+          "Yu,Ite_2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Competence frameworks",
+          "Skill development",
+          "Professional training"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Curriculum Integration of ESD",
+        "definition": "Methods and frameworks for embedding sustainability principles and Education for Sustainable Development into the curriculum of higher education courses and programs, including mapping, revision, and alignment with learning outcomes.",
+        "evidence": [
+          "[TraA f_2019] Sustainability within tertiary curriculum is hard to measure and often perceived to be illusive in nature. Existing higher education sustainability assessment tools rarely focus on the curriculum.",
+          "[GueInt_2017] Education for sustainable development (ESD) is one of the challenges engineering education currently faces. Engineering education needs to revise and change its curriculum to integrate ESD principles and knowledge.",
+          "[ZirInt_2026] This study examines the impact of integrating sustainability and research publication into civil engineering capstone design education."
+        ],
+        "articles": [
+          "TraA f_2019",
+          "GueInt_2017",
+          "ZirInt_2026",
+          "MpoTra_2022",
+          "CirMap_2018"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Course design",
+          "Learning outcomes",
+          "Accreditation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Transformative and Experiential Learning Pedagogies",
+        "definition": "Pedagogical approaches that emphasize deep, emotional, and experiential learning to foster transformative changes in attitudes, behaviors, and competencies towards sustainability, often involving participatory and systems-oriented activities.",
+        "evidence": [
+          "[SteTra_2024] The purpose of this study was to examine curricular innovation in accounting using multivariate analysis of variance (MANOVA) and t-test to measure the effects of transformative sustainability education in accounting on the attitudes of male and female undergraduate accounting students at a public university in the southwestern USA toward the four sustainable development dimensions of environment, economy, society and education.",
+          "[El Bey_2025] This study aims to examine the pedagogical impact of a participatory, systems-oriented climate workshop implemented in a French undergraduate curriculum. It explores how emotionally charged, experientially grounded activities can foster deep learning in the context of education for sustainable development (ESD), and how they shape students’ emotional responses and intention to adopt sustainable behaviors.",
+          "[MooEmb_2024] Studio activities and assessments were designed based on constructivist and experiential learning principles."
+        ],
+        "articles": [
+          "SteTra_2024",
+          "El Bey_2025",
+          "MooEmb_2024",
+          "GriTRA_2018"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Emotional engagement",
+          "Participatory methods",
+          "Systems thinking"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Interdisciplinary and Stakeholder Collaboration",
+        "definition": "Emphasis on cross-disciplinary approaches and involvement of various stakeholders, including communities, external partners, and diverse participants, in Education for Sustainable Development initiatives to promote co-creation and real-world impact.",
+        "evidence": [
+          "[AmuDes_2026] This study aims to explore how design thinking (DT) can foster interdisciplinary dialogue and co-creation within Education for Sustainable Development (ESD).",
+          "[MorUrb_2024] Urban Living Labs (ULL), in response to these challenges, are presented as dynamic platforms that combine research, innovation and policy to promote sustainability in urban and educational contexts.",
+          "[GriTRA_2018] This paper explores the relationship between education for sustainable development (ESD) and interdisciplinarity in the context of architecture and engineering higher education, presenting a case study of the University of Strathclyde Glasgow's Sustainable Engineering (SE) postgraduate programme, within the wider context of common principles and practices present across HEIs."
+        ],
+        "articles": [
+          "AmuDes_2026",
+          "MorUrb_2024",
+          "GriTRA_2018",
+          "RodHig_2017"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Co-creation",
+          "Participatory research",
+          "Community engagement"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment and Measurement of ESD Impact",
+        "definition": "Tools, methods, and studies aimed at evaluating the effectiveness, integration, and progress of Education for Sustainable Development in educational settings, using quantitative and qualitative approaches.",
+        "evidence": [
+          "[SteTra_2024] measure the effects of transformative sustainability education in accounting on the attitudes of male and female undergraduate accounting students who had sustainability education in accounting to those who did not toward the four aspects of environment, economy, society and education for sustainable development using correlation, MANOVA, independent- and paired-samples t-tests.",
+          "[TraA f_2019] Study developed several methods to establish and evaluate subject level ESD claims.",
+          "[ShrEdu_2025] This paper aims to assess the progress of implementing education for sustainable development (ESD) in Nepalese higher education institutions (HEIs)."
+        ],
+        "articles": [
+          "SteTra_2024",
+          "TraA f_2019",
+          "ShrEdu_2025",
+          "SatPro_2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Evaluation frameworks",
+          "Metrics",
+          "Surveys"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Contextual and Comparative Studies",
+        "definition": "Research focused on specific geographical, cultural, or institutional contexts, or comparative analyses between different regions, countries, or systems in the implementation and perspectives of Education for Sustainable Development.",
+        "evidence": [
+          "[ShrEdu_2025] This paper aims to assess the progress of implementing education for sustainable development (ESD) in Nepalese higher education institutions (HEIs).",
+          "[AbdEdu_2025] This research undertakes a comparative examination of educational frameworks in Kazakhstan, the Russian Federation, and the United States with regard to the preparation of future biology educators.",
+          "[CheDem_2025] The purpose of this study is to examine the impact of demographic factors on Education for Sustainable Development (ESD), and the diverse perspectives held by students at different higher education institutions (HEIs) in China."
+        ],
+        "articles": [
+          "ShrEdu_2025",
+          "AbdEdu_2025",
+          "CheDem_2025",
+          "CedEnv_2025",
+          "SatPro_2026"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Regional case studies",
+          "Demographic analysis",
+          "Cross-cultural comparisons"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Technology and Innovation in ESD",
+        "definition": "Use of technological tools and innovative methods, such as smart technologies, online courses, and data analysis techniques, to enhance Education for Sustainable Development and skill development.",
+        "evidence": [
+          "[ShiThe_2024] This research focuses on the pivotal role of students as influential catalysts for advancing sustainable development within higher education. Specifically, it investigates the extent of students' familiarity with sustainable development initiatives within higher education institutions in the UAE.",
+          "[ÁlvEmp_2025] This study seeks to evaluate the efficacy of a massive open online course (MOOC) in promoting Education for Sustainable Development (ESD) competences among university teachers.",
+          "[CarMap_2025] Using natural language processing, we analyze the integration of green skills in the training ordinances of 101 Danish vocational programs from 2015 to 2024."
+        ],
+        "articles": [
+          "ShiThe_2024",
+          "ÁlvEmp_2025",
+          "CarMap_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Digital education",
+          "Green skills",
+          "Analytical tools"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Values and Attitudes in ESD",
+        "definition": "Examination of how personal values, beliefs, emotions, and attitudes influence and are influenced by Education for Sustainable Development, leading to behavioral change and sustainability literacy.",
+        "evidence": [
+          "[SteTra_2024] measure the effects of transformative sustainability education in accounting on the attitudes of male and female undergraduate accounting students toward the four sustainable development dimensions of environment, economy, society and education.",
+          "[El Bey_2025] It explores how emotionally charged, experientially grounded activities can foster deep learning in the context of education for sustainable development (ESD), and how they shape students’ emotional responses and intention to adopt sustainable behaviors.",
+          "[JodPro_2020] A mixed-methods approach to data collection was used and student marks, survey results using values, beliefs and norms (VBN) model and reflection tasks were collected across the two courses."
+        ],
+        "articles": [
+          "SteTra_2024",
+          "El Bey_2025",
+          "JodPro_2020",
+          "AdeSpa_2025",
+          "AndSta_2017"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Emotional responses",
+          "Normative models",
+          "Behavioral intentions"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Institutional Strategies and Models",
+        "definition": "Development and implementation of overarching strategies, models, or frameworks by higher education institutions to promote Education for Sustainable Development, often involving policy integration, educational reforms, and community engagement.",
+        "evidence": [
+          "[MorUrb_2024] Urban Living Lab as an Education Strategy for Sustainable Development",
+          "[RodHig_2017] The purpose of this article is to present the experience of a Central American university that has been successfully advancing an educational model focused on sustainability for over 25 years.",
+          "[de Pro_2025] A “SUSTAINABLE HEI - ESG Framework” is proposed as a set of practical guidelines for implementing the ESG Agenda, engaging the academic community in adopting sustainable practices."
+        ],
+        "articles": [
+          "MorUrb_2024",
+          "RodHig_2017",
+          "de Pro_2025",
+          "MpoTra_2022"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Policy implementation",
+          "Educational models",
+          "Sustainability frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts consistently focus on Education for Sustainable Development (ESD) in higher education, with recurring themes of competence development, curriculum integration, and pedagogical innovations. There is a strong emphasis on empirical studies, often using case-specific or comparative approaches across diverse geographical contexts. Methodologically, mixed methods and qualitative designs are prevalent, though quantitative data is sometimes noted as missing.",
+    "grounding_notes": "Evidence is drawn solely from explicit statements in the abstracts; no inferences are made for missing elements noted in quality warnings. Some abstracts have limitations such as no quantitative data or truncated content, which may affect the depth of evidence for certain themes.",
+    "_hallucination_control": {
+      "total_themes": 9,
+      "avg_grounding_score": 0.97,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "ESD Competence Development",
+          "evidence_verified": [
+            {
+              "quote": "[TraA f_2019] A set of seven sustainability competencies are identified by means of a systematic literature review as the current knowledge of Education for Sustainable Development (ESD) competencies.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[SchDev_2020] Education for Sustainable Development (ESD) competences have been widely discussed over the past decade. A number of frameworks have been developed, and the Erasmus+ Project “A Rounder Sense of Purpose” (RSP) set out to establish a profound and practical framework of competences to be used in any European context to enable in-service and pre-service educators to demonstrate their competence in ESD.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[LenEdu_2025] This study aims to present a competence model for higher education (HE) professors with a focus on the value dimension of education for sustainable development (ESD) and corporate social responsibility (CSR).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "TraA f_2019",
+            "SchDev_2020",
+            "LenEdu_2025",
+            "Yu,Ite_2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Curriculum Integration of ESD",
+          "evidence_verified": [
+            {
+              "quote": "[TraA f_2019] Sustainability within tertiary curriculum is hard to measure and often perceived to be illusive in nature. Existing higher education sustainability assessment tools rarely focus on the curriculum.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[GueInt_2017] Education for sustainable development (ESD) is one of the challenges engineering education currently faces. Engineering education needs to revise and change its curriculum to integrate ESD principles and knowledge.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ZirInt_2026] This study examines the impact of integrating sustainability and research publication into civil engineering capstone design education.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "TraA f_2019",
+            "GueInt_2017",
+            "ZirInt_2026",
+            "MpoTra_2022",
+            "CirMap_2018"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Transformative and Experiential Learning Pedagogies",
+          "evidence_verified": [
+            {
+              "quote": "[SteTra_2024] The purpose of this study was to examine curricular innovation in accounting using multivariate analysis of variance (MANOVA) and t-test to measure the effects of transformative sustainability education in accounting on the attitudes of male and female undergraduate accounting students at a public university in the southwestern USA toward the four sustainable development dimensions of environment, economy, society and education.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[El Bey_2025] This study aims to examine the pedagogical impact of a participatory, systems-oriented climate workshop implemented in a French undergraduate curriculum. It explores how emotionally charged, experientially grounded activities can foster deep learning in the context of education for sustainable development (ESD), and how they shape students’ emotional responses and intention to adopt sustainable behaviors.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[MooEmb_2024] Studio activities and assessments were designed based on constructivist and experiential learning principles.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "SteTra_2024",
+            "El Bey_2025",
+            "MooEmb_2024",
+            "GriTRA_2018"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Interdisciplinary and Stakeholder Collaboration",
+          "evidence_verified": [
+            {
+              "quote": "[AmuDes_2026] This study aims to explore how design thinking (DT) can foster interdisciplinary dialogue and co-creation within Education for Sustainable Development (ESD).",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[MorUrb_2024] Urban Living Labs (ULL), in response to these challenges, are presented as dynamic platforms that combine research, innovation and policy to promote sustainability in urban and educational contexts.",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[GriTRA_2018] This paper explores the relationship between education for sustainable development (ESD) and interdisciplinarity in the context of architecture and engineering higher education, presenting a case study of the University of Strathclyde Glasgow's Sustainable Engineering (SE) postgraduate programme, within the wider context of common principles and practices present across HEIs.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "AmuDes_2026",
+            "MorUrb_2024",
+            "GriTRA_2018",
+            "RodHig_2017"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment and Measurement of ESD Impact",
+          "evidence_verified": [
+            {
+              "quote": "[SteTra_2024] measure the effects of transformative sustainability education in accounting on the attitudes of male and female undergraduate accounting students who had sustainability education in accounting to those who did not toward the four aspects of environment, economy, society and education for sustainable development using correlation, MANOVA, independent- and paired-samples t-tests.",
+              "score": 0.79,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[TraA f_2019] Study developed several methods to establish and evaluate subject level ESD claims.",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[ShrEdu_2025] This paper aims to assess the progress of implementing education for sustainable development (ESD) in Nepalese higher education institutions (HEIs).",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "SteTra_2024",
+            "TraA f_2019",
+            "ShrEdu_2025",
+            "SatPro_2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Contextual and Comparative Studies",
+          "evidence_verified": [
+            {
+              "quote": "[ShrEdu_2025] This paper aims to assess the progress of implementing education for sustainable development (ESD) in Nepalese higher education institutions (HEIs).",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[AbdEdu_2025] This research undertakes a comparative examination of educational frameworks in Kazakhstan, the Russian Federation, and the United States with regard to the preparation of future biology educators.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[CheDem_2025] The purpose of this study is to examine the impact of demographic factors on Education for Sustainable Development (ESD), and the diverse perspectives held by students at different higher education institutions (HEIs) in China.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "ShrEdu_2025",
+            "AbdEdu_2025",
+            "CheDem_2025",
+            "CedEnv_2025",
+            "SatPro_2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Technology and Innovation in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[ShiThe_2024] This research focuses on the pivotal role of students as influential catalysts for advancing sustainable development within higher education. Specifically, it investigates the extent of students' familiarity with sustainable development initiatives within higher education institutions in the UAE.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ÁlvEmp_2025] This study seeks to evaluate the efficacy of a massive open online course (MOOC) in promoting Education for Sustainable Development (ESD) competences among university teachers.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[CarMap_2025] Using natural language processing, we analyze the integration of green skills in the training ordinances of 101 Danish vocational programs from 2015 to 2024.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "ShiThe_2024",
+            "ÁlvEmp_2025",
+            "CarMap_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Values and Attitudes in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[El Bey_2025] It explores how emotionally charged, experientially grounded activities can foster deep learning in the context of education for sustainable development (ESD), and how they shape students’ emotional responses and intention to adopt sustainable behaviors.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[JodPro_2020] A mixed-methods approach to data collection was used and student marks, survey results using values, beliefs and norms (VBN) model and reflection tasks were collected across the two courses.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[SteTra_2024] measure the effects of transformative sustainability education in accounting on the attitudes of male and female undergraduate accounting students toward the four sustainable development dimensions of environment, economy, society and education.",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "SteTra_2024",
+            "El Bey_2025",
+            "JodPro_2020",
+            "AdeSpa_2025",
+            "AndSta_2017"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.59): '[SteTra_2024] measure the effects of transformativ...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Institutional Strategies and Models",
+          "evidence_verified": [
+            {
+              "quote": "[MorUrb_2024] Urban Living Lab as an Education Strategy for Sustainable Development",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[RodHig_2017] The purpose of this article is to present the experience of a Central American university that has been successfully advancing an educational model focused on sustainability for over 25 years.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[de Pro_2025] A “SUSTAINABLE HEI - ESG Framework” is proposed as a set of practical guidelines for implementing the ESG Agenda, engaging the academic community in adopting sustainable practices.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "MorUrb_2024",
+            "RodHig_2017",
+            "de Pro_2025",
+            "MpoTra_2022"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

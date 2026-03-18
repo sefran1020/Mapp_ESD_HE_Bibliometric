@@ -1,0 +1,301 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 5,
+  "timestamp": "2026-02-19T06:02:11.184423",
+  "data": {
+    "themes": [
+      {
+        "name": "AI-enhanced critical thinking development",
+        "definition": "Using AI technologies to specifically foster students' critical thinking abilities through structured interventions and pedagogical approaches",
+        "evidence": [
+          "[Favero2025] 'present an innovative educational chatbot designed to foster critical thinking through Socratic questioning'",
+          "[Tashtoush2025] 'revealed significant improvements in the mean scores of critical thinking skills among secondary students who were exposed to Artificial Intelligence Techniques (AITs), particularly in deduction, interpretation, inference, and evaluation'"
+        ],
+        "articles": [
+          "Favero2025",
+          "Tashtoush2025",
+          "Hönigsberg2025",
+          "Waziana2025",
+          "Liu2025",
+          "Karaçay2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Socratic questioning",
+          "Bloom's taxonomy",
+          "cognitive scaffolding"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-integrated pedagogical models",
+        "definition": "Development of new teaching frameworks that systematically incorporate AI technologies into learning processes",
+        "evidence": [
+          "[Lee2025a] 'ChatGPT-supported concept mapping-based database programming (GPT-CMDP) approach'",
+          "[Kurniawan2025a] 'Digital Project-Based Blended Learning (DPBBL) framework, augmented with Artificial Intelligence (AI)'"
+        ],
+        "articles": [
+          "Lee2025a",
+          "Kurniawan2025a",
+          "Delgado-Fabián2025",
+          "Lin2025c",
+          "Kabeer2025",
+          "Liu2025",
+          "Anwar2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "flipped learning",
+          "scaffolded instruction",
+          "blended learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Reflective and metacognitive development",
+        "definition": "Approaches emphasizing self-assessment, thought awareness, and iterative learning improvement",
+        "evidence": [
+          "[Hui2025] 'the cognitive relationship between conversational AI and thinking skills in various learning tasks with complexity and uncertainty levels'",
+          "[Yang2025a] 'Generative Artificial Intelligence-Supported Reflective Strategies (GAI-RS) has significant effectiveness in promoting students' conceptual knowledge learning, reflective thinking'"
+        ],
+        "articles": [
+          "Hui2025",
+          "Yang2025a",
+          "Li2025d",
+          "Waziana2025",
+          "Liu2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "self-monitoring",
+          "epistemic networks",
+          "cognitive reflection"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Generative AI tool applications",
+        "definition": "Specific implementations of text/generative AI systems in educational contexts to support learning",
+        "evidence": [
+          "[Hönigsberg2025] 'integrating generative artificial intelligence (GAI), such as ChatGPT, into higher education courses'",
+          "[Kim2025] 'Students utilized AI chatbots─such as ChatGPT, Gemini, and Microsoft Copilot'"
+        ],
+        "articles": [
+          "Hönigsberg2025",
+          "Kim2025",
+          "DMello2012",
+          "Delgado-Fabián2025",
+          "Waziana2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "LLM chatbots",
+          "conversational agents",
+          "AI tutors"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Empirical validation of AI effects",
+        "definition": "Quantitative assessment of AI-integrated learning outcomes to determine effectiveness",
+        "evidence": [
+          "[Kurniawan2025a] 'pre-test and post-test assessments were conducted to measure the effectiveness of the intervention'",
+          "[Tashtoush2025] 'study revealed significant improvements in the mean scores of critical thinking skills'"
+        ],
+        "articles": [
+          "Kurniawan2025a",
+          "Tashtoush2025",
+          "Litvinova2026",
+          "Waziana2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "pre/post testing",
+          "experimental design",
+          "quantitative assessment"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Abstracts show strong focus on critical thinking enhancement. Limited but consistent exploration of specific AI tools. Multiple studies using quasi-experimental designs. Quality notes suggest many papers lack quantitative data sections. Bloom's taxonomy and Socratic frameworks appear recurrently with AI-enhanced learning.",
+    "grounding_notes": "All themes are directly supported by quoted text from the abstracts. No themes were inferred beyond what is explicitly stated. All articles are from the provided closed set.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.93,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "AI-enhanced critical thinking development",
+          "evidence_verified": [
+            {
+              "quote": "[Favero2025] 'present an innovative educational chatbot designed to foster critical thinking through Socratic questioning'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Tashtoush2025] 'revealed significant improvements in the mean scores of critical thinking skills among secondary students who were exposed to Artificial Intelligence Techniques (AITs), particularly in deduction, interpretation, inference, and evaluation'",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Favero2025",
+            "Tashtoush2025",
+            "Hönigsberg2025",
+            "Waziana2025",
+            "Liu2025",
+            "Karaçay2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-integrated pedagogical models",
+          "evidence_verified": [
+            {
+              "quote": "[Lee2025a] 'ChatGPT-supported concept mapping-based database programming (GPT-CMDP) approach'",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Kurniawan2025a] 'Digital Project-Based Blended Learning (DPBBL) framework, augmented with Artificial Intelligence (AI)'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Lee2025a",
+            "Kurniawan2025a",
+            "Delgado-Fabián2025",
+            "Lin2025c",
+            "Kabeer2025",
+            "Liu2025",
+            "Anwar2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Reflective and metacognitive development",
+          "evidence_verified": [
+            {
+              "quote": "[Hui2025] 'the cognitive relationship between conversational AI and thinking skills in various learning tasks with complexity and uncertainty levels'",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Yang2025a] 'Generative Artificial Intelligence-Supported Reflective Strategies (GAI-RS) has significant effectiveness in promoting students' conceptual knowledge learning, reflective thinking'",
+              "score": 0.65,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Hui2025",
+            "Yang2025a",
+            "Li2025d",
+            "Waziana2025",
+            "Liu2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.65), not verbatim: '[Yang2025a] 'Generative Artificial Intelligence-Su...'"
+          ],
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Generative AI tool applications",
+          "evidence_verified": [
+            {
+              "quote": "[Hönigsberg2025] 'integrating generative artificial intelligence (GAI), such as ChatGPT, into higher education courses'",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Kim2025] 'Students utilized AI chatbots─such as ChatGPT, Gemini, and Microsoft Copilot'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Hönigsberg2025",
+            "Kim2025",
+            "DMello2012",
+            "Delgado-Fabián2025",
+            "Waziana2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Empirical validation of AI effects",
+          "evidence_verified": [
+            {
+              "quote": "[Kurniawan2025a] 'pre-test and post-test assessments were conducted to measure the effectiveness of the intervention'",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Tashtoush2025] 'study revealed significant improvements in the mean scores of critical thinking skills'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Kurniawan2025a",
+            "Tashtoush2025",
+            "Litvinova2026",
+            "Waziana2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

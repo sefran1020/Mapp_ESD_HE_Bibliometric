@@ -1,0 +1,330 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 4,
+  "timestamp": "2026-02-19T06:01:26.311717",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical thinking enhancement through AI tools",
+        "definition": "Studies identify AI as a facilitator for developing critical thinking skills through structured analysis, evaluation, and validation of AI-generated outputs.",
+        "evidence": [
+          "[Lin2025b] enhancing reflective thinking, fostering reflection and critical reflection",
+          "[Hossain2025] enhanced their critical thinking skills",
+          "[Hyde-Vaamonde2025] students critically evaluate AI-generated legal content",
+          "[Nursaid2025] interpretive skills, measured on a 100-point scale"
+        ],
+        "articles": [
+          "Lin2025b",
+          "Hossain2025",
+          "Hyde-Vaamonde2025",
+          "Nursaid2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Metacognitive regulation",
+          "Epistemic vigilance",
+          "Higher-order cognitive skills"
+        ],
+        "_verification": {
+          "grounding_score": 0.82,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Metacognitive skill development with AI mediation",
+        "definition": "AI tools support self-regulated learning by enabling planning, monitoring, and evaluating thought processes through iterative feedback loops.",
+        "evidence": [
+          "[Huda2025] iterative feedback encouraged critical analysis of solutions",
+          "[Wang2025c] promote adaptive strategy use and deepen metacognitive reflection",
+          "[Nursaid2025] Interactive Literary Simulation fosters deeper engagement"
+        ],
+        "articles": [
+          "Huda2025",
+          "Wang2025c",
+          "Nursaid2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-regulated learning strategies",
+          "Reflective practice",
+          "Adaptive reasoning"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and over-reliance concerns in AI adoption",
+        "definition": "Multiple studies caution against passive acceptance of AI outputs and highlight risks of cognitive dependence, hallucinations, and blurred authorship boundaries.",
+        "evidence": [
+          "[Huda2025] 28% of students passively accepted AI-generated answers",
+          "[Rana2025] ethical concerns generated significant negative sentiment (62%)",
+          "[VereauAmaya2025] AI dependence negatively correlated with evaluation and inference skills"
+        ],
+        "articles": [
+          "Huda2025",
+          "Rana2025",
+          "VereauAmaya2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Algorithmic bias",
+          "Academic integrity",
+          "Human-AI co-creation"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Personalized learning experiences through adaptive AI",
+        "definition": "AI systems customize instruction based on learner profiles, significantly improving knowledge retention and engagement metrics.",
+        "evidence": [
+          "[Kumaresan2025] AI-personalized learning improved knowledge retention by 28%",
+          "[Huang2026a] AI chatbots improved intrinsic motivation (93% reported benefits)",
+          "[Wang2025c] GAI chatbot tools increased task strategy diversity and writing performance"
+        ],
+        "articles": [
+          "Kumaresan2025",
+          "Huang2026a",
+          "Wang2025c"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Differentiated instruction",
+          "Dynamic content adjustments",
+          "Engagement analytics"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Interdisciplinary integration of AI in pedagogy",
+        "definition": "Cross-subject applications of AI demonstrate effectiveness in connecting diverse domains like language-literacy, history-science, and ethics-technology.",
+        "evidence": [
+          "[Melnychuk2025] integrate perspectives from English, Chemistry, and History of Medicine",
+          "[Abdulmajid2025] synthesis of historical art styles with contemporary themes",
+          "[Mahmoudi-Dehaki2025] creation of intercultural communication handbooks with GenAI"
+        ],
+        "articles": [
+          "Melnychuk2025",
+          "Abdulmajid2025",
+          "Mahmoudi-Dehaki2025"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Disciplinary convergence",
+          "Cultural responsiveness",
+          "Curricular hybridization"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Most articles frame AI as a facilitator rather than replacement for cognitive skills. There's uneven reporting of quantitative outcomes despite frequent citations of statistically significant results. Emerging focus on metacognitive development contrasts with persistent concerns about passive reliance.",
+    "grounding_notes": "Critical thinking and metacognitive themes show strongest textual support. Interdisciplinary integration has fewer direct citations but appears in diverse contexts. All article keys strictly adhere to provided closed set.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.59,
+      "total_hallucination_flags": 9,
+      "verification_details": [
+        {
+          "theme_name": "Critical thinking enhancement through AI tools",
+          "evidence_verified": [
+            {
+              "quote": "[Hossain2025] enhanced their critical thinking skills",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Hyde-Vaamonde2025] students critically evaluate AI-generated legal content",
+              "score": 0.78,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Nursaid2025] interpretive skills, measured on a 100-point scale",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Lin2025b] enhancing reflective thinking, fostering reflection and critical reflection",
+              "score": 0.56,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Lin2025b",
+            "Hossain2025",
+            "Hyde-Vaamonde2025",
+            "Nursaid2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.82,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.56): '[Lin2025b] enhancing reflective thinking, fosterin...'"
+          ],
+          "quote_grounding": 0.75,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Metacognitive skill development with AI mediation",
+          "evidence_verified": [
+            {
+              "quote": "[Wang2025c] promote adaptive strategy use and deepen metacognitive reflection",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Huda2025] iterative feedback encouraged critical analysis of solutions",
+              "score": 0.38,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Nursaid2025] Interactive Literary Simulation fosters deeper engagement",
+              "score": 0.43,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Huda2025",
+            "Wang2025c",
+            "Nursaid2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.38): '[Huda2025] iterative feedback encouraged critical ...'",
+            "Quote not found in source texts (score=0.43): '[Nursaid2025] Interactive Literary Simulation fost...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and over-reliance concerns in AI adoption",
+          "evidence_verified": [
+            {
+              "quote": "[Huda2025] 28% of students passively accepted AI-generated answers",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Rana2025] ethical concerns generated significant negative sentiment (62%)",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[VereauAmaya2025] AI dependence negatively correlated with evaluation and inference skills",
+              "score": 0.2,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Huda2025",
+            "Rana2025",
+            "VereauAmaya2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.20): '[VereauAmaya2025] AI dependence negatively correla...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Personalized learning experiences through adaptive AI",
+          "evidence_verified": [
+            {
+              "quote": "[Kumaresan2025] AI-personalized learning improved knowledge retention by 28%",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Huang2026a] AI chatbots improved intrinsic motivation (93% reported benefits)",
+              "score": 0.22,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Wang2025c] GAI chatbot tools increased task strategy diversity and writing performance",
+              "score": 0.45,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Kumaresan2025",
+            "Huang2026a",
+            "Wang2025c"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.22): '[Huang2026a] AI chatbots improved intrinsic motiva...'",
+            "Quote not found in source texts (score=0.45): '[Wang2025c] GAI chatbot tools increased task strat...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Interdisciplinary integration of AI in pedagogy",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Melnychuk2025] integrate perspectives from English, Chemistry, and History of Medicine",
+              "score": 0.4,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Abdulmajid2025] synthesis of historical art styles with contemporary themes",
+              "score": 0.44,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Mahmoudi-Dehaki2025] creation of intercultural communication handbooks with GenAI",
+              "score": 0.33,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Melnychuk2025",
+            "Abdulmajid2025",
+            "Mahmoudi-Dehaki2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.40): '[Melnychuk2025] integrate perspectives from Englis...'",
+            "Quote not found in source texts (score=0.44): '[Abdulmajid2025] synthesis of historical art style...'",
+            "Quote not found in source texts (score=0.33): '[Mahmoudi-Dehaki2025] creation of intercultural co...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

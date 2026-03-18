@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#4e79a7", "font": {"color": "#333333"}, "id": "curricula", "label": "curricula", "shape": "dot", "size": 50, "title": "curricula"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "high educations", "label": "high educations", "shape": "dot", "size": 33, "title": "high educations"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "digital-learning", "label": "digital-learning", "shape": "dot", "size": 17, "title": "digital-learning"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "e-learning", "label": "e-learning", "shape": "dot", "size": 19, "title": "e-learning"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "sustainable development", "label": "sustainable development", "shape": "dot", "size": 50, "title": "sustainable development"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "education computing", "label": "education computing", "shape": "dot", "size": 50, "title": "education computing"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "students", "label": "students", "shape": "dot", "size": 50, "title": "students"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "learning systems", "label": "learning systems", "shape": "dot", "size": 21, "title": "learning systems"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "planning", "label": "planning", "shape": "dot", "size": 50, "title": "planning"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "teaching", "label": "teaching", "shape": "dot", "size": 21, "title": "teaching"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "education for sustainable development", "label": "education for sustainable development", "shape": "dot", "size": 50, "title": "education for sustainable development"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "electrostatic devices", "label": "electrostatic devices", "shape": "dot", "size": 50, "title": "electrostatic devices"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "surveys", "label": "surveys", "shape": "dot", "size": 45, "title": "surveys"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "education", "label": "education", "shape": "dot", "size": 10, "title": "education"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "climate change", "label": "climate change", "shape": "dot", "size": 10, "title": "climate change"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "esd", "label": "esd", "shape": "dot", "size": 13, "title": "esd"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "engineering education", "label": "engineering education", "shape": "dot", "size": 33, "title": "engineering education"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "design thinking", "label": "design thinking", "shape": "dot", "size": 10, "title": "design thinking"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "higher education", "label": "higher education", "shape": "dot", "size": 19, "title": "higher education"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "educational program", "label": "educational program", "shape": "dot", "size": 21, "title": "educational program"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "higher education institutions", "label": "higher education institutions", "shape": "dot", "size": 21, "title": "higher education institutions"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "economic and social effects", "label": "economic and social effects", "shape": "dot", "size": 13, "title": "economic and social effects"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "personnel training", "label": "personnel training", "shape": "dot", "size": 13, "title": "personnel training"}]);
+                  edges = new vis.DataSet([{"from": "curricula", "title": "Weight: 2", "to": "high educations", "value": 2}, {"from": "curricula", "title": "Weight: 4", "to": "education computing", "value": 4}, {"from": "curricula", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "curricula", "title": "Weight: 5", "to": "sustainable development", "value": 5}, {"from": "curricula", "title": "Weight: 2", "to": "learning systems", "value": 2}, {"from": "curricula", "title": "Weight: 2", "to": "planning", "value": 2}, {"from": "curricula", "title": "Weight: 4", "to": "education for sustainable development", "value": 4}, {"from": "curricula", "title": "Weight: 3", "to": "electrostatic devices", "value": 3}, {"from": "curricula", "title": "Weight: 2", "to": "surveys", "value": 2}, {"from": "high educations", "title": "Weight: 2", "to": "digital-learning", "value": 2}, {"from": "high educations", "title": "Weight: 2", "to": "e-learning", "value": 2}, {"from": "high educations", "title": "Weight: 3", "to": "sustainable development", "value": 3}, {"from": "high educations", "title": "Weight: 3", "to": "education for sustainable development", "value": 3}, {"from": "high educations", "title": "Weight: 2", "to": "higher education", "value": 2}, {"from": "digital-learning", "title": "Weight: 2", "to": "e-learning", "value": 2}, {"from": "digital-learning", "title": "Weight: 2", "to": "sustainable development", "value": 2}, {"from": "e-learning", "title": "Weight: 3", "to": "sustainable development", "value": 3}, {"from": "sustainable development", "title": "Weight: 4", "to": "education computing", "value": 4}, {"from": "sustainable development", "title": "Weight: 5", "to": "students", "value": 5}, {"from": "sustainable development", "title": "Weight: 2", "to": "learning systems", "value": 2}, {"from": "sustainable development", "title": "Weight: 3", "to": "teaching", "value": 3}, {"from": "sustainable development", "title": "Weight: 6", "to": "planning", "value": 6}, {"from": "sustainable development", "title": "Weight: 9", "to": "education for sustainable development", "value": 9}, {"from": "sustainable development", "title": "Weight: 6", "to": "electrostatic devices", "value": 6}, {"from": "sustainable development", "title": "Weight: 3", "to": "surveys", "value": 3}, {"from": "sustainable development", "title": "Weight: 2", "to": "education", "value": 2}, {"from": "sustainable development", "title": "Weight: 2", "to": "esd", "value": 2}, {"from": "sustainable development", "title": "Weight: 3", "to": "engineering education", "value": 3}, {"from": "sustainable development", "title": "Weight: 2", "to": "higher education", "value": 2}, {"from": "sustainable development", "title": "Weight: 2", "to": "educational program", "value": 2}, {"from": "sustainable development", "title": "Weight: 2", "to": "higher education institutions", "value": 2}, {"from": "sustainable development", "title": "Weight: 2", "to": "economic and social effects", "value": 2}, {"from": "sustainable development", "title": "Weight: 2", "to": "personnel training", "value": 2}, {"from": "education computing", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "education computing", "title": "Weight: 2", "to": "learning systems", "value": 2}, {"from": "education computing", "title": "Weight: 2", "to": "planning", "value": 2}, {"from": "education computing", "title": "Weight: 3", "to": "education for sustainable development", "value": 3}, {"from": "education computing", "title": "Weight: 2", "to": "electrostatic devices", "value": 2}, {"from": "education computing", "title": "Weight: 2", "to": "surveys", "value": 2}, {"from": "students", "title": "Weight: 2", "to": "learning systems", "value": 2}, {"from": "students", "title": "Weight: 3", "to": "planning", "value": 3}, {"from": "students", "title": "Weight: 3", "to": "education for sustainable development", "value": 3}, {"from": "students", "title": "Weight: 3", "to": "electrostatic devices", "value": 3}, {"from": "students", "title": "Weight: 3", "to": "surveys", "value": 3}, {"from": "students", "title": "Weight: 2", "to": "climate change", "value": 2}, {"from": "students", "title": "Weight: 2", "to": "esd", "value": 2}, {"from": "students", "title": "Weight: 3", "to": "engineering education", "value": 3}, {"from": "planning", "title": "Weight: 2", "to": "teaching", "value": 2}, {"from": "planning", "title": "Weight: 5", "to": "education for sustainable development", "value": 5}, {"from": "planning", "title": "Weight: 5", "to": "electrostatic devices", "value": 5}, {"from": "planning", "title": "Weight: 3", "to": "surveys", "value": 3}, {"from": "planning", "title": "Weight: 2", "to": "engineering education", "value": 2}, {"from": "teaching", "title": "Weight: 3", "to": "education for sustainable development", "value": 3}, {"from": "education for sustainable development", "title": "Weight: 5", "to": "electrostatic devices", "value": 5}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "surveys", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "engineering education", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "design thinking", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 3", "to": "higher education", "value": 3}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "educational program", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "higher education institutions", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "economic and social effects", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "personnel training", "value": 2}, {"from": "electrostatic devices", "title": "Weight: 3", "to": "surveys", "value": 3}, {"from": "electrostatic devices", "title": "Weight: 2", "to": "engineering education", "value": 2}, {"from": "electrostatic devices", "title": "Weight: 2", "to": "educational program", "value": 2}, {"from": "electrostatic devices", "title": "Weight: 2", "to": "higher education institutions", "value": 2}, {"from": "surveys", "title": "Weight: 2", "to": "engineering education", "value": 2}, {"from": "educational program", "title": "Weight: 2", "to": "higher education institutions", "value": 2}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 14, "face": "arial"}}, "edges": {"color": {"inherit": "both"}, "smooth": false}, "physics": {"forceAtlas2Based": {"gravitationalConstant": -80, "centralGravity": 0.01, "springLength": 120, "springConstant": 0.02}, "solver": "forceAtlas2Based", "stabilization": {"iterations": 200}}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

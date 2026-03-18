@@ -1,0 +1,393 @@
+{
+  "session_id": "20260219_051153",
+  "phase": "1",
+  "batch": 2,
+  "timestamp": "2026-02-19T05:14:41.725201",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical thinking enhancement through AI integration",
+        "definition": "This theme describes how various AI technologies are being used to improve students' abilities to analyze information, evaluate arguments, and solve complex problems. Studies across multiple disciplines note both improvements and challenges in critical thinking development when integrating AI tools into educational practices.",
+        "evidence": [
+          "[Cheng2025a] The GRATL framework enhanced students' discipline knowledge, research ability, and career competency skills including communication, problem-solving, critical thinking",
+          "[Liu2024a] The findings revealed a statistically significant improvement in the critical thinking skills of the experimental group compared to the control group",
+          "[Li2025c] Results showed significant improvements in all five aspects of readability, accuracy, completeness, logicality, and critical thinking"
+        ],
+        "articles": [
+          "Cheng2025a",
+          "Liu2024a",
+          "Li2025c",
+          "Gholiagha2025",
+          "Hwang2025",
+          "MagdielOliva-Córdova2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Higher-order thinking skills",
+          "Metacognitive awareness",
+          "AI literacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-assisted instructional frameworks and pedagogical approaches",
+        "definition": "This theme refers to specific frameworks and pedagogical approaches that incorporate AI tools into educational practices. These approaches aim to structure the use of AI in ways that specifically target learning outcomes and address implementation challenges.",
+        "evidence": [
+          "[Cheng2025a] The GRATL framework sets seven areas of research competencies, i.e., Identify, Question, Plan, Conduct, Analyze, Conclude, and Communicate",
+          "[Huang2025a] ChatGPT-enhanced Mobile Instant Messaging (ChatMIM) on student engagement and higher-order thinking skills development",
+          "[Park2025] scenario-based simulation education program supported by an AI tutor"
+        ],
+        "articles": [
+          "Cheng2025a",
+          "Huang2025a",
+          "Park2025",
+          "Yao2025",
+          "Zhang2025a",
+          "Zhang2025b"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Gamification",
+          "Scenario-based learning",
+          "AI literacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Higher-order thinking skills development with AI",
+        "definition": "This theme encompasses studies specifically examining how AI tools cultivate advanced cognitive skills beyond basic memorization, such as analysis, evaluation, and creation, as defined in Bloom's taxonomy. This includes research on creative thinking and metacognitive skills development.",
+        "evidence": [
+          "[Zhang2025b] higher-order thinking skills—such as creative thinking, critical thinking, and metacognitive awareness",
+          "[MagdielOliva-Córdova2025] students' critical thinking in six dimensions: remembering, understanding, applying, analyzing, evaluating, and creating",
+          "[Borge2024] knowledge about, awareness of, and ability to regulate individual (meta) and collective (sociometa) cognition"
+        ],
+        "articles": [
+          "Zhang2025b",
+          "MagdielOliva-Córdova2025",
+          "Ji2025",
+          "Du2025",
+          "Hwang2025",
+          "Borge2024"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Problem solving",
+          "Creative thinking",
+          "Metacognitive regulation"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Metacognition and reflective practices with AI",
+        "definition": "This theme captures how AI systems are being used to encourage reflection on learning processes, self-monitoring of understanding, and evaluation of learning strategies. It includes structured reflective practices designed to develop deeper awareness of cognitive processes.",
+        "evidence": [
+          "[Zhang2025a] reflection journals...encouraged deeper engagement with GenAI-related rules and more thorough evaluations of GenAI-generated content",
+          "[Gholiagha2025] rather than adopting AI uncritically, they developed the capacity to ask how it works, what it assumes, and what it leaves out",
+          "[Tseng2025] incorporation of AI tools such as ChatGPT and Copilot into a scaffolding teaching framework significantly boosted students' AI literacy"
+        ],
+        "articles": [
+          "Zhang2025a",
+          "Gholiagha2025",
+          "Tseng2025",
+          "Yavuz2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Critical reflection",
+          "AI literacy",
+          "Self-regulated learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Human-AI collaboration and co-creation in learning",
+        "definition": "This theme describes dynamic interactions between learners and AI systems characterized by active collaboration rather than passive consumption. It emphasizes co-creation of knowledge and the role of human-AI partnerships in educational activities.",
+        "evidence": [
+          "[Asher2026] practice with explanatory feedback (predefined or adaptive and AI generated)",
+          "[Borge2024] human–GenAI collaborative interactions to support metacognition and sociometacognition",
+          "[Fiore2025] presenting students with modeling exercises solved by ChatGPT, prompting them to critically evaluate and provide constructive feedback"
+        ],
+        "articles": [
+          "Asher2026",
+          "Ji2025",
+          "Borge2024",
+          "Fiore2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "AI as co-reasoner",
+          "Constructive dialogue with AI",
+          "Interactive learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and critical engagement with AI technologies",
+        "definition": "This theme encompasses studies that examine how students critically evaluate AI-generated content for accuracy, understand AI limitations, and consider appropriate usage. It addresses concerns about dependence on AI and encourages responsible application.",
+        "evidence": [
+          "[Holzmann2025] ChatGPT often produces erroneous information...students to responsibly use AI for learning while maintaining a critical stance",
+          "[Li2025b] student feedback...suggested that AI-enhanced teaching stimulated motivation and self-efficacy while also raising concerns about potential overreliance",
+          "[Gholiagha2025] rather than adopting AI uncritically, they developed the capacity to ask how it works"
+        ],
+        "articles": [
+          "Holzmann2025",
+          "Li2025b",
+          "Gholiagha2025",
+          "Tseng2025",
+          "Edlbauer2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "AI awareness",
+          "Critical evaluation of outputs",
+          "Digital literacy"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Key patterns include a strong focus on critical thinking development, the design of specific AI-integrated pedagogical approaches, and a clear emphasis on higher-order cognitive skills. There's a notable consistency in how studies frame AI as a tool that requires critical engagement rather than passive adoption. Some abstracts (notably Cheng2025a, Huang2025a, Zhang2025a) provide particularly rich evidence for multiple themes.",
+    "grounding_notes": "All themes are derived directly from explicitly stated content. While some abstracts have quality issues as noted, those limitations have been addressed by focusing only on what's explicitly stated. No themes have uncertain evidence.",
+    "_hallucination_control": {
+      "total_themes": 6,
+      "avg_grounding_score": 0.92,
+      "total_hallucination_flags": 2,
+      "verification_details": [
+        {
+          "theme_name": "Critical thinking enhancement through AI integration",
+          "evidence_verified": [
+            {
+              "quote": "[Cheng2025a] The GRATL framework enhanced students' discipline knowledge, research ability, and career competency skills including communication, problem-solving, critical thinking",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Liu2024a] The findings revealed a statistically significant improvement in the critical thinking skills of the experimental group compared to the control group",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Li2025c] Results showed significant improvements in all five aspects of readability, accuracy, completeness, logicality, and critical thinking",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Cheng2025a",
+            "Liu2024a",
+            "Li2025c",
+            "Gholiagha2025",
+            "Hwang2025",
+            "MagdielOliva-Córdova2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-assisted instructional frameworks and pedagogical approaches",
+          "evidence_verified": [
+            {
+              "quote": "[Cheng2025a] The GRATL framework sets seven areas of research competencies, i.e., Identify, Question, Plan, Conduct, Analyze, Conclude, and Communicate",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Huang2025a] ChatGPT-enhanced Mobile Instant Messaging (ChatMIM) on student engagement and higher-order thinking skills development",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Park2025] scenario-based simulation education program supported by an AI tutor",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Cheng2025a",
+            "Huang2025a",
+            "Park2025",
+            "Yao2025",
+            "Zhang2025a",
+            "Zhang2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Higher-order thinking skills development with AI",
+          "evidence_verified": [
+            {
+              "quote": "[Zhang2025b] higher-order thinking skills—such as creative thinking, critical thinking, and metacognitive awareness",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Borge2024] knowledge about, awareness of, and ability to regulate individual (meta) and collective (sociometa) cognition",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[MagdielOliva-Córdova2025] students' critical thinking in six dimensions: remembering, understanding, applying, analyzing, evaluating, and creating",
+              "score": 0.47,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Zhang2025b",
+            "MagdielOliva-Córdova2025",
+            "Ji2025",
+            "Du2025",
+            "Hwang2025",
+            "Borge2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.47): '[MagdielOliva-Córdova2025] students' critical thin...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Metacognition and reflective practices with AI",
+          "evidence_verified": [
+            {
+              "quote": "[Zhang2025a] reflection journals...encouraged deeper engagement with GenAI-related rules and more thorough evaluations of GenAI-generated content",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Gholiagha2025] rather than adopting AI uncritically, they developed the capacity to ask how it works, what it assumes, and what it leaves out",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Tseng2025] incorporation of AI tools such as ChatGPT and Copilot into a scaffolding teaching framework significantly boosted students' AI literacy",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Zhang2025a",
+            "Gholiagha2025",
+            "Tseng2025",
+            "Yavuz2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Human-AI collaboration and co-creation in learning",
+          "evidence_verified": [
+            {
+              "quote": "[Asher2026] practice with explanatory feedback (predefined or adaptive and AI generated)",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Borge2024] human–GenAI collaborative interactions to support metacognition and sociometacognition",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Fiore2025] presenting students with modeling exercises solved by ChatGPT, prompting them to critically evaluate and provide constructive feedback",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Asher2026",
+            "Ji2025",
+            "Borge2024",
+            "Fiore2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and critical engagement with AI technologies",
+          "evidence_verified": [
+            {
+              "quote": "[Li2025b] student feedback...suggested that AI-enhanced teaching stimulated motivation and self-efficacy while also raising concerns about potential overreliance",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Gholiagha2025] rather than adopting AI uncritically, they developed the capacity to ask how it works",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Holzmann2025] ChatGPT often produces erroneous information...students to responsibly use AI for learning while maintaining a critical stance",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Holzmann2025",
+            "Li2025b",
+            "Gholiagha2025",
+            "Tseng2025",
+            "Edlbauer2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[Holzmann2025] ChatGPT often produces erroneous in...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

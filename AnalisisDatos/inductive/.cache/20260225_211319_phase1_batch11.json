@@ -1,0 +1,536 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "1",
+  "batch": 11,
+  "timestamp": "2026-02-25T21:36:36.288406",
+  "data": {
+    "themes": [
+      {
+        "name": "Integration of ESD and SDGs in Education",
+        "definition": "This theme involves the explicit incorporation of Education for Sustainable Development (ESD) and the United Nations Sustainable Development Goals (SDGs) into higher education curricula, programs, and initiatives to promote sustainability awareness and action. It focuses on aligning educational efforts with global sustainability agendas, often through curriculum development and pedagogical strategies.",
+        "evidence": [
+          "[CuaBri_2025] Promoting education for sustainable development (ESD) is crucial to meet the Sustainable Development Goals (SDGs).",
+          "[HajEdu_2020] Education for Sustainable Development (ESD) is a key instrument in transforming societies towards sustainable development, which can play a crucial role in the achievement of Agenda 2030 Sustainable Development Goals."
+        ],
+        "articles": [
+          "CuaBri_2025",
+          "Li,Dev_2024",
+          "HajEdu_2020",
+          "SauEdu_2022",
+          "ZaiFut_2026",
+          "MohInt_2026",
+          "MaiMat_2025",
+          "SánTea_2025",
+          "NovEDU_2025",
+          "KonImp_2020",
+          "BarInt_2020",
+          "SalSer_2025",
+          "DanHig_2025",
+          "PfeTra_2017",
+          "BroA l_2022",
+          "SieAct_2025",
+          "DawEDU_2021",
+          "da Fro_2025",
+          "Hol'LE_2024",
+          "BirCon_2025",
+          "JenCro_2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Curriculum alignment",
+          "Sustainability agendas",
+          "Global education frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Active and Innovative Pedagogies",
+        "definition": "This theme centers on the use of active, experiential, and innovative teaching methodologies to enhance sustainability education. It includes approaches such as service-learning, place-based education, learning landscapes, game-based learning, and reflective practices that engage students in hands-on and collaborative learning experiences.",
+        "evidence": [
+          "[CuaBri_2025] the use of active methodologies, among which learning landscapes have recently been highlighted.",
+          "[SánTea_2025] It is a service-learning project, an active methodology that consists of learning by providing a service to the community."
+        ],
+        "articles": [
+          "CuaBri_2025",
+          "ÇırFro_2026",
+          "ConPla_2019",
+          "SánTea_2025",
+          "SieAct_2025",
+          "Hol'LE_2024",
+          "PraBe _2025",
+          "SalSer_2025",
+          "BirCon_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Experiential learning",
+          "Reflective practices",
+          "Collaborative learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Digital Technology and Tools in Sustainability Education",
+        "definition": "This theme encompasses the integration of digital technologies, data analytics, simulation tools, and online platforms to facilitate and enhance education for sustainable development. It highlights the role of technology in modernizing teaching methods, improving learning outcomes, and addressing sustainability challenges through innovative digital solutions.",
+        "evidence": [
+          "[Li,Dev_2024] This research delves into the intricate utilization of digital technology in higher education, aiming to construct a nuanced conceptual framework to interpret the digitalization of teaching sustainable development.",
+          "[ZaiFut_2026] PurposeThis study examines the integration of data analytics and sustainability within Malaysian accounting education"
+        ],
+        "articles": [
+          "Li,Dev_2024",
+          "ÇırFro_2026",
+          "ZaiFut_2026",
+          "MohInt_2026",
+          "XinEva_2021",
+          "KarAss_2024",
+          "BirCon_2025",
+          "JenCro_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Data analytics",
+          "Simulation-based learning",
+          "Online platforms"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of Sustainability Competencies",
+        "definition": "This theme focuses on cultivating specific competencies and skills essential for sustainability, such as systems thinking, critical thinking, digital literacy, and sustainability literacy among students and educators. It emphasizes the need for holistic skill development to prepare individuals for addressing complex sustainability challenges.",
+        "evidence": [
+          "[NovEDU_2025] This research examines the ESD competency levels—specifically systems thinking, anticipatory thinking, and critical thinking",
+          "[BarInt_2020] Penn State University Sustainability Institute research findings articulated five sustainability meta-competencies for sustainability: system thinking, temporal thinking, interpersonal literacy, ethical literacy, and creativity/imagination."
+        ],
+        "articles": [
+          "NovEDU_2025",
+          "BarInt_2020",
+          "ZaiFut_2026",
+          "MohInt_2026",
+          "ErgWha_2024",
+          "MpuWom_2025",
+          "JenCro_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Systems thinking",
+          "Critical thinking",
+          "Sustainability literacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Institutional and Policy Support for Sustainability Education",
+        "definition": "This theme addresses the role of higher education institutions, policies, frameworks, and institutional strategies in supporting and implementing education for sustainable development. It includes aspects such as institutional commitment, policy integration, curriculum design, and the alignment of educational practices with sustainability goals.",
+        "evidence": [
+          "[Li,Dev_2024] The results unveiled prominent themes such as Institutional Support and Policy Integration",
+          "[SauEdu_2022] Universities can play a key role in contributing to a sustainable future for our planet and its inhabitants."
+        ],
+        "articles": [
+          "Li,Dev_2024",
+          "SauEdu_2022",
+          "ZaiFut_2026",
+          "MohInt_2026",
+          "ConPla_2019",
+          "DanHig_2025",
+          "MasLiv_2017",
+          "PraBe _2025",
+          "JenCro_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Policy integration",
+          "Institutional frameworks",
+          "Curriculum development"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Community Engagement and Real-World Application",
+        "definition": "This theme involves connecting educational activities with community needs, real-world projects, and social responsibility to foster practical sustainability skills and societal impact. It emphasizes experiential learning through partnerships, service, and collaborative projects that address local and global sustainability issues.",
+        "evidence": [
+          "[Hol'LE_2024] students conduct real-world projects with extramural partners",
+          "[BirCon_2025] students worked in mixed groups to investigate and write a blog on a sustainability solution of their choice as it is embedded in their respective, local communities."
+        ],
+        "articles": [
+          "ÇırFro_2026",
+          "SánTea_2025",
+          "Hol'LE_2024",
+          "PraBe _2025",
+          "BirCon_2025",
+          "MasLiv_2017",
+          "da Fro_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Service-learning",
+          "Social responsibility",
+          "Local community partnerships"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment and Measurement of Sustainability Learning",
+        "definition": "This theme covers methods and tools used to evaluate the effectiveness of sustainability education, including assessments of literacy, competencies, and learning outcomes. It involves quantitative and qualitative approaches to measure impact, improve educational practices, and ensure alignment with sustainability goals.",
+        "evidence": [
+          "[ErgWha_2024] This research assessed the impact of content-based instruction on students’ sustainability literacy",
+          "[KarAss_2024] This full research paper assesses the climate literacy of engineering undergraduate students via simulation-based learning."
+        ],
+        "articles": [
+          "ErgWha_2024",
+          "KarAss_2024",
+          "XinEva_2021",
+          "NovEDU_2025",
+          "BarInt_2020",
+          "CaeSus_2020_315"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Sustainability literacy assessment",
+          "Competency evaluation",
+          "Learning outcomes measurement"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Disciplinary and Contextual Adaptations of Sustainability Education",
+        "definition": "This theme refers to the tailoring of sustainability education to specific academic disciplines, cultural contexts, or regional settings to enhance relevance and effectiveness. It highlights how ESD is integrated into fields such as engineering, accounting, language teaching, and others, considering local needs and global perspectives.",
+        "evidence": [
+          "[MaiMat_2025] Materials for Transformative Language Teaching for Sustainability Model—Students’ Perspectives",
+          "[KonImp_2020] Implementation of education for sustainable development principles in the training of future software engineers"
+        ],
+        "articles": [
+          "MaiMat_2025",
+          "KonImp_2020",
+          "ZaiFut_2026",
+          "MohInt_2026",
+          "KarAss_2024",
+          "XinEva_2021",
+          "DawEDU_2021",
+          "da Fro_2025",
+          "MpuWom_2025",
+          "BirCon_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Disciplinary integration",
+          "Cultural relevance",
+          "Regional adaptations"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on higher education institutions, with a strong emphasis on integrating ESD and SDGs. Many studies employ qualitative or mixed-methods designs, but quality notes indicate frequent missing elements such as objectives, methods, results, or quantitative data. There is a recurring use of active pedagogies and digital tools, reflecting trends in modern education. Themes like community engagement and competency development are often interlinked with institutional support and assessment practices.",
+    "grounding_notes": "All evidence is based on verbatim text from the provided abstracts. Some abstracts have quality notes indicating missing information, so themes were derived only from explicitly stated content. The frequency ratings are based on the number of articles in this batch that mention the theme, with 'High' for themes appearing in over 15 articles, 'Medium' for 10-15, and 'Low' for fewer, but in this batch, most themes are Medium to High. Confidence is high as themes are directly supported by quotes.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.96,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "Integration of ESD and SDGs in Education",
+          "evidence_verified": [
+            {
+              "quote": "[HajEdu_2020] Education for Sustainable Development (ESD) is a key instrument in transforming societies towards sustainable development, which can play a crucial role in the achievement of Agenda 2030 Sustainable Development Goals.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[CuaBri_2025] Promoting education for sustainable development (ESD) is crucial to meet the Sustainable Development Goals (SDGs).",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "CuaBri_2025",
+            "Li,Dev_2024",
+            "HajEdu_2020",
+            "SauEdu_2022",
+            "ZaiFut_2026",
+            "MohInt_2026",
+            "MaiMat_2025",
+            "SánTea_2025",
+            "NovEDU_2025",
+            "KonImp_2020",
+            "BarInt_2020",
+            "SalSer_2025",
+            "DanHig_2025",
+            "PfeTra_2017",
+            "BroA l_2022",
+            "SieAct_2025",
+            "DawEDU_2021",
+            "da Fro_2025",
+            "Hol'LE_2024",
+            "BirCon_2025",
+            "JenCro_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.62), not verbatim: '[CuaBri_2025] Promoting education for sustainable ...'"
+          ],
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Active and Innovative Pedagogies",
+          "evidence_verified": [
+            {
+              "quote": "[CuaBri_2025] the use of active methodologies, among which learning landscapes have recently been highlighted.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[SánTea_2025] It is a service-learning project, an active methodology that consists of learning by providing a service to the community.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "CuaBri_2025",
+            "ÇırFro_2026",
+            "ConPla_2019",
+            "SánTea_2025",
+            "SieAct_2025",
+            "Hol'LE_2024",
+            "PraBe _2025",
+            "SalSer_2025",
+            "BirCon_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Digital Technology and Tools in Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[Li,Dev_2024] This research delves into the intricate utilization of digital technology in higher education, aiming to construct a nuanced conceptual framework to interpret the digitalization of teaching sustainable development.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ZaiFut_2026] PurposeThis study examines the integration of data analytics and sustainability within Malaysian accounting education",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Li,Dev_2024",
+            "ÇırFro_2026",
+            "ZaiFut_2026",
+            "MohInt_2026",
+            "XinEva_2021",
+            "KarAss_2024",
+            "BirCon_2025",
+            "JenCro_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Development of Sustainability Competencies",
+          "evidence_verified": [
+            {
+              "quote": "[NovEDU_2025] This research examines the ESD competency levels—specifically systems thinking, anticipatory thinking, and critical thinking",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[BarInt_2020] Penn State University Sustainability Institute research findings articulated five sustainability meta-competencies for sustainability: system thinking, temporal thinking, interpersonal literacy, ethical literacy, and creativity/imagination.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "NovEDU_2025",
+            "BarInt_2020",
+            "ZaiFut_2026",
+            "MohInt_2026",
+            "ErgWha_2024",
+            "MpuWom_2025",
+            "JenCro_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Institutional and Policy Support for Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[Li,Dev_2024] The results unveiled prominent themes such as Institutional Support and Policy Integration",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[SauEdu_2022] Universities can play a key role in contributing to a sustainable future for our planet and its inhabitants.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Li,Dev_2024",
+            "SauEdu_2022",
+            "ZaiFut_2026",
+            "MohInt_2026",
+            "ConPla_2019",
+            "DanHig_2025",
+            "MasLiv_2017",
+            "PraBe _2025",
+            "JenCro_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Community Engagement and Real-World Application",
+          "evidence_verified": [
+            {
+              "quote": "[Hol'LE_2024] students conduct real-world projects with extramural partners",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[BirCon_2025] students worked in mixed groups to investigate and write a blog on a sustainability solution of their choice as it is embedded in their respective, local communities.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "ÇırFro_2026",
+            "SánTea_2025",
+            "Hol'LE_2024",
+            "PraBe _2025",
+            "BirCon_2025",
+            "MasLiv_2017",
+            "da Fro_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment and Measurement of Sustainability Learning",
+          "evidence_verified": [
+            {
+              "quote": "[ErgWha_2024] This research assessed the impact of content-based instruction on students’ sustainability literacy",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[KarAss_2024] This full research paper assesses the climate literacy of engineering undergraduate students via simulation-based learning.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "ErgWha_2024",
+            "KarAss_2024",
+            "XinEva_2021",
+            "NovEDU_2025",
+            "BarInt_2020",
+            "CaeSus_2020_315"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Disciplinary and Contextual Adaptations of Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[MaiMat_2025] Materials for Transformative Language Teaching for Sustainability Model—Students’ Perspectives",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[KonImp_2020] Implementation of education for sustainable development principles in the training of future software engineers",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "MaiMat_2025",
+            "KonImp_2020",
+            "ZaiFut_2026",
+            "MohInt_2026",
+            "KarAss_2024",
+            "XinEva_2021",
+            "DawEDU_2021",
+            "da Fro_2025",
+            "MpuWom_2025",
+            "BirCon_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

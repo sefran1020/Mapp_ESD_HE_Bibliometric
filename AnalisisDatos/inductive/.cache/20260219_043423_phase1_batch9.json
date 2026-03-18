@@ -1,0 +1,461 @@
+{
+  "session_id": "20260219_043423",
+  "phase": "1",
+  "batch": 9,
+  "timestamp": "2026-02-19T04:55:28.520531",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Development with Generative AI",
+        "definition": "The integration of generative AI tools into educational settings to foster and enhance critical thinking skills among learners, as observed through improved analysis, evaluation, reflective practices, and higher-order thinking.",
+        "evidence": [
+          "[Busuttil2025] fosters critical thinking, reflective practices, and the refinement of teaching strategies.",
+          "[Hong2025a] impact on critical thinking and writing skills;"
+        ],
+        "articles": [
+          "Busuttil2025",
+          "Hong2025a",
+          "Wang2025d",
+          "Naeem2025",
+          "Abdelmagid2025",
+          "Melgoza2025",
+          "Sands2025",
+          "Arif2025",
+          "Jho2025",
+          "Bejarano2025",
+          "Wiseman2025",
+          "Hong2025b",
+          "Zhang2025f",
+          "Al-Shamrani2025",
+          "Tang2025",
+          "Seufert2025",
+          "Zhang2025g",
+          "Kim2024b",
+          "Kurniawan2025b",
+          "Paiva2025",
+          "Triana2025",
+          "Liu2024b",
+          "Zhou2025b",
+          "RojasGuillén2025",
+          "Hadyaoui2024",
+          "Chu2025b",
+          "LaScala2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "reflective practices",
+          "higher-order thinking skills",
+          "analysis and evaluation",
+          "problem-solving"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI Roles in Learning: Facilitator, Partner, and Scaffold",
+        "definition": "Generative AI tools are assigned specific roles such as facilitator, cognitive scaffolder, dialogic partner, mentor, or tool to support learning processes beyond mere information provision, enhancing engagement and guidance.",
+        "evidence": [
+          "[Jho2025] AI extends beyond being a passive information provider to perform four key roles: (1) a ‘proactive facilitator’ that advances inquiry by shifting the conversational lead, (2) a ‘cognitive scaffolder’ that provides step-by-step guidance for complex tasks, (3) a ‘catalyst’ that stimulates creative thinking by presenting alternative perspectives, and (4) a ‘critical friend’ that enhances scientific rigor through reflective questioning.",
+          "[Tang2025] positions GenAI as a dialogic partner rather than an authoritative knowledge provider."
+        ],
+        "articles": [
+          "Jho2025",
+          "Tang2025",
+          "Wang2025d",
+          "Naeem2025",
+          "Paiva2025",
+          "LaScala2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "cognitive scaffolding",
+          "dialogic interaction",
+          "mentorship",
+          "pair programming",
+          "peer review"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Pedagogical Frameworks and Rules for AI Integration",
+        "definition": "The use of structured models, rules, or methodologies to guide the effective integration of AI in education, ensuring optimized learning outcomes through deliberate scaffolding and operational parameters.",
+        "evidence": [
+          "[Wang2025d] the intervention used a pre-defined “3–2-60 Rule” (≥3 queries/session, ≥2 authoritative sources/claim, >60% comparative framing), derived from existing literature, to guide ChatGPT engagement.",
+          "[Triana2025] development of a Common Knowledge Constructional Model integrated AI-Text Generator (CKCM+AIG)."
+        ],
+        "articles": [
+          "Wang2025d",
+          "Triana2025",
+          "RojasGuillén2025",
+          "Hong2025b",
+          "Zhang2025g"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "structured intervention",
+          "instructional design",
+          "learning cycles",
+          "methodological frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Challenges, Limitations, and Ethical Considerations",
+        "definition": "Identification of issues such as AI inaccuracies, need for human intervention, ethical concerns like copyright, and risks of overreliance or dependency on AI tools, highlighting the balance between AI use and critical evaluation.",
+        "evidence": [
+          "[Busuttil2025] limitations in linguistic accuracy, differentiation for diverse learners, and time management, require significant human intervention.",
+          "[Kim2024b] challenges, such as students developing an overreliance on AI technology and encountering difficulties in mastering basic composition skills."
+        ],
+        "articles": [
+          "Busuttil2025",
+          "Kim2024b",
+          "Seufert2025",
+          "Kurniawan2025b",
+          "Melgoza2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "human intervention",
+          "ethical use",
+          "technology dependency",
+          "accuracy concerns",
+          "overreliance"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of Metacognitive and Professional Skills",
+        "definition": "Focus on enhancing skills beyond critical thinking, including metacognition, creativity, problem-solving, and industry-relevant technical skills through AI-assisted learning, preparing students for professional contexts.",
+        "evidence": [
+          "[Bejarano2025] developing metacognitive skills about their own process when confronted with automated systems.",
+          "[Sands2025] enhanced students' skills in quantity take-off and cost estimation, preparing them for the evolving technological demands of the industry."
+        ],
+        "articles": [
+          "Bejarano2025",
+          "Sands2025",
+          "Melgoza2025",
+          "Wiseman2025",
+          "Jho2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "metacognition",
+          "creativity",
+          "technical skills",
+          "professional judgment",
+          "industry alignment"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment and Feedback in AI-Enhanced Learning",
+        "definition": "The application of AI in assessment practices, such as providing feedback, evaluating critical thinking, or designing adaptive assessments, to promote learning and skill development.",
+        "evidence": [
+          "[Busuttil2025] Adopting an Assessment as Learning (AaL) approach, the study investigates how engaging with GenAI fosters critical thinking.",
+          "[Hadyaoui2024] real-time formative feedback systems are capable of evaluating the originality, process, and critical thinking involved in AI-assisted tasks."
+        ],
+        "articles": [
+          "Busuttil2025",
+          "Hadyaoui2024",
+          "Wiseman2025",
+          "Zhang2025f",
+          "Abdelmagid2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "formative feedback",
+          "adaptive assessments",
+          "learning evaluation",
+          "feedback strategies"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Collaborative and Dialogic Learning with AI",
+        "definition": "Emphasis on collaborative learning environments where students engage with AI and peers in dialogic interactions to co-construct knowledge, perspectives, and arguments, fostering social learning.",
+        "evidence": [
+          "[Tang2025] dialogic interactions with DST were characterized by students in critically reflecting, reasoning, arguing, and developing innovative ideas and alternative perspectives.",
+          "[Liu2024b] generative AI-assisted collaborative argumentation."
+        ],
+        "articles": [
+          "Tang2025",
+          "Liu2024b",
+          "Wang2025d",
+          "Hong2025b",
+          "Chu2025b"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "dialogic interaction",
+          "peer collaboration",
+          "co-construction of knowledge",
+          "argumentation",
+          "social learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on higher education and specific subject contexts (e.g., medicine, programming, art) with a strong emphasis on qualitative or mixed methods. Many studies employ quasi-experimental designs, and critical thinking is a central outcome across diverse AI applications. Terminology varies but consistently includes 'critical thinking,' 'generative AI,' and pedagogical terms like 'scaffolding' and 'collaboration.'",
+    "grounding_notes": "Some abstracts have quality notes indicating missing elements (e.g., no quantitative data, missing methods), so evidence extraction is limited to explicit statements. Themes are derived solely from verbatim text; no inferences are made beyond what is stated. Confidence is high for themes with multiple explicit mentions, but variations in abstract completeness may affect depth of analysis.",
+    "_hallucination_control": {
+      "total_themes": 7,
+      "avg_grounding_score": 1.0,
+      "total_hallucination_flags": 0,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Development with Generative AI",
+          "evidence_verified": [
+            {
+              "quote": "[Busuttil2025] fosters critical thinking, reflective practices, and the refinement of teaching strategies.",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Hong2025a] impact on critical thinking and writing skills;",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Busuttil2025",
+            "Hong2025a",
+            "Wang2025d",
+            "Naeem2025",
+            "Abdelmagid2025",
+            "Melgoza2025",
+            "Sands2025",
+            "Arif2025",
+            "Jho2025",
+            "Bejarano2025",
+            "Wiseman2025",
+            "Hong2025b",
+            "Zhang2025f",
+            "Al-Shamrani2025",
+            "Tang2025",
+            "Seufert2025",
+            "Zhang2025g",
+            "Kim2024b",
+            "Kurniawan2025b",
+            "Paiva2025",
+            "Triana2025",
+            "Liu2024b",
+            "Zhou2025b",
+            "RojasGuillén2025",
+            "Hadyaoui2024",
+            "Chu2025b",
+            "LaScala2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI Roles in Learning: Facilitator, Partner, and Scaffold",
+          "evidence_verified": [
+            {
+              "quote": "[Jho2025] AI extends beyond being a passive information provider to perform four key roles: (1) a ‘proactive facilitator’ that advances inquiry by shifting the conversational lead, (2) a ‘cognitive scaffolder’ that provides step-by-step guidance for complex tasks, (3) a ‘catalyst’ that stimulates creative thinking by presenting alternative perspectives, and (4) a ‘critical friend’ that enhances scientific rigor through reflective questioning.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Tang2025] positions GenAI as a dialogic partner rather than an authoritative knowledge provider.",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Jho2025",
+            "Tang2025",
+            "Wang2025d",
+            "Naeem2025",
+            "Paiva2025",
+            "LaScala2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Frameworks and Rules for AI Integration",
+          "evidence_verified": [
+            {
+              "quote": "[Wang2025d] the intervention used a pre-defined “3–2-60 Rule” (≥3 queries/session, ≥2 authoritative sources/claim, >60% comparative framing), derived from existing literature, to guide ChatGPT engagement.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Triana2025] development of a Common Knowledge Constructional Model integrated AI-Text Generator (CKCM+AIG).",
+              "score": 0.79,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Wang2025d",
+            "Triana2025",
+            "RojasGuillén2025",
+            "Hong2025b",
+            "Zhang2025g"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Challenges, Limitations, and Ethical Considerations",
+          "evidence_verified": [
+            {
+              "quote": "[Busuttil2025] limitations in linguistic accuracy, differentiation for diverse learners, and time management, require significant human intervention.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Kim2024b] challenges, such as students developing an overreliance on AI technology and encountering difficulties in mastering basic composition skills.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Busuttil2025",
+            "Kim2024b",
+            "Seufert2025",
+            "Kurniawan2025b",
+            "Melgoza2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Development of Metacognitive and Professional Skills",
+          "evidence_verified": [
+            {
+              "quote": "[Bejarano2025] developing metacognitive skills about their own process when confronted with automated systems.",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Sands2025] enhanced students' skills in quantity take-off and cost estimation, preparing them for the evolving technological demands of the industry.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Bejarano2025",
+            "Sands2025",
+            "Melgoza2025",
+            "Wiseman2025",
+            "Jho2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment and Feedback in AI-Enhanced Learning",
+          "evidence_verified": [
+            {
+              "quote": "[Busuttil2025] Adopting an Assessment as Learning (AaL) approach, the study investigates how engaging with GenAI fosters critical thinking.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Hadyaoui2024] real-time formative feedback systems are capable of evaluating the originality, process, and critical thinking involved in AI-assisted tasks.",
+              "score": 0.76,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Busuttil2025",
+            "Hadyaoui2024",
+            "Wiseman2025",
+            "Zhang2025f",
+            "Abdelmagid2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Collaborative and Dialogic Learning with AI",
+          "evidence_verified": [
+            {
+              "quote": "[Tang2025] dialogic interactions with DST were characterized by students in critically reflecting, reasoning, arguing, and developing innovative ideas and alternative perspectives.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Liu2024b] generative AI-assisted collaborative argumentation.",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Tang2025",
+            "Liu2024b",
+            "Wang2025d",
+            "Hong2025b",
+            "Chu2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

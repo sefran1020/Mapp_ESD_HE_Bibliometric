@@ -1,0 +1,525 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "1",
+  "batch": 10,
+  "timestamp": "2026-02-25T21:34:48.048238",
+  "data": {
+    "themes": [
+      {
+        "name": "Integration of ESD and SDGs into Curricula",
+        "definition": "The incorporation of Education for Sustainable Development competencies and Sustainable Development Goals into higher education programs through curricular design, alignment, or infusion methods.",
+        "evidence": [
+          "[DumReo_2017] integrating education for sustainable development (ESD) competencies through infusion as a technique of curricular design",
+          "[MarTow_2019] verify the compatibility of the curricula of the master's study program in Integrated Urbanism at the Faculty of Architecture, University of Belgrade, with the recommendations of the UN, UNESCO, and ECTP-CEU",
+          "[XioUsi_2025] integrate global competence into teaching the Sustainable Development Goals (SDGs) in higher education institutions"
+        ],
+        "articles": [
+          "DumReo_2017",
+          "MarTow_2019",
+          "XioUsi_2025",
+          "ImaInc_2025",
+          "AcoThe_2020",
+          "SzeSus_2026",
+          "TusSus_2026",
+          "Ng,Mea_2020"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Curricular design",
+          "Alignment with global goals",
+          "Infusion techniques"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Pedagogical Innovations for Sustainability Education",
+        "definition": "The application of specific teaching methods and approaches, such as case studies, gamification, e-learning, or reflective practices, to facilitate learning about sustainability in higher education.",
+        "evidence": [
+          "[BroTra_2025] the case study teaching method was used in two Swedish language courses",
+          "[BarEva_2025] gamification significantly enhances students' understanding of climate change",
+          "[ZelInt_2020] integration design thinking with education for sustainable development"
+        ],
+        "articles": [
+          "BroTra_2025",
+          "BarEva_2025",
+          "ZelInt_2020",
+          "AyeThe_2020",
+          "BlaE-L_2021",
+          "WorPro_2025",
+          "MicDev_2021"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Case study method",
+          "Gamification",
+          "E-learning",
+          "Reflective pedagogies"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of Sustainability Competencies",
+        "definition": "Focus on acquiring and assessing knowledge, skills, attitudes, and values related to sustainability among students and educators, often through competency frameworks and assessment tools.",
+        "evidence": [
+          "[ValAn _2025] design and validation of an instrument to assess learning about sustainability and the Sustainable Development Goals among students",
+          "[ZenISL_2025] develops a comprehensive framework that integrates the Sustainable Hospitality Education (SHE) Teacher Competency Scale",
+          "[RosThe_2018] competencies required to drive sustainability ... clustered as technical, relational and transformational competencies"
+        ],
+        "articles": [
+          "ValAn _2025",
+          "ZenISL_2025",
+          "RosThe_2018",
+          "AriRec_2024",
+          "DumReo_2017"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Competency assessment",
+          "Skills development",
+          "Key competencies"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Whole Institution Approaches to Sustainability",
+        "definition": "Strategies that involve the entire university or institution in promoting sustainability through integrated efforts in curricula, research, operations, and community engagement.",
+        "evidence": [
+          "[BloDie_2016] aims for a whole institutional change by initiating a bottom-up sustainable development process",
+          "[SzeSus_2026] an in-depth institution development process and strategy has been initiated, including ESD",
+          "[Bow“Su_2026] whole institution approach (WIA) sustainability process at a higher education institution"
+        ],
+        "articles": [
+          "BloDie_2016",
+          "SzeSus_2026",
+          "Bow“Su_2026",
+          "TusSus_2026",
+          "MicDev_2021"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Institutional change",
+          "Sustainability strategy",
+          "Bottom-up processes"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Interdisciplinary and Transdisciplinary Engagement",
+        "definition": "Approaches that cross disciplinary boundaries or involve stakeholders outside academia to address sustainability issues through collaboration and real-world projects.",
+        "evidence": [
+          "[IseZuk_2016] transdisciplinary approach combining higher education for sustainable development and designing the future of the city",
+          "[vanBri_2025] interdisciplinary approaches, and community engagement employed by students and educators",
+          "[ZelInt_2020] interdisciplinary approach have been tested"
+        ],
+        "articles": [
+          "IseZuk_2016",
+          "vanBri_2025",
+          "ZelInt_2020",
+          "MarTow_2019",
+          "MicDev_2021"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Collaboration",
+          "Community involvement",
+          "Real-world projects"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment and Evaluation of ESD Initiatives",
+        "definition": "Methods and tools used to measure the effectiveness, impact, or learning outcomes of sustainability education programs, including instruments, experiments, and surveys.",
+        "evidence": [
+          "[ValAn _2025] instrument to assess learning about sustainability and the Sustainable Development Goals",
+          "[AriRec_2024] effectiveness was tested through a quasi-experiment",
+          "[Ng,Mea_2020] evaluates the effectiveness of this initiative through the course evaluation"
+        ],
+        "articles": [
+          "ValAn _2025",
+          "AriRec_2024",
+          "Ng,Mea_2020",
+          "BarEva_2025",
+          "BroTra_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Learning outcomes",
+          "Effectiveness testing",
+          "Evaluation tools"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Teacher Education and Professional Development for ESD",
+        "definition": "Programs and courses designed to equip pre-service or in-service teachers with the knowledge and skills to teach sustainability, often through pedagogical training and virtual courses.",
+        "evidence": [
+          "[DumReo_2017] pedagogical training program ... integrating education for sustainable development (ESD) competencies",
+          "[DemHow_2025] virtual course for Pre-service Teachers’ Sustainability Education",
+          "[UreThe_2021] reorienting teacher education to address Education 2030"
+        ],
+        "articles": [
+          "DumReo_2017",
+          "DemHow_2025",
+          "UreThe_2021",
+          "ValAn _2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Pedagogical training",
+          "Sustainability education for teachers",
+          "Virtual courses"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Challenges and Barriers in Implementing ESD",
+        "definition": "Identified difficulties or obstacles in integrating sustainability into education, such as lack of integration, resistance, or need for institutional support.",
+        "evidence": [
+          "[SwaTim_2024] urgent need for rapid initiatives to enhance sustainable development education",
+          "[PagLea_2024] challenges such as gender disparities, lack of systematic integration of Education for Sustainable Development (ESD)",
+          "[MifApp_2023] explores the barriers at a learner, academic institution, and stakeholders level"
+        ],
+        "articles": [
+          "SwaTim_2024",
+          "PagLea_2024",
+          "MifApp_2023",
+          "AcoThe_2020",
+          "Bow“Su_2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Implementation difficulties",
+          "Need for support",
+          "Policy refinement"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Methodological notes: Many abstracts use qualitative research designs, case studies, and focus on specific institutional contexts. There is a strong emphasis on practical implications and real-world application of ESD. Several abstracts mention interdisciplinary or transdisciplinary approaches, and a recurring pattern is the integration of ESD into various disciplines such as engineering, language teaching, and healthcare education. Unexpected patterns include the frequent use of innovative pedagogical methods like gamification and e-learning, and the focus on whole-institution change processes.",
+    "grounding_notes": "Limitations in evidence: Some abstracts have quality notes indicating missing elements (e.g., missing results, conclusions, or quantitative data), so evidence is restricted to explicitly stated text. Verbatim quotes were extracted only from available abstract text, and no inferences were made beyond what is written. Article keys are used exactly as provided in the closed set, including formatting quirks such as spaces or special characters. Confidence in themes is high due to clear and repeated terminology across abstracts, but some themes may have overlapping concepts based on data.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.91,
+      "total_hallucination_flags": 3,
+      "verification_details": [
+        {
+          "theme_name": "Integration of ESD and SDGs into Curricula",
+          "evidence_verified": [
+            {
+              "quote": "[MarTow_2019] verify the compatibility of the curricula of the master's study program in Integrated Urbanism at the Faculty of Architecture, University of Belgrade, with the recommendations of the UN, UNESCO, and ECTP-CEU",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[XioUsi_2025] integrate global competence into teaching the Sustainable Development Goals (SDGs) in higher education institutions",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[DumReo_2017] integrating education for sustainable development (ESD) competencies through infusion as a technique of curricular design",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "DumReo_2017",
+            "MarTow_2019",
+            "XioUsi_2025",
+            "ImaInc_2025",
+            "AcoThe_2020",
+            "SzeSus_2026",
+            "TusSus_2026",
+            "Ng,Mea_2020"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[DumReo_2017] integrating education for sustainabl...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Innovations for Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[BroTra_2025] the case study teaching method was used in two Swedish language courses",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[BarEva_2025] gamification significantly enhances students' understanding of climate change",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[ZelInt_2020] integration design thinking with education for sustainable development",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "BroTra_2025",
+            "BarEva_2025",
+            "ZelInt_2020",
+            "AyeThe_2020",
+            "BlaE-L_2021",
+            "WorPro_2025",
+            "MicDev_2021"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Development of Sustainability Competencies",
+          "evidence_verified": [
+            {
+              "quote": "[ValAn _2025] design and validation of an instrument to assess learning about sustainability and the Sustainable Development Goals among students",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ZenISL_2025] develops a comprehensive framework that integrates the Sustainable Hospitality Education (SHE) Teacher Competency Scale",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[RosThe_2018] competencies required to drive sustainability ... clustered as technical, relational and transformational competencies",
+              "score": 0.54,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "ValAn _2025",
+            "ZenISL_2025",
+            "RosThe_2018",
+            "AriRec_2024",
+            "DumReo_2017"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.54): '[RosThe_2018] competencies required to drive susta...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Whole Institution Approaches to Sustainability",
+          "evidence_verified": [
+            {
+              "quote": "[BloDie_2016] aims for a whole institutional change by initiating a bottom-up sustainable development process",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[SzeSus_2026] an in-depth institution development process and strategy has been initiated, including ESD",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Bow“Su_2026] whole institution approach (WIA) sustainability process at a higher education institution",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "BloDie_2016",
+            "SzeSus_2026",
+            "Bow“Su_2026",
+            "TusSus_2026",
+            "MicDev_2021"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Interdisciplinary and Transdisciplinary Engagement",
+          "evidence_verified": [
+            {
+              "quote": "[IseZuk_2016] transdisciplinary approach combining higher education for sustainable development and designing the future of the city",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[vanBri_2025] interdisciplinary approaches, and community engagement employed by students and educators",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ZelInt_2020] interdisciplinary approach have been tested",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "IseZuk_2016",
+            "vanBri_2025",
+            "ZelInt_2020",
+            "MarTow_2019",
+            "MicDev_2021"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment and Evaluation of ESD Initiatives",
+          "evidence_verified": [
+            {
+              "quote": "[ValAn _2025] instrument to assess learning about sustainability and the Sustainable Development Goals",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[AriRec_2024] effectiveness was tested through a quasi-experiment",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Ng,Mea_2020] evaluates the effectiveness of this initiative through the course evaluation",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "ValAn _2025",
+            "AriRec_2024",
+            "Ng,Mea_2020",
+            "BarEva_2025",
+            "BroTra_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Teacher Education and Professional Development for ESD",
+          "evidence_verified": [
+            {
+              "quote": "[DemHow_2025] virtual course for Pre-service Teachers’ Sustainability Education",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[UreThe_2021] reorienting teacher education to address Education 2030",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[DumReo_2017] pedagogical training program ... integrating education for sustainable development (ESD) competencies",
+              "score": 0.64,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "DumReo_2017",
+            "DemHow_2025",
+            "UreThe_2021",
+            "ValAn _2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.64), not verbatim: '[DumReo_2017] pedagogical training program ... int...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Challenges and Barriers in Implementing ESD",
+          "evidence_verified": [
+            {
+              "quote": "[SwaTim_2024] urgent need for rapid initiatives to enhance sustainable development education",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PagLea_2024] challenges such as gender disparities, lack of systematic integration of Education for Sustainable Development (ESD)",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[MifApp_2023] explores the barriers at a learner, academic institution, and stakeholders level",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "SwaTim_2024",
+            "PagLea_2024",
+            "MifApp_2023",
+            "AcoThe_2020",
+            "Bow“Su_2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

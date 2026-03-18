@@ -1,0 +1,211 @@
+{
+  "session_id": "20260225_211319",
+  "started_at": "2026-02-25T21:13:19.514564",
+  "config": {
+    "total_articles": 442,
+    "valid_articles": 442,
+    "min_abstract_length": 50,
+    "batch_size": 30,
+    "provider": "DeepSeek",
+    "model_extraction": "deepseek-reasoner",
+    "model_reasoning": "deepseek-reasoner",
+    "use_cache": true
+  },
+  "operations": [
+    {
+      "timestamp": "2026-02-25T21:15:02.044754",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 1,
+        "n_articles": 30,
+        "n_themes": 7,
+        "grounding_score": 0.93,
+        "hallucination_flags": 2
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:17:03.997388",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 2,
+        "n_articles": 30,
+        "n_themes": 10,
+        "grounding_score": 0.97,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:19:22.120088",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 3,
+        "n_articles": 30,
+        "n_themes": 0,
+        "grounding_score": 0,
+        "hallucination_flags": 0
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:20:54.037482",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 4,
+        "n_articles": 30,
+        "n_themes": 7,
+        "grounding_score": 0.93,
+        "hallucination_flags": 2
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:23:06.238933",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 5,
+        "n_articles": 30,
+        "n_themes": 6,
+        "grounding_score": 0.96,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:25:03.740949",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 6,
+        "n_articles": 30,
+        "n_themes": 7,
+        "grounding_score": 0.85,
+        "hallucination_flags": 3
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:27:53.404312",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 7,
+        "n_articles": 30,
+        "n_themes": 10,
+        "grounding_score": 0.92,
+        "hallucination_flags": 4
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:29:42.468145",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 8,
+        "n_articles": 30,
+        "n_themes": 8,
+        "grounding_score": 0.85,
+        "hallucination_flags": 5
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:32:25.668627",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 9,
+        "n_articles": 30,
+        "n_themes": 9,
+        "grounding_score": 0.97,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:34:48.050239",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 10,
+        "n_articles": 30,
+        "n_themes": 8,
+        "grounding_score": 0.91,
+        "hallucination_flags": 3
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:36:36.290387",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 11,
+        "n_articles": 30,
+        "n_themes": 8,
+        "grounding_score": 0.96,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:38:34.694399",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 12,
+        "n_articles": 30,
+        "n_themes": 7,
+        "grounding_score": 0.87,
+        "hallucination_flags": 4
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:40:31.059981",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 13,
+        "n_articles": 30,
+        "n_themes": 8,
+        "grounding_score": 0.85,
+        "hallucination_flags": 5
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:43:08.775468",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 14,
+        "n_articles": 30,
+        "n_themes": 8,
+        "grounding_score": 0.88,
+        "hallucination_flags": 4
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:44:58.404597",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 15,
+        "n_articles": 22,
+        "n_themes": 8,
+        "grounding_score": 0.97,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:46:17.034692",
+      "operation": "phase1_complete",
+      "details": {
+        "n_batches": 15,
+        "n_themes_final": 6,
+        "avg_grounding_score": 0.92,
+        "total_hallucination_flags": 37
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:47:27.990654",
+      "operation": "phase2_complete",
+      "details": {
+        "n_relationships": 6,
+        "n_axes": 3,
+        "grounded": true,
+        "invalid_refs": 0
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:49:23.122098",
+      "operation": "phase3_complete",
+      "details": {
+        "n_frameworks": 3,
+        "grounded": true,
+        "invalid_refs": 0
+      }
+    }
+  ],
+  "completed_at": "2026-02-25T21:49:23.203690"
+}

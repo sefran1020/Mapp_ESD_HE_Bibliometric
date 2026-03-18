@@ -1,0 +1,254 @@
+{
+  "generated_at": "2026-02-25T21:13:17.702064",
+  "threshold": 50.0,
+  "by_type": {
+    "Book": {
+      "evaluated": 1,
+      "total_in_group": 1,
+      "above_threshold": 1,
+      "pct_above_threshold": 100.0,
+      "quality_levels": {
+        "high": 0,
+        "medium": 1,
+        "low": 0
+      },
+      "statistics": {
+        "overall": {
+          "mean": 51.0,
+          "median": 51.0,
+          "std": 0.0,
+          "min": 51.0,
+          "max": 51.0,
+          "n": 1
+        },
+        "completeness": {
+          "mean": 0.0,
+          "median": 0.0,
+          "std": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "n": 1
+        },
+        "structure": {
+          "mean": 100.0,
+          "median": 100.0,
+          "std": 0.0,
+          "min": 100.0,
+          "max": 100.0,
+          "n": 1
+        },
+        "informativeness": {
+          "mean": 80.0,
+          "median": 80.0,
+          "std": 0.0,
+          "min": 80.0,
+          "max": 80.0,
+          "n": 1
+        },
+        "readability": {
+          "mean": 40.0,
+          "median": 40.0,
+          "std": 0.0,
+          "min": 40,
+          "max": 40,
+          "n": 1
+        }
+      },
+      "top_flags": {
+        "missing_objective": 1,
+        "missing_methods": 1,
+        "missing_results": 1,
+        "missing_conclusion": 1,
+        "no_quantitative_data": 1
+      }
+    },
+    "Book Chapter": {
+      "evaluated": 95,
+      "total_in_group": 95,
+      "above_threshold": 86,
+      "pct_above_threshold": 90.53,
+      "quality_levels": {
+        "high": 3,
+        "medium": 92,
+        "low": 0
+      },
+      "statistics": {
+        "overall": {
+          "mean": 58.01,
+          "median": 57.5,
+          "std": 5.97,
+          "min": 45.2,
+          "max": 76.1,
+          "n": 95
+        },
+        "completeness": {
+          "mean": 21.2,
+          "median": 20.0,
+          "std": 14.49,
+          "min": 0.0,
+          "max": 58.0,
+          "n": 95
+        },
+        "structure": {
+          "mean": 88.47,
+          "median": 90.0,
+          "std": 10.34,
+          "min": 45.0,
+          "max": 100.0,
+          "n": 95
+        },
+        "informativeness": {
+          "mean": 80.37,
+          "median": 80.0,
+          "std": 11.22,
+          "min": 45.0,
+          "max": 100.0,
+          "n": 95
+        },
+        "readability": {
+          "mean": 55.95,
+          "median": 60.0,
+          "std": 16.2,
+          "min": 40,
+          "max": 90.3,
+          "n": 95
+        }
+      },
+      "top_flags": {
+        "no_quantitative_data": 91,
+        "missing_conclusion": 72,
+        "missing_results": 61,
+        "missing_objective": 54,
+        "missing_methods": 43,
+        "low_technical_content": 39,
+        "long_abstract": 3
+      }
+    },
+    "Conference Paper": {
+      "evaluated": 20,
+      "total_in_group": 20,
+      "above_threshold": 19,
+      "pct_above_threshold": 95.0,
+      "quality_levels": {
+        "high": 1,
+        "medium": 19,
+        "low": 0
+      },
+      "statistics": {
+        "overall": {
+          "mean": 60.56,
+          "median": 60.1,
+          "std": 6.29,
+          "min": 48.6,
+          "max": 73.8,
+          "n": 20
+        },
+        "completeness": {
+          "mean": 22.6,
+          "median": 18.0,
+          "std": 16.04,
+          "min": 0.0,
+          "max": 58.0,
+          "n": 20
+        },
+        "structure": {
+          "mean": 89.25,
+          "median": 90.0,
+          "std": 11.43,
+          "min": 55.0,
+          "max": 100.0,
+          "n": 20
+        },
+        "informativeness": {
+          "mean": 85.5,
+          "median": 90.0,
+          "std": 12.03,
+          "min": 55.0,
+          "max": 100.0,
+          "n": 20
+        },
+        "readability": {
+          "mean": 59.78,
+          "median": 60.0,
+          "std": 14.67,
+          "min": 40,
+          "max": 87.3,
+          "n": 20
+        }
+      },
+      "top_flags": {
+        "no_quantitative_data": 18,
+        "missing_conclusion": 14,
+        "missing_results": 13,
+        "missing_objective": 12,
+        "missing_methods": 7,
+        "low_technical_content": 4,
+        "long_abstract": 1
+      }
+    },
+    "Journal Article": {
+      "evaluated": 326,
+      "total_in_group": 326,
+      "above_threshold": 306,
+      "pct_above_threshold": 93.87,
+      "quality_levels": {
+        "high": 64,
+        "medium": 257,
+        "low": 5
+      },
+      "statistics": {
+        "overall": {
+          "mean": 62.57,
+          "median": 62.8,
+          "std": 8.17,
+          "min": 37.2,
+          "max": 83.9,
+          "n": 326
+        },
+        "completeness": {
+          "mean": 35.52,
+          "median": 40.0,
+          "std": 17.68,
+          "min": 0.0,
+          "max": 80.0,
+          "n": 326
+        },
+        "structure": {
+          "mean": 88.11,
+          "median": 90.0,
+          "std": 11.84,
+          "min": 35.0,
+          "max": 100.0,
+          "n": 326
+        },
+        "informativeness": {
+          "mean": 80.02,
+          "median": 80.0,
+          "std": 12.77,
+          "min": 35.0,
+          "max": 100.0,
+          "n": 326
+        },
+        "readability": {
+          "mean": 54.08,
+          "median": 40.0,
+          "std": 16.54,
+          "min": 40,
+          "max": 90.2,
+          "n": 326
+        }
+      },
+      "top_flags": {
+        "no_quantitative_data": 274,
+        "missing_conclusion": 194,
+        "missing_results": 144,
+        "missing_objective": 118,
+        "missing_methods": 89,
+        "low_technical_content": 78,
+        "truncated_ends_abruptly": 18,
+        "long_abstract": 10,
+        "short_abstract": 1
+      }
+    }
+  }
+}

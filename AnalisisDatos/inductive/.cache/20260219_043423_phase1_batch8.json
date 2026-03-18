@@ -1,0 +1,610 @@
+{
+  "session_id": "20260219_043423",
+  "phase": "1",
+  "batch": 8,
+  "timestamp": "2026-02-19T04:53:41.141474",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Development",
+        "definition": "The use of AI tools to foster and improve critical thinking skills in educational contexts, as explicitly measured or targeted in various studies through interventions, assessments, and learning outcomes.",
+        "evidence": [
+          "[Drushlyak2025] The research aims to substantiate the effectiveness of using ChatGPT as a simulation environment to develop pre-service teachers' critical thinking.",
+          "[Utami2026] Correlational analyses indicate significant relationships between the use of GenAI and the enhancement of critical thinking, creativity, and ethical awareness.",
+          "[Naatonis2024] This research evaluates the effectiveness of the PBGL model integrated with Artificial Intelligence (A.I) using the ChatGPT API to improve students' critical thinking skills."
+        ],
+        "articles": [
+          "Crudele2025",
+          "Drushlyak2025",
+          "Ganjoo2024",
+          "Rohwer2025",
+          "Lyu2024",
+          "Umer2025",
+          "Utami2026",
+          "Bani-Hamad2024",
+          "Pinghong2025",
+          "Kinto-Ramírez2025",
+          "Kupriyanova2025",
+          "Zhang2025e",
+          "Elkhodr2025",
+          "Alm2021",
+          "Alves2025",
+          "Vasilev2026",
+          "Leiva-Lugo2025",
+          "Nimitbunanan2025",
+          "Styve2024",
+          "Zablotska2026",
+          "Lelis2026",
+          "Naatonis2024",
+          "Cheng2025b",
+          "Dong2025",
+          "YldzDurak2025",
+          "Lyu2026",
+          "Haidar2025",
+          "Nusivera2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Problem-solving",
+          "Analytical skills",
+          "Reasoning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Generative AI Integration in Learning",
+        "definition": "The incorporation of generative artificial intelligence tools, such as ChatGPT and large language models, into educational activities to assist with tasks like writing, programming, problem-solving, and content generation.",
+        "evidence": [
+          "[Ganjoo2024] We present a newly developed research paper assignment that required students to utilize GAI.",
+          "[Lyu2024] The integration of AI assistants, especially through the development of Large Language Models (LLMs), into computer science education has sparked significant debate.",
+          "[Umer2025] This study was conducted during March–September 2024 and explored the use of a custom-trained Large Language Model (LLM) as a supportive tool for JC preparation and participation among postgraduate dental residents."
+        ],
+        "articles": [
+          "Crudele2025",
+          "Drushlyak2025",
+          "Ganjoo2024",
+          "Rohwer2025",
+          "Lyu2024",
+          "Umer2025",
+          "Utami2026",
+          "Chen2025e",
+          "Kupriyanova2025",
+          "Zhang2025e",
+          "Elkhodr2025",
+          "Alves2025",
+          "Vasilev2026",
+          "Styve2024",
+          "Naatonis2024",
+          "Cheng2025b",
+          "Dong2025",
+          "YldzDurak2025",
+          "Lyu2026",
+          "Haidar2025",
+          "Nusivera2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "ChatGPT",
+          "LLMs",
+          "Digital tools",
+          "AI assistants"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and Responsible AI Use",
+        "definition": "Addressing concerns related to academic integrity, inaccuracies, biases, and promoting ethical awareness, AI literacy, and responsible utilization of AI tools in educational settings.",
+        "evidence": [
+          "[Ganjoo2024] Though GAI allowed for more efficient completion of the project and better understanding of the topic, students noted concerns about academic integrity and the lack of citations in GAI responses.",
+          "[Elkhodr2025] The SAGE framework for developing critical thinking and responsible generative AI use in cybersecurity education",
+          "[Styve2024] Yet, AI tools are here to stay, and students must learn to use them responsibly."
+        ],
+        "articles": [
+          "Ganjoo2024",
+          "Utami2026",
+          "Elkhodr2025",
+          "Kupriyanova2025",
+          "Alm2021",
+          "Vasilev2026",
+          "Styve2024",
+          "Lelis2026",
+          "Cheng2025b"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Academic integrity",
+          "AI literacy",
+          "Ethical awareness",
+          "Over-reliance on AI"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Metacognitive and Self-Regulated Learning Support",
+        "definition": "The use of AI tools to enhance metacognitive awareness and self-regulated learning strategies through prompts, scaffolding, or reflective activities, as observed in studies focusing on design processes, writing, and flipped classrooms.",
+        "evidence": [
+          "[Chen2025e] The results indicate that designers using AI tools tend to establish design goals quickly, focus on product-related detail refinement, and exhibit higher action efficiency. However, they also demonstrated more explicit decision-making with fewer modifications during the process, suggesting that AI tools may reduce designers’ fine-tuned adjustments and strategic evaluations in creative exploration.",
+          "[YldzDurak2025] In this study, the effects of using generative artificial intelligence (GenAI) as a metacognitive scaffolding tool in flipped classrooms (FC) on students’ motivation, critical thinking(CT), self-efficacy, engagement, problem-solving, metacognitive strategy use, and learning flexibility were examined.",
+          "[Haidar2025] This study aims to investigate the role of metacognitive prompts by Generative Artificial Intelligence (GenAI) in cooperative and individual learning processes in relation to writing skills and metacognitive awareness."
+        ],
+        "articles": [
+          "Chen2025e",
+          "YldzDurak2025",
+          "Haidar2025",
+          "Psycharis2009",
+          "Zablotska2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Metacognitive prompts",
+          "Self-regulation",
+          "Reflective learning",
+          "Strategic adjustments"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Pedagogical Models with AI Scaffolding",
+        "definition": "Implementation of specific instructional designs that integrate AI tools to provide scaffolding or support in learning activities, such as problem-based learning, narrative approaches, or flipped classrooms.",
+        "evidence": [
+          "[Pinghong2025] This study examines the effects of Problem scaffolding-supported Smart Learning Companion (SLC) on the educational dialog model and students’ TPACK competency development.",
+          "[Kinto-Ramírez2025] The ANECAI methodology (Narrative Learning and Collaborative AI-Assisted Assessment) integrates narrative-based instruction, cognitive scaffolding, and artificial intelligence (AI) tools to enhance learning outcomes in higher education.",
+          "[Nusivera2025] This study aims to investigate the effects of integrating Chat-GPT usage in language learning model on students' argumentation ability, complex comprehension ability, and critical thinking ability."
+        ],
+        "articles": [
+          "Pinghong2025",
+          "Kinto-Ramírez2025",
+          "Nusivera2025",
+          "Bani-Hamad2024",
+          "Dong2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Problem-based learning",
+          "Narrative learning",
+          "Flipped classrooms",
+          "Scaffolding"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of 21st-Century Skills",
+        "definition": "Enhancement of skills beyond critical thinking, such as creativity, communication, collaboration, and problem-solving, through AI-integrated learning approaches in various educational contexts.",
+        "evidence": [
+          "[Bani-Hamad2024] This study employed Fermi Problem-based Learning with Artificial Intelligence (FPBL-AI) model to develop twenty-first century skills in teaching Science (Creative thinking, Critical thinking, Communication skills, and Collaboration skills)",
+          "[Utami2026] Correlational analyses indicate significant relationships between the use of GenAI and the enhancement of critical thinking, creativity, and ethical awareness.",
+          "[Kupriyanova2025] The results of the study convincingly showed that responsible and controlled use of AI tools contributes to the formation and development of students’ project-based competencies (creativity, self-efficacy, critical thinking and teamwork)"
+        ],
+        "articles": [
+          "Bani-Hamad2024",
+          "Utami2026",
+          "Kupriyanova2025",
+          "Leiva-Lugo2025",
+          "Nimitbunanan2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Problem-solving"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Impact on Student Engagement and Motivation",
+        "definition": "Positive effects of AI tools on increasing student engagement, confidence, motivation, and learning satisfaction in educational processes, as reported in various studies.",
+        "evidence": [
+          "[Umer2025] Findings revealed that the LLM improved residents' comprehension of complex content, enhanced confidence, and increased engagement during discussions.",
+          "[Vasilev2026] The results show that students who use AI demonstrate higher engagement, increased efficiency in completing assignments, and better academic results.",
+          "[Zhang2025e] The hybrid feedback group also reported higher motivation and more positive feedback perceptions."
+        ],
+        "articles": [
+          "Umer2025",
+          "Vasilev2026",
+          "Zhang2025e",
+          "Kinto-Ramírez2025",
+          "Leiva-Lugo2025",
+          "YldzDurak2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Confidence",
+          "Participation",
+          "Learning satisfaction",
+          "Efficiency"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Discipline-Specific Applications of AI",
+        "definition": "Tailored use of AI tools in specific academic disciplines, such as computer science, language learning, science, and cybersecurity, to address unique learning needs and challenges.",
+        "evidence": [
+          "[Lyu2024] The integration of AI assistants, especially through the development of Large Language Models (LLMs), into computer science education",
+          "[Zhang2025e] This study examines the impact of Generative AI (GenAI)–generated feedback and hybrid feedback (GenAI and human tutor input) on L2 academic writing skills.",
+          "[Nimitbunanan2025] This study explores how combining AI-driven histological image classification with hands-on learning can enrich STEM education in Thailand"
+        ],
+        "articles": [
+          "Lyu2024",
+          "Zhang2025e",
+          "Nimitbunanan2025",
+          "Elkhodr2025",
+          "Alm2021",
+          "Alves2025",
+          "Cheng2025b",
+          "Dong2025",
+          "Zablotska2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Subject-specific learning",
+          "Tailored interventions",
+          "STEM education",
+          "Language learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Common methodologies include quasi-experimental designs, mixed-methods approaches, and the use of rubrics or tests to assess outcomes. Critical thinking is a predominant focus across studies, often linked to AI literacy and ethical concerns. There is a notable emphasis on practical implementations in diverse educational contexts, from K-12 to higher education, with variability in the depth of methodological detail reported.",
+    "grounding_notes": "Some abstracts have quality notes indicating missing elements (e.g., missing methods, no quantitative data), which may limit the availability of verbatim evidence for certain themes. Quotes are extracted exactly as stated, but abbreviations like 'CT' for critical thinking are used in some cases without full spelling in the quote. Confidence levels are based on explicit mentions in the abstracts, with high confidence for frequently occurring terms.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 1.0,
+      "total_hallucination_flags": 0,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Development",
+          "evidence_verified": [
+            {
+              "quote": "[Drushlyak2025] The research aims to substantiate the effectiveness of using ChatGPT as a simulation environment to develop pre-service teachers' critical thinking.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Utami2026] Correlational analyses indicate significant relationships between the use of GenAI and the enhancement of critical thinking, creativity, and ethical awareness.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Naatonis2024] This research evaluates the effectiveness of the PBGL model integrated with Artificial Intelligence (A.I) using the ChatGPT API to improve students' critical thinking skills.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Crudele2025",
+            "Drushlyak2025",
+            "Ganjoo2024",
+            "Rohwer2025",
+            "Lyu2024",
+            "Umer2025",
+            "Utami2026",
+            "Bani-Hamad2024",
+            "Pinghong2025",
+            "Kinto-Ramírez2025",
+            "Kupriyanova2025",
+            "Zhang2025e",
+            "Elkhodr2025",
+            "Alm2021",
+            "Alves2025",
+            "Vasilev2026",
+            "Leiva-Lugo2025",
+            "Nimitbunanan2025",
+            "Styve2024",
+            "Zablotska2026",
+            "Lelis2026",
+            "Naatonis2024",
+            "Cheng2025b",
+            "Dong2025",
+            "YldzDurak2025",
+            "Lyu2026",
+            "Haidar2025",
+            "Nusivera2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Generative AI Integration in Learning",
+          "evidence_verified": [
+            {
+              "quote": "[Ganjoo2024] We present a newly developed research paper assignment that required students to utilize GAI.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Lyu2024] The integration of AI assistants, especially through the development of Large Language Models (LLMs), into computer science education has sparked significant debate.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Umer2025] This study was conducted during March–September 2024 and explored the use of a custom-trained Large Language Model (LLM) as a supportive tool for JC preparation and participation among postgraduate dental residents.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Crudele2025",
+            "Drushlyak2025",
+            "Ganjoo2024",
+            "Rohwer2025",
+            "Lyu2024",
+            "Umer2025",
+            "Utami2026",
+            "Chen2025e",
+            "Kupriyanova2025",
+            "Zhang2025e",
+            "Elkhodr2025",
+            "Alves2025",
+            "Vasilev2026",
+            "Styve2024",
+            "Naatonis2024",
+            "Cheng2025b",
+            "Dong2025",
+            "YldzDurak2025",
+            "Lyu2026",
+            "Haidar2025",
+            "Nusivera2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Responsible AI Use",
+          "evidence_verified": [
+            {
+              "quote": "[Ganjoo2024] Though GAI allowed for more efficient completion of the project and better understanding of the topic, students noted concerns about academic integrity and the lack of citations in GAI responses.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Elkhodr2025] The SAGE framework for developing critical thinking and responsible generative AI use in cybersecurity education",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Styve2024] Yet, AI tools are here to stay, and students must learn to use them responsibly.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Ganjoo2024",
+            "Utami2026",
+            "Elkhodr2025",
+            "Kupriyanova2025",
+            "Alm2021",
+            "Vasilev2026",
+            "Styve2024",
+            "Lelis2026",
+            "Cheng2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Metacognitive and Self-Regulated Learning Support",
+          "evidence_verified": [
+            {
+              "quote": "[Chen2025e] The results indicate that designers using AI tools tend to establish design goals quickly, focus on product-related detail refinement, and exhibit higher action efficiency. However, they also demonstrated more explicit decision-making with fewer modifications during the process, suggesting that AI tools may reduce designers’ fine-tuned adjustments and strategic evaluations in creative exploration.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[YldzDurak2025] In this study, the effects of using generative artificial intelligence (GenAI) as a metacognitive scaffolding tool in flipped classrooms (FC) on students’ motivation, critical thinking(CT), self-efficacy, engagement, problem-solving, metacognitive strategy use, and learning flexibility were examined.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Haidar2025] This study aims to investigate the role of metacognitive prompts by Generative Artificial Intelligence (GenAI) in cooperative and individual learning processes in relation to writing skills and metacognitive awareness.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Chen2025e",
+            "YldzDurak2025",
+            "Haidar2025",
+            "Psycharis2009",
+            "Zablotska2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Models with AI Scaffolding",
+          "evidence_verified": [
+            {
+              "quote": "[Pinghong2025] This study examines the effects of Problem scaffolding-supported Smart Learning Companion (SLC) on the educational dialog model and students’ TPACK competency development.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Kinto-Ramírez2025] The ANECAI methodology (Narrative Learning and Collaborative AI-Assisted Assessment) integrates narrative-based instruction, cognitive scaffolding, and artificial intelligence (AI) tools to enhance learning outcomes in higher education.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Nusivera2025] This study aims to investigate the effects of integrating Chat-GPT usage in language learning model on students' argumentation ability, complex comprehension ability, and critical thinking ability.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Pinghong2025",
+            "Kinto-Ramírez2025",
+            "Nusivera2025",
+            "Bani-Hamad2024",
+            "Dong2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Development of 21st-Century Skills",
+          "evidence_verified": [
+            {
+              "quote": "[Bani-Hamad2024] This study employed Fermi Problem-based Learning with Artificial Intelligence (FPBL-AI) model to develop twenty-first century skills in teaching Science (Creative thinking, Critical thinking, Communication skills, and Collaboration skills)",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Utami2026] Correlational analyses indicate significant relationships between the use of GenAI and the enhancement of critical thinking, creativity, and ethical awareness.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Kupriyanova2025] The results of the study convincingly showed that responsible and controlled use of AI tools contributes to the formation and development of students’ project-based competencies (creativity, self-efficacy, critical thinking and teamwork)",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Bani-Hamad2024",
+            "Utami2026",
+            "Kupriyanova2025",
+            "Leiva-Lugo2025",
+            "Nimitbunanan2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Impact on Student Engagement and Motivation",
+          "evidence_verified": [
+            {
+              "quote": "[Umer2025] Findings revealed that the LLM improved residents' comprehension of complex content, enhanced confidence, and increased engagement during discussions.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Vasilev2026] The results show that students who use AI demonstrate higher engagement, increased efficiency in completing assignments, and better academic results.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Zhang2025e] The hybrid feedback group also reported higher motivation and more positive feedback perceptions.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Umer2025",
+            "Vasilev2026",
+            "Zhang2025e",
+            "Kinto-Ramírez2025",
+            "Leiva-Lugo2025",
+            "YldzDurak2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Discipline-Specific Applications of AI",
+          "evidence_verified": [
+            {
+              "quote": "[Lyu2024] The integration of AI assistants, especially through the development of Large Language Models (LLMs), into computer science education",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Zhang2025e] This study examines the impact of Generative AI (GenAI)–generated feedback and hybrid feedback (GenAI and human tutor input) on L2 academic writing skills.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Nimitbunanan2025] This study explores how combining AI-driven histological image classification with hands-on learning can enrich STEM education in Thailand",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Lyu2024",
+            "Zhang2025e",
+            "Nimitbunanan2025",
+            "Elkhodr2025",
+            "Alm2021",
+            "Alves2025",
+            "Cheng2025b",
+            "Dong2025",
+            "Zablotska2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

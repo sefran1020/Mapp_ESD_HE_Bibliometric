@@ -1,0 +1,34 @@
+Contexto
+
+Since the adoption of the 2030 Agenda and the Paris Agreement (2015), international frameworks — including the UNESCO ESD Roadmap — have elevated sustainability competencies to the center of educational reform agendas worldwide. Two conceptual currents have converged in this landscape: the institutionalized tradition of Education for Sustainable Development (ESD), consolidated over three decades of UNESCO-led policy, and an emerging frontier of climate-specific constructs — climate literacy, green skills, and sustainability literacy — responding to the urgency of the climate crisis and green labor market transitions. Higher education and vocational education and training (VET) occupy a critical position in this transformation, simultaneously responsible for forming the next generation of professionals and restructuring their own curricula to embed sustainability competencies institutionally. However, the academic literature remains fragmented: ESD research, green skills development, and climate literacy frameworks have evolved as partially separate communities, with limited cross-referencing and uneven geographic representation.
+
+Pregunta de investigacion (PICO)
+
+- P (Poblacion/Problema): Students, educators, institutions, and curricula within higher education (universities, tertiary institutions) and vocational education and training (VET) systems in formal educational settings globally.
+- I (Intervencion): Integration of Education for Sustainable Development (ESD), climate literacy, green skills, and sustainability literacy frameworks into higher education and VET curricula, pedagogical strategies, institutional policies, and competency frameworks.
+- C (Comparacion): Comparative analyses across institutional types, geographic regions, disciplinary fields, pre/post ODS adoption periods, or between ESD-traditional and climate literacy-emergent approaches.
+- O (Outcome/Resultado): Development, integration, or assessment of sustainability-related competencies, operationalized as: (a) ESD competencies and frameworks, (b) climate literacy and climate change awareness, (c) green skills and green competencies, (d) sustainability literacy, (e) curriculum greening and institutional transformation, (f) pedagogical strategies for sustainability. Both quantitative and qualitative approaches are included.
+
+Pregunta de investigacion formulada
+
+How has the integration of Education for Sustainable Development, climate literacy, green skills, and sustainability literacy been researched in higher education and vocational education contexts since the adoption of the 2030 Agenda, and what conceptual frameworks, pedagogical strategies, institutional approaches, and measurement instruments have been employed?
+
+Objetivo
+
+Systematically map, synthesize, and critically analyze the scientific evidence on how Education for Sustainable Development and emerging climate literacy frameworks — including green skills and sustainability literacy — have been investigated in higher education and vocational education and training contexts since 2015, focusing on: (1) the conceptual evolution from ESD toward climate-specific literacy constructs and its distribution over time, (2) pedagogical strategies and instructional designs documented in the literature, (3) institutional and curricular transformation approaches, (4) methodological characteristics and theoretical frameworks adopted, and (5) geographic distribution, disciplinary concentration, and gaps in the evidence base.
+
+Cadena de busqueda
+
+```
+( "education for sustainable development"
+    OR "esd"
+    OR "climate literacy"
+    OR "green skill*"
+    OR "sustainability literacy" )
+and
+( "higher education"
+    OR "university"
+    OR "tertiary education"
+    OR "vocational education"
+    OR "VET" )
+```

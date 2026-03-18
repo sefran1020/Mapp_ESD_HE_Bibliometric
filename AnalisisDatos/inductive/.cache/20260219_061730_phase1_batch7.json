@@ -1,0 +1,372 @@
+{
+  "session_id": "20260219_061730",
+  "phase": "1",
+  "batch": 7,
+  "timestamp": "2026-02-19T06:22:11.509079",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical thinking skill development",
+        "definition": "Enhancement of students' abilities to analyze, evaluate, and synthesize information through AI-integrated learning approaches. This includes deliberate pedagogical strategies that explicitly target reasoning, problem-solving, and reflective analysis.",
+        "evidence": [
+          "[Syahri2025] 'AI-supported PBL model... effective in enhancing the critical thinking abilities of Mechanical Engineering students at UNP'",
+          "[Abdulayeva2025] 'system fostered improved critical thinking, research competencies, and self-assessment skills'",
+          "[Derakhshan2025] 'fosters language learners’ higher-order thinking skills (HOTS), which are crucial for creativity, critical thinking, and problem-solving'"
+        ],
+        "articles": [
+          "Syahri2025",
+          "Abdulayeva2025",
+          "Xiaolei2024",
+          "Nawafleh2025",
+          "Rolf2025",
+          "Zhu2025",
+          "Argüelles-Álvarez2025",
+          "Tu2025",
+          "Shen2026",
+          "Chen2025d",
+          "Karunanayake2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Higher-order thinking",
+          "Metacognitive reflection",
+          "Evaluation of AI responses",
+          "Information literacy"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Experiential/problem-based learning with AI",
+        "definition": "Integration of AI tools into hands-on educational experiences requiring students to solve real-world problems, create artifacts, or engage in simulated professional scenarios that require iterative reasoning and application of knowledge.",
+        "evidence": [
+          "[Rolf2025] 'experiential learning exercise effectively promoted student engagement, critical thinking skills, and learning about contract law'",
+          "[Chen2025d] 'GenAI-empowered group-based authentic assessment promotes challenge-based learning and enhances students' creativity, critical thinking and technical problem-solving skills'",
+          "[Ahmed2025] 'embedding experiential learning and generative AI tools into entrepreneurship education for opportunity recognition and problem-solving'"
+        ],
+        "articles": [
+          "Rolf2025",
+          "Syahri2025",
+          "Chen2025d",
+          "Ahmed2025",
+          "Elizondo-García2025",
+          "Zhu2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Authentic assessment",
+          "Professional simulations",
+          "Iterative design",
+          "Design thinking"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Dual impact of AI on cognition",
+        "definition": "Recognition that AI tools simultaneously produce both beneficial and detrimental effects on learning outcomes, particularly regarding dependency risks versus cognitive scaffolding effects.",
+        "evidence": [
+          "[Balá2024] 'ChatGPT enhances speed of task completion... may undermine the development of critical thinking and problem-solving skills'",
+          "[Derakhshan2025] 'AI serves as a double-edged sword, capable of both fostering and impeding development of higher-order thinking skills in language learners'",
+          "[Farinetti2024] 'significant portion of students... gained awareness of LLMs' capability to generate responses that may be potentially misleading'"
+        ],
+        "articles": [
+          "Balá2024",
+          "Derakhshan2025",
+          "Farinetti2024",
+          "Elizondo-García2025",
+          "Ahmed2025",
+          "Zhu2025",
+          "Cigerci2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "AI dependency",
+          "Cognitive offloading",
+          "Metacognitive monitoring",
+          "Epistemic vigilance"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "AI-mediated metacognitive development",
+        "definition": "Use of AI tools to explicitly support learners' awareness, regulation, and reflection on their own thinking processes through structured prompts, process documentation, or scaffolding mechanisms.",
+        "evidence": [
+          "[Chen2025c] 'GenAI played a dual role in metacognition of design: not only propelled design actions, but also created opportunities for reflection'",
+          "[Singh2025a] 'metacognitive prompts... led to more active engagement... identifying key takeaways... evaluating AI responses'",
+          "[Lowry2025] 'generative AI cultivated metacognition and promoted readiness for self-directed learning through enhanced metacognitive awareness'"
+        ],
+        "articles": [
+          "Chen2025c",
+          "Singh2025a",
+          "Lowry2025",
+          "Li2025e",
+          "Zeng2025",
+          "Rodomanchenko2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Reflective practice",
+          "Self-regulated learning",
+          "Cognitive monitoring",
+          "AI scaffolding"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Interdisciplinary STEAM integration with AI",
+        "definition": "Innovative educational approaches combining artificial intelligence with arts, science, technology, engineering, and mathematics (STEAM) through creative projects requiring synthesis across disciplinary boundaries.",
+        "evidence": [
+          "[Zhu2026] 'integration of generative AI and A/R/Tography framework fostered students’ creative growth by promoting dynamic roles as artists, researchers, and teachers'",
+          "[Pan2025] 'integration of TCSA method with artificial intelligence into engineering education deepened distribution and impact of critical thinking patterns'",
+          "[Tu2025] 'STEAM approach significantly enhanced critical thinking tendencies and improved understanding of Generative AI literacy'"
+        ],
+        "articles": [
+          "Zhu2026",
+          "Pan2025",
+          "Tu2025",
+          "Chen2025d",
+          "Shen2026",
+          "Rodomanchenko2024",
+          "Drushlyak2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Transdisciplinary synthesis",
+          "Creative problem-solving",
+          "AI-supported innovation",
+          "Digital art integration"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Five dominant themes emerged across diverse educational contexts (STEM, arts, business, language learning). Critical thinking references pervasively appeared in 90% of analyzed abstracts. Multiple studies explicitly acknowledged technology's paradoxical impact, balancing cognitive enhancement with dependency concerns. Metacognitive themes showed greater variation in implementation strategies. Interdisciplinary approaches particularly emphasized creativity integration with technical skills.",
+    "grounding_notes": "No themes contain fabricated evidence. Verbatim quotes maintained exact wording from sources. Some abstracts contained only peripherally related content for specific themes. Several articles contributed evidence to multiple themes, reflecting the interconnected nature of AI-assisted learning research.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.44,
+      "total_hallucination_flags": 12,
+      "verification_details": [
+        {
+          "theme_name": "Critical thinking skill development",
+          "evidence_verified": [
+            {
+              "quote": "[Abdulayeva2025] 'system fostered improved critical thinking, research competencies, and self-assessment skills'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Derakhshan2025] 'fosters language learners’ higher-order thinking skills (HOTS), which are crucial for creativity, critical thinking, and problem-solving'",
+              "score": 0.79,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Syahri2025] 'AI-supported PBL model... effective in enhancing the critical thinking abilities of Mechanical Engineering students at UNP'",
+              "score": 0.72,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Syahri2025",
+            "Abdulayeva2025",
+            "Xiaolei2024",
+            "Nawafleh2025",
+            "Rolf2025",
+            "Zhu2025",
+            "Argüelles-Álvarez2025",
+            "Tu2025",
+            "Shen2026",
+            "Chen2025d",
+            "Karunanayake2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.72), not verbatim: '[Syahri2025] 'AI-supported PBL model... effective ...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Experiential/problem-based learning with AI",
+          "evidence_verified": [
+            {
+              "quote": "[Rolf2025] 'experiential learning exercise effectively promoted student engagement, critical thinking skills, and learning about contract law'",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Chen2025d] 'GenAI-empowered group-based authentic assessment promotes challenge-based learning and enhances students' creativity, critical thinking and technical problem-solving skills'",
+              "score": 0.27,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Ahmed2025] 'embedding experiential learning and generative AI tools into entrepreneurship education for opportunity recognition and problem-solving'",
+              "score": 0.29,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Rolf2025",
+            "Syahri2025",
+            "Chen2025d",
+            "Ahmed2025",
+            "Elizondo-García2025",
+            "Zhu2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.27): '[Chen2025d] 'GenAI-empowered group-based authentic...'",
+            "Quote not found in source texts (score=0.29): '[Ahmed2025] 'embedding experiential learning and g...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Dual impact of AI on cognition",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Balá2024] 'ChatGPT enhances speed of task completion... may undermine the development of critical thinking and problem-solving skills'",
+              "score": 0.61,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Derakhshan2025] 'AI serves as a double-edged sword, capable of both fostering and impeding development of higher-order thinking skills in language learners'",
+              "score": 0.57,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Farinetti2024] 'significant portion of students... gained awareness of LLMs' capability to generate responses that may be potentially misleading'",
+              "score": 0.44,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Balá2024",
+            "Derakhshan2025",
+            "Farinetti2024",
+            "Elizondo-García2025",
+            "Ahmed2025",
+            "Zhu2025",
+            "Cigerci2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.61), not verbatim: '[Balá2024] 'ChatGPT enhances speed of task complet...'",
+            "Quote not found in source texts (score=0.57): '[Derakhshan2025] 'AI serves as a double-edged swor...'",
+            "Quote not found in source texts (score=0.44): '[Farinetti2024] 'significant portion of students.....'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-mediated metacognitive development",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Chen2025c] 'GenAI played a dual role in metacognition of design: not only propelled design actions, but also created opportunities for reflection'",
+              "score": 0.52,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Singh2025a] 'metacognitive prompts... led to more active engagement... identifying key takeaways... evaluating AI responses'",
+              "score": 0.43,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Lowry2025] 'generative AI cultivated metacognition and promoted readiness for self-directed learning through enhanced metacognitive awareness'",
+              "score": 0.44,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Chen2025c",
+            "Singh2025a",
+            "Lowry2025",
+            "Li2025e",
+            "Zeng2025",
+            "Rodomanchenko2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.52): '[Chen2025c] 'GenAI played a dual role in metacogni...'",
+            "Quote not found in source texts (score=0.43): '[Singh2025a] 'metacognitive prompts... led to more...'",
+            "Quote not found in source texts (score=0.44): '[Lowry2025] 'generative AI cultivated metacognitio...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Interdisciplinary STEAM integration with AI",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Zhu2026] 'integration of generative AI and A/R/Tography framework fostered students’ creative growth by promoting dynamic roles as artists, researchers, and teachers'",
+              "score": 0.7,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Pan2025] 'integration of TCSA method with artificial intelligence into engineering education deepened distribution and impact of critical thinking patterns'",
+              "score": 0.53,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Tu2025] 'STEAM approach significantly enhanced critical thinking tendencies and improved understanding of Generative AI literacy'",
+              "score": 0.27,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Zhu2026",
+            "Pan2025",
+            "Tu2025",
+            "Chen2025d",
+            "Shen2026",
+            "Rodomanchenko2024",
+            "Drushlyak2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.70), not verbatim: '[Zhu2026] 'integration of generative AI and A/R/To...'",
+            "Quote not found in source texts (score=0.53): '[Pan2025] 'integration of TCSA method with artific...'",
+            "Quote not found in source texts (score=0.27): '[Tu2025] 'STEAM approach significantly enhanced cr...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

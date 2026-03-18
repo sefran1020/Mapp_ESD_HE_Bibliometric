@@ -1,0 +1,346 @@
+{
+  "session_id": "20260219_051153",
+  "phase": "1",
+  "batch": 7,
+  "timestamp": "2026-02-19T05:18:38.247963",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking in AI-Integrated Education",
+        "definition": "Development of cognitive skills including analysis, evaluation, and synthesis within AI-enabled learning environments, often measured through academic performance or self-assessment.",
+        "evidence": [
+          "[Abdulayeva2025] 'The system fostered improved critical thinking... apply knowledge in interdisciplinary contexts.'",
+          "[Syahri2025] 'AI-supported PBL model... effective in enhancing the critical thinking abilities.'",
+          "[Argüelles-Álvarez2025] 'Students demonstrated the ability to differentiate quality in AI-assisted writing.'"
+        ],
+        "articles": [
+          "Abdulayeva2025",
+          "Syahri2025",
+          "Argüelles-Álvarez2025",
+          "Rolf2025",
+          "Derakhshan2025",
+          "Ahmed2025",
+          "Shen2026",
+          "Chen2025d"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Metacognitive reflection",
+          "Problem-solving",
+          "Interdisciplinary analysis"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Assisted Prompt and Feedback Systems",
+        "definition": "Use of generative AI to deliver personalized prompts, scaffolding, and formative feedback that influence learning trajectories.",
+        "evidence": [
+          "[Singh2025a] 'Metacognitive prompts... support critical thinking during GenAI-based search.'",
+          "[Li2025e] 'RGPT provides personalized reflective prompts... promote deep learning.'",
+          "[Zhu2025] 'Oliver encourages exploration... compared to ChatGPT-4o mini.'"
+        ],
+        "articles": [
+          "Singh2025a",
+          "Li2025e",
+          "Zhu2025",
+          "Karunanayake2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Scaffolding strategies",
+          "Adaptive learning",
+          "Interactive feedback"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Dual-Edged Impact of AI Tools",
+        "definition": "Recognition of AI's capacity to simultaneously enhance and hinder cognitive development, particularly in problem-solving and originality.",
+        "evidence": [
+          "[Derakhshan2025] 'AI serves as a double-edged sword... fostering and impeding HOTS.'",
+          "[Balá2024] 'ChatGPT may detract from deep understanding... uniformity in solutions.'",
+          "[Chen2025d] 'Mitigate... overreliance on GenAI tools' (indirect evidence of duality)"
+        ],
+        "articles": [
+          "Derakhshan2025",
+          "Balá2024",
+          "Chen2025d",
+          "Farinetti2024",
+          "Nawafleh2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Ethical AI use",
+          "Critical evaluation",
+          "Over-reliance mitigation"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Design-Based Collaborative Learning",
+        "definition": "Integration of AI into project-based activities requiring teamwork, iterative refinement, and authentic problem-solving in technical domains.",
+        "evidence": [
+          "[Chen2025d] 'Group assignment promotes challenge-based learning... using GenAI tools.'",
+          "[Singh2024] 'Student-AI collaborative feedback... fostering critical thinking about LLMs.'",
+          "[Rodomanchenko2024] 'Write business documents in teams... adaptation to organizational needs.'"
+        ],
+        "articles": [
+          "Chen2025d",
+          "Singh2024",
+          "Rodomanchenko2024",
+          "Larionova2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Roleplaying",
+          "Iterative refinement",
+          "Authentic assessment"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "AI Literacy in Educational Contexts",
+        "definition": "Development of competencies to critically evaluate and effectively utilize AI tools within disciplinary practices.",
+        "evidence": [
+          "[Ahmed2025] 'AI literacy... essential futuristic skill.'",
+          "[Tu2025] 'Cultivate students’ GenAI literacy and critical thinking skills.'",
+          "[Chen2025c] 'AI functioned as a catalyst... metacognitive operations.'"
+        ],
+        "articles": [
+          "Ahmed2025",
+          "Tu2025",
+          "Chen2025c",
+          "Elizondo-García2025",
+          "Lowry2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Prompt engineering",
+          "Tool functionality",
+          "Digital fluency"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Three distinct clusters emerged: (1) Cognitive skill development focused on critical thinking metrics, (2) Technical integration patterns of AI scaffolding, and (3) Paradoxical outcomes of AI adoption. Uniquely, multiple studies addressed ethical considerations of AI use in collaborative settings.",
+    "grounding_notes": "Some conclusions (e.g., Nawafleh2025) lacked quantitative evidence but contributed qualitative insights. Certain terms like 'problem-based learning' spanned multiple themes before consolidation into 'AI-supported PBL'. High consistency in terminology across engineering and liberal education contexts.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.39,
+      "total_hallucination_flags": 13,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking in AI-Integrated Education",
+          "evidence_verified": [
+            {
+              "quote": "[Argüelles-Álvarez2025] 'Students demonstrated the ability to differentiate quality in AI-assisted writing.'",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Abdulayeva2025] 'The system fostered improved critical thinking... apply knowledge in interdisciplinary contexts.'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Syahri2025] 'AI-supported PBL model... effective in enhancing the critical thinking abilities.'",
+              "score": 0.58,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Abdulayeva2025",
+            "Syahri2025",
+            "Argüelles-Álvarez2025",
+            "Rolf2025",
+            "Derakhshan2025",
+            "Ahmed2025",
+            "Shen2026",
+            "Chen2025d"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[Abdulayeva2025] 'The system fostered improved cri...'",
+            "Quote not found in source texts (score=0.58): '[Syahri2025] 'AI-supported PBL model... effective ...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Assisted Prompt and Feedback Systems",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Singh2025a] 'Metacognitive prompts... support critical thinking during GenAI-based search.'",
+              "score": 0.7,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Li2025e] 'RGPT provides personalized reflective prompts... promote deep learning.'",
+              "score": 0.56,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Zhu2025] 'Oliver encourages exploration... compared to ChatGPT-4o mini.'",
+              "score": 0.33,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Singh2025a",
+            "Li2025e",
+            "Zhu2025",
+            "Karunanayake2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.70), not verbatim: '[Singh2025a] 'Metacognitive prompts... support cri...'",
+            "Quote not found in source texts (score=0.56): '[Li2025e] 'RGPT provides personalized reflective p...'",
+            "Quote not found in source texts (score=0.33): '[Zhu2025] 'Oliver encourages exploration... compar...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Dual-Edged Impact of AI Tools",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Derakhshan2025] 'AI serves as a double-edged sword... fostering and impeding HOTS.'",
+              "score": 0.58,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Balá2024] 'ChatGPT may detract from deep understanding... uniformity in solutions.'",
+              "score": 0.4,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Chen2025d] 'Mitigate... overreliance on GenAI tools' (indirect evidence of duality)",
+              "score": 0.4,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Derakhshan2025",
+            "Balá2024",
+            "Chen2025d",
+            "Farinetti2024",
+            "Nawafleh2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.58): '[Derakhshan2025] 'AI serves as a double-edged swor...'",
+            "Quote not found in source texts (score=0.40): '[Balá2024] 'ChatGPT may detract from deep understa...'",
+            "Quote not found in source texts (score=0.40): '[Chen2025d] 'Mitigate... overreliance on GenAI too...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Design-Based Collaborative Learning",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Chen2025d] 'Group assignment promotes challenge-based learning... using GenAI tools.'",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Singh2024] 'Student-AI collaborative feedback... fostering critical thinking about LLMs.'",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Rodomanchenko2024] 'Write business documents in teams... adaptation to organizational needs.'",
+              "score": 0.4,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Chen2025d",
+            "Singh2024",
+            "Rodomanchenko2024",
+            "Larionova2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.60), not verbatim: '[Chen2025d] 'Group assignment promotes challenge-b...'",
+            "Paraphrase detected (score=0.60), not verbatim: '[Singh2024] 'Student-AI collaborative feedback... ...'",
+            "Quote not found in source texts (score=0.40): '[Rodomanchenko2024] 'Write business documents in t...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI Literacy in Educational Contexts",
+          "evidence_verified": [
+            {
+              "quote": "[Tu2025] 'Cultivate students’ GenAI literacy and critical thinking skills.'",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Ahmed2025] 'AI literacy... essential futuristic skill.'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Chen2025c] 'AI functioned as a catalyst... metacognitive operations.'",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Ahmed2025",
+            "Tu2025",
+            "Chen2025c",
+            "Elizondo-García2025",
+            "Lowry2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[Ahmed2025] 'AI literacy... essential futuristic s...'",
+            "Paraphrase detected (score=0.62), not verbatim: '[Chen2025c] 'AI functioned as a catalyst... metaco...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

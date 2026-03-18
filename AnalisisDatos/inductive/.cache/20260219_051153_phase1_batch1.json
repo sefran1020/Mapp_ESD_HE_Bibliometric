@@ -1,0 +1,368 @@
+{
+  "session_id": "20260219_051153",
+  "phase": "1",
+  "batch": 1,
+  "timestamp": "2026-02-19T05:13:06.777920",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Enhancement through AI Integration",
+        "definition": "Refers to the explicit focus on improving critical thinking skills via AI tools, particularly through structured pedagogical approaches that leverage AI for analytical tasks, reflection, or collaborative problem-solving.",
+        "evidence": [
+          "[Elmotri2025] significant improvements in students' writing proficiency [...] critical thinking",
+          "[Huang2023] self-regulated learning and personalized intervention [...] critical thinking",
+          "[Chang2024] critical thinking ability, problem solving, and learning enjoyment"
+        ],
+        "articles": [
+          "Elmotri2025",
+          "Huang2023",
+          "Chang2024",
+          "Liu2023",
+          "Wang2025a",
+          "Zheng2024",
+          "Darmawansah2025",
+          "Li2025a",
+          "Chen2025b",
+          "Ba2025",
+          "Chu2025a",
+          "Gong2025a"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Higher-order thinking skills",
+          "Dialogic approaches",
+          "Metacognitive strategies"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Integrated Pedagogical Strategies",
+        "definition": "Involves the design and implementation of teaching methods that incorporate generative AI tools like ChatGPT, GPT, or GenAI as core components of instructional design, curriculum delivery, or assessment.",
+        "evidence": [
+          "[Elmotri2025] integrating ChatGPT [...] exams and courses using generative AI",
+          "[Tang2024] dialogic approach to teaching [...] generative AI",
+          "[Chen2025a] MindScratch, a multimodal generative AI-powered visual programming support tool"
+        ],
+        "articles": [
+          "Elmotri2025",
+          "Tang2024",
+          "Chen2025a",
+          "Chen2025b",
+          "Zhao2025",
+          "Parmar2025",
+          "Shen2025a"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Adaptive learning",
+          "Collaborative learning",
+          "Scenario-based simulation"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Challenges and Ethical Considerations",
+        "definition": "Refers to the reported limitations or risks associated with AI adoption in education, including technical barriers, ethical dilemmas, data privacy concerns, and unintended dependencies.",
+        "evidence": [
+          "[Elmotri2025] challenges [...] ethical concerns, and teachers’ limited training in AI tools",
+          "[Shen2025a] concerns about incomplete responses, GenAI’s limited emotional understanding, and privacy risks",
+          "[Hou2026] reduction in students' thoughtless use of Generative AI and [...] direct adoption of AI-generated content"
+        ],
+        "articles": [
+          "Elmotri2025",
+          "Shen2025a",
+          "Hou2026",
+          "Chen2025a",
+          "Lin2025a",
+          "Omeh2025a"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "AI literacy",
+          "Trust in AI systems",
+          "Professional development for educators"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Collaborative and Dialogic Learning with GenAI",
+        "definition": "Describes instructional approaches where AI tools mediate collaborative tasks, facilitate peer interactions, or simulate dialogic engagement among students and instructors.",
+        "evidence": [
+          "[Tang2024] conceptualizes GenAI [...] dialogic agent that facilitates collaborative dialogue",
+          "[Chen2025b] students strategically coordinated human and GenAI [...] their CTA was enhanced in both collaborative discourse and writings",
+          "[Darmawansah2025] ChatGPT-supported collaborative argumentation"
+        ],
+        "articles": [
+          "Tang2024",
+          "Chen2025b",
+          "Darmawansah2025",
+          "Liu2023",
+          "Ba2025",
+          "Chu2025a"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Peer-assisted learning",
+          "Feedback mechanisms",
+          "Team-based problem-solving"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Higher-Order Thinking Skills (HOTS) Development",
+        "definition": "Encompasses the cultivation of advanced cognitive skills beyond recall, such as analysis, synthesis, and evaluation, often paired with AI tools that scaffold metacognitive processes or complex task execution.",
+        "evidence": [
+          "[Wang2025a] higher-order thinking skills (HOTS) and [...] critical thinking",
+          "[Song2025] effects [...] on higher-order thinking skills (HOTS) and AI literacy",
+          "[Zhou2025a] creativity [...] chain mediation model with critical thinking"
+        ],
+        "articles": [
+          "Wang2025a",
+          "Song2025",
+          "Zhou2025a",
+          "Zhao2025",
+          "Li2025a",
+          "Omeh2025a"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Critical thinking",
+          "Problem-solving",
+          "Creativity"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Many studies emphasize AI's role in enhancing critical thinking and HOTS but often lack detailed methodological descriptions or quantitative data, as noted in quality annotations. Terms like 'generative AI,' 'dialogic approaches,' and 'critical thinking' are consistently employed, reflecting a shared discourse.",
+    "grounding_notes": "Verbatim evidence strictly sourced from abstracts. Frequency calculations are approximations based on co-occurrence patterns in the batch. No extrapolations from quality note-identified missing data.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.44,
+      "total_hallucination_flags": 12,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Enhancement through AI Integration",
+          "evidence_verified": [
+            {
+              "quote": "[Chang2024] critical thinking ability, problem solving, and learning enjoyment",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Elmotri2025] significant improvements in students' writing proficiency [...] critical thinking",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Huang2023] self-regulated learning and personalized intervention [...] critical thinking",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Elmotri2025",
+            "Huang2023",
+            "Chang2024",
+            "Liu2023",
+            "Wang2025a",
+            "Zheng2024",
+            "Darmawansah2025",
+            "Li2025a",
+            "Chen2025b",
+            "Ba2025",
+            "Chu2025a",
+            "Gong2025a"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[Elmotri2025] significant improvements in students...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Huang2023] self-regulated learning and personaliz...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Integrated Pedagogical Strategies",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Elmotri2025] integrating ChatGPT [...] exams and courses using generative AI",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Tang2024] dialogic approach to teaching [...] generative AI",
+              "score": 0.57,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Chen2025a] MindScratch, a multimodal generative AI-powered visual programming support tool",
+              "score": 0.55,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Elmotri2025",
+            "Tang2024",
+            "Chen2025a",
+            "Chen2025b",
+            "Zhao2025",
+            "Parmar2025",
+            "Shen2025a"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[Elmotri2025] integrating ChatGPT [...] exams and ...'",
+            "Quote not found in source texts (score=0.57): '[Tang2024] dialogic approach to teaching [...] gen...'",
+            "Quote not found in source texts (score=0.55): '[Chen2025a] MindScratch, a multimodal generative A...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Challenges and Ethical Considerations",
+          "evidence_verified": [
+            {
+              "quote": "[Elmotri2025] challenges [...] ethical concerns, and teachers’ limited training in AI tools",
+              "score": 0.82,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Shen2025a] concerns about incomplete responses, GenAI’s limited emotional understanding, and privacy risks",
+              "score": 0.69,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Hou2026] reduction in students' thoughtless use of Generative AI and [...] direct adoption of AI-generated content",
+              "score": 0.56,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Elmotri2025",
+            "Shen2025a",
+            "Hou2026",
+            "Chen2025a",
+            "Lin2025a",
+            "Omeh2025a"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.69), not verbatim: '[Shen2025a] concerns about incomplete responses, G...'",
+            "Quote not found in source texts (score=0.56): '[Hou2026] reduction in students' thoughtless use o...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Collaborative and Dialogic Learning with GenAI",
+          "evidence_verified": [
+            {
+              "quote": "[Darmawansah2025] ChatGPT-supported collaborative argumentation",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Tang2024] conceptualizes GenAI [...] dialogic agent that facilitates collaborative dialogue",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Chen2025b] students strategically coordinated human and GenAI [...] their CTA was enhanced in both collaborative discourse and writings",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Tang2024",
+            "Chen2025b",
+            "Darmawansah2025",
+            "Liu2023",
+            "Ba2025",
+            "Chu2025a"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[Tang2024] conceptualizes GenAI [...] dialogic age...'",
+            "Quote not found in source texts (score=0.59): '[Chen2025b] students strategically coordinated hum...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Higher-Order Thinking Skills (HOTS) Development",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Wang2025a] higher-order thinking skills (HOTS) and [...] critical thinking",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Song2025] effects [...] on higher-order thinking skills (HOTS) and AI literacy",
+              "score": 0.64,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Zhou2025a] creativity [...] chain mediation model with critical thinking",
+              "score": 0.38,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Wang2025a",
+            "Song2025",
+            "Zhou2025a",
+            "Zhao2025",
+            "Li2025a",
+            "Omeh2025a"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[Wang2025a] higher-order thinking skills (HOTS) an...'",
+            "Paraphrase detected (score=0.64), not verbatim: '[Song2025] effects [...] on higher-order thinking ...'",
+            "Quote not found in source texts (score=0.38): '[Zhou2025a] creativity [...] chain mediation model...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

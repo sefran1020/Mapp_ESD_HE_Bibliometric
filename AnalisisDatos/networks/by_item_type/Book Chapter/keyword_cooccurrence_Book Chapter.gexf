@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-02-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="long" />
+      <attribute id="1" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="environmental education" label="environmental education">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="sustainable development" label="sustainable development">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="sustainable development goals" label="sustainable development goals">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="education for sustainable development" label="education for sustainable development">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="teaching" label="teaching">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="curricula" label="curricula">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="climate change" label="climate change">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="higher education" label="higher education">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="professional development" label="professional development">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="higher education institutions" label="higher education institutions">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="high educations" label="high educations">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="education computing" label="education computing">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="students" label="students">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="case-studies" label="case-studies">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="education" label="education">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="curriculum" label="curriculum">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="global challenges" label="global challenges">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="education for sustainable development (esd)" label="education for sustainable development (esd)">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="munich university of applied sciences (muas)" label="munich university of applied sciences (muas)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="transdisciplinarity" label="transdisciplinarity">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="sustainability" label="sustainability">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="awareness" label="awareness">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="sdgs" label="sdgs">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="e-learning" label="e-learning">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="implementation" label="implementation">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="esd" label="esd">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="behavioral research" label="behavioral research">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="educators’ competences" label="educators’ competences">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="sustainability education" label="sustainability education">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="personnel training" label="personnel training">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="esd competences" label="esd competences">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="geography education" label="geography education">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="esd framework" label="esd framework">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="curricular sustainability" label="curricular sustainability">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="teaching practice" label="teaching practice">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="curriculum design" label="curriculum design">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="transformation" label="transformation">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="environmental education" target="sustainable development" id="0" weight="2" />
+      <edge source="environmental education" target="sustainable development goals" id="1" weight="2" />
+      <edge source="environmental education" target="education for sustainable development" id="2" weight="2" />
+      <edge source="environmental education" target="teaching" id="3" weight="2" />
+      <edge source="sustainable development" target="sustainable development goals" id="4" weight="6" />
+      <edge source="sustainable development" target="curricula" id="5" weight="7" />
+      <edge source="sustainable development" target="education for sustainable development" id="6" weight="9" />
+      <edge source="sustainable development" target="teaching" id="7" weight="10" />
+      <edge source="sustainable development" target="higher education institutions" id="8" weight="4" />
+      <edge source="sustainable development" target="higher education" id="9" weight="5" />
+      <edge source="sustainable development" target="high educations" id="10" weight="8" />
+      <edge source="sustainable development" target="education computing" id="11" weight="4" />
+      <edge source="sustainable development" target="students" id="12" weight="5" />
+      <edge source="sustainable development" target="case-studies" id="13" weight="2" />
+      <edge source="sustainable development" target="education" id="14" weight="3" />
+      <edge source="sustainable development" target="curriculum" id="15" weight="3" />
+      <edge source="sustainable development" target="global challenges" id="16" weight="2" />
+      <edge source="sustainable development" target="sustainability" id="17" weight="4" />
+      <edge source="sustainable development" target="e-learning" id="18" weight="2" />
+      <edge source="sustainable development" target="climate change" id="19" weight="2" />
+      <edge source="sustainable development" target="behavioral research" id="20" weight="2" />
+      <edge source="sustainable development" target="sustainability education" id="21" weight="4" />
+      <edge source="sustainable development" target="personnel training" id="22" weight="2" />
+      <edge source="sustainable development goals" target="curricula" id="23" weight="4" />
+      <edge source="sustainable development goals" target="education for sustainable development" id="24" weight="8" />
+      <edge source="sustainable development goals" target="teaching" id="25" weight="4" />
+      <edge source="sustainable development goals" target="higher education institutions" id="26" weight="3" />
+      <edge source="sustainable development goals" target="students" id="27" weight="2" />
+      <edge source="sustainable development goals" target="education computing" id="28" weight="2" />
+      <edge source="sustainable development goals" target="higher education" id="29" weight="4" />
+      <edge source="sustainable development goals" target="sustainability" id="30" weight="3" />
+      <edge source="sustainable development goals" target="sustainability education" id="31" weight="3" />
+      <edge source="sustainable development goals" target="high educations" id="32" weight="3" />
+      <edge source="education for sustainable development" target="curricula" id="33" weight="6" />
+      <edge source="education for sustainable development" target="teaching" id="34" weight="8" />
+      <edge source="education for sustainable development" target="professional development" id="35" weight="2" />
+      <edge source="education for sustainable development" target="higher education institutions" id="36" weight="5" />
+      <edge source="education for sustainable development" target="higher education" id="37" weight="8" />
+      <edge source="education for sustainable development" target="high educations" id="38" weight="5" />
+      <edge source="education for sustainable development" target="education computing" id="39" weight="3" />
+      <edge source="education for sustainable development" target="students" id="40" weight="4" />
+      <edge source="education for sustainable development" target="implementation" id="41" weight="2" />
+      <edge source="education for sustainable development" target="e-learning" id="42" weight="2" />
+      <edge source="education for sustainable development" target="educators’ competences" id="43" weight="2" />
+      <edge source="education for sustainable development" target="esd" id="44" weight="2" />
+      <edge source="education for sustainable development" target="sustainability" id="45" weight="5" />
+      <edge source="education for sustainable development" target="sustainability education" id="46" weight="2" />
+      <edge source="education for sustainable development" target="esd framework" id="47" weight="2" />
+      <edge source="education for sustainable development" target="climate change" id="48" weight="2" />
+      <edge source="teaching" target="curricula" id="49" weight="5" />
+      <edge source="teaching" target="higher education" id="50" weight="3" />
+      <edge source="teaching" target="high educations" id="51" weight="6" />
+      <edge source="teaching" target="education computing" id="52" weight="3" />
+      <edge source="teaching" target="students" id="53" weight="4" />
+      <edge source="teaching" target="education" id="54" weight="2" />
+      <edge source="teaching" target="sustainability" id="55" weight="4" />
+      <edge source="teaching" target="e-learning" id="56" weight="2" />
+      <edge source="teaching" target="climate change" id="57" weight="2" />
+      <edge source="teaching" target="sustainability education" id="58" weight="3" />
+      <edge source="curricula" target="higher education" id="59" weight="4" />
+      <edge source="curricula" target="high educations" id="60" weight="4" />
+      <edge source="curricula" target="education computing" id="61" weight="3" />
+      <edge source="curricula" target="students" id="62" weight="4" />
+      <edge source="curricula" target="case-studies" id="63" weight="2" />
+      <edge source="curricula" target="sustainability education" id="64" weight="2" />
+      <edge source="curricula" target="personnel training" id="65" weight="2" />
+      <edge source="curricula" target="higher education institutions" id="66" weight="2" />
+      <edge source="curricula" target="sustainability" id="67" weight="2" />
+      <edge source="climate change" target="higher education" id="68" weight="2" />
+      <edge source="climate change" target="high educations" id="69" weight="2" />
+      <edge source="higher education" target="high educations" id="70" weight="4" />
+      <edge source="higher education" target="education computing" id="71" weight="2" />
+      <edge source="higher education" target="students" id="72" weight="4" />
+      <edge source="higher education" target="case-studies" id="73" weight="2" />
+      <edge source="higher education" target="sdgs" id="74" weight="2" />
+      <edge source="higher education" target="sustainability" id="75" weight="10" />
+      <edge source="higher education" target="esd" id="76" weight="4" />
+      <edge source="higher education" target="sustainability education" id="77" weight="2" />
+      <edge source="higher education" target="personnel training" id="78" weight="2" />
+      <edge source="higher education" target="higher education institutions" id="79" weight="2" />
+      <edge source="higher education" target="curricular sustainability" id="80" weight="2" />
+      <edge source="higher education" target="teaching practice" id="81" weight="2" />
+      <edge source="higher education" target="curriculum" id="82" weight="2" />
+      <edge source="higher education institutions" target="sustainability education" id="83" weight="2" />
+      <edge source="higher education institutions" target="high educations" id="84" weight="2" />
+      <edge source="higher education institutions" target="sustainability" id="85" weight="3" />
+      <edge source="high educations" target="education computing" id="86" weight="3" />
+      <edge source="high educations" target="students" id="87" weight="4" />
+      <edge source="high educations" target="case-studies" id="88" weight="2" />
+      <edge source="high educations" target="behavioral research" id="89" weight="2" />
+      <edge source="high educations" target="sustainability education" id="90" weight="3" />
+      <edge source="high educations" target="personnel training" id="91" weight="2" />
+      <edge source="high educations" target="sustainability" id="92" weight="2" />
+      <edge source="education computing" target="students" id="93" weight="4" />
+      <edge source="education computing" target="case-studies" id="94" weight="2" />
+      <edge source="education computing" target="e-learning" id="95" weight="2" />
+      <edge source="students" target="case-studies" id="96" weight="2" />
+      <edge source="students" target="e-learning" id="97" weight="2" />
+      <edge source="students" target="sustainability" id="98" weight="2" />
+      <edge source="students" target="personnel training" id="99" weight="2" />
+      <edge source="curriculum" target="global challenges" id="100" weight="2" />
+      <edge source="curriculum" target="sustainability" id="101" weight="2" />
+      <edge source="education for sustainable development (esd)" target="munich university of applied sciences (muas)" id="102" weight="2" />
+      <edge source="education for sustainable development (esd)" target="transdisciplinarity" id="103" weight="2" />
+      <edge source="munich university of applied sciences (muas)" target="transdisciplinarity" id="104" weight="2" />
+      <edge source="sustainability" target="awareness" id="105" weight="2" />
+      <edge source="sustainability" target="esd" id="106" weight="3" />
+      <edge source="sustainability" target="curriculum design" id="107" weight="2" />
+      <edge source="sustainability" target="transformation" id="108" weight="2" />
+      <edge source="esd" target="esd competences" id="109" weight="2" />
+      <edge source="esd" target="geography education" id="110" weight="2" />
+      <edge source="esd competences" target="geography education" id="111" weight="2" />
+      <edge source="curricular sustainability" target="teaching practice" id="112" weight="2" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,652 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "1",
+  "batch": 7,
+  "timestamp": "2026-02-25T21:27:53.403312",
+  "data": {
+    "themes": [
+      {
+        "name": "Competency Development in Education for Sustainable Development",
+        "definition": "Focus on fostering specific competencies such as critical thinking, problem-solving, interdisciplinary thinking, and social skills through ESD initiatives in higher education.",
+        "evidence": [
+          "[de Lea_2021] social learning indicators (learning, critical thinking, problem solving and dealing with conflict) emerged",
+          "[SieThe_2020] students perceived the simulation as a very productive tool to develop multiple learning outcomes. They considered it particularly useful with regard to improving their knowledge acquisition, problem solving, critical thinking and interpersonal skills.",
+          "[HamWhi_2023] the competencies “Interconnected, foresighted, and thinking approaches in system-dynamic contexts” and “Recognizing on one’s own perspective on a situation and problem, empathizing with other perspectives, and taking these into account when solving problems” are the most important."
+        ],
+        "articles": [
+          "de Lea_2021",
+          "SieThe_2020",
+          "HamWhi_2023",
+          "ArrAss_2023",
+          "GolTea_2025",
+          "ÁlvTea_2024"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "critical thinking",
+          "problem solving",
+          "interpersonal skills",
+          "key competencies"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Experiential and Participatory Learning in ESD",
+        "definition": "Use of hands-on, engaging methods such as participatory approaches, experiential learning, simulations, and role-play to facilitate ESD in higher education.",
+        "evidence": [
+          "[de Lea_2021] a participatory approach to educating for sustainable development",
+          "[Lo,Pho_2022] how an experiential learning approach can be applied in education for sustainable development (ESD) for 2030",
+          "[ElyExp_2018] experiential learning in higher education programmes relating to sustainability"
+        ],
+        "articles": [
+          "de Lea_2021",
+          "Lo,Pho_2022",
+          "ElyExp_2018",
+          "HarEdu_2025",
+          "SieThe_2020",
+          "BibTra_2017"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "participatory approach",
+          "experiential learning",
+          "simulations",
+          "role-play",
+          "service learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Technology-Enhanced ESD Teaching",
+        "definition": "Incorporation of digital tools, virtual reality, augmented reality, and online platforms to support and enhance the teaching and learning of ESD in higher education.",
+        "evidence": [
+          "[AvsPre_2021] technology-enhanced self-directed learning and design thinking",
+          "[AdiExp_2025] Exploring Virtual Reality and Digital Twin Technologies for Sustainable Construction Training",
+          "[Du,Res_2020] VR/AR virtual reality equipment can be integrated into the curriculum of sustainable development"
+        ],
+        "articles": [
+          "AvsPre_2021",
+          "AdiExp_2025",
+          "Du,Res_2020",
+          "NagRes_2024",
+          "De Rai_2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "virtual reality",
+          "augmented reality",
+          "online courses",
+          "digital tools"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment and Measurement of ESD",
+        "definition": "Methods and frameworks used to evaluate the effectiveness of ESD initiatives, including sustainability literacy, competency development, and curriculum integration.",
+        "evidence": [
+          "[TieMea_2015] how education for sustainable development (ESD) was measured in the taught curriculum",
+          "[FošSus_2025] sustainability knowledge of Slovenian students ... through an enhanced version of the ASK test",
+          "[ÁlvTea_2024] a survey was designed, including elements from previously validated instruments"
+        ],
+        "articles": [
+          "TieMea_2015",
+          "FošSus_2025",
+          "ÁlvTea_2024",
+          "NouExp_2024",
+          "BiaAss_2016"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "measurement",
+          "evaluation",
+          "sustainability literacy tests",
+          "survey research"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Interdisciplinary and Transdisciplinary ESD Teaching",
+        "definition": "Emphasis on integrating multiple disciplines and engaging with societal stakeholders to address sustainability challenges in ESD curricula.",
+        "evidence": [
+          "[BibTra_2017] transdisciplinary learning and teaching as essential drivers of a sustainable urban development",
+          "[Di Ena_2017] inter- and transdisciplinarity are core concepts in almost all education for sustainable development (ESD) competence frameworks",
+          "[SanSci_2024] interdisciplinary science learning for interdisciplinary oriented education for sustainable development"
+        ],
+        "articles": [
+          "BibTra_2017",
+          "Di Ena_2017",
+          "SanSci_2024",
+          "GarThe_2023",
+          "HamWhi_2023"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "interdisciplinarity",
+          "transdisciplinarity",
+          "systems thinking",
+          "collaborative learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Educator Perspectives on ESD",
+        "definition": "Focus on understanding teachers' and educators' perceptions, subjective theories, and professional development needs related to ESD in higher education.",
+        "evidence": [
+          "[GolTea_2025] teacher educators' subjective theories on education for sustainable development",
+          "[PerEdu_2023] educating the educators to be a driving force in higher education towards sustainable development",
+          "[Di Ena_2017] enabling university educators to equip students with inter- and transdisciplinary competencies"
+        ],
+        "articles": [
+          "GolTea_2025",
+          "PerEdu_2023",
+          "Di Ena_2017",
+          "ÁlvTea_2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "subjective theories",
+          "professional development",
+          "teacher education",
+          "capacity building"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Student Involvement in ESD",
+        "definition": "Involving students in ESD processes, considering their viewpoints, and using their feedback to refine teaching and curriculum in higher education.",
+        "evidence": [
+          "[SieThe_2020] the student perspective and student perceptions about how useful simulations can be",
+          "[HamWhi_2023] findings from the evaluation of the study programs from the perspective of students and graduates",
+          "[War'Th_2017] partnership with students can help sustainability educators with refining the living theory of their practice"
+        ],
+        "articles": [
+          "SieThe_2020",
+          "HamWhi_2023",
+          "War'Th_2017",
+          "ArrAss_2023",
+          "NouExp_2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "student perspective",
+          "partnership",
+          "feedback",
+          "engagement"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Sustainability Literacy and Awareness",
+        "definition": "Efforts to enhance students' knowledge, awareness, and understanding of sustainability issues, including environmental, social, and economic dimensions.",
+        "evidence": [
+          "[FošSus_2025] sustainability knowledge of Slovenian students",
+          "[ÁlvTea_2024] depth of knowledge about sustainability",
+          "[De Rai_2026] raising awareness on sustainability through digital learning"
+        ],
+        "articles": [
+          "FošSus_2025",
+          "ÁlvTea_2024",
+          "De Rai_2026",
+          "TanCli_2023",
+          "SanSci_2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "sustainability knowledge",
+          "awareness",
+          "environmental literacy",
+          "SDGs understanding"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Institutional ESD Integration",
+        "definition": "Strategies and practices for embedding ESD into university curricula, modules, and institutional frameworks to promote sustainability education.",
+        "evidence": [
+          "[BiaAss_2016] assessing the infusion of sustainability principles into university curricula",
+          "[CicIns_2017] embedding ESD responsibly across a HE institution",
+          "[HarEdu_2025] developing and implementing an education for sustainable development (ESD) module, mandatory for students across all programmes"
+        ],
+        "articles": [
+          "BiaAss_2026",
+          "CicIns_2017",
+          "HarEdu_2025",
+          "TieMea_2015",
+          "PerEdu_2023"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "curriculum infusion",
+          "institutional initiatives",
+          "mandatory modules",
+          "policy alignment"
+        ],
+        "_verification": {
+          "grounding_score": 0.94,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Contextual Adaptation in ESD",
+        "definition": "Tailoring ESD approaches to specific regional, cultural, or institutional contexts, such as developing countries or different educational settings.",
+        "evidence": [
+          "[de Lea_2021] in a South African Higher Education Institution",
+          "[ÁlvTea_2024] Latin American university educators",
+          "[HarEdu_2025] Indonesian higher education institutions"
+        ],
+        "articles": [
+          "de Lea_2021",
+          "ÁlvTea_2024",
+          "HarEdu_2025",
+          "Lo,Pho_2022",
+          "TanCli_2023"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "regional contexts",
+          "cultural adaptation",
+          "local issues",
+          "global insights"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts frequently employ case study methodologies, with a strong emphasis on qualitative and mixed-methods approaches. There is a notable focus on specific competencies and learning outcomes, often linked to Sustainable Development Goals (SDGs). Many studies highlight the importance of stakeholder engagement, particularly from students and educators, in refining ESD practices. Unexpected patterns include the widespread use of technology-enhanced learning despite varying regional contexts.",
+    "grounding_notes": "Some abstracts have quality notes indicating missing elements (e.g., missing objectives, results, conclusions), so evidence extraction is limited to explicitly stated text. Quotes are verbatim from the abstracts, but in cases where quality notes mention no_quantitative_data or other issues, inferences are avoided. All article keys are from the provided closed set, and no external frameworks are imposed.",
+    "_hallucination_control": {
+      "total_themes": 10,
+      "avg_grounding_score": 0.92,
+      "total_hallucination_flags": 4,
+      "verification_details": [
+        {
+          "theme_name": "Competency Development in Education for Sustainable Development",
+          "evidence_verified": [
+            {
+              "quote": "[de Lea_2021] social learning indicators (learning, critical thinking, problem solving and dealing with conflict) emerged",
+              "score": 0.87,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[SieThe_2020] students perceived the simulation as a very productive tool to develop multiple learning outcomes. They considered it particularly useful with regard to improving their knowledge acquisition, problem solving, critical thinking and interpersonal skills.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[HamWhi_2023] the competencies “Interconnected, foresighted, and thinking approaches in system-dynamic contexts” and “Recognizing on one’s own perspective on a situation and problem, empathizing with other perspectives, and taking these into account when solving problems” are the most important.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "de Lea_2021",
+            "SieThe_2020",
+            "HamWhi_2023",
+            "ArrAss_2023",
+            "GolTea_2025",
+            "ÁlvTea_2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Experiential and Participatory Learning in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[de Lea_2021] a participatory approach to educating for sustainable development",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Lo,Pho_2022] how an experiential learning approach can be applied in education for sustainable development (ESD) for 2030",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[ElyExp_2018] experiential learning in higher education programmes relating to sustainability",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "de Lea_2021",
+            "Lo,Pho_2022",
+            "ElyExp_2018",
+            "HarEdu_2025",
+            "SieThe_2020",
+            "BibTra_2017"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Technology-Enhanced ESD Teaching",
+          "evidence_verified": [
+            {
+              "quote": "[AvsPre_2021] technology-enhanced self-directed learning and design thinking",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[AdiExp_2025] Exploring Virtual Reality and Digital Twin Technologies for Sustainable Construction Training",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Du,Res_2020] VR/AR virtual reality equipment can be integrated into the curriculum of sustainable development",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "AvsPre_2021",
+            "AdiExp_2025",
+            "Du,Res_2020",
+            "NagRes_2024",
+            "De Rai_2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment and Measurement of ESD",
+          "evidence_verified": [
+            {
+              "quote": "[TieMea_2015] how education for sustainable development (ESD) was measured in the taught curriculum",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ÁlvTea_2024] a survey was designed, including elements from previously validated instruments",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[FošSus_2025] sustainability knowledge of Slovenian students ... through an enhanced version of the ASK test",
+              "score": 0.57,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "TieMea_2015",
+            "FošSus_2025",
+            "ÁlvTea_2024",
+            "NouExp_2024",
+            "BiaAss_2016"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.57): '[FošSus_2025] sustainability knowledge of Slovenia...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Interdisciplinary and Transdisciplinary ESD Teaching",
+          "evidence_verified": [
+            {
+              "quote": "[BibTra_2017] transdisciplinary learning and teaching as essential drivers of a sustainable urban development",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Di Ena_2017] inter- and transdisciplinarity are core concepts in almost all education for sustainable development (ESD) competence frameworks",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[SanSci_2024] interdisciplinary science learning for interdisciplinary oriented education for sustainable development",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "BibTra_2017",
+            "Di Ena_2017",
+            "SanSci_2024",
+            "GarThe_2023",
+            "HamWhi_2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Educator Perspectives on ESD",
+          "evidence_verified": [
+            {
+              "quote": "[GolTea_2025] teacher educators' subjective theories on education for sustainable development",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PerEdu_2023] educating the educators to be a driving force in higher education towards sustainable development",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Di Ena_2017] enabling university educators to equip students with inter- and transdisciplinary competencies",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "GolTea_2025",
+            "PerEdu_2023",
+            "Di Ena_2017",
+            "ÁlvTea_2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Student Involvement in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[War'Th_2017] partnership with students can help sustainability educators with refining the living theory of their practice",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[SieThe_2020] the student perspective and student perceptions about how useful simulations can be",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[HamWhi_2023] findings from the evaluation of the study programs from the perspective of students and graduates",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "SieThe_2020",
+            "HamWhi_2023",
+            "War'Th_2017",
+            "ArrAss_2023",
+            "NouExp_2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.62), not verbatim: '[SieThe_2020] the student perspective and student ...'",
+            "Paraphrase detected (score=0.62), not verbatim: '[HamWhi_2023] findings from the evaluation of the ...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Sustainability Literacy and Awareness",
+          "evidence_verified": [
+            {
+              "quote": "[FošSus_2025] sustainability knowledge of Slovenian students",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[ÁlvTea_2024] depth of knowledge about sustainability",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[De Rai_2026] raising awareness on sustainability through digital learning",
+              "score": 0.78,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "FošSus_2025",
+            "ÁlvTea_2024",
+            "De Rai_2026",
+            "TanCli_2023",
+            "SanSci_2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Institutional ESD Integration",
+          "evidence_verified": [
+            {
+              "quote": "[BiaAss_2016] assessing the infusion of sustainability principles into university curricula",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[CicIns_2017] embedding ESD responsibly across a HE institution",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[HarEdu_2025] developing and implementing an education for sustainable development (ESD) module, mandatory for students across all programmes",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "CicIns_2017",
+            "HarEdu_2025",
+            "TieMea_2015",
+            "PerEdu_2023"
+          ],
+          "articles_unverified": [
+            "BiaAss_2026"
+          ],
+          "grounding_score": 0.94,
+          "hallucination_flags": [
+            "Article key not found in batch: 'BiaAss_2026'"
+          ],
+          "quote_grounding": 1.0,
+          "article_grounding": 0.8
+        },
+        {
+          "theme_name": "Contextual Adaptation in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[de Lea_2021] in a South African Higher Education Institution",
+              "score": 0.78,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[ÁlvTea_2024] Latin American university educators",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[HarEdu_2025] Indonesian higher education institutions",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "de Lea_2021",
+            "ÁlvTea_2024",
+            "HarEdu_2025",
+            "Lo,Pho_2022",
+            "TanCli_2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

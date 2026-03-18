@@ -1,0 +1,452 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 1,
+  "timestamp": "2026-02-19T05:58:36.742902",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Development",
+        "definition": "Examination of how AI tools and pedagogical approaches influence critical thinking skills among students",
+        "evidence": [
+          "Zhao2025: 'critical thinking skills and use of generative artificial intelligence significantly contributed to their in-depth learning'",
+          "Hou2026: 'intervention led to... more creative solutions, demonstrating higher levels of originality'",
+          "Chen2025b: 'the impact of GenAI-based collaborative inquiry on critical thinking in argumentation'"
+        ],
+        "articles": [
+          "Zhao2025",
+          "Hou2026",
+          "Chen2025b",
+          "Wang2025a",
+          "Darmawansah2025",
+          "Liu2023",
+          "Lin2025a",
+          "Ou2025a",
+          "Chen2025a",
+          "Cui2025",
+          "Han2025a",
+          "Neshaei2025",
+          "Gong2025a"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Higher-order thinking",
+          "Cognitive skills",
+          "Analytical reasoning"
+        ],
+        "_verification": {
+          "grounding_score": 0.98,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Generative AI as a Pedagogical Tool",
+        "definition": "Study of how generative AI technologies like ChatGPT are being integrated into teaching and learning processes",
+        "evidence": [
+          "Tang2024: 'conceptualizes GenAI not as a definitive knowledge provider but as a dialogic agent that facilitates collaborative dialogue'",
+          "Wang2025b: 'responses from ChatGPT and Ernie Bot are viable'",
+          "Darmawansah2025: 'ChatGPT as a learning aid for three stages of collaboration script'"
+        ],
+        "articles": [
+          "Tang2024",
+          "Wang2025b",
+          "Darmawansah2025",
+          "Elmotri2025",
+          "Chang2024",
+          "Chang2025",
+          "Zheng2024",
+          "Zhao2025",
+          "Ba2025",
+          "Shen2025a",
+          "Huang2023"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "AI-facilitated learning",
+          "Large language models",
+          "Interactive AI"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Collaborative Learning with AI",
+        "definition": "Inquiry into how AI technologies support or change collaborative learning dynamics among students",
+        "evidence": [
+          "Omeh2025a: 'AI integration into computer programming instruction'",
+          "Hou2026: 'human-Generative AI collaborative learning'",
+          "Chen2025b: 'students' collaborative use of GenAI for argumentation'"
+        ],
+        "articles": [
+          "Omeh2025a",
+          "Hou2026",
+          "Chen2025b",
+          "Tang2024",
+          "Darmawansah2025",
+          "Parmar2025",
+          "Chang2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Peer learning",
+          "Human-AI interaction",
+          "Group problem-solving"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Educational Outcome Enhancement",
+        "definition": "Research examining whether AI integration improves measurable educational outcomes",
+        "evidence": [
+          "Zheng2024: 'improved students’ performance in many aspects... clinical critical thinking abilities'",
+          "Gong2025a: 'significant differences in programming skills... significant differences observed among the four groups'",
+          "Huang2023: 'personalized intervention not only helped students obtain higher learning performance but also prompted greater improvements'"
+        ],
+        "articles": [
+          "Zheng2024",
+          "Gong2025a",
+          "Huang2023",
+          "Liu2023",
+          "Chu2025a",
+          "Song2025",
+          "Neshaei2025",
+          "Ou2025a"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Learning achievement",
+          "Skill acquisition",
+          "Knowledge retention"
+        ],
+        "_verification": {
+          "grounding_score": 0.5,
+          "n_hallucination_flags": 3,
+          "verified": true
+        }
+      },
+      {
+        "name": "Implementation Challenges and Ethical Considerations",
+        "definition": "Exploration of technological, pedagogical, and ethical challenges in implementing AI in education",
+        "evidence": [
+          "Elmotri2025: 'challenges such as technical barriers, ethical concerns, and teachers’ limited training in AI tools'",
+          "Shen2025a: 'students expressed concerns about incomplete or imprecise responses, GenAI’s limited emotional understanding'",
+          "Nasr2025: 'concerns about its impact on cognition and critical thinking'"
+        ],
+        "articles": [
+          "Elmotri2025",
+          "Shen2025a",
+          "Nasr2025",
+          "Darmawansah2025",
+          "Abouelenein2025",
+          "Wang2025b",
+          "Omeh2025a"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Technical limitations",
+          "Data privacy",
+          "Academic integrity"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Domain-Specific Applications",
+        "definition": "Application of AI tools to specific educational domains such as medical training, programming, and writing",
+        "evidence": [
+          "Zheng2024: 'AI-empowered scenario-based simulation teaching mode in cardiovascular disease education'",
+          "Chang2024: 'application in nursing and health education design courses'",
+          "Lin2025a: 'enhancing reflective thinking in STEM education'"
+        ],
+        "articles": [
+          "Zheng2024",
+          "Chang2024",
+          "Lin2025a",
+          "Chen2025a",
+          "Gong2025a",
+          "Omeh2025a",
+          "Song2025",
+          "Ou2025a",
+          "Hsia2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Medical simulation",
+          "STEM education",
+          "Language learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.73,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The reviewed abstracts demonstrate a consistent focus on critical thinking development through AI integration, with generative AI tools like ChatGPT appearing as central to most interventions. There is a strong emphasis on collaboration between humans and AI, suggesting a shift from AI as a standalone tool to AI as a learning partner. Technical and ethical challenges are consistently acknowledged across studies, indicating methodological maturity in the field. While many studies claim significant improvements in educational outcomes, the lack of quantitative data in many abstracts (as noted in quality assessments) limits the ability to verify these claims fully within this review stage.",
+    "grounding_notes": "Where quantitative findings were mentioned explicitly in the abstracts (e.g., 'P < 0.001' in Zheng2024), these have been included. However, many abstracts lacked detailed statistical reporting as noted in their quality notes (e.g., 'no_quantitative_data'), so the analysis focuses on qualitatively reported findings. All theme groupings are based strictly on the terminology and concepts explicitly presented in the abstracts, avoiding theoretical interpretations beyond the stated descriptions.",
+    "_hallucination_control": {
+      "total_themes": 6,
+      "avg_grounding_score": 0.83,
+      "total_hallucination_flags": 7,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Development",
+          "evidence_verified": [
+            {
+              "quote": "Zhao2025: 'critical thinking skills and use of generative artificial intelligence significantly contributed to their in-depth learning'",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "Hou2026: 'intervention led to... more creative solutions, demonstrating higher levels of originality'",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "Chen2025b: 'the impact of GenAI-based collaborative inquiry on critical thinking in argumentation'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Zhao2025",
+            "Hou2026",
+            "Chen2025b",
+            "Wang2025a",
+            "Darmawansah2025",
+            "Liu2023",
+            "Lin2025a",
+            "Chen2025a",
+            "Cui2025",
+            "Han2025a",
+            "Neshaei2025",
+            "Gong2025a"
+          ],
+          "articles_unverified": [
+            "Ou2025a"
+          ],
+          "grounding_score": 0.98,
+          "hallucination_flags": [
+            "Article key not found in batch: 'Ou2025a'"
+          ],
+          "quote_grounding": 1.0,
+          "article_grounding": 0.92
+        },
+        {
+          "theme_name": "Generative AI as a Pedagogical Tool",
+          "evidence_verified": [
+            {
+              "quote": "Tang2024: 'conceptualizes GenAI not as a definitive knowledge provider but as a dialogic agent that facilitates collaborative dialogue'",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "Wang2025b: 'responses from ChatGPT and Ernie Bot are viable'",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "Darmawansah2025: 'ChatGPT as a learning aid for three stages of collaboration script'",
+              "score": 0.42,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Tang2024",
+            "Wang2025b",
+            "Darmawansah2025",
+            "Elmotri2025",
+            "Chang2024",
+            "Chang2025",
+            "Zheng2024",
+            "Zhao2025",
+            "Ba2025",
+            "Shen2025a",
+            "Huang2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.42): 'Darmawansah2025: 'ChatGPT as a learning aid for th...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Collaborative Learning with AI",
+          "evidence_verified": [
+            {
+              "quote": "Omeh2025a: 'AI integration into computer programming instruction'",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "Hou2026: 'human-Generative AI collaborative learning'",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "Chen2025b: 'students' collaborative use of GenAI for argumentation'",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Omeh2025a",
+            "Hou2026",
+            "Chen2025b",
+            "Tang2024",
+            "Darmawansah2025",
+            "Parmar2025",
+            "Chang2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Educational Outcome Enhancement",
+          "evidence_verified": [
+            {
+              "quote": "Huang2023: 'personalized intervention not only helped students obtain higher learning performance but also prompted greater improvements'",
+              "score": 0.81,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "Zheng2024: 'improved students’ performance in many aspects... clinical critical thinking abilities'",
+              "score": 0.45,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "Gong2025a: 'significant differences in programming skills... significant differences observed among the four groups'",
+              "score": 0.54,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Zheng2024",
+            "Gong2025a",
+            "Huang2023",
+            "Liu2023",
+            "Chu2025a",
+            "Song2025",
+            "Neshaei2025"
+          ],
+          "articles_unverified": [
+            "Ou2025a"
+          ],
+          "grounding_score": 0.5,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.45): 'Zheng2024: 'improved students’ performance in many...'",
+            "Quote not found in source texts (score=0.54): 'Gong2025a: 'significant differences in programming...'",
+            "Article key not found in batch: 'Ou2025a'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 0.88
+        },
+        {
+          "theme_name": "Implementation Challenges and Ethical Considerations",
+          "evidence_verified": [
+            {
+              "quote": "Elmotri2025: 'challenges such as technical barriers, ethical concerns, and teachers’ limited training in AI tools'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "Shen2025a: 'students expressed concerns about incomplete or imprecise responses, GenAI’s limited emotional understanding'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "Nasr2025: 'concerns about its impact on cognition and critical thinking'",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Elmotri2025",
+            "Shen2025a",
+            "Nasr2025",
+            "Darmawansah2025",
+            "Abouelenein2025",
+            "Wang2025b",
+            "Omeh2025a"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Domain-Specific Applications",
+          "evidence_verified": [
+            {
+              "quote": "Zheng2024: 'AI-empowered scenario-based simulation teaching mode in cardiovascular disease education'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "Lin2025a: 'enhancing reflective thinking in STEM education'",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "Chang2024: 'application in nursing and health education design courses'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Zheng2024",
+            "Chang2024",
+            "Lin2025a",
+            "Chen2025a",
+            "Gong2025a",
+            "Omeh2025a",
+            "Song2025",
+            "Hsia2025"
+          ],
+          "articles_unverified": [
+            "Ou2025a"
+          ],
+          "grounding_score": 0.73,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: 'Chang2024: 'application in nursing and health educ...'",
+            "Article key not found in batch: 'Ou2025a'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 0.89
+        }
+      ]
+    }
+  }
+}

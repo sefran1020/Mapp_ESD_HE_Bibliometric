@@ -1,0 +1,628 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-02-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="long" />
+      <attribute id="1" title="total_cites" type="long" />
+      <attribute id="2" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Zarifjon Adilov" label="Zarifjon Adilov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Jurat Tajibaev" label="Jurat Tajibaev">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Lobar Rasul-Zade" label="Lobar Rasul-Zade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Mustafo Tursunov" label="Mustafo Tursunov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Zokir Mamadiyarov" label="Zokir Mamadiyarov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Dadaxon Abdullayev" label="Dadaxon Abdullayev">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Flavia Maria Esteves" label="Flavia Maria Esteves">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Eddie Maes" label="Eddie Maes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Benoît Mayeur" label="Benoît Mayeur">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Florianne Fassotte" label="Florianne Fassotte">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Perrine Neuprez" label="Perrine Neuprez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="S. Mertens" label="S. Mertens">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Björn‐Olav Dozo" label="Björn‐Olav Dozo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Valérie Defaweux" label="Valérie Defaweux">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Xin Yun Du" label="Xin Yun Du">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Yi Bo Guan" label="Yi Bo Guan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Tsung Shun Hsieh" label="Tsung Shun Hsieh">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="А. Abdildauly" label="А. Abdildauly">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="A. S. Bakhtaulova" label="A. S. Bakhtaulova">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="D. Mukasheva" label="D. Mukasheva">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Michael Haas" label="Michael Haas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Mirela Blaga" label="Mirela Blaga">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Dirk Hofer" label="Dirk Hofer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Annemarie Grundmeier" label="Annemarie Grundmeier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Deniz Köksal" label="Deniz Köksal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Jochen Strähle" label="Jochen Strähle">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Zlatina Kazlacheva" label="Zlatina Kazlacheva">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Zlatin Zlatev" label="Zlatin Zlatev">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Laura Bartolomé-Quevedo" label="Laura Bartolomé-Quevedo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Juan Manuel Campos-Rodríguez" label="Juan Manuel Campos-Rodríguez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Ignacio de Blas" label="Ignacio de Blas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Marta Calleja-Duque" label="Marta Calleja-Duque">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="David Álvarez-Antelo" label="David Álvarez-Antelo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Gonzalo Parrado-Hernando" label="Gonzalo Parrado-Hernando">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Pedro Mauricio Acosta Castellanos" label="Pedro Mauricio Acosta Castellanos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Araceli Queiruga‐Dios" label="Araceli Queiruga‐Dios">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Laura Gomez Araque" label="Laura Gomez Araque">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Paula Rojas Ramos" label="Paula Rojas Ramos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Carolien van den Berg" label="Carolien van den Berg">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Iva Prgomet" label="Iva Prgomet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="I. Varičak" label="I. Varičak">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="M. Šavor" label="M. Šavor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="M. Blažić" label="M. Blažić">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Željko Prgomet" label="Željko Prgomet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Mara Zeltina" label="Mara Zeltina">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Alex Mifsud" label="Alex Mifsud">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Antonio Sánchez-Vázquez" label="Antonio Sánchez-Vázquez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Chris William Callaghan" label="Chris William Callaghan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Zhiqiang Xing" label="Zhiqiang Xing">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Letong Li" label="Letong Li">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Weibin Wang" label="Weibin Wang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Serhii Koniukhov" label="Serhii Koniukhov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Kateryna Osadchа" label="Kateryna Osadchа">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Tugba Karabiyik" label="Tugba Karabiyik">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Aparajita Jaiswal" label="Aparajita Jaiswal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Paul Thomas" label="Paul Thomas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Torsten Masseck" label="Torsten Masseck">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="42" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Maja Melballe Jensen" label="Maja Melballe Jensen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Marianne Georgsen" label="Marianne Georgsen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Michal Pilgaard" label="Michal Pilgaard">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Natalia Shchitova" label="Natalia Shchitova">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Vitaly Belozerov" label="Vitaly Belozerov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Julia Zolnikova" label="Julia Zolnikova">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="S. Cravero" label="S. Cravero">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Francesco Strada" label="Francesco Strada">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Isabella Maria Lami" label="Isabella Maria Lami">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="A. Bottino" label="A. Bottino">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Iris Schmidberger" label="Iris Schmidberger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sven Wippermann" label="Sven Wippermann">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Zarifjon Adilov" target="Jurat Tajibaev" id="0" weight="1" />
+      <edge source="Zarifjon Adilov" target="Lobar Rasul-Zade" id="1" weight="1" />
+      <edge source="Zarifjon Adilov" target="Mustafo Tursunov" id="2" weight="1" />
+      <edge source="Zarifjon Adilov" target="Zokir Mamadiyarov" id="3" weight="1" />
+      <edge source="Zarifjon Adilov" target="Dadaxon Abdullayev" id="4" weight="1" />
+      <edge source="Jurat Tajibaev" target="Lobar Rasul-Zade" id="5" weight="1" />
+      <edge source="Jurat Tajibaev" target="Mustafo Tursunov" id="6" weight="1" />
+      <edge source="Jurat Tajibaev" target="Zokir Mamadiyarov" id="7" weight="1" />
+      <edge source="Jurat Tajibaev" target="Dadaxon Abdullayev" id="8" weight="1" />
+      <edge source="Lobar Rasul-Zade" target="Mustafo Tursunov" id="9" weight="1" />
+      <edge source="Lobar Rasul-Zade" target="Zokir Mamadiyarov" id="10" weight="1" />
+      <edge source="Lobar Rasul-Zade" target="Dadaxon Abdullayev" id="11" weight="1" />
+      <edge source="Mustafo Tursunov" target="Zokir Mamadiyarov" id="12" weight="1" />
+      <edge source="Mustafo Tursunov" target="Dadaxon Abdullayev" id="13" weight="1" />
+      <edge source="Zokir Mamadiyarov" target="Dadaxon Abdullayev" id="14" weight="1" />
+      <edge source="Flavia Maria Esteves" target="Eddie Maes" id="15" weight="1" />
+      <edge source="Flavia Maria Esteves" target="Benoît Mayeur" id="16" weight="1" />
+      <edge source="Flavia Maria Esteves" target="Florianne Fassotte" id="17" weight="1" />
+      <edge source="Flavia Maria Esteves" target="Perrine Neuprez" id="18" weight="1" />
+      <edge source="Flavia Maria Esteves" target="S. Mertens" id="19" weight="1" />
+      <edge source="Flavia Maria Esteves" target="Björn‐Olav Dozo" id="20" weight="1" />
+      <edge source="Flavia Maria Esteves" target="Valérie Defaweux" id="21" weight="1" />
+      <edge source="Eddie Maes" target="Benoît Mayeur" id="22" weight="1" />
+      <edge source="Eddie Maes" target="Florianne Fassotte" id="23" weight="1" />
+      <edge source="Eddie Maes" target="Perrine Neuprez" id="24" weight="1" />
+      <edge source="Eddie Maes" target="S. Mertens" id="25" weight="1" />
+      <edge source="Eddie Maes" target="Björn‐Olav Dozo" id="26" weight="1" />
+      <edge source="Eddie Maes" target="Valérie Defaweux" id="27" weight="1" />
+      <edge source="Benoît Mayeur" target="Florianne Fassotte" id="28" weight="1" />
+      <edge source="Benoît Mayeur" target="Perrine Neuprez" id="29" weight="1" />
+      <edge source="Benoît Mayeur" target="S. Mertens" id="30" weight="1" />
+      <edge source="Benoît Mayeur" target="Björn‐Olav Dozo" id="31" weight="1" />
+      <edge source="Benoît Mayeur" target="Valérie Defaweux" id="32" weight="1" />
+      <edge source="Florianne Fassotte" target="Perrine Neuprez" id="33" weight="1" />
+      <edge source="Florianne Fassotte" target="S. Mertens" id="34" weight="1" />
+      <edge source="Florianne Fassotte" target="Björn‐Olav Dozo" id="35" weight="1" />
+      <edge source="Florianne Fassotte" target="Valérie Defaweux" id="36" weight="1" />
+      <edge source="Perrine Neuprez" target="S. Mertens" id="37" weight="1" />
+      <edge source="Perrine Neuprez" target="Björn‐Olav Dozo" id="38" weight="1" />
+      <edge source="Perrine Neuprez" target="Valérie Defaweux" id="39" weight="1" />
+      <edge source="S. Mertens" target="Björn‐Olav Dozo" id="40" weight="1" />
+      <edge source="S. Mertens" target="Valérie Defaweux" id="41" weight="1" />
+      <edge source="Björn‐Olav Dozo" target="Valérie Defaweux" id="42" weight="1" />
+      <edge source="Xin Yun Du" target="Yi Bo Guan" id="43" weight="1" />
+      <edge source="Xin Yun Du" target="Tsung Shun Hsieh" id="44" weight="1" />
+      <edge source="Yi Bo Guan" target="Tsung Shun Hsieh" id="45" weight="1" />
+      <edge source="А. Abdildauly" target="A. S. Bakhtaulova" id="46" weight="1" />
+      <edge source="А. Abdildauly" target="D. Mukasheva" id="47" weight="1" />
+      <edge source="А. Abdildauly" target="Michael Haas" id="48" weight="1" />
+      <edge source="A. S. Bakhtaulova" target="D. Mukasheva" id="49" weight="1" />
+      <edge source="A. S. Bakhtaulova" target="Michael Haas" id="50" weight="1" />
+      <edge source="D. Mukasheva" target="Michael Haas" id="51" weight="1" />
+      <edge source="Mirela Blaga" target="Dirk Hofer" id="52" weight="1" />
+      <edge source="Mirela Blaga" target="Annemarie Grundmeier" id="53" weight="1" />
+      <edge source="Mirela Blaga" target="Deniz Köksal" id="54" weight="1" />
+      <edge source="Mirela Blaga" target="Jochen Strähle" id="55" weight="1" />
+      <edge source="Mirela Blaga" target="Zlatina Kazlacheva" id="56" weight="1" />
+      <edge source="Mirela Blaga" target="Zlatin Zlatev" id="57" weight="1" />
+      <edge source="Dirk Hofer" target="Annemarie Grundmeier" id="58" weight="1" />
+      <edge source="Dirk Hofer" target="Deniz Köksal" id="59" weight="1" />
+      <edge source="Dirk Hofer" target="Jochen Strähle" id="60" weight="1" />
+      <edge source="Dirk Hofer" target="Zlatina Kazlacheva" id="61" weight="1" />
+      <edge source="Dirk Hofer" target="Zlatin Zlatev" id="62" weight="1" />
+      <edge source="Annemarie Grundmeier" target="Deniz Köksal" id="63" weight="1" />
+      <edge source="Annemarie Grundmeier" target="Jochen Strähle" id="64" weight="1" />
+      <edge source="Annemarie Grundmeier" target="Zlatina Kazlacheva" id="65" weight="1" />
+      <edge source="Annemarie Grundmeier" target="Zlatin Zlatev" id="66" weight="1" />
+      <edge source="Deniz Köksal" target="Jochen Strähle" id="67" weight="1" />
+      <edge source="Deniz Köksal" target="Zlatina Kazlacheva" id="68" weight="1" />
+      <edge source="Deniz Köksal" target="Zlatin Zlatev" id="69" weight="1" />
+      <edge source="Jochen Strähle" target="Zlatina Kazlacheva" id="70" weight="1" />
+      <edge source="Jochen Strähle" target="Zlatin Zlatev" id="71" weight="1" />
+      <edge source="Zlatina Kazlacheva" target="Zlatin Zlatev" id="72" weight="1" />
+      <edge source="Laura Bartolomé-Quevedo" target="Juan Manuel Campos-Rodríguez" id="73" weight="1" />
+      <edge source="Laura Bartolomé-Quevedo" target="Ignacio de Blas" id="74" weight="1" />
+      <edge source="Laura Bartolomé-Quevedo" target="Marta Calleja-Duque" id="75" weight="1" />
+      <edge source="Laura Bartolomé-Quevedo" target="David Álvarez-Antelo" id="76" weight="1" />
+      <edge source="Laura Bartolomé-Quevedo" target="Gonzalo Parrado-Hernando" id="77" weight="1" />
+      <edge source="Juan Manuel Campos-Rodríguez" target="Ignacio de Blas" id="78" weight="1" />
+      <edge source="Juan Manuel Campos-Rodríguez" target="Marta Calleja-Duque" id="79" weight="1" />
+      <edge source="Juan Manuel Campos-Rodríguez" target="David Álvarez-Antelo" id="80" weight="1" />
+      <edge source="Juan Manuel Campos-Rodríguez" target="Gonzalo Parrado-Hernando" id="81" weight="1" />
+      <edge source="Ignacio de Blas" target="Marta Calleja-Duque" id="82" weight="1" />
+      <edge source="Ignacio de Blas" target="David Álvarez-Antelo" id="83" weight="1" />
+      <edge source="Ignacio de Blas" target="Gonzalo Parrado-Hernando" id="84" weight="1" />
+      <edge source="Marta Calleja-Duque" target="David Álvarez-Antelo" id="85" weight="1" />
+      <edge source="Marta Calleja-Duque" target="Gonzalo Parrado-Hernando" id="86" weight="1" />
+      <edge source="David Álvarez-Antelo" target="Gonzalo Parrado-Hernando" id="87" weight="1" />
+      <edge source="Pedro Mauricio Acosta Castellanos" target="Araceli Queiruga‐Dios" id="88" weight="1" />
+      <edge source="Pedro Mauricio Acosta Castellanos" target="Laura Gomez Araque" id="89" weight="1" />
+      <edge source="Pedro Mauricio Acosta Castellanos" target="Paula Rojas Ramos" id="90" weight="1" />
+      <edge source="Araceli Queiruga‐Dios" target="Laura Gomez Araque" id="91" weight="1" />
+      <edge source="Araceli Queiruga‐Dios" target="Paula Rojas Ramos" id="92" weight="1" />
+      <edge source="Laura Gomez Araque" target="Paula Rojas Ramos" id="93" weight="1" />
+      <edge source="Carolien van den Berg" target="Carolien van den Berg" id="94" weight="1" />
+      <edge source="Iva Prgomet" target="I. Varičak" id="95" weight="1" />
+      <edge source="Iva Prgomet" target="M. Šavor" id="96" weight="1" />
+      <edge source="Iva Prgomet" target="M. Blažić" id="97" weight="1" />
+      <edge source="Iva Prgomet" target="Željko Prgomet" id="98" weight="1" />
+      <edge source="I. Varičak" target="M. Šavor" id="99" weight="1" />
+      <edge source="I. Varičak" target="M. Blažić" id="100" weight="1" />
+      <edge source="I. Varičak" target="Željko Prgomet" id="101" weight="1" />
+      <edge source="M. Šavor" target="M. Blažić" id="102" weight="1" />
+      <edge source="M. Šavor" target="Željko Prgomet" id="103" weight="1" />
+      <edge source="M. Blažić" target="Željko Prgomet" id="104" weight="1" />
+      <edge source="Alex Mifsud" target="Antonio Sánchez-Vázquez" id="105" weight="1" />
+      <edge source="Alex Mifsud" target="Chris William Callaghan" id="106" weight="1" />
+      <edge source="Antonio Sánchez-Vázquez" target="Chris William Callaghan" id="107" weight="1" />
+      <edge source="Zhiqiang Xing" target="Letong Li" id="108" weight="1" />
+      <edge source="Zhiqiang Xing" target="Weibin Wang" id="109" weight="1" />
+      <edge source="Letong Li" target="Weibin Wang" id="110" weight="1" />
+      <edge source="Serhii Koniukhov" target="Kateryna Osadchа" id="111" weight="1" />
+      <edge source="Tugba Karabiyik" target="Aparajita Jaiswal" id="112" weight="1" />
+      <edge source="Tugba Karabiyik" target="Paul Thomas" id="113" weight="1" />
+      <edge source="Aparajita Jaiswal" target="Paul Thomas" id="114" weight="1" />
+      <edge source="Maja Melballe Jensen" target="Marianne Georgsen" id="115" weight="1" />
+      <edge source="Maja Melballe Jensen" target="Michal Pilgaard" id="116" weight="1" />
+      <edge source="Marianne Georgsen" target="Michal Pilgaard" id="117" weight="1" />
+      <edge source="Natalia Shchitova" target="Vitaly Belozerov" id="118" weight="1" />
+      <edge source="Natalia Shchitova" target="Julia Zolnikova" id="119" weight="1" />
+      <edge source="Vitaly Belozerov" target="Julia Zolnikova" id="120" weight="1" />
+      <edge source="S. Cravero" target="Francesco Strada" id="121" weight="1" />
+      <edge source="S. Cravero" target="Isabella Maria Lami" id="122" weight="1" />
+      <edge source="S. Cravero" target="A. Bottino" id="123" weight="1" />
+      <edge source="Francesco Strada" target="Isabella Maria Lami" id="124" weight="1" />
+      <edge source="Francesco Strada" target="A. Bottino" id="125" weight="1" />
+      <edge source="Isabella Maria Lami" target="A. Bottino" id="126" weight="1" />
+      <edge source="Iris Schmidberger" target="Sven Wippermann" id="127" weight="1" />
+    </edges>
+  </graph>
+</gexf>

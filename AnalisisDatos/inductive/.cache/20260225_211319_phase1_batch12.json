@@ -1,0 +1,498 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "1",
+  "batch": 12,
+  "timestamp": "2026-02-25T21:38:34.693395",
+  "data": {
+    "themes": [
+      {
+        "name": "Integration of Education for Sustainable Development (ESD)",
+        "definition": "The process and strategies for incorporating sustainability principles into educational curricula and institutional practices in higher education, as observed across various disciplines and regions.",
+        "evidence": [
+          "[SyeUni_2025] Education for Sustainable Development (ESD) is a crucial approach to foster transformative change in education at higher education institutions (HEIs).",
+          "[LitEdu_2019] Higher Education for Sustainable Development (HESD) aims to transmit knowledge and develop competences, values and attitudes that empower and motivate students to actively contribute to sustainable development.",
+          "[ConCur_2018] The review tool was designed in order to realise the University’s strategic aim ‘to support curriculum innovation so that all students have the opportunity to engage with sustainability related issues relevant to their discipline and chosen field of work’"
+        ],
+        "articles": [
+          "SyeUni_2025",
+          "LitEdu_2019",
+          "ConCur_2018",
+          "WilA u_2018",
+          "BomDif_2025",
+          "Ng,Imp_2023",
+          "SuáInt_2025",
+          "CotSus_2026",
+          "TırSus_2026",
+          "WelSys_2025",
+          "CasThe_2024",
+          "SchDes_2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Curriculum integration",
+          "Institutional strategies",
+          "ESD frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Sustainability Competencies and Literacy Development",
+        "definition": "Efforts to develop and assess knowledge, skills, and attitudes related to sustainability among students, teachers, and staff, focusing on building specific competencies for addressing sustainability challenges.",
+        "evidence": [
+          "[LinOpt_2026] Optimizing sustainability literacy in engineering education: a two-stage SEM-neural network investigation of curriculum drivers on sustainability literacy among engineering students",
+          "[MotEnv_2025] exploring how student teachers develop critical understanding and sustainability competencies.",
+          "[ZhaUnd_2025] enhancing students’ system thinking competency by deepening students’ understanding of LCA, carbon footprints and environmental impacts"
+        ],
+        "articles": [
+          "LinOpt_2026",
+          "MotEnv_2025",
+          "ZhaUnd_2025",
+          "SyeUni_2025",
+          "PurPRO_2022",
+          "SchCom_2025",
+          "SuáInt_2025",
+          "KiyA F_2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Key sustainability competencies",
+          "Sustainability literacy",
+          "Skills development",
+          "Pedagogical content knowledge"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Pedagogical Strategies for Sustainability Learning",
+        "definition": "Teaching and learning methods used to facilitate sustainability education, emphasizing active, experiential approaches such as project-based learning, service learning, and serious games.",
+        "evidence": [
+          "[SinPre_2020] Pre-service Technology Teachers’ Experiences of Project Based Learning as Pedagogy for Education for Sustainable Development",
+          "[HerEdu_2025] Service learning is commonly used in higher education to build sustainability skills",
+          "[NovSer_2025] Serious Game Applied as Experiential Learning for the Development Behavior of Waste Reduction and Promote Education for Sustainable Development"
+        ],
+        "articles": [
+          "SinPre_2020",
+          "HerEdu_2025",
+          "NovSer_2025",
+          "LozExp_2025",
+          "SchCom_2025",
+          "GarSus_2023",
+          "TomEqu_2026",
+          "MotEnv_2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Active learning",
+          "Experiential learning",
+          "Transformative pedagogies",
+          "Green pedagogy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Contextual and Institutional Factors in Sustainability Education",
+        "definition": "The impact of socio-economic, cultural, and institutional environments on the implementation and perception of sustainability education, highlighting regional variations and challenges.",
+        "evidence": [
+          "[CotSus_2026] Sustainability in business and economics education in South African universities: Whose agenda is it? ... explores how faculty in South African universities understand, experience, and embed sustainability in business and economics teaching.",
+          "[BarSus_2025] In the Latin American context, the role of education for the necessary transformation has been addressed since the 1960s from different approaches",
+          "[LitEdu_2019] The present empirical study was carried out on the status quo of education for sustainable development (EDS) in the context of Bolivian higher education."
+        ],
+        "articles": [
+          "CotSus_2026",
+          "BarSus_2025",
+          "LitEdu_2019",
+          "ClaDif_2023",
+          "SuáInt_2025",
+          "Ng,Imp_2023"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Socio-political context",
+          "Institutional challenges",
+          "Regional perspectives",
+          "Decolonisation"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Stakeholder Collaboration and Partnerships",
+        "definition": "Involvement of various actors, including industry, community, and international organizations, in designing and delivering sustainability education to enhance real-world application and impact.",
+        "evidence": [
+          "[HerEdu_2025] Education for sustainable development goals through service learning: a university-community collaboration in northeast Brazil",
+          "[TomEqu_2026] Work-Integrated Learning (WIL) initiatives embed sustainability education in higher education, enhancing student engagement and real-world application of sustainability principles.",
+          "[HanImp_2025] Implementation of Vocational Education and Training for Sustainable Development Through Cooperation Between Research and Practice"
+        ],
+        "articles": [
+          "HerEdu_2025",
+          "TomEqu_2026",
+          "HanImp_2025",
+          "GabSow_2025",
+          "CheRet_2025",
+          "GarSus_2023"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "University-business partnerships",
+          "Community engagement",
+          "International collaborations",
+          "Design-based research"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Climate and Environmental Literacy",
+        "definition": "Educational initiatives specifically aimed at understanding and addressing climate change and environmental sustainability, often through hands-on activities and interdisciplinary models.",
+        "evidence": [
+          "[ClaDif_2023] Differing approaches to embedding low energy construction and climate literacy into vocational education and training",
+          "[DiaFro_2025] Teaching Climate Change as Simple, Serious, and Solvable ... a comprehensive curricular model for teaching CC in higher education",
+          "[ZhaUnd_2025] Understanding greenhouse gas emissions and life cycle assessment of clothing: engaging students’ hands, heads and hearts"
+        ],
+        "articles": [
+          "ClaDif_2023",
+          "DiaFro_2025",
+          "ZhaUnd_2025",
+          "LozExp_2025",
+          "CheRet_2025",
+          "TırSus_2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Climate change education",
+          "Environmental sustainability",
+          "Carbon neutrality",
+          "Life cycle assessment"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Interdisciplinary and Holistic Approaches",
+        "definition": "Educational methods that integrate multiple disciplines and adopt systems thinking to address sustainability issues comprehensively, breaking down traditional disciplinary boundaries.",
+        "evidence": [
+          "[KiyA F_2025] A Framework to Design Transformative and Transdisciplinary Student-Led STE(A)M Clubs to Develop Students’ Sustainability Competencies",
+          "[CheRet_2025] Rethinking talent cultivation for carbon neutrality: a case study of higher education reform in China ... interdisciplinary integration, curriculum system restructuring, and university-enterprise collaboration",
+          "[LozExp_2025] This paper proposes a systems-based approach to ecopedagogy and the greening of curricula."
+        ],
+        "articles": [
+          "KiyA F_2025",
+          "CheRet_2025",
+          "LozExp_2025",
+          "WelSys_2025",
+          "GarSus_2023",
+          "DiaFro_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Systems thinking",
+          "Transdisciplinarity",
+          "Holistic education",
+          "STEAM education"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on higher education contexts, with frequent mentions of Education for Sustainable Development (ESD) as a framework. There is a strong emphasis on developing sustainability competencies and using innovative pedagogies, while regional and institutional factors significantly influence implementation. Many studies employ qualitative or mixed methods, and themes often overlap, such as pedagogical strategies being linked to competency development.",
+    "grounding_notes": "Evidence is drawn verbatim from the provided abstracts, with no inference beyond explicit text. Some abstracts have quality notes indicating missing elements, so themes are based solely on stated content. The closed set of keys is strictly adhered to, and themes are induced without predefined categories. Confidence is high for all themes due to direct evidence, but frequency is estimated based on article count in this batch.",
+    "_hallucination_control": {
+      "total_themes": 7,
+      "avg_grounding_score": 0.87,
+      "total_hallucination_flags": 4,
+      "verification_details": [
+        {
+          "theme_name": "Integration of Education for Sustainable Development (ESD)",
+          "evidence_verified": [
+            {
+              "quote": "[SyeUni_2025] Education for Sustainable Development (ESD) is a crucial approach to foster transformative change in education at higher education institutions (HEIs).",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[LitEdu_2019] Higher Education for Sustainable Development (HESD) aims to transmit knowledge and develop competences, values and attitudes that empower and motivate students to actively contribute to sustainable development.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ConCur_2018] The review tool was designed in order to realise the University’s strategic aim ‘to support curriculum innovation so that all students have the opportunity to engage with sustainability related issues relevant to their discipline and chosen field of work’",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "SyeUni_2025",
+            "LitEdu_2019",
+            "ConCur_2018",
+            "WilA u_2018",
+            "BomDif_2025",
+            "Ng,Imp_2023",
+            "SuáInt_2025",
+            "CotSus_2026",
+            "TırSus_2026",
+            "WelSys_2025",
+            "CasThe_2024",
+            "SchDes_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Sustainability Competencies and Literacy Development",
+          "evidence_verified": [
+            {
+              "quote": "[LinOpt_2026] Optimizing sustainability literacy in engineering education: a two-stage SEM-neural network investigation of curriculum drivers on sustainability literacy among engineering students",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[MotEnv_2025] exploring how student teachers develop critical understanding and sustainability competencies.",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ZhaUnd_2025] enhancing students’ system thinking competency by deepening students’ understanding of LCA, carbon footprints and environmental impacts",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LinOpt_2026",
+            "MotEnv_2025",
+            "ZhaUnd_2025",
+            "SyeUni_2025",
+            "PurPRO_2022",
+            "SchCom_2025",
+            "SuáInt_2025",
+            "KiyA F_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Strategies for Sustainability Learning",
+          "evidence_verified": [
+            {
+              "quote": "[SinPre_2020] Pre-service Technology Teachers’ Experiences of Project Based Learning as Pedagogy for Education for Sustainable Development",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[HerEdu_2025] Service learning is commonly used in higher education to build sustainability skills",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[NovSer_2025] Serious Game Applied as Experiential Learning for the Development Behavior of Waste Reduction and Promote Education for Sustainable Development",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "SinPre_2020",
+            "HerEdu_2025",
+            "NovSer_2025",
+            "LozExp_2025",
+            "SchCom_2025",
+            "GarSus_2023",
+            "TomEqu_2026",
+            "MotEnv_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Contextual and Institutional Factors in Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[BarSus_2025] In the Latin American context, the role of education for the necessary transformation has been addressed since the 1960s from different approaches",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[LitEdu_2019] The present empirical study was carried out on the status quo of education for sustainable development (EDS) in the context of Bolivian higher education.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[CotSus_2026] Sustainability in business and economics education in South African universities: Whose agenda is it? ... explores how faculty in South African universities understand, experience, and embed sustainability in business and economics teaching.",
+              "score": 0.53,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "CotSus_2026",
+            "BarSus_2025",
+            "LitEdu_2019",
+            "ClaDif_2023",
+            "SuáInt_2025",
+            "Ng,Imp_2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.53): '[CotSus_2026] Sustainability in business and econo...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Stakeholder Collaboration and Partnerships",
+          "evidence_verified": [
+            {
+              "quote": "[HerEdu_2025] Education for sustainable development goals through service learning: a university-community collaboration in northeast Brazil",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[HanImp_2025] Implementation of Vocational Education and Training for Sustainable Development Through Cooperation Between Research and Practice",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[TomEqu_2026] Work-Integrated Learning (WIL) initiatives embed sustainability education in higher education, enhancing student engagement and real-world application of sustainability principles.",
+              "score": 0.73,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "HerEdu_2025",
+            "TomEqu_2026",
+            "HanImp_2025",
+            "GabSow_2025",
+            "CheRet_2025",
+            "GarSus_2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.73), not verbatim: '[TomEqu_2026] Work-Integrated Learning (WIL) initi...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Climate and Environmental Literacy",
+          "evidence_verified": [
+            {
+              "quote": "[ClaDif_2023] Differing approaches to embedding low energy construction and climate literacy into vocational education and training",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ZhaUnd_2025] Understanding greenhouse gas emissions and life cycle assessment of clothing: engaging students’ hands, heads and hearts",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[DiaFro_2025] Teaching Climate Change as Simple, Serious, and Solvable ... a comprehensive curricular model for teaching CC in higher education",
+              "score": 0.53,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "ClaDif_2023",
+            "DiaFro_2025",
+            "ZhaUnd_2025",
+            "LozExp_2025",
+            "CheRet_2025",
+            "TırSus_2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.53): '[DiaFro_2025] Teaching Climate Change as Simple, S...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Interdisciplinary and Holistic Approaches",
+          "evidence_verified": [
+            {
+              "quote": "[KiyA F_2025] A Framework to Design Transformative and Transdisciplinary Student-Led STE(A)M Clubs to Develop Students’ Sustainability Competencies",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[LozExp_2025] This paper proposes a systems-based approach to ecopedagogy and the greening of curricula.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[CheRet_2025] Rethinking talent cultivation for carbon neutrality: a case study of higher education reform in China ... interdisciplinary integration, curriculum system restructuring, and university-enterprise collaboration",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "KiyA F_2025",
+            "CheRet_2025",
+            "LozExp_2025",
+            "WelSys_2025",
+            "GarSus_2023",
+            "DiaFro_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.60), not verbatim: '[CheRet_2025] Rethinking talent cultivation for ca...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

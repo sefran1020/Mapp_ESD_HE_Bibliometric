@@ -1,0 +1,523 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "1",
+  "batch": 15,
+  "timestamp": "2026-02-25T21:44:58.402701",
+  "data": {
+    "themes": [
+      {
+        "name": "Integration of Education for Sustainable Development (ESD) in Higher Education Curricula",
+        "definition": "Focus on how ESD is incorporated into university courses, programs, and across disciplines, often highlighting gaps, efforts for better integration, and the need for curriculum reform.",
+        "evidence": [
+          "[NjiInt_2025] ESD and GCED have not been adequately integrated across different university course disciplines.",
+          "[TebInt_2025] The integration of Education for Sustainable Development (ESD) into the curricula of higher education institutions (HEIs) is critical for advancing global sustainability objectives.",
+          "[NieThe_2022] To what extent is sustainable development (SD) on the agendas of HEIs under investigation?"
+        ],
+        "articles": [
+          "NjiInt_2025",
+          "TebInt_2025",
+          "NieThe_2022",
+          "DahEdu_2025",
+          "SimDev_2013",
+          "NorGlo_2025",
+          "OguThe_2024",
+          "OzdThe_2023"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Curriculum reform",
+          "Interdisciplinary integration",
+          "Policy frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of Sustainability Literacy and Skills",
+        "definition": "Emphasis on fostering sustainability-related knowledge, attitudes, behaviors, and skills among students and staff in higher education, including the design of assessment tools.",
+        "evidence": [
+          "[EmbClo_2019] develop sustainability literacy and employment skills.",
+          "[Su,Des_2022] The green skills of university students are divided into four dimensions: cognition of green knowledge, mastery of green skills, application of green skills, and green skills development.",
+          "[OguThe_2024] The acquisition of the competencies of sustainability literacy through education requires an understanding of how sustainability literacy is shaped."
+        ],
+        "articles": [
+          "EmbClo_2019",
+          "Su,Des_2022",
+          "OguThe_2024",
+          "OzdThe_2023",
+          "JinSUS_2026",
+          "AmbTra_2026",
+          "de Edu_2021"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Green skills",
+          "Sustainability competencies",
+          "Literacy assessment"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Innovative Pedagogical Approaches for Sustainability Education",
+        "definition": "Use of specific teaching methods and learning environments to enhance sustainability education, such as experiential learning, online learning, project-based learning, and case studies.",
+        "evidence": [
+          "[EmbClo_2019] using the university as a live sustainability case study provides a real world, experiential learning environment.",
+          "[de Pro_2025_422] post-digital action-oriented and values-driven online programmes aligned with education for sustainable development principles.",
+          "[RooStu_2014] student production of public service announcements (PSAs) for climate change education."
+        ],
+        "articles": [
+          "EmbClo_2019",
+          "de Pro_2025_422",
+          "RooStu_2014",
+          "GovPre_2022",
+          "NorGlo_2025",
+          "ArnBui_2024",
+          "SimDev_2013"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Experiential learning",
+          "Digital pedagogy",
+          "Active learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Institutional Commitment and Challenges in ESD Implementation",
+        "definition": "Focus on the role of higher education institutions in promoting ESD, including their commitments, strategic plans, and the challenges they face, such as resource limitations, policy gaps, and insufficient support.",
+        "evidence": [
+          "[NieThe_2022] Findings derived from systematic content analyses indicate that the investigated South African HEIs are committed to ESD; however, effective implementation of all dimensions of sustainable development is complex and problematic.",
+          "[TebInt_2025] Key challenges identified include limited resources, insufficient institutional policies, and a lack of ongoing professional development for staff.",
+          "[JinSUS_2026] institutional support is not as significantly impactful as hypothesized."
+        ],
+        "articles": [
+          "NieThe_2022",
+          "TebInt_2025",
+          "JinSUS_2026",
+          "KļaEdu_2021",
+          "FisEdu_2023",
+          "SolDIA_2023",
+          "AmbTra_2026"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Institutional support",
+          "Policy development",
+          "Resource allocation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Global and Cultural Contexts in Sustainability Education",
+        "definition": "Consideration of regional, national, or cultural differences in implementing and experiencing sustainability education, including comparative studies and localization of global sustainability goals.",
+        "evidence": [
+          "[DahEdu_2025] This article explores the evolving role of higher education institutions (HEIs) in mitigating climate change through teacher education in the ASEAN region.",
+          "[OguThe_2024] The study was conducted as a survey study on university students in the UK and Turkey.",
+          "[NorGlo_2025] explores how digital pedagogy can be used to advance global learning and cultural responsiveness in STEM education, with a specific focus on responsible consumption and production (SDG12)."
+        ],
+        "articles": [
+          "DahEdu_2025",
+          "OguThe_2024",
+          "NorGlo_2025",
+          "OzdThe_2023",
+          "NieThe_2022",
+          "Li Per_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Cultural responsiveness",
+          "International perspectives",
+          "Regional case studies"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Teacher Education and Capacity Building for Sustainability",
+        "definition": "Focus on preparing educators, both pre-service and in-service, to teach sustainability concepts and integrate ESD into their practices through training and professional development.",
+        "evidence": [
+          "[KļaEdu_2021] An equally important role of universities in the ESD process is the 'training of trainers'—preparation of new teachers.",
+          "[GovPre_2022] This paper examines preservice science teachers’ (PSTs) experiences of agricultural garden projects to address education for sustainable development (ESD).",
+          "[DahEdu_2025] equipping educators to impart environmental literacy across K-12 curricula."
+        ],
+        "articles": [
+          "KļaEdu_2021",
+          "GovPre_2022",
+          "DahEdu_2025",
+          "SimDev_2013"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Educator training",
+          "Professional development",
+          "Transformative learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment and Measurement of Sustainability Outcomes",
+        "definition": "Development and use of tools, scales, and methods to evaluate sustainability literacy, skills, or the effectiveness of ESD programs in higher education.",
+        "evidence": [
+          "[Su,Des_2022] a green skills scale was designed with the help of Chinese university students.",
+          "[OguThe_2024] The data were collected by using the Scale of Sustainability Literacy and analyzed using AMOS version 24.",
+          "[AmbTra_2026] proposes a model that assesses the EfS quotient of HEIs."
+        ],
+        "articles": [
+          "Su,Des_2022",
+          "OguThe_2024",
+          "AmbTra_2026",
+          "OzdThe_2023",
+          "RooStu_2014"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Scales",
+          "Surveys",
+          "Diagnostic tools",
+          "Evaluation frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Values and Ethical Approaches in Sustainability Education",
+        "definition": "Emphasis on incorporating values, ethics, and pluralistic perspectives into sustainability education to foster deeper engagement, transformation, and critical thinking.",
+        "evidence": [
+          "[PapSus_2024] The central theme emerging is the importance of embracing a values-infused approach to sustainability in learning and teaching.",
+          "[de Pro_2025_422] values-driven online programmes aligned with education for sustainable development principles.",
+          "[PapSus_2024] The discourse highlights the need for epistemological pluralism."
+        ],
+        "articles": [
+          "PapSus_2024",
+          "de Pro_2025_422"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Ethical pedagogy",
+          "Critical thinking",
+          "Transformative learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts consistently focus on Education for Sustainable Development (ESD) in higher education, with recurring themes of curriculum integration, pedagogical innovation, literacy development, and institutional challenges. There is a strong emphasis on practical, real-world applications and the need for assessment tools. Comparative and regional studies highlight the global relevance of sustainability education.",
+    "grounding_notes": "All evidence is verbatim from the provided abstracts. Some abstracts have quality notes indicating missing elements, but only explicit text was used. The analysis is based solely on the data from this batch, with themes emerging inductively.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.97,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "Integration of Education for Sustainable Development (ESD) in Higher Education Curricula",
+          "evidence_verified": [
+            {
+              "quote": "[NjiInt_2025] ESD and GCED have not been adequately integrated across different university course disciplines.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[TebInt_2025] The integration of Education for Sustainable Development (ESD) into the curricula of higher education institutions (HEIs) is critical for advancing global sustainability objectives.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[NieThe_2022] To what extent is sustainable development (SD) on the agendas of HEIs under investigation?",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "NjiInt_2025",
+            "TebInt_2025",
+            "NieThe_2022",
+            "DahEdu_2025",
+            "SimDev_2013",
+            "NorGlo_2025",
+            "OguThe_2024",
+            "OzdThe_2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Development of Sustainability Literacy and Skills",
+          "evidence_verified": [
+            {
+              "quote": "[EmbClo_2019] develop sustainability literacy and employment skills.",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Su,Des_2022] The green skills of university students are divided into four dimensions: cognition of green knowledge, mastery of green skills, application of green skills, and green skills development.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[OguThe_2024] The acquisition of the competencies of sustainability literacy through education requires an understanding of how sustainability literacy is shaped.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "EmbClo_2019",
+            "Su,Des_2022",
+            "OguThe_2024",
+            "OzdThe_2023",
+            "JinSUS_2026",
+            "AmbTra_2026",
+            "de Edu_2021"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Innovative Pedagogical Approaches for Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[EmbClo_2019] using the university as a live sustainability case study provides a real world, experiential learning environment.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[de Pro_2025_422] post-digital action-oriented and values-driven online programmes aligned with education for sustainable development principles.",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[RooStu_2014] student production of public service announcements (PSAs) for climate change education.",
+              "score": 0.58,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "EmbClo_2019",
+            "de Pro_2025_422",
+            "RooStu_2014",
+            "GovPre_2022",
+            "NorGlo_2025",
+            "ArnBui_2024",
+            "SimDev_2013"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.58): '[RooStu_2014] student production of public service...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Institutional Commitment and Challenges in ESD Implementation",
+          "evidence_verified": [
+            {
+              "quote": "[NieThe_2022] Findings derived from systematic content analyses indicate that the investigated South African HEIs are committed to ESD; however, effective implementation of all dimensions of sustainable development is complex and problematic.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[TebInt_2025] Key challenges identified include limited resources, insufficient institutional policies, and a lack of ongoing professional development for staff.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[JinSUS_2026] institutional support is not as significantly impactful as hypothesized.",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "NieThe_2022",
+            "TebInt_2025",
+            "JinSUS_2026",
+            "KļaEdu_2021",
+            "FisEdu_2023",
+            "SolDIA_2023",
+            "AmbTra_2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Global and Cultural Contexts in Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[DahEdu_2025] This article explores the evolving role of higher education institutions (HEIs) in mitigating climate change through teacher education in the ASEAN region.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[OguThe_2024] The study was conducted as a survey study on university students in the UK and Turkey.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[NorGlo_2025] explores how digital pedagogy can be used to advance global learning and cultural responsiveness in STEM education, with a specific focus on responsible consumption and production (SDG12).",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "DahEdu_2025",
+            "OguThe_2024",
+            "NorGlo_2025",
+            "OzdThe_2023",
+            "NieThe_2022",
+            "Li Per_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Teacher Education and Capacity Building for Sustainability",
+          "evidence_verified": [
+            {
+              "quote": "[KļaEdu_2021] An equally important role of universities in the ESD process is the 'training of trainers'—preparation of new teachers.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[GovPre_2022] This paper examines preservice science teachers’ (PSTs) experiences of agricultural garden projects to address education for sustainable development (ESD).",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[DahEdu_2025] equipping educators to impart environmental literacy across K-12 curricula.",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "KļaEdu_2021",
+            "GovPre_2022",
+            "DahEdu_2025",
+            "SimDev_2013"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment and Measurement of Sustainability Outcomes",
+          "evidence_verified": [
+            {
+              "quote": "[Su,Des_2022] a green skills scale was designed with the help of Chinese university students.",
+              "score": 0.87,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[OguThe_2024] The data were collected by using the Scale of Sustainability Literacy and analyzed using AMOS version 24.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[AmbTra_2026] proposes a model that assesses the EfS quotient of HEIs.",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Su,Des_2022",
+            "OguThe_2024",
+            "AmbTra_2026",
+            "OzdThe_2023",
+            "RooStu_2014"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Values and Ethical Approaches in Sustainability Education",
+          "evidence_verified": [
+            {
+              "quote": "[PapSus_2024] The central theme emerging is the importance of embracing a values-infused approach to sustainability in learning and teaching.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[de Pro_2025_422] values-driven online programmes aligned with education for sustainable development principles.",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[PapSus_2024] The discourse highlights the need for epistemological pluralism.",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "PapSus_2024",
+            "de Pro_2025_422"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

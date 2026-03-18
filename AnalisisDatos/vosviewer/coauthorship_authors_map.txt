@@ -1,0 +1,1319 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>	score<Avg. pub. year>	description	url
+1	Arpana Gupta	2.479	0.2956	1	7	7	1	2025.0		
+2	Satish Jaiswal	2.5001	0.0005	1	7	7	1	2025.0		
+3	Suzanna Purpura	2.3903	-0.2757	1	7	7	1	2025.0		
+4	Seth Dizon	2.2133	-0.0879	1	7	7	1	2025.0		
+5	Markus Buan	2.7212	0.2036	1	7	7	1	2025.0		
+6	Fengqiu Adam Dong	2.7961	-0.0462	1	7	7	1	2025.0		
+7	Fonna Forman	2.2522	0.1703	1	7	7	1	2025.0		
+8	Jyoti Mishra	2.6478	-0.2602	1	7	7	1	2025.0		
+9	Tommy Lorenz	2.4204	-0.1534	2	7	7	1	2022.0		
+10	Lea Gerster	2.5351	-0.1727	2	7	7	1	2022.0		
+11	Dustin Elias Wodzinowski	2.4662	-0.0733	2	7	7	1	2022.0		
+12	Ariani C. Wartenberg	2.6153	-0.1129	2	7	7	1	2022.0		
+13	Lea Martetschläger	2.6275	-0.0122	2	7	7	1	2022.0		
+14	Heike Molitor	2.4898	0.1275	2	9	9	2	2021.5		
+15	Tobias Cremer	2.5294	0.0115	2	7	7	1	2022.0		
+16	Ralf Bloch	2.3872	-0.0186	2	7	7	1	2022.0		
+17	Anna-Karin Högfeldt	2.7944	0.0473	3	7	7	1	2019.0		
+18	Anders Rosén	2.2504	0.2638	3	7	7	1	2019.0		
+19	Christine Mwase	2.4773	0.3891	3	7	7	1	2019.0		
+20	Ann Lantz	2.4983	0.094	3	7	7	1	2019.0		
+21	Lena Gumaelius	2.2115	0.0055	3	7	7	1	2019.0		
+22	Eva Shayo	2.7195	0.2971	3	7	7	1	2019.0		
+23	Suzan Lujara	2.3886	-0.1822	3	7	7	1	2019.0		
+24	Nerey H. Mvungi	2.6461	-0.1667	3	7	7	1	2019.0		
+25	Tamíris Pacheco da Costa	2.4933	0.1411	4	6	6	1	2025.0		
+26	Luz Angela Torres López	2.6918	-0.0724	4	6	6	1	2025.0		
+27	Camila Perussello	2.3011	0.354	4	6	6	1	2025.0		
+28	F. B. Quinn	2.2136	0.0768	4	6	6	1	2025.0		
+29	Quentin Crowley	2.584	0.4154	4	6	6	1	2025.0		
+30	Helena McMahon	2.4104	-0.1357	4	6	6	1	2025.0		
+31	Nicholas M. Holden	2.7782	0.2021	4	6	6	1	2025.0		
+32	Trevion Henderson	2.2106	0.1235	5	6	6	1	2022.0		
+33	Jessica Ostrow Michel	2.7751	0.2487	5	6	6	1	2022.0		
+34	Alex Bryan	2.2981	0.4006	5	6	6	1	2022.0		
+35	Emily Canosa	2.6888	-0.0258	5	6	6	1	2022.0		
+36	Clara Gamalski	2.5809	0.4621	5	6	6	1	2022.0		
+37	Kelly Jones	2.4903	0.1878	5	6	6	1	2022.0		
+38	Jeremy Moghtader	2.4074	-0.0891	5	6	6	1	2022.0		
+39	Norita Ahmad	2.7663	0.3034	6	9	10	3	2024.33		
+40	Maria Toro-Troconis	2.306	-0.0039	6	9	9	1	2023.0		
+41	Mohammed Ibahrine	2.4976	0.3306	6	9	10	2	2024.0		
+42	Rose Armour	2.5367	-0.082	6	9	9	1	2023.0		
+43	Victoria Tait	2.2294	0.3835	6	9	9	1	2023.0		
+44	Katharine Reedy	2.4055	0.5343	6	9	9	1	2023.0		
+45	Romas Malevicius	2.6561	0.4975	6	9	9	1	2023.0		
+46	Vicki Dale	2.2001	0.1767	6	9	9	1	2023.0		
+47	Nathalie Tasler	2.7613	0.0754	6	9	9	1	2023.0		
+48	Yuma Inzolia	2.5317	0.1187	6	9	9	1	2023.0		
+49	Ioana Mihaela Bălan	2.7774	0.1644	7	9	9	1	2025.0		
+50	Teodor Ioan Traşcă	2.5983	0.581	7	9	9	1	2025.0		
+51	Monica Ocnean	2.5525	0.342	7	9	9	1	2025.0		
+52	Adina Horablaga	2.3856	0.1903	7	9	9	1	2025.0		
+53	Nicoleta Mateoc-Sîrb	2.3862	-0.0352	7	9	9	1	2025.0		
+54	Cosmin Sălășan	2.6218	0.0035	7	9	9	1	2025.0		
+55	Jeni Veronica Tiu	2.3647	0.5676	7	9	9	1	2025.0		
+56	Bogdan Petru Radoi	2.2026	0.4143	7	9	9	1	2025.0		
+57	Raul Adrian Lile	2.1703	0.1669	7	9	9	1	2025.0		
+58	Gheorghe Adrian Firu Negoescu	2.7833	0.4042	7	9	9	1	2025.0		
+59	Micky Maganini	2.791	0.3906	8	10	10	1	2025.0		
+60	Kelsey E. Herndon	2.6677	0.5401	8	10	10	1	2025.0		
+61	T.M. Loran	2.1593	0.376	8	10	10	1	2025.0		
+62	Robert Griffin	2.2133	0.1657	8	10	10	1	2025.0		
+63	Eric Anderson	2.7595	0.1778	8	10	10	1	2025.0		
+64	F.D. van der Meer	2.5413	0.2511	8	10	10	1	2025.0		
+65	Roshanak Darvishzadeh	2.5023	0.6452	8	10	10	1	2025.0		
+66	Claudia Paris	2.5885	0.0234	8	10	10	1	2025.0		
+67	Roelof Rietbroek	2.3865	0.3983	8	10	10	1	2025.0		
+68	Margarita Huesca	2.2849	0.5874	8	10	10	1	2025.0		
+69	Michael Schlund	2.3704	0.0338	8	10	10	1	2025.0		
+70	Kerry Shephard	2.374	0.0575	9	9	9	1	2015.0		
+71	John Harraway	2.7711	0.4969	9	9	9	1	2015.0		
+72	Brent Lovelock	2.5403	0.4347	9	9	9	1	2015.0		
+73	Miranda Mirosa	2.3734	0.283	9	9	9	1	2015.0		
+74	Sheila Skeaff	2.7652	0.2571	9	9	9	1	2015.0		
+75	Elisabeth Slooten	2.6096	0.0961	9	9	9	1	2015.0		
+76	Mick Strack	2.5861	0.6737	9	9	9	1	2015.0		
+77	Mary Furnari	2.1904	0.507	9	9	9	1	2015.0		
+78	Tim Jowett	2.3525	0.6603	9	9	9	1	2015.0		
+79	Lynley Deaker	2.1581	0.2596	9	9	9	1	2015.0		
+80	Sergey Bespalyy	2.5401	0.5011	10	8	10	2	2024.0		
+81	Alnazarova Gulmira	2.4734	0.416	10	8	10	2	2024.0		
+82	Vincenzo Nunzio Scalcione	2.2049	0.3917	10	6	6	1	2024.0		
+83	Pavel Vitliemov	2.353	0.6086	10	6	6	1	2024.0		
+84	Alexander Sichinava	2.2303	0.5323	10	6	6	1	2024.0		
+85	Petrenko Alexandr	2.5109	0.3149	10	8	10	2	2024.0		
+86	Andrey Kaptsov	2.2955	0.2793	10	6	6	1	2024.0		
+87	Carmen Álvarez‐Nieto	2.379	0.754	11	8	8	1	2018.0		
+88	Janet Richardson	2.4357	0.1681	11	8	8	1	2018.0		
+89	Gema Parra	2.3132	0.4522	11	8	8	1	2018.0		
+90	Manuel Linares Abad	2.6112	0.721	11	8	8	1	2018.0		
+91	Norma Huss	2.1703	0.6075	11	8	8	1	2018.0		
+92	Ma Luisa Grande-Gascón	2.6762	0.2408	11	8	8	1	2018.0		
+93	Jane Grose	2.5545	0.4531	11	8	8	1	2018.0		
+94	Maud Huynen	2.7703	0.5131	11	8	8	1	2018.0		
+95	Isabel M. López‐Medina	2.1974	0.2731	11	8	8	1	2018.0		
+96	Kelly Maguire	2.3607	0.7744	12	5	5	1	2024.0		
+97	Noëlle O’Connor	2.2625	0.3037	12	5	5	1	2024.0		
+98	Redmond Condron	2.5339	0.2468	12	5	5	1	2024.0		
+99	Paul Archbold	2.7198	0.454	12	5	5	1	2024.0		
+100	Christoffer Hannevig	2.1748	0.5673	12	5	5	1	2024.0		
+101	David Honan	2.6321	0.7176	12	5	5	1	2024.0		
+102	Ahmed H. Elsayed	2.1648	0.613	13	5	5	1	2025.0		
+103	María Luisa Pajuelo	2.3507	0.8201	13	5	5	1	2025.0		
+104	Issa Almaghaireh	2.524	0.2925	13	5	5	1	2025.0		
+105	Khalil Chaaban	2.2525	0.3494	13	5	5	1	2025.0		
+106	Islam Homsi	2.6222	0.7633	13	5	5	1	2025.0		
+107	Moataz Elmassri	2.7098	0.4996	13	5	5	1	2025.0		
+108	Isabel B. Franco	2.3399	0.8656	14	5	5	1	2019.0		
+109	Osamu Saitô	2.6113	0.8087	14	5	5	1	2019.0		
+110	Philip Vaughter	2.2417	0.3948	14	5	5	1	2019.0		
+111	Josh Whereat	2.5131	0.338	14	5	5	1	2019.0		
+112	Norichika Kanie	2.699	0.5451	14	5	5	1	2019.0		
+113	Kiichi Takemoto	2.154	0.6584	14	5	5	1	2019.0		
+114	Alexander Martín-Garín	2.5997	0.854	15	5	5	1	2021.0		
+115	José Antonio Millán-García	2.6873	0.5904	15	5	5	1	2021.0		
+116	Íñigo León	2.23	0.4401	15	5	5	1	2021.0		
+117	Xabat Oregi	2.1423	0.7037	15	5	5	1	2021.0		
+118	Julián Estévez	2.5015	0.3832	15	5	5	1	2021.0		
+119	Cristina Marieta	2.3282	0.9108	15	5	5	1	2021.0		
+120	Chin-Lien Hung	2.3613	0.7332	16	8	9	2	2024.0		
+121	Tien-Fu Yu	2.3083	0.3993	16	5	5	1	2023.0		
+122	Yun-Hui Lin	2.1799	0.5567	16	5	5	1	2023.0		
+123	Yi-Chien Lin	2.4605	0.4603	16	5	5	1	2023.0		
+124	Yi-Hsuan Chen	2.3067	0.5296	16	5	5	1	2023.0		
+125	Wei-Shuo Lo	2.4595	0.6904	16	8	9	3	2023.33		
+126	Randi Sims	2.3023	1.0007	17	5	5	1	2021.0		
+127	Meghnaa Tallapragada	2.4756	0.4731	17	5	5	1	2021.0		
+128	Tokea G. Payton	2.6614	0.6802	17	5	5	1	2021.0		
+129	Kara Noonan	2.5738	0.9439	17	5	5	1	2021.0		
+130	Kathy L Prosser	2.2041	0.5299	17	5	5	1	2021.0		
+131	Michael J. Childress	2.1164	0.7935	17	5	5	1	2021.0		
+132	Malith Senevirathne	2.2891	0.5055	18	6	6	1	2021.0		
+133	H.A.C. Priyankara	2.0923	0.7181	18	6	6	1	2021.0		
+134	Dilanthi Amaratunga	2.5705	0.5688	18	6	6	1	2021.0		
+135	Richard Haigh	2.372	0.7824	18	6	6	1	2021.0		
+136	Nandasiri Weerasinghe	2.1798	0.9952	18	6	6	1	2021.0		
+137	Champa Nawaratne	2.4626	1.0567	18	6	6	1	2021.0		
+138	Artūras Kaklauskas	2.6569	0.8433	18	6	6	1	2021.0		
+139	Siu-Kit Yeung	2.6071	0.9534	19	4	4	1	2017.0		
+140	Wing Mui Winnie So	2.2349	0.5778	19	4	4	1	2017.0		
+141	Nga Yee Irene Cheng	2.3143	1.1014	19	4	4	1	2017.0		
+142	Tsz‐Yan Cheung	2.0835	0.8678	19	4	4	1	2017.0		
+143	Cheuk‐Fai Chow	2.5587	0.6282	19	4	4	1	2017.0		
+144	Jana Dlouhá	2.3803	0.8045	20	6	7	2	2018.0		
+145	Raquel Heras Colàs	2.3482	1.1176	20	4	4	1	2019.0		
+146	Ingrid Mulà	2.5252	1.1006	20	4	4	1	2019.0		
+147	F. Pérez Salgado	2.5849	0.9318	20	4	4	1	2019.0		
+148	Laura M. Henderson	2.2712	0.8896	20	6	7	2	2018.0		
+149	Akhrorova Alfiya	2.8049	0.4656	10	4	4	1	2024.0		
+150	Adieva Ainura	2.769	0.2593	10	4	4	1	2024.0		
+151	Esraa Mahmoud Bishr	2.5262	0.7158	21	4	4	1	2026.0		
+152	Mohamed Fakhry Hussein	2.5746	1.0411	21	4	4	1	2026.0		
+153	Gaber Abuzaid Ismail	2.2024	0.6654	21	4	4	1	2026.0		
+154	Ebtisam Fetohy	2.051	0.9554	21	4	4	1	2026.0		
+155	Aleya Hanafy El-Zoka	2.2818	1.189	21	4	4	1	2026.0		
+156	Elizabeth Price	2.3099	0.9592	22	16	16	2	2022.5		
+157	Dawn T. Nicholson	2.4508	0.9186	22	10	11	2	2023.5		
+158	Rachel M. Dunk	2.393	0.9389	22	9	9	1	2024.0		
+159	Cormac Lawler	2.3843	0.9118	22	9	9	1	2024.0		
+160	Matthew Carney	2.4129	0.9575	22	9	9	1	2024.0		
+161	Valeria Ruiz Vargas	2.4749	0.8681	22	13	14	4	2020.25		
+162	Sally Veitch	2.4168	0.9215	22	9	9	1	2024.0		
+163	Sophie Leigh	2.3923	0.8874	22	9	9	1	2024.0		
+164	Matt Singleton	2.4171	0.8938	22	9	9	1	2024.0		
+165	Sarah Mottram	2.4347	0.947	22	9	9	1	2024.0		
+166	Kaisu Sammalisto	2.246	1.2754	23	4	4	1	2016.0		
+167	Agneta Sundström	2.4904	0.8022	23	4	4	1	2016.0		
+168	Robin von Haartman	2.0152	1.0418	23	4	4	1	2016.0		
+169	Tove Holm	2.1666	0.7518	23	4	4	1	2016.0		
+170	Zhilei Yao	2.5388	1.1274	23	4	4	1	2016.0		
+171	Valerie Czok	2.4713	0.8449	24	4	4	1	2023.0		
+172	Manuel Krug	2.2269	1.3181	24	4	4	1	2023.0		
+173	S. Raschid Muller	2.5197	1.1701	24	4	4	1	2023.0		
+174	Johannes Huwer	2.1475	0.7945	24	4	4	1	2023.0		
+175	Holger Weitzel	1.9961	1.0845	24	4	4	1	2023.0		
+176	Janaína Mazutti	2.2497	1.0857	25	6	6	1	2020.0		
+177	Luciana Brandli	2.5346	1.1466	25	6	6	1	2020.0		
+178	Amanda Lange Sálvia	1.97	1.0214	25	6	6	1	2020.0		
+179	Bárbara Maria Fritzen Gomes	2.4482	0.8721	25	6	6	1	2020.0		
+180	Luana Inês Damke	2.1668	0.8088	25	6	6	1	2020.0		
+181	Vanessa Tibola da Rocha	2.3403	1.3599	25	6	6	1	2020.0		
+182	Roberto dos Santos Rabello	2.0575	1.2985	25	6	6	1	2020.0		
+183	Rehema M. White	2.2156	1.03	22	7	7	1	2021.0		
+184	Kate Mori	2.1925	1.0126	22	7	7	1	2021.0		
+185	James Longhurst	2.1692	0.9824	22	8	11	4	2018.75		
+186	Patrick Baughan	2.2247	1.0048	22	7	7	1	2021.0		
+187	Carolyn Hayles	2.2081	0.9808	22	7	7	1	2021.0		
+188	Georgina Gough	2.1565	0.9533	22	10	12	4	2018.5		
+189	Chris Preist	2.1453	1.0805	22	13	13	2	2021.0		
+190	Daniela Perbandt	2.1155	1.3119	26	4	4	1	2021.0		
+191	Marie-Sophie Heinelt	2.1394	1.398	26	4	4	1	2021.0		
+192	Paula Bacelar Nicolau	2.2194	1.3292	26	4	4	1	2021.0		
+193	Mahsa Mapar	2.2401	1.4092	26	4	4	1	2021.0		
+194	Sandra Caeiro	2.2614	1.1832	26	9	10	4	2020.25		
+195	Pia Spangenberger	2.406	0.9555	27	6	6	1	2025.0		
+196	Anja Schultze‐Krumbholz	2.2982	1.4434	27	6	6	1	2025.0		
+197	Linda Kruse	2.1247	0.8923	27	6	6	1	2025.0		
+198	Sonja M. Geiger	2.4924	1.23	27	6	6	1	2025.0		
+199	Vanessa Löde	2.2075	1.1691	27	6	6	1	2025.0		
+200	Louisa Klara Pole	2.0153	1.382	27	6	6	1	2025.0		
+201	Steve Nebel	1.9278	1.1048	27	6	6	1	2025.0		
+202	Cosmas Kombat Lambini	1.9381	1.2996	28	3	3	1	2021.0		
+203	Angelina Goeschl	2.2782	1.4588	28	3	3	1	2021.0		
+204	Max Wäsch	2.0979	0.9598	28	3	3	1	2021.0		
+205	Martin Wittau	2.4381	1.119	28	3	3	1	2021.0		
+206	Leyla Angélica Sandoval Hamón	2.2157	0.9163	26	5	6	2	2020.0		
+207	Ana Paula Martinho	2.1714	0.7628	26	3	3	1	2020.0		
+208	Maria do Rosário Ramos	2.0737	0.8043	26	3	3	1	2020.0		
+209	Cecilia Elizabeth Bayas Aldaz	2.1533	0.951	26	5	6	2	2020.0		
+210	Michele Biasutti	2.1883	1.272	29	5	5	2	2017.0		
+211	Vassilios Makrakis	2.1175	1.0214	29	3	3	1	2018.0		
+212	Eleonora Concina	1.9344	1.2142	29	3	3	1	2018.0		
+213	Sara Frate	1.939	1.0352	29	3	3	1	2018.0		
+214	Zulkaif Ahmed Saqib	2.228	1.0265	30	5	5	1	2020.0		
+215	Qingyu Zhang	1.9565	1.0833	30	5	5	1	2020.0		
+216	Ou Jin	2.4138	1.2336	30	5	5	1	2020.0		
+217	Khubaib Ahmad Saqib	2.3261	1.4972	30	5	5	1	2020.0		
+218	Salman Majeed	1.8688	1.3469	30	5	5	1	2020.0		
+219	Amar Razzaq	2.0547	1.5541	30	5	5	1	2020.0		
+220	Fermín Sánchez Carracedo	0.8755	2.0909	61	6	6	2	2020.5		
+221	Francisco Manuel Moreno-Pino	1.0536	2.2458	61	6	6	2	2021.5		
+222	Daniel Romero-Portillo	0.9756	2.1412	61	3	3	1	2021.0		
+223	Bàrbara Sureda Carbonell	0.9195	2.2039	61	3	3	1	2021.0		
+224	Jonathon Taylor	2.0059	1.0935	32	6	6	1	2021.0		
+225	Salla Jokela	2.2873	1.1568	32	6	6	1	2021.0		
+226	Markus Laine	1.8091	1.3061	32	6	6	1	2021.0		
+227	Juho Rajaniemi	2.3737	1.4313	32	6	6	1	2021.0		
+228	Pekka Jokinen	2.0888	1.3704	32	6	6	1	2021.0		
+229	Liisa Häikiö	1.8966	1.5832	32	6	6	1	2021.0		
+230	Antti Lönnqvist	2.1795	1.6447	32	6	6	1	2021.0		
+231	Rocío Hernández	0.75	1.9665	61	3	3	1	2020.0		
+232	Lucía Alcántara Rubio	0.8184	1.9617	61	3	3	1	2020.0		
+233	Dolores Limón-Domínguez	0.7426	2.0362	61	3	3	1	2020.0		
+234	Jorrit Holst	1.721	1.6311	33	4	8	3	2022.67		
+235	Antje Brock	1.7242	1.6736	33	4	8	3	2022.67		
+236	Mandy Singer‐Brodowski	1.8405	1.6067	33	7	10	3	2022.0		
+237	Gerhard de Haan	1.7746	1.6727	33	3	6	2	2022.0		
+238	Melissa Franchini Cavalcanti‐Bandos	2.7068	0.6302	22	4	4	1	2021.0		
+239	Silvia Quispe-Prieto	2.7447	0.65	22	4	4	1	2021.0		
+240	Alberto Paucar‐Caceres	2.6448	0.7293	22	6	6	2	2019.5		
+241	Toni Burrowes-Cromwel	2.7038	0.6658	22	4	4	1	2021.0		
+242	Héctor Rojas	2.7433	0.6882	22	4	4	1	2021.0		
+243	Rute Martins	2.2876	1.0049	26	3	3	1	2020.0		
+244	Tien‐Chi Huang	2.2889	1.3564	34	3	3	1	2024.0		
+245	Shin-Jia Ho	1.7889	1.537	34	3	3	1	2024.0		
+246	Wenhui Zheng	1.9488	1.1972	34	3	3	1	2024.0		
+247	Yu Shu	2.129	1.6962	34	3	3	1	2024.0		
+248	Tigran Keryan	1.7615	1.5749	35	3	3	1	2020.0		
+249	Tamara Mitrofanenko	2.1016	1.734	35	3	3	1	2020.0		
+250	Andreas Muhar	1.9214	1.2351	35	3	3	1	2020.0		
+251	Lela Khartishvili	2.2615	1.3942	35	3	3	1	2020.0		
+252	Rasha Salah Eweida	2.2655	1.5838	36	6	6	1	2025.0		
+253	Maeve O’Connell	1.7884	1.7357	36	6	6	1	2025.0		
+254	Mohamed Ali Zoromba	1.9806	1.5229	36	6	6	1	2025.0		
+255	Marwa Fouad Mahmoud	1.8977	1.246	36	6	6	1	2025.0		
+256	Marwan Kamal Altheeb	2.1791	1.3093	36	6	6	1	2025.0		
+257	Abeer Selim	2.0713	1.7971	36	6	6	1	2025.0		
+258	Mohamed Hussein Ramadan Atta	1.7009	1.4586	36	6	6	1	2025.0		
+259	Hye Yeon Park	1.7805	1.3437	37	2	2	1	2025.0		
+260	Danilo Palazzo	2.2278	1.5155	37	2	2	1	2025.0		
+261	Leah Hollstein	1.8554	1.8169	37	2	2	1	2025.0		
+262	Antonio Gomera	1.7403	1.388	38	5	5	1	2021.0		
+263	Ana De Toro	1.8385	1.8588	38	5	5	1	2021.0		
+264	José Emilio Aguilar	1.6526	1.6517	38	5	5	1	2021.0		
+265	Clara Guijarro	2.1976	1.5383	38	5	5	1	2021.0		
+266	Miguel Antúnez	2.1099	1.802	38	5	5	1	2021.0		
+267	Manuel Vaquero Abellán	2.0117	1.3312	38	5	5	1	2021.0		
+268	Chong Xiao	1.7209	1.4157	39	2	2	1	2024.0		
+269	Kelvin Wan	1.7958	1.8889	39	2	2	1	2024.0		
+270	Theresa Kwong	2.1681	1.5875	39	2	2	1	2024.0		
+271	Balamuralithara Balakrishnan	1.8479	1.6567	40	6	7	3	2023.67		
+272	Fumihiko Tochinai	2.0984	1.6675	40	3	3	1	2021.0		
+273	Hidekazu Kanemitsu	2.1286	1.8163	40	3	3	1	2021.0		
+274	Ali Altalbe	1.9852	1.8666	40	3	3	1	2021.0		
+275	Vesna Nikolić	1.8327	1.7005	41	6	6	2	2018.5		
+276	Slobodan Milutinović	1.5655	1.6629	41	3	3	1	2017.0		
+277	Pece Nedanovski	1.7102	1.46	41	3	3	1	2017.0		
+278	Kornelija Mrnjaus	1.5506	1.4993	41	3	3	1	2017.0		
+279	İngrid Hemmer	1.7965	1.7775	42	3	3	2	2022.5		
+280	Christof Koch	1.7151	1.547	42	2	2	1	2024.0		
+281	Anna Peitz	1.9192	1.5661	42	2	2	1	2024.0		
+282	Sandra Wilhelm	2.1179	1.377	33	2	2	1	2019.0		
+283	Ruth Förster	2.0232	1.4736	33	6	6	2	2020.5		
+284	Anne Zimmermann	2.2164	1.2622	33	11	12	3	2020.0		
+285	Cecília Galvão	1.4916	1.8098	43	4	4	1	2021.0		
+286	Cláudia Faria	1.9668	1.5702	43	4	4	1	2021.0		
+287	Wanda Viegas	1.643	1.5198	43	4	4	1	2021.0		
+288	Amélia Branco	1.7224	2.0434	43	4	4	1	2021.0		
+289	Luís F. Goulão	2.0152	1.8955	43	4	4	1	2021.0		
+290	Lilian Julia Trechsel	2.2881	1.2136	33	9	10	2	2020.5		
+291	David Alexander Graf	2.2006	1.1412	33	7	7	1	2018.0		
+292	Karl Herweg	2.2632	1.1647	33	7	7	1	2018.0		
+293	Lara Lundsgaard-Hansen	2.3069	1.1503	33	7	7	1	2018.0		
+294	Lydia Rufer	2.2333	1.1125	33	7	7	1	2018.0		
+295	Thomas Tribelhorn	2.2775	1.1142	33	7	7	1	2018.0		
+296	Doris Wastl‐Walter	2.2192	1.1799	33	7	7	1	2018.0		
+297	Sharifah Intan Sharina Syed Abdullah	1.7344	1.8007	44	4	4	2	2024.0		
+298	Iryna Kushnir	1.8684	1.5667	44	2	2	1	2023.0		
+299	Nur Aira Abdrahim	1.6708	1.5386	44	2	2	1	2023.0		
+300	Yuan Li	1.6013	2.0908	45	2	2	1	2023.0		
+301	Tianhong Liao	1.9736	1.7894	45	2	2	1	2023.0		
+302	Jia Li	1.5264	1.6176	45	2	2	1	2023.0		
+303	Fanglei Zhong	1.6205	2.1398	46	4	4	1	2026.0		
+304	Xiaochun Ma	1.3897	1.9062	46	4	4	1	2026.0		
+305	Xin Jiang	1.5411	1.6162	46	4	4	1	2026.0		
+306	Yijun Mao	1.8649	1.6666	46	4	4	1	2026.0		
+307	Xiaowei Lyu	1.9133	1.9918	46	4	4	1	2026.0		
+308	Khaula Alkaabi	1.5406	1.6454	47	3	3	1	2023.0		
+309	Kashif Mehmood	1.3807	1.9852	47	3	3	1	2023.0		
+310	Parama Bhatacharyya	1.7208	2.1444	47	3	3	1	2023.0		
+311	Hassa Aldhaheri	1.8807	1.8046	47	3	3	1	2023.0		
+312	Carla Sofia e Sá Farinha	2.4845	1.2661	26	2	2	1	2020.0		
+313	Ulisses M. Azeiteiro	2.419	1.1826	26	2	3	2	2020.0		
+314	Xiangyun Du	1.6083	1.8624	48	8	9	2	2023.0		
+315	Aida Guerra	1.5411	1.9612	48	8	9	3	2021.0		
+316	Bente Nørgaard	1.8759	2.1216	48	5	5	1	2022.0		
+317	Youmen Chaaban	1.8754	1.9142	48	5	5	1	2022.0		
+318	Adrian Lundberg	1.6891	2.1826	48	5	5	1	2022.0		
+319	Niels Erik Ruan Lyngdorf	1.7665	2.0297	48	5	5	1	2022.0		
+320	Anna Oberrauch	1.7436	2.1615	49	5	5	1	2021.0		
+321	Helga Mayr	1.3739	1.7476	49	5	5	1	2021.0		
+322	И. Н. Никитин	1.4721	2.2184	49	5	5	1	2021.0		
+323	Tanja Bügler	1.8312	1.8979	49	5	5	1	2021.0		
+324	Thorsten Kosler	1.2862	2.0112	49	5	5	1	2021.0		
+325	Christian Vollmer	1.6454	1.6908	49	5	5	1	2021.0		
+326	Zhimin Chen	1.612	2.2329	50	3	3	1	2025.0		
+327	Muhammad Rizal Razman	1.2719	2.0737	50	3	3	1	2025.0		
+328	Sharifah Zarina Syed Zakaria	1.4318	1.7339	50	3	3	1	2025.0		
+329	Khai Ern Lee	1.7719	1.8931	50	3	3	1	2025.0		
+330	Shaikha R. Al-Nuaimi	1.2638	2.2289	51	1	1	1	2022.0		
+331	Sami G. Al‐Ghamdi	1.7053	1.7941	51	1	1	1	2022.0		
+332	Ivan Piper	1.6941	2.1666	52	4	4	1	2025.0		
+333	Ivana Katnić	1.3219	1.791	52	4	4	1	2025.0		
+334	Amil Orahovac	1.6457	1.8414	52	4	4	1	2025.0		
+335	Aleksandra Gogić	1.4013	2.3146	52	4	4	1	2025.0		
+336	Miloš Mašković	1.1705	2.081	52	4	4	1	2025.0		
+337	Atif Saleem	1.4093	2.1137	53	6	6	2	2023.0		
+338	Sarfraz Aslam	1.3326	1.8308	53	4	4	1	2023.0		
+339	Guoyuan Sang	1.4744	1.8275	53	4	4	1	2023.0		
+340	Philip Saagyum Dare	1.5116	1.9509	53	4	4	1	2023.0		
+341	Zhang Tian-xue	1.3004	1.9553	53	4	4	1	2023.0		
+342	Addise Amado	1.6194	2.0013	54	3	3	1	2017.0		
+343	Aklilu Dalelo	1.4596	2.3411	54	3	3	1	2017.0		
+344	Maik Adomßent	1.1194	2.1819	54	3	3	1	2017.0		
+345	Daniel Fischer	1.2793	1.8421	54	3	3	1	2017.0		
+346	Lluís Pacheco	1.2847	2.3925	55	4	4	1	2019.0		
+347	Ningsu Luo	1.5291	1.9193	55	4	4	1	2019.0		
+348	Toni Pujol	1.2053	1.8689	55	4	4	1	2019.0		
+349	José R. González	1.0539	2.1589	55	4	4	1	2019.0		
+350	I. Ferrer	1.5775	2.2445	55	4	4	1	2019.0		
+351	M. Teresa Fuertes	1.0403	2.2316	56	3	3	1	2019.0		
+352	Mariona Graell Martín	1.3804	2.3908	56	3	3	1	2019.0		
+353	Mariana Fuentes Loss	1.2001	1.8918	56	3	3	1	2019.0		
+354	M. Carmen Balaguer-Fàbregas	1.5403	2.051	56	3	3	1	2019.0		
+355	Liu Jing	1.5232	2.1218	57	2	2	1	2022.0		
+356	Yuki Watabe	1.1508	2.4233	57	2	2	1	2022.0		
+357	Taketoshi Goto	1.076	1.9501	57	2	2	1	2022.0		
+358	Zawar Shah	1.3941	2.395	58	5	5	1	2022.0		
+359	Shannon Kennedy‐Clark	0.9368	2.2447	58	5	5	1	2022.0		
+360	Yancong Xie	1.2959	1.9243	58	5	5	1	2022.0		
+361	Md Shamsur Rahim	1.1227	2.4518	58	5	5	1	2022.0		
+362	Mehregan Mahdavi	1.0245	1.9811	58	5	5	1	2022.0		
+363	Andrew Levula	1.4818	2.1314	58	5	5	1	2022.0		
+364	Abdulkadir Mohamed Abdullahi	1.0434	1.9624	59	4	4	1	2024.0		
+365	Hassan Abdikadir Hussein	1.3672	2.0128	59	4	4	1	2024.0		
+366	Mohamed Yusuf Ahmed	0.892	2.2523	59	4	4	1	2024.0		
+367	Omar Hussein	1.1228	2.486	59	4	4	1	2024.0		
+368	Abdimalik Ali Warsame	1.4156	2.338	59	4	4	1	2024.0		
+369	Jamie Goggins	0.9059	2.4491	60	1	1	1	2022.0		
+370	Magdalena Hajdukiewicz	1.3473	2.0144	60	1	1	1	2022.0		
+371	Rocío Jiménez-Fontana	1.2547	2.3858	61	7	7	2	2022.0		
+372	José María Cardeñoso Domingo	1.1234	2.3642	61	3	3	1	2022.0		
+373	María del Pilar Azcárate Goded	1.1703	2.2955	61	3	3	1	2022.0		
+374	Lei Liu	1.2414	2.0748	62	4	4	1	2025.0		
+375	Mohammed R. Alzahrani	0.9176	2.0244	62	4	4	1	2025.0		
+376	Ying Wei	1.2898	2.4	62	4	4	1	2025.0		
+377	Mohammadreza Tavakoli Baghdadabad	0.997	2.548	62	4	4	1	2025.0		
+378	Savita K. Sugathan	0.7662	2.3144	62	4	4	1	2025.0		
+379	Sung-Shun Weng	0.7497	2.3817	63	3	3	1	2020.0		
+380	Yang Liu	1.0899	2.5409	63	3	3	1	2020.0		
+381	Juan Dai	1.2497	2.2011	63	3	3	1	2020.0		
+382	Yen‐Ching Chuang	0.9096	2.0419	63	3	3	1	2020.0		
+383	Andrew M. Dzambo	0.6842	2.3664	64	5	5	1	2020.0		
+384	Margaret Mooney	1.2292	2.253	64	5	5	1	2020.0		
+385	Zachary Handlos	0.8701	2.5735	64	5	5	1	2020.0		
+386	Scott B. Lindstrom	1.0434	2.0459	64	5	5	1	2020.0		
+387	Yun Hang	1.1415	2.5167	64	5	5	1	2020.0		
+388	Steven A. Ackerman	0.7719	2.1027	64	5	5	1	2020.0		
+389	Luis Velázquez	0.6634	2.4175	65	3	3	1	2015.0		
+390	Nora Munguía	1.0035	2.5767	65	3	3	1	2015.0		
+391	Alma Gabriela Herrera Pulgarin	1.1634	2.2369	65	3	3	1	2015.0		
+392	Esteban Picazzo Palencia	0.8232	2.0777	65	3	3	1	2015.0		
+393	Marte Lange Vik	1.0687	2.1463	66	4	4	1	2025.0		
+394	Geir Olav Knappe	0.8243	2.6195	66	4	4	1	2025.0		
+395	Rasmus Nedergård Steffansen	0.7449	2.0959	66	4	4	1	2025.0		
+396	Jin Xue	0.5935	2.3859	66	4	4	1	2025.0		
+397	Aase Kristine Lundberg	1.1171	2.4716	66	4	4	1	2025.0		
+398	Shangyu Liu	2.5347	0.9993	16	4	4	1	2025.0		
+399	Chen-Ying Yen	2.626	0.8778	16	4	4	1	2025.0		
+400	Yingying Su	2.3839	0.9821	16	4	4	1	2025.0		
+401	Nirda de Jesús Colón-Flores	0.5757	2.45	67	3	3	1	2023.0		
+402	Maira Rafaela Vargas-Martínez	1.0757	2.2694	67	3	3	1	2023.0		
+403	Joselina Caridad Tavarez-De Henríquez	0.7356	2.1102	67	3	3	1	2023.0		
+404	Cándida María Domínguez-Valerio	0.9158	2.6092	67	3	3	1	2023.0		
+405	Qian Jia	0.6823	2.633	68	2	2	1	2019.0		
+406	Ying Wang	1.0546	2.3315	68	2	2	1	2019.0		
+407	Fengting Li	0.6074	2.1597	68	2	2	1	2019.0		
+408	Yared Demssie	0.4869	2.4792	69	3	3	1	2023.0		
+409	H.J.A. Biemans	0.6468	2.1394	69	3	3	1	2023.0		
+410	R. Wesselink	0.827	2.6384	69	3	3	1	2023.0		
+411	Martin Mulder	0.9869	2.2986	69	3	3	1	2023.0		
+412	Silvia Collado	0.9653	2.3591	70	2	2	1	2022.0		
+413	José David Moreno	0.5929	2.6605	70	2	2	1	2022.0		
+414	José Martín-Albó	0.518	2.1873	70	2	2	1	2022.0		
+415	Gulbakhyt Olzhebayeva	0.8945	2.5425	71	4	4	1	2024.0		
+416	Timur Buldybayev	0.5222	2.1669	71	4	4	1	2024.0		
+417	Aleksej Omeljanciuk	0.846	2.2173	71	4	4	1	2024.0		
+418	Dainius Pavalkis	0.6017	2.6905	71	4	4	1	2024.0		
+419	Aknur Zhidebekkyzy	0.3708	2.4569	71	4	4	1	2024.0		
+420	Teodoro Rafael Wendlandt Amézaga	0.5117	2.177	72	3	3	1	2022.0		
+421	José Luis Camarena	0.8518	2.3362	72	3	3	1	2022.0		
+422	Roberto Celaya Figueroa	0.3518	2.5168	72	3	3	1	2022.0		
+423	Karla Alejandra Garduño Realivazquez	0.6919	2.676	72	3	3	1	2022.0		
+424	Tamara Vukić	2.099	1.7383	41	3	3	1	2020.0		
+425	Tatjana Maletaski	2.1152	1.902	41	3	3	1	2020.0		
+426	Milica Andevski	1.9552	1.94	41	3	3	1	2020.0		
+427	Klaudia Zwolińska-Glądys	0.3823	2.2223	73	2	2	1	2022.0		
+428	Sylwia Lorenc	0.4571	2.6955	73	2	2	1	2022.0		
+429	Radosław Pomykała	0.8295	2.3941	73	2	2	1	2022.0		
+430	Juebei Chen	1.2864	1.7205	48	4	4	1	2024.0		
+431	Helle Lykke Nielsen	1.2759	1.888	48	4	4	1	2024.0		
+432	Lone Kørnøv	1.4366	1.6456	48	4	4	1	2024.0		
+433	Liana Badea	0.7606	2.357	74	3	3	1	2020.0		
+434	George-Laurențiu Șerban-Oprescu	0.2606	2.5376	74	3	3	1	2020.0		
+435	Silvia Dedu	0.4205	2.1978	74	3	3	1	2020.0		
+436	Grigore Ioan Piroșcă	0.6008	2.6968	74	3	3	1	2020.0		
+437	Simon Ling	0.2148	2.5467	75	3	3	1	2021.0		
+438	Adam C. Landon	0.3747	2.2069	75	3	3	1	2021.0		
+439	Michael A. Tarrant	0.5549	2.7059	75	3	3	1	2021.0		
+440	Donald L. Rubin	0.7148	2.3661	75	3	3	1	2021.0		
+441	Julius Grund	1.6127	1.6899	33	2	2	1	2024.0		
+442	Wawan Abdullah	0.1709	2.635	76	7	7	1	2026.0		
+443	Nafan Tarihoran	0.3091	2.189	76	7	7	1	2026.0		
+444	Supardi Supardi	0.4188	2.4652	76	7	7	1	2026.0		
+445	Farid F. Saenong	0.132	2.3767	76	7	7	1	2026.0		
+446	W Wasehudin	0.64	2.6683	76	7	7	1	2026.0		
+447	E A Syarifuddin	0.5666	2.2045	76	7	7	1	2026.0		
+448	Anis Fauzi	0.3978	2.7603	76	7	7	1	2026.0		
+449	Ilzamuddin Mamur	0.7149	2.4185	76	7	7	1	2026.0		
+450	Agnė Paulauskaitė-Tarasevičienė	0.0964	2.5141	77	4	4	1	2022.0		
+451	Ingrida Lagzdinytė-Budnikė	0.3272	2.7478	77	4	4	1	2022.0		
+452	Lina Gaižiūnienė	0.5716	2.2745	77	4	4	1	2022.0		
+453	Vilma Sukackė	0.2478	2.2242	77	4	4	1	2022.0		
+454	Laura Daniusevičiūtė-Brazaitė	0.62	2.5998	77	4	4	1	2022.0		
+455	Johan Boman	0.2432	2.6476	78	4	8	3	2025.0		
+456	Eddi Omrcen	0.5121	2.4618	78	4	8	3	2025.0		
+457	Kassahun Weldemariam	0.482	2.7044	78	4	8	3	2025.0		
+458	Andreas Hanning	0.0386	2.3985	78	4	4	1	2025.0		
+459	Johan Lodin	0.3556	2.1808	78	4	4	1	2025.0		
+460	Ian O’Neill	0.5006	2.2669	79	1	1	1	2024.0		
+461	Meei Mei Gui	0.0592	2.7017	79	1	1	1	2024.0		
+462	José Baltazar Salgueirinho Osório de Andrade Guerra	0.2299	2.5472	80	8	9	2	2025.0		
+463	Ana Regina de Aguiar Dutra	0.2748	2.4486	80	8	9	2	2025.0		
+464	Felipe Fernandez	0.0011	2.3066	80	5	5	1	2025.0		
+465	Issa Ibrahim Berchin	-0.0534	2.4351	80	5	5	1	2025.0		
+466	Elsie Violeta Bonilla Pastor	0.1339	2.2903	80	5	5	1	2025.0		
+467	Anelise Leal Vieira Cubas	0.0155	2.5492	80	5	5	1	2025.0		
+468	Filippina Risopoulos-Pichler	0.0128	2.278	81	2	2	1	2020.0		
+469	Fedor Daghofer	0.0877	2.7512	81	2	2	1	2020.0		
+470	Gerald Steiner	0.46	2.4498	81	2	2	1	2020.0		
+471	Birgit Hoinle	-0.0339	2.2811	82	2	2	1	2021.0		
+472	Ilka Roose	0.041	2.7543	82	2	2	1	2021.0		
+473	Himanshu Shekhar	0.4134	2.4528	82	2	2	1	2021.0		
+474	Björn Kjellgren	0.3142	2.2809	83	1	1	1	2021.0		
+475	Tanja Richter	-0.1272	2.7156	83	1	1	1	2021.0		
+476	Dario Cottafava	-0.0458	2.4166	84	3	4	2	2022.0		
+477	Gabriela Cavaglià	0.271	2.2496	84	2	2	1	2019.0		
+478	Laura Corazza	0.1393	2.5825	84	3	4	2	2022.0		
+479	Aurélien Décamps	0.0416	2.5209	85	6	6	2	2019.0		
+480	Oihab Allal‐Chérif	0.3257	2.5609	85	2	2	1	2021.0		
+481	Anne Gombault	0.2478	2.7203	85	2	2	1	2021.0		
+482	Jianqing Ma	0.174	2.2822	86	1	1	1	2022.0		
+483	Huixia Jin	-0.2675	2.7169	86	1	1	1	2022.0		
+484	Anna Sundermann	0.1473	2.7016	87	2	2	1	2022.0		
+485	Annika Weiser	-0.0167	2.8039	87	2	2	1	2022.0		
+486	Matthias Barth	-0.0782	2.5227	87	5	5	2	2020.5		
+487	Thomas Macagno	0.133	2.4528	88	2	2	1	2024.0		
+488	Anh Nguyen-Quoc	-0.2393	2.7543	88	2	2	1	2024.0		
+489	Suzanne Jarvis	-0.3142	2.2811	88	2	2	1	2024.0		
+490	Rosa Schiano-Phan	0.0864	2.4498	89	2	2	1	2022.0		
+491	Joana Carla Soares Gonçalves	-0.3609	2.278	89	2	2	1	2022.0		
+492	Juan A. Vallejo	-0.286	2.7512	89	2	2	1	2022.0		
+493	Loveth Daisy Aikowe	-0.4541	2.7065	90	1	1	1	2023.0		
+494	Jana Mazancová	-0.0127	2.2717	90	1	1	1	2023.0		
+495	Yessica García Hernández	-0.3791	2.7425	91	2	2	1	2025.0		
+496	María Dolores Martínez García	-0.454	2.2693	91	2	2	1	2025.0		
+497	María de Lourdes Amador Martínez	-0.0067	2.4411	91	2	2	1	2025.0		
+498	Anne‐Karen Hueske	-0.4255	2.7368	92	2	2	1	2022.0		
+499	Caroline Aggestam Pontoppidan	-0.0531	2.4354	92	2	2	1	2022.0		
+500	Lavinia-Cristina Iosif-Lazăr	-0.5004	2.2636	92	2	2	1	2022.0		
+501	Caleb Chidozie Chinedu	1.3246	2.392	53	2	2	1	2023.0		
+502	Wan Hanim Nadrah Wan Muda	1.5053	2.389	53	2	2	1	2023.0		
+503	Joop de Kraker	2.2364	0.553	20	3	3	1	2017.0		
+504	Dana Kapitulčinová	2.0608	0.6906	20	3	3	1	2017.0		
+505	Lazuardi Imani Hakam	-0.2825	2.7216	93	3	3	1	2025.0		
+506	Dzikri Firmansyah Hakam	-0.1226	2.3818	93	3	3	1	2025.0		
+507	Sudarso Kaderi Wiryono	-0.4627	2.2226	93	3	3	1	2025.0		
+508	Raden Aswin Rahadi	-0.6226	2.5624	93	3	3	1	2025.0		
+509	Huthaifa Al-Hazaima	-0.1456	2.4214	94	2	2	1	2025.0		
+510	Mary Low	-0.5179	2.7229	94	2	2	1	2025.0		
+511	Umesh Sharma	-0.5928	2.2497	94	2	2	1	2025.0		
+512	Theresa G. Mercer	-0.236	2.0566	95	5	5	1	2017.0		
+513	Andrew P. Kythreotis	-0.284	2.1582	95	5	5	1	2017.0		
+514	Zoë Robinson	-0.428	2.4211	95	14	14	2	2019.0		
+515	Terje Stolte	-0.0645	2.2344	95	5	5	1	2017.0		
+516	Sharon George	-0.1193	2.1151	95	5	5	1	2017.0		
+517	S. K. Haywood	-0.1704	2.2735	95	5	5	1	2017.0		
+518	Rosalyn McKeown	-0.2899	2.2299	96	1	1	1	2022.0		
+519	Lorna Down	-0.7313	2.6647	96	1	1	1	2022.0		
+520	Hideki Maruyama	-0.5315	2.4304	97	0	0	2	2023.5		
+521	Noemí Peña Miguel	-0.3286	2.3833	98	2	2	1	2020.0		
+522	Javier Corral Lage	-0.7758	2.2115	98	2	2	1	2020.0		
+523	Ana Mata Galindez	-0.7009	2.6847	98	2	2	1	2020.0		
+524	Jonathan Álvarez Ariza	-0.4263	2.1974	99	1	1	1	2023.0		
+525	Tope Gloria Olatunde-Aiyedun	-0.8678	2.6322	99	1	1	1	2023.0		
+526	Rana Hijazi	-0.8661	2.1873	100	2	2	1	2025.0		
+527	Amer A. Hijazi	-0.4189	2.3591	100	2	2	1	2025.0		
+528	Verity Jones	-0.7913	2.6605	100	2	2	1	2025.0		
+529	Tony Wall	-0.7633	2.5665	101	7	7	2	2022.0		
+530	Eva Österlind	-0.7472	2.4712	101	6	6	1	2026.0		
+531	Anna Lehtonen	-0.8047	2.4519	101	6	6	1	2026.0		
+532	Oleksandra Khalaim	-0.7319	2.3856	101	9	10	3	2022.67		
+533	Julia Fries	-0.8338	2.4938	101	6	6	1	2026.0		
+534	Eva Hallgren	-0.7175	2.51	101	6	6	1	2026.0		
+535	Shelley Piasecka	-0.7909	2.5186	101	6	6	1	2026.0		
+536	Arinola Adefila	-0.63	2.6235	95	9	9	1	2021.0		
+537	Osman Arrobbio	-0.6607	2.4798	95	9	9	1	2021.0		
+538	Geraldine Brown	-0.7379	2.5349	95	9	9	1	2021.0		
+539	Gary Spolander	-0.7501	2.6285	95	9	9	1	2021.0		
+540	Ilkhom Soliev	-0.4984	2.6181	95	9	9	1	2021.0		
+541	Bret Willers	-0.5153	2.7121	95	9	9	1	2021.0		
+542	Luca Morini	-0.6062	2.7439	95	9	9	1	2021.0		
+543	Darío Padovan	-0.57	2.5312	95	9	9	1	2021.0		
+544	Katherine Wimpenny	-0.7009	2.7153	95	9	9	1	2021.0		
+545	Pedro Mauricio Acosta Castellanos	-0.7218	2.4349	102	4	6	3	2022.0		
+546	Araceli Queiruga‐Dios	-0.865	2.3915	102	4	6	3	2022.0		
+547	Oliver Ahel	-0.605	2.1423	103	1	1	1	2023.0		
+548	Moritz Schirmer	-1.0464	2.5771	103	1	1	1	2023.0		
+549	Masami Yoshida	-0.8373	2.42	104	0	0	1	2022.0		
+550	Aida Mammadova	-1.1858	2.3838	105	5	5	1	2026.0		
+551	Denise Margaret Matias	-1.0	2.591	105	5	5	1	2026.0		
+552	Bernadette Ekua Bedua Afful	-0.7285	2.5341	105	5	5	1	2026.0		
+553	Racheal Fosu Donkoh	-0.6409	2.2705	105	5	5	1	2026.0		
+554	Seira Harada	-0.8267	2.0634	105	5	5	1	2026.0		
+555	Saku Monden	-1.0982	2.1202	105	5	5	1	2026.0		
+556	Alejandro Álvarez	-0.9462	2.3801	106	4	8	3	2024.33		
+557	Louis Volante	-0.9712	2.5241	106	4	5	2	2024.5		
+558	Ivetheyamel Morales	-0.7265	2.2482	107	2	2	1	2024.0		
+559	Jordi Segalàs Coral	-1.1738	2.0764	107	2	2	1	2024.0		
+560	Torsten Masseck	-1.0989	2.5496	107	2	2	2	2020.5		
+561	Saskia Eschenbacher	1.9178	1.539	33	4	4	1	2022.0		
+562	Petra Biberhofer	1.97	1.6327	33	5	5	2	2019.5		
+563	Sofia Getzin	1.956	1.5719	33	4	4	1	2022.0		
+564	Tiina Muhonen	-0.7692	2.2291	108	2	2	1	2024.0		
+565	Liisa Timonen	-1.1416	2.5305	108	2	2	1	2024.0		
+566	Kristiina Väänänen	-1.2164	2.0573	108	2	2	1	2024.0		
+567	Mirjam Braßler	-1.1887	2.2626	109	9	9	5	2021.4		
+568	Sandra Sprenger	-1.0076	1.9208	110	13	17	2	2022.0		
+569	Caroline Leininger‐Frézal	-1.1292	2.5659	110	12	16	1	2023.0		
+570	María Luisa de Lázaro y Torres	-1.3418	2.4886	110	12	16	1	2023.0		
+571	María de los Ángeles Rodríguez Domenech	-0.9112	2.4895	110	12	16	1	2023.0		
+572	Neli Heidari	-1.2364	1.9118	110	12	16	1	2023.0		
+573	María Pigaki	-1.4148	2.0604	110	12	16	1	2023.0		
+574	Cédric Naudet	-1.0167	2.1954	110	14	32	2	2023.0		
+575	Aurore Lecomte	-1.2408	2.2708	110	14	32	2	2023.0		
+576	Marta Gallardo	-1.1653	2.1231	110	14	32	2	2023.0		
+577	Universität Hamburg, Germany	-0.8331	2.0654	110	12	16	1	2023.0		
+578	Maria Pigaki	-0.7996	2.2958	110	12	16	1	2023.0		
+579	Université de Paris Cité, France	-1.0895	2.3409	110	14	32	2	2023.0		
+580	Universidad Nacional de Educación a Distancia, Spain	-1.4602	2.2841	110	12	16	1	2023.0		
+581	Elise DeCamp	-1.1799	2.1986	111	0	0	1	2024.0		
+582	Vanessa R. Levesque	-1.43	2.4054	112	1	1	1	2021.0		
+583	Cameron P. Wake	-0.9886	1.9707	112	1	1	1	2021.0		
+584	Helen Lee Curtis	-1.5	2.2554	113	3	3	1	2021.0		
+585	Lucas Catalani Gabriel	-1.0	2.0748	113	3	3	1	2021.0		
+586	Marlyne Sahakian	-1.1599	2.4146	113	3	3	1	2021.0		
+587	Sandro Cattacin	-1.3401	1.9156	113	3	3	1	2021.0		
+588	Chanita Rukspollmuang	-1.0696	1.9239	114	1	1	1	2024.0		
+589	Tachagorn Chansema	-1.511	2.3587	114	1	1	1	2024.0		
+590	Violeta Orlović Lovren	-1.4292	2.375	115	2	2	1	2020.0		
+591	Marija Maruna	-1.5041	1.9018	115	2	2	2	2019.5		
+592	Svetlana Stanarević	-1.0569	2.0736	115	2	2	1	2020.0		
+593	Martin Schultze	-1.5127	2.2935	109	1	1	1	2021.0		
+594	Todd LeVasseur	-1.5901	2.3089	116	1	1	1	2019.0		
+595	C.A. Ciarcia	-1.1487	1.8742	116	1	1	1	2019.0		
+596	Paul Micklethwaite	-1.3293	2.104	117	0	0	1	2022.0		
+597	Dev Raj Adhikari	-1.7166	2.0543	118	4	5	2	2024.5		
+598	Prakash Shrestha	-1.5772	1.7997	118	4	5	2	2024.5		
+599	Ali Khalfan Al‐Naqbi	-1.2638	1.7941	119	1	1	1	2018.0		
+600	Qasim Alshannag	-1.7053	2.2289	119	1	1	1	2018.0		
+601	Justyna Maciąg	-1.3012	1.766	120	1	1	1	2025.0		
+602	Tammi Sinha	-1.7426	2.2008	120	1	1	1	2025.0		
+603	Melissa Abner	-1.2855	1.9113	121	2	2	1	2019.0		
+604	Fatma Baytar	-1.7328	1.7396	121	2	2	1	2019.0		
+605	David S. Kreiner	-1.6579	2.2128	121	2	2	1	2019.0		
+606	Beatriz Martín Bautista-Cerro	-1.769	1.7101	122	2	2	1	2023.0		
+607	Anabel Patricia Castillo-Rodríguez	-1.3218	1.8819	122	2	2	1	2023.0		
+608	Justo García Navarro	-1.6942	2.1833	122	2	2	1	2023.0		
+609	Ana Cano-Ortíz	-1.5406	2.1444	123	3	3	1	2025.0		
+610	José Carlos Piñar Fuentes	-1.7208	1.6454	123	3	3	1	2025.0		
+611	Carmelo María Musarella	-1.8807	1.9852	123	3	3	1	2025.0		
+612	Juan Peña‐Martínez	-1.3807	1.8046	123	3	3	1	2025.0		
+613	Reni Juwitasari	-1.6893	1.8912	124	0	0	1	2024.0		
+614	Oscar Zúñiga Sánchez	-1.8745	1.6176	125	2	2	1	2022.0		
+615	Elia Marúm Espinosa	-1.7996	2.0908	125	2	2	1	2022.0		
+616	Carla Delfina Aceves Ávila	-1.4272	1.7894	125	2	2	1	2022.0		
+617	Antonia Symeonidou	-2.0106	1.8426	126	4	4	1	2025.0		
+618	Mariantonietta Fiore	-1.487	1.9282	126	4	4	1	2025.0		
+619	Danilo Audiello	-1.7798	2.0762	126	4	4	1	2025.0		
+620	Fedele Colantuono	-1.8592	1.5526	126	4	4	1	2025.0		
+621	Pamela Burnard	-1.5354	1.603	126	4	4	1	2025.0		
+622	Che Ting Chien	-1.9679	1.5818	127	2	3	1	2025.0		
+623	Chi‐Wen Chien	-1.4947	1.7593	127	2	3	1	2025.0		
+624	Chao Heng Chien	-1.8407	1.9622	127	4	6	2	2025.0		
+625	Hagar Adib	-1.8237	1.7111	128	0	0	1	2024.0		
+626	Maria de la O Cuevas-Cancino	-1.9228	1.4509	129	3	3	1	2024.0		
+627	Maritza Peña-Becerril	-1.7425	1.9499	129	3	3	1	2024.0		
+628	Enrique Mondragon‐Estrada	-1.5826	1.6101	129	3	3	1	2024.0		
+629	Claudia Camacho-Zúñiga	-2.0826	1.7907	129	3	3	1	2024.0		
+630	Lindonne Telesford	-2.1002	1.8747	130	11	11	1	2024.0		
+631	Chinelo Nsobundu	-2.1911	1.6894	130	11	11	1	2024.0		
+632	Tiffany R. Lewis	-1.9898	1.619	130	11	11	1	2024.0		
+633	Aleah Marks	-1.9272	1.3336	130	11	11	1	2024.0		
+634	Amran Alamrany	-1.723	1.9618	130	11	11	1	2024.0		
+635	Oznur Zaim	-1.8134	1.7539	130	11	11	1	2024.0		
+636	Innah Lachica	-1.6264	1.4175	130	11	11	1	2024.0		
+637	Allen Eruaga	-1.577	1.809	130	11	11	1	2024.0		
+638	Lira Camille Roman	-1.9334	1.98	130	11	11	1	2024.0		
+639	Tamara Slavkovska	-1.5626	1.6157	130	11	11	1	2024.0		
+640	Dhruv Mandal	-1.7993	1.4768	130	11	11	1	2024.0		
+641	Vijay Chandran	-2.1259	1.4591	130	11	11	1	2024.0		
+642	Ma. Kathleen L. Duran	-1.9851	1.3812	131	3	3	1	2026.0		
+643	Klint Allen A. Mariñas	-2.1449	1.721	131	3	3	1	2026.0		
+644	Michael Nayat Young	-1.6449	1.5404	131	3	3	1	2026.0		
+645	Rachel C. Villanueva	-1.8048	1.8802	131	3	3	1	2026.0		
+646	Marcela Georgina Gómez Zermeño	-1.7044	1.3776	132	1	1	1	2021.0		
+647	Lorena Yadira Alemán de la Garza	-2.1458	1.8124	132	1	1	1	2021.0		
+648	Clara Léonie Diebold	2.3709	1.2703	33	3	3	1	2023.0		
+649	Manuel Fischer	2.3327	1.3181	33	3	3	1	2023.0		
+650	Guillaume Barbat	-0.0533	2.3597	85	4	4	1	2017.0		
+651	Jean-Christophe Carteron	-0.2389	2.4588	85	4	4	1	2017.0		
+652	Victoria Hands	-0.1463	2.5451	85	4	4	1	2017.0		
+653	Carole Parkes	-0.1767	2.3343	85	4	4	1	2017.0		
+654	Natalia Fedorova	1.564	1.7203	40	2	2	1	2025.0		
+655	Catherina Ugap	1.6669	1.5536	40	3	4	2	2025.0		
+656	Jennifer Maria Krah	2.3793	0.428	2	2	2	1	2021.0		
+657	Julian Reimann	2.5453	0.4435	2	2	2	1	2021.0		
+658	Denitza Charkova	-2.1753	1.7761	133	1	1	1	2023.0		
+659	Elena Somova	-1.7339	1.3413	133	1	1	1	2023.0		
+660	Elham Faham	-2.2334	1.6122	134	3	3	1	2017.0		
+661	Ahmad Rezvanfar	-1.8933	1.7714	134	3	3	1	2017.0		
+662	Hamid Mohammadi	-2.0735	1.2724	134	3	3	1	2017.0		
+663	Meisam Rajabi Nohooji	-1.7334	1.4316	134	3	3	1	2017.0		
+664	Scott Strachan	-1.7641	1.6123	135	4	4	1	2019.0		
+665	Stephen Marshall	-2.0569	1.7602	135	4	4	1	2019.0		
+666	Paul E. Murray	-2.2877	1.5266	135	4	4	1	2019.0		
+667	Edward J. Coyle	-2.1363	1.2366	135	4	4	1	2019.0		
+668	Julia Sonnenberg-Klein	-1.8125	1.287	135	4	4	1	2019.0		
+669	Deirdre Hogan	-1.8182	1.2293	136	1	1	1	2021.0		
+670	Joanne O’Flaherty	-2.2596	1.6641	136	1	1	1	2021.0		
+671	Marta Gómez Gómez	-2.2863	1.6257	137	1	1	1	2023.0		
+672	Desiré García Lázaro	-1.8449	1.1909	137	1	1	1	2023.0		
+673	Jan-Ole Brandt	-0.2873	2.4148	87	3	3	1	2019.0		
+674	Lina Bürgener	-0.0832	2.2875	87	3	3	1	2019.0		
+675	Aaron Redman	-0.2428	2.259	87	3	3	1	2019.0		
+676	Juhyun Lee	-2.3123	1.5868	138	1	1	1	2025.0		
+677	Yinan Li	-1.8709	1.1521	138	1	1	1	2025.0		
+678	Ian Thomas	-1.8961	1.1127	139	1	1	1	2016.0		
+679	James Depasquale	-2.3375	1.5475	139	1	1	1	2016.0		
+680	Vasiliki Kioupi	-1.9206	1.0729	140	1	1	2	2023.5		
+681	Nikolaos Voulvoulis	-2.362	1.5076	140	1	1	1	2022.0		
+682	Martin Albert	-1.9444	1.0326	141	1	1	1	2022.0		
+683	Maria Uhlig	-2.3858	1.4674	141	1	1	1	2022.0		
+684	Annaliesa Hilger	-2.4088	1.4267	142	1	1	1	2022.0		
+685	Andreas Keil	-1.9673	0.9919	142	1	1	1	2022.0		
+686	Daniel Torchia	-0.1775	2.7496	84	2	2	1	2025.0		
+687	Abdul Rahman Shaik	-2.3004	0.9187	143	3	3	1	2025.0		
+688	Shaiku Shahida Saheb	-2.4603	1.2585	143	3	3	1	2025.0		
+689	Ibrahim Alnour Ibrahim Abdulmajeed	-1.9603	1.0779	143	3	3	1	2025.0		
+690	Salim Mohammed Bafaqeer	-2.1202	1.4177	143	3	3	1	2025.0		
+691	Marta Rey‐García	-2.4525	1.344	144	1	1	1	2020.0		
+692	Vanessa Mato‐Santiso	-2.011	0.9093	144	1	1	1	2020.0		
+693	Gail Skelly	2.552	0.9136	22	2	2	1	2023.0		
+694	Julian A. Camargo-Mariño	-0.8736	2.6764	102	2	2	1	2024.0		
+695	Mar Carrió	-2.0317	0.8673	145	1	1	1	2023.0		
+696	Maria Llerena Bastida	-2.4731	1.3021	145	1	1	1	2023.0		
+697	Lykke Brogaard Bertel	-2.1822	1.2919	146	3	3	1	2022.0		
+698	Maiken Winther	-2.3624	0.7929	146	3	3	1	2022.0		
+699	Henrik Worm Routhe	-2.0223	0.9521	146	3	3	1	2022.0		
+700	Anette Kolmos	-2.5223	1.1327	146	3	3	1	2022.0		
+701	Наталя Вікторівна Мосьпан	-2.2793	0.9041	147	0	0	1	2024.0		
+702	Matilde Martínez Casanovas	-2.4837	0.7417	148	2	2	1	2022.0		
+703	Noemí Ruiz-Munzón	-2.4089	1.2149	148	2	2	1	2022.0		
+704	Màrian Buil	-2.0365	0.9135	148	2	2	1	2022.0		
+705	Leslie Mahe Collazo Expósito	-2.5479	1.1307	149	1	1	1	2020.0		
+706	Jesús Granados Sánchez	-2.1065	0.696	149	1	1	1	2020.0		
+707	Marjorie Morales-Casetti	-2.1231	0.6523	150	1	1	1	2026.0		
+708	Martha T. Ramírez Valdivia	-2.5646	1.0871	150	1	1	1	2026.0		
+709	Luiza Olim de Sousa	-2.446	0.7976	151	0	0	1	2021.0		
+710	Aisling Tierney	2.0379	1.2155	22	8	8	2	2018.0		
+711	Hannah Tweddell	1.9812	1.3246	22	2	2	1	2015.0		
+712	Chris J Willmore	1.9447	1.2954	22	2	2	1	2015.0		
+713	Stanislav Avsec	-2.5954	0.9988	152	1	1	1	2021.0		
+714	Vesna Ferk Savec	-2.154	0.5641	152	1	1	1	2021.0		
+715	Daisuke Nagatomo	-2.4396	0.7526	153	0	0	1	2024.0		
+716	Ajda Fošner	-2.4477	0.6215	154	0	0	1	2025.0		
+717	Antje Goller	-2.6355	0.8644	155	1	1	1	2025.0		
+718	Jana Markert	-2.1941	0.4297	155	1	1	1	2025.0		
+719	Marco Rieckmann	-0.9527	2.2247	106	5	9	4	2022.75		
+720	Marisol Lopera Pérez	-0.839	2.3853	106	4	7	2	2024.5		
+721	Patricia M. Aguirre	-1.0616	2.3647	106	4	7	2	2024.5		
+722	Javier Sierra	-2.2058	0.3844	156	1	1	2	2022.5		
+723	Mari Kågström	-2.2166	0.3389	157	1	1	1	2025.0		
+724	Charlotta Faith-Ell	-2.658	0.7737	157	1	1	1	2025.0		
+725	Christian Rammel	2.011	1.7792	33	1	1	1	2017.0		
+726	Thomas Hammer	-2.668	0.728	158	1	1	1	2023.0		
+727	Anna Lena Lewis	-2.2266	0.2933	158	1	1	1	2023.0		
+728	Paul Warwick	-2.6001	0.4845	159	4	4	2	2016.5		
+729	Lynne Wyness	-2.766	0.5364	159	2	2	1	2017.0		
+730	Hugh Conway	-2.7625	0.4271	159	2	2	1	2017.0		
+731	Mirja Hämäläinen	-2.3914	0.4075	160	0	0	1	2025.0		
+732	Theodora De Baz	2.4793	1.4011	29	2	2	1	2016.0		
+733	Hala Al-Shawa	2.332	1.5561	29	2	2	1	2016.0		
+734	Elvira Arrondo Díez	-2.6928	0.59	161	1	1	1	2023.0		
+735	Nagore Aranguren Gómez	-2.2514	0.1552	161	1	1	1	2023.0		
+736	Kuok Ho Daniel Tang	-2.4752	0.2551	162	0	0	1	2023.0		
+737	Christel Persson	-2.6583	0.0649	163	2	2	1	2023.0		
+738	Daniel Einarson	-2.5834	0.5381	163	2	2	1	2023.0		
+739	Maria Melén	-2.2111	0.2367	163	2	2	1	2023.0		
+740	Tracey Yani Harjatanaya	-2.2159	0.1902	164	2	2	1	2025.0		
+741	Dorothy Ferary	-2.5882	0.4916	164	2	2	1	2025.0		
+742	Irfan Latifulloh Sarhindi	-2.6631	0.0184	164	2	2	1	2025.0		
+743	Antonietta Di Giulio	-2.7137	0.4042	165	1	1	1	2017.0		
+744	Rico Defila	-2.2723	-0.0306	165	1	1	1	2017.0		
+745	Syed Yaqzan	-2.6209	-0.1077	166	4	4	1	2025.0		
+746	Manish Singh	-2.2971	-0.0574	166	4	4	1	2025.0		
+747	Orsolya Ihasz	-2.5415	0.4159	166	4	4	1	2025.0		
+748	Stephanie Hussels	-2.2487	0.2679	166	4	4	1	2025.0		
+749	Muhammad Azmat	-2.7723	0.1822	166	4	4	1	2025.0		
+750	Adrian Ely	-2.5255	0.099	167	0	0	1	2018.0		
+751	Ayesha Nousheen	-2.5173	0.035	168	4	4	3	2023.67		
+752	Muhammad Abid Zia	-2.3686	0.2473	168	2	2	1	2024.0		
+753	Muhammad Adnan Waseem	-2.2637	0.0886	168	2	2	1	2024.0		
+754	Zarifjon Adilov	-2.4134	-0.2638	169	5	5	1	2025.0		
+755	Jurat Tajibaev	-2.2275	-0.0567	169	5	5	1	2025.0		
+756	Lobar Rasul-Zade	-2.6848	-0.207	169	5	5	1	2025.0		
+757	Mustafo Tursunov	-2.3152	0.207	169	5	5	1	2025.0		
+758	Zokir Mamadiyarov	-2.7725	0.0567	169	5	5	1	2025.0		
+759	Dadaxon Abdullayev	-2.5866	0.2638	169	5	5	1	2025.0		
+760	Svetlana Cicmil	2.0774	0.8503	22	2	2	1	2017.0		
+761	Sarah Hills	2.0439	0.8812	22	2	2	1	2017.0		
+762	Flavia Maria Esteves	-2.7863	-0.1347	170	7	7	1	2026.0		
+763	Eddie Maes	-2.2784	0.1568	170	7	7	1	2026.0		
+764	Benoît Mayeur	-2.4995	-0.0462	170	7	7	1	2026.0		
+765	Florianne Fassotte	-2.2034	-0.093	170	7	7	1	2026.0		
+766	Perrine Neuprez	-2.7474	0.1236	170	7	7	1	2026.0		
+767	S. Mertens	-2.6092	-0.3224	170	7	7	1	2026.0		
+768	Björn‐Olav Dozo	-2.5206	0.2489	170	7	7	1	2026.0		
+769	Valérie Defaweux	-2.3517	-0.307	170	7	7	1	2026.0		
+770	Xin Yun Du	-2.6723	-0.3085	171	2	2	1	2020.0		
+771	Yi Bo Guan	-2.225	-0.1367	171	2	2	1	2020.0		
+772	Tsung Shun Hsieh	-2.5974	0.1647	171	2	2	1	2020.0		
+773	Santiani Santiani	-2.4571	-0.5354	172	2	2	1	2024.0		
+774	Fine Reffiane	-2.3023	-0.4816	172	2	2	1	2024.0		
+775	Winarto Winarto	-2.4917	-0.1864	172	11	12	3	2024.33		
+776	Cris Garcia-Saravia Ortiz-de-Montellano	-2.2198	-0.2301	173	2	2	1	2023.0		
+777	Ali Ghannadzadeh	-2.5922	0.0714	173	2	2	1	2023.0		
+778	Yvonne van der Meer	-2.6671	-0.4018	173	2	2	1	2023.0		
+779	Carolina Blanco Fontao	-2.6739	-0.4404	174	5	5	1	2025.0		
+780	Camino Ferreira	-2.4024	-0.4972	174	5	5	1	2025.0		
+781	Ana Rosa Arias-Gago	-2.7616	-0.1767	174	5	5	1	2025.0		
+782	Aramis Marin	-2.3042	-0.0264	174	5	5	1	2025.0		
+783	Anna María Bernardi	-2.2166	-0.2901	174	5	5	1	2025.0		
+784	Javier Vidal	-2.5757	0.0304	174	5	5	1	2025.0		
+785	Riadh Habash	-2.5418	-0.2611	175	0	0	1	2024.0		
+786	Fiona Winfield	-2.2579	-0.5437	176	1	1	1	2019.0		
+787	Tabani Ndlovu	-2.6993	-0.1089	176	1	1	1	2019.0		
+788	Gisela Cebrián	-2.5021	-0.3872	177	0	0	2	2018.5		
+789	María Pilar Martínez Agut	-2.6387	-0.6338	178	2	2	1	2025.0		
+790	Anna Monzó-Martínez	-2.1915	-0.462	178	2	2	1	2025.0		
+791	Eva Ortiz Cermeño	-2.5638	-0.1605	178	2	2	1	2025.0		
+792	Helen Kopnina	-2.6412	-0.6717	179	5	5	1	2025.0		
+793	Mariusz Baranowski	-2.5431	-0.201	179	5	5	1	2025.0		
+794	Liz Natunda	-2.7289	-0.4081	179	5	5	1	2025.0		
+795	Wilson Muyinda Mande	-2.3698	-0.7286	179	5	5	1	2025.0		
+796	Tatjana Radovanovic	-2.2716	-0.2578	179	5	5	1	2025.0		
+797	Zaina Gadema	-2.1839	-0.5214	179	5	5	1	2025.0		
+798	Yu‐Chi Tseng	-2.5374	-0.7601	180	3	3	1	2025.0		
+799	Chia-Yu Wang	-2.1973	-0.6009	180	3	3	1	2025.0		
+800	Shu-Chiu Liu	-2.3572	-0.2611	180	3	3	1	2025.0		
+801	Shu‐Sheng Lin	-2.6973	-0.4203	180	3	3	1	2025.0		
+802	Iryna Dmytrivna Skliar	-2.6873	-0.466	181	3	3	1	2025.0		
+803	Mykola Vasylovych Kostel	-2.3472	-0.3068	181	3	3	1	2025.0		
+804	Olena Melnyk	-2.1873	-0.6466	181	3	3	1	2025.0		
+805	Kseniia Bliumska-Danko	-2.5274	-0.8058	181	3	3	1	2025.0		
+806	Niyaz Panakaje	-2.4292	-0.6008	182	6	6	1	2024.0		
+807	S. M. Riha Parvin	-2.6214	-0.388	182	6	6	1	2024.0		
+808	Niha Sheikh	-2.7089	-0.6651	182	6	6	1	2024.0		
+809	Abhinandan Kulal	-2.2307	-0.8144	182	6	6	1	2024.0		
+810	U.M. Bazigha	-2.3386	-0.3265	182	6	6	1	2024.0		
+811	Babitha Shali Lasrado	-2.1444	-0.5399	182	6	6	1	2024.0		
+812	Shakira Irfana	-2.5121	-0.8777	182	6	6	1	2024.0		
+813	Phyllis Araneo	-2.4449	-0.5544	183	0	0	1	2024.0		
+814	Evelien S. Fiselier	2.0951	0.9479	22	2	3	2	2018.0		
+815	Pujun Chen	-2.403	-0.745	184	0	0	1	2025.0		
+816	Alexander I. Vaniev	-2.1682	-0.9543	185	1	1	1	2025.0		
+817	Michael Malt-Cullen	-2.6096	-0.5195	185	1	1	1	2025.0		
+818	Ann-Kathrin Schlieszus	-2.4739	-0.5232	186	2	2	1	2024.0		
+819	Johanna Weselek	-2.1015	-0.8247	186	2	2	1	2024.0		
+820	Alexander Siegmund	-2.5488	-0.9964	186	2	2	1	2024.0		
+821	Ali A. Hadi Alshawi	-2.4589	-0.5675	187	2	2	1	2023.0		
+822	Abdel-Samad M. Ali	-2.5337	-1.0407	187	2	2	1	2023.0		
+823	Hicham Raïq	-2.0865	-0.8689	187	2	2	1	2023.0		
+824	Nathan Hensley	-2.3027	-0.9307	188	0	0	1	2025.0		
+825	Farkhanda Tabassum	-2.7874	0.1029	168	1	1	1	2025.0		
+826	Ana Elena Builes Vélez	-2.343	-0.8148	189	4	5	2	2024.5		
+827	Juliana Restrepo Jaramillo	-2.2397	-0.9616	189	4	5	2	2024.5		
+828	Juan Diego Diego Martínez	-2.0477	-0.7179	189	2	2	1	2024.0		
+829	Denise Rodríguez-Zurita	-2.1107	-1.1542	190	4	4	1	2025.0		
+830	Emma Juaneda Ayensa	-2.5859	-0.9146	190	4	4	1	2025.0		
+831	María Jaya-Montalvo	-2.3551	-0.681	190	4	4	1	2025.0		
+832	Laura Retamales-García	-2.0623	-0.829	190	4	4	1	2025.0		
+833	Paúl Carrión-Mero	-2.4345	-1.2046	190	4	4	1	2025.0		
+834	Demissie Dalelo	-2.281	-1.0977	191	0	0	1	2025.0		
+835	Enzo Ferrari	-2.4673	-0.8286	192	6	6	1	2025.0		
+836	Lorraine Whitmarsh	-2.0766	-1.255	192	6	6	1	2025.0		
+837	Nancy MacCann-Alfaro	-2.1844	-0.7672	192	6	6	1	2025.0		
+838	Claudia Cáceres González	-2.5548	-1.1058	192	6	6	1	2025.0		
+839	Elvia Melara	-2.3579	-1.3183	192	6	6	1	2025.0		
+840	Eva Hernadez-Gallego	-2.2751	-1.0414	192	6	6	1	2025.0		
+841	Camilo Ruíz	-1.9902	-0.9805	192	6	6	1	2025.0		
+842	Qudsia Kalsoom	-2.5608	-0.2401	168	1	1	1	2022.0		
+843	Elisabetta Venezia	-2.4731	-0.8673	193	1	1	1	2022.0		
+844	Fabio Pizzutilo	-2.0317	-1.3021	193	1	1	1	2022.0		
+845	Ronghui Zhou	-2.2982	-1.1168	194	0	0	1	2025.0		
+846	Svetlana Kulanina	-2.3951	-1.3751	195	5	5	1	2025.0		
+847	Alexey Dashin	-2.4828	-1.1115	195	5	5	1	2025.0		
+848	Tatyana Khorolskaya	-2.0255	-0.9612	195	5	5	1	2025.0		
+849	Saltanat Karabalaeva	-1.9378	-1.2248	195	5	5	1	2025.0		
+850	Anna Yakushina	-2.2969	-0.9044	195	5	5	1	2025.0		
+851	Sabohat Fozilova	-2.1236	-1.432	195	5	5	1	2025.0		
+852	John F. Barimo	-2.4705	-1.2726	196	6	6	1	2026.0		
+853	Lia Orlando	-2.383	-0.9955	196	6	6	1	2026.0		
+854	Gerard Mullally	-2.1002	-0.9341	196	6	6	1	2026.0		
+855	Edmond P. Byrne	-2.2737	-1.4852	196	6	6	1	2026.0		
+856	John O’Halloran	-1.9923	-1.4219	196	6	6	1	2026.0		
+857	Darren T. Reidy	-1.9059	-1.1474	196	6	6	1	2026.0		
+858	Maria J. Kirrane	-2.1908	-1.2083	196	6	6	1	2026.0		
+859	Julie Gwilliam	-2.427	-1.2819	197	2	2	1	2023.0		
+860	Andrew Reeves	-2.165	-1.25	197	4	4	2	2023.5		
+861	Natalia Timuș	-2.3332	-1.4534	197	2	2	1	2023.0		
+862	Alberto Martín-Sánchez	-2.2405	-1.032	198	2	2	1	2022.0		
+863	David González‐Gómez	-2.3154	-1.5053	198	2	2	1	2022.0		
+864	Jin Su Jeong	-1.8681	-1.3335	198	2	2	1	2022.0		
+865	Natasha Pennell	-2.3375	-1.1127	199	1	1	1	2024.0		
+866	Gabriela Sabau	-1.8961	-1.5475	199	1	1	1	2024.0		
+867	Vicki M. Stewart	-2.0546	-1.3609	200	0	0	1	2024.0		
+868	Ivetheyamel, Morales	-2.1648	-1.1501	201	2	2	1	2024.0		
+869	Jordi, Segalás	-1.7924	-1.4515	201	2	2	1	2024.0		
+870	Torsten, Masseck	-2.2396	-1.6233	201	2	2	1	2024.0		
+871	Sloan Peter Trad	-2.0447	-1.4617	202	0	0	1	2019.0		
+872	Soukayna El Ouali	-1.7908	-1.7019	203	1	1	1	2025.0		
+873	Qahraman Kakar	-2.2322	-1.2672	203	1	1	1	2025.0		
+874	Anja Amundrud	-2.2041	-1.3045	204	1	1	1	2026.0		
+875	Maren Omland	-1.7627	-1.7393	204	1	1	1	2026.0		
+876	Lukas Scherak	-0.9695	1.9792	106	1	2	2	2021.0		
+877	Dilip Parajuli	-1.5056	2.3233	118	4	4	1	2025.0		
+878	Purna Bahadur Lamichhane	-1.2366	1.8397	118	4	4	1	2025.0		
+879	Bibek Adhikari	-1.1974	2.1775	118	4	4	1	2025.0		
+880	А. Abdildauly	-2.2046	-1.4684	205	3	3	1	2025.0		
+881	A. S. Bakhtaulova	-1.7046	-1.649	205	3	3	1	2025.0		
+882	D. Mukasheva	-1.8645	-1.3092	205	3	3	1	2025.0		
+883	Michael Haas	-2.0447	-1.8082	205	3	3	1	2025.0		
+884	Sareh Moosavi	-1.7044	-1.8124	206	1	1	1	2024.0		
+885	Judy Bush	-2.1458	-1.3776	206	1	1	1	2024.0		
+886	Anne‐Marie Cederqvist	-1.9941	-1.3725	207	2	2	1	2025.0		
+887	Rawad Chaker	-2.069	-1.8457	207	2	2	1	2025.0		
+888	Mira Hajj-Hassan	-1.6217	-1.6739	207	2	2	1	2025.0		
+889	Sudarmin	-2.4084	-0.015	172	6	6	1	2025.0		
+890	Ariyatun Ariyatun	-2.5585	-0.0633	172	9	10	2	2024.5		
+891	Sri Rahayu	-2.4833	0.0902	172	6	6	1	2025.0		
+892	Sri Yamtinah	-2.3753	0.111	172	6	6	1	2025.0		
+893	Rr. Sri Endang Pujiastuti	-2.2898	0.0304	172	6	6	1	2025.0		
+894	Munzil Munzil	-2.3128	-0.0824	172	6	6	1	2025.0		
+895	Luís Fonseca	-1.9095	-1.3902	208	4	4	1	2018.0		
+896	Ana Rita Portela	-1.9889	-1.9138	208	4	4	1	2018.0		
+897	Beatriz Miguel Duarte	-1.6651	-1.8634	208	4	4	1	2018.0		
+898	João Queirós	-2.1403	-1.6238	208	4	4	1	2018.0		
+899	Luís Eduardo Brandão Paiva	-1.6167	-1.5382	208	4	4	1	2018.0		
+900	Adetumilara Adebo	-2.0533	-1.4831	209	1	1	1	2025.0		
+901	Kehinde Aladelusi	-1.6119	-1.9178	209	1	1	1	2025.0		
+902	Klas Andersson	-1.8744	-1.7704	210	0	0	1	2017.0		
+903	Rima Shishakly	-1.8579	-2.0173	211	3	3	1	2024.0		
+904	Mohammed Amin Almaiah	-1.5178	-1.8581	211	3	3	1	2024.0		
+905	Abdalwali Lutfi	-2.0178	-1.6775	211	3	3	1	2024.0		
+906	Mahmaod Alrawad	-1.6776	-1.5183	211	3	3	1	2024.0		
+907	Rafael Garzón García	-1.4612	-1.8437	212	2	2	1	2023.0		
+908	Gema Florido-Trujillo	-1.8336	-1.5423	212	2	2	1	2023.0		
+909	María Luisa Ramírez-López	-1.9084	-2.0155	212	2	2	1	2023.0		
+910	David Grierson	-1.4797	-2.05	213	1	1	1	2018.0		
+911	Karen Munro	-1.9211	-1.6153	213	1	1	1	2018.0		
+912	Nomalanga Mpofu-Hamadziripi	-1.765	-1.6059	214	2	2	1	2022.0		
+913	Franz Rauch	-1.8399	-2.0791	214	2	2	1	2022.0		
+914	Mira Dulle	-1.3927	-1.9073	214	2	2	1	2022.0		
+915	Di Chen	-1.8048	-2.1099	215	2	2	1	2025.0		
+916	Thoriq Tri Prabowo	-1.3575	-1.9382	215	2	2	1	2025.0		
+917	Pakkapong Poungsuk	-1.7299	-1.6367	215	2	2	1	2025.0		
+918	Raquel Lenziardi	-1.845	-1.8348	216	3	3	1	2025.0		
+919	Mírian Picinini Méxas	-1.5049	-1.6756	216	3	3	1	2025.0		
+920	Margarida Lucas	-1.6851	-2.1746	216	3	3	1	2025.0		
+921	Patrícia Sá	-1.345	-2.0154	216	3	3	1	2025.0		
+922	Carlos Rafael Rodríguez-Solera	-1.7794	-1.7372	217	1	1	1	2017.0		
+923	Marisol Silva Laya	-1.338	-2.172	217	1	1	1	2017.0		
+924	Tadeh Zirakian	-1.5449	-1.9305	218	0	0	1	2026.0		
+925	Ching-Ying Yu	-1.2113	-2.0547	219	2	2	1	2026.0		
+926	Thi Huyen Nguyen	-1.6586	-2.2265	219	2	2	1	2026.0		
+927	Huu Tin Nguyen	-1.5837	-1.7533	219	2	2	1	2026.0		
+928	Martin B. Carstensen	-1.5368	-2.2884	220	3	3	1	2025.0		
+929	Christian Lyhne Ibsen	-1.3566	-1.7894	220	3	3	1	2025.0		
+930	Ida Marie Nyland Jensen	-1.1967	-2.1292	220	3	3	1	2025.0		
+931	Bjarke Lund‐Sørensen	-1.6967	-1.9486	220	3	3	1	2025.0		
+932	Yaw Long Chua	1.7579	1.3802	40	2	2	1	2025.0		
+933	Joshua John Jodoin	-1.3911	-2.1537	221	0	0	1	2020.0		
+934	Eduardo Machado	0.5466	2.6294	80	4	4	1	2025.0		
+935	Rômulo Romeu Nóbrega Alves	0.5318	2.4735	80	4	4	1	2025.0		
+936	Robert Samuel Birch	0.4205	2.7217	80	4	4	1	2025.0		
+937	Thomas Sattich	-1.5435	-2.3066	222	2	2	1	2026.0		
+938	Stanislav Stedronsky	-1.4686	-1.8334	222	2	2	1	2026.0		
+939	Birgitte Ås	-1.0962	-2.1348	222	2	2	1	2026.0		
+940	Daniela Dumitru	-1.3139	-2.1361	223	0	0	1	2017.0		
+941	Marianne Broermann	-0.9795	-2.0266	224	2	2	1	2025.0		
+942	Salla-Riikka Kuusalu	-1.104	-1.8674	224	2	2	1	2025.0		
+943	Minna Maijala	-1.2665	-2.1227	224	5	5	2	2025.0		
+944	Ziyin Xiong	-1.1599	-1.9156	225	3	3	1	2025.0		
+945	Qing Wang	-1.5	-2.0748	225	3	3	1	2025.0		
+946	Romuald Normand	-1.0	-2.2554	225	3	3	1	2025.0		
+947	Xianshuang Zhang	-1.3401	-2.4146	225	3	3	1	2025.0		
+948	Ruihong Huang	-1.2431	-2.1575	226	0	0	1	2023.0		
+949	Eleni Michalopoulou	2.0943	1.1987	22	6	6	1	2021.0		
+950	Ed Atkins	2.0738	1.1463	22	6	6	1	2021.0		
+951	Tabitha Stanmore	2.1038	1.1715	22	6	6	1	2021.0		
+952	Lin Ma	2.0634	1.1789	22	6	6	1	2021.0		
+953	Natalie Jester	2.0429	1.1507	22	6	6	1	2021.0		
+954	Mirela Blaga	-1.2538	-2.4862	227	6	6	1	2021.0		
+955	Dirk Hofer	-1.0803	-1.9351	227	6	6	1	2021.0		
+956	Annemarie Grundmeier	-0.9724	-2.4229	227	6	6	1	2021.0		
+957	Deniz Köksal	-1.4506	-2.2736	227	6	6	1	2021.0		
+958	Jochen Strähle	-1.1709	-2.2093	227	6	6	1	2021.0		
+959	Zlatina Kazlacheva	-0.886	-2.1484	227	6	6	1	2021.0		
+960	Zlatin Zlatev	-1.3631	-1.9965	227	6	6	1	2021.0		
+961	Laura Bartolomé-Quevedo	-1.2133	-1.968	228	5	5	1	2025.0		
+962	Juan Manuel Campos-Rodríguez	-0.9418	-2.0248	228	5	5	1	2025.0		
+963	Ignacio de Blas	-1.3991	-2.1751	228	5	5	1	2025.0		
+964	Marta Calleja-Duque	-1.3115	-2.4387	228	5	5	1	2025.0		
+965	David Álvarez-Antelo	-0.8542	-2.2884	228	5	5	1	2025.0		
+966	Gonzalo Parrado-Hernando	-1.04	-2.4955	228	5	5	1	2025.0		
+967	Nataliia Demeshkant	-0.8122	-2.3091	229	5	5	1	2025.0		
+968	Tobias Hoppe	-1.3572	-2.1958	229	5	5	1	2025.0		
+969	Armin Lude	-1.2695	-2.4594	229	5	5	1	2025.0		
+970	Verena Raissa Bodenbender	-0.9981	-2.5162	229	5	5	1	2025.0		
+971	Katarzyna Potyrała	-0.8999	-2.0455	229	5	5	1	2025.0		
+972	Kees-Jan Van Oorsouw	-1.1713	-1.9886	229	5	5	1	2025.0		
+973	Junko Imai	-0.9909	-2.2257	230	0	0	1	2025.0		
+974	Konstantinos Pagkratis	-1.0417	-2.3069	231	0	0	1	2024.0		
+975	Sudarmin Sudarmin	-2.7964	-0.196	172	4	4	1	2024.0		
+976	Atik Rahmawati	-2.7081	-0.2742	172	4	4	1	2024.0		
+977	Teguh Wibowo	-2.7692	-0.0795	172	4	4	1	2024.0		
+978	Laura Gomez Araque	-0.8295	2.1528	102	3	3	1	2020.0		
+979	Paula Rojas Ramos	-0.6172	2.2181	102	3	3	1	2020.0		
+980	Emma Swärdh	-1.0468	-2.5592	232	3	3	1	2024.0		
+981	Nina Brodin	-0.7067	-2.4	232	3	3	1	2024.0		
+982	Ånna Pettersson	-0.8666	-2.0602	232	3	3	1	2024.0		
+983	Annie Palstam	-1.2067	-2.2194	232	3	3	1	2024.0		
+984	Ralf Isenmann	-0.9373	-2.2744	233	4	5	3	2018.67		
+985	Sascha Zinn	-0.9805	-2.4304	233	3	4	2	2016.5		
+986	Klaus Kreulich	-0.8529	-2.5339	233	3	3	1	2016.0		
+987	Andreas Peter	-0.7589	-2.3869	233	3	3	1	2016.0		
+988	Rocío Valderrama-Hernández	-0.6197	-2.4342	234	3	3	1	2025.0		
+989	Angela Barrón Ruíz	-1.1197	-2.2535	234	3	3	1	2025.0		
+990	Carmen Solís-Espallargas	-0.7796	-2.0944	234	3	3	1	2025.0		
+991	Dolores Limón Domínguez	-0.9598	-2.5934	234	3	3	1	2025.0		
+992	Carolien van den Berg	-0.8091	-2.3109	235	2	2	2	2025.0		
+993	Miriam Block	-1.0887	2.3484	109	7	7	1	2016.0		
+994	Vincent Orth	-0.9843	2.3668	109	7	7	1	2016.0		
+995	Martin Riecke	-0.9127	2.2883	109	7	7	1	2016.0		
+996	Juan Miguel Rodríguez López	-1.0082	2.121	109	7	7	1	2016.0		
+997	Grischa Perino	-0.9235	2.1844	109	7	7	1	2016.0		
+998	Wey-Han Tan	-1.1073	2.159	109	7	7	1	2016.0		
+999	Moritz Lamparter	-1.0363	2.2478	109	7	7	1	2016.0		
+1000	Iva Prgomet	-0.534	-2.247	236	4	4	1	2025.0		
+1001	I. Varičak	-0.5824	-2.5723	236	4	4	1	2025.0		
+1002	M. Šavor	-0.8268	-2.0991	236	4	4	1	2025.0		
+1003	M. Blažić	-0.9062	-2.6227	236	4	4	1	2025.0		
+1004	Željko Prgomet	-1.0576	-2.3327	236	4	4	1	2025.0		
+1005	Mara Zeltina	-0.7608	-2.3982	237	0	0	1	2020.0		
+1006	Liting Zeng	-0.8661	-2.6173	238	2	2	1	2025.0		
+1007	Jiraporn Chano	-0.7913	-2.1441	238	2	2	1	2025.0		
+1008	Bahtiar Mohamad	-0.4189	-2.4455	238	2	2	1	2025.0		
+1009	Theam Foo Ng	-0.5351	-2.259	239	6	6	2	2021.5		
+1010	Maurice Ian Wee	-0.5502	-2.3969	239	4	4	1	2020.0		
+1011	Fatin Nabilla Ariffin	-0.679	-2.3006	239	4	4	1	2020.0		
+1012	Ahmad Firdaus Ahmad Shabudin	-0.7011	-2.4857	239	8	8	2	2018.5		
+1013	Mohd Sayuti Hassan	-0.6243	-2.3575	239	4	4	1	2020.0		
+1014	Margaret Workman	-0.7266	-2.6744	240	4	4	1	2025.0		
+1015	Isidore A. Udoh	-0.6472	-2.1508	240	4	4	1	2025.0		
+1016	Idorenyin Eyo	-0.3544	-2.2988	240	4	4	1	2025.0		
+1017	Paul Anih	-0.4028	-2.624	240	4	4	1	2025.0		
+1018	Elvis Obi	-0.878	-2.3844	240	4	4	1	2025.0		
+1019	Áron Szennay	-0.6464	-2.6868	241	3	3	1	2026.0		
+1020	Sára Csillag	-0.4662	-2.1878	241	3	3	1	2026.0		
+1021	Krisztina Szegedi	-0.8063	-2.347	241	3	3	1	2026.0		
+1022	Zsuzsanna Győri	-0.3063	-2.5276	241	3	3	1	2026.0		
+1023	Hasanuzzaman Tushar	-0.4205	-2.1978	242	3	3	1	2026.0		
+1024	F. A. Sabbir Ahamed	-0.6008	-2.6968	242	3	3	1	2026.0		
+1025	Selina Nargis	-0.2606	-2.5376	242	3	3	1	2026.0		
+1026	Abdur Rab	-0.7606	-2.357	242	3	3	1	2026.0		
+1027	Shepherd Urenje	-0.7092	2.2187	101	5	6	3	2021.0		
+1028	Million Chauraya	-0.7488	2.0715	101	2	2	1	2021.0		
+1029	Charles Chikunda	-0.6704	2.0699	101	2	2	1	2021.0		
+1030	Eureta Rosenberg	-0.6388	-2.6714	243	2	2	1	2018.0		
+1031	Heila Lotz‐Sisitka	-0.5639	-2.1982	243	2	2	1	2018.0		
+1032	Presha Ramsarup	-0.1916	-2.4996	243	2	2	1	2018.0		
+1033	James B. Ayers	-0.1456	-2.5079	244	2	2	1	2020.0		
+1034	Jayne Bryant	-0.5179	-2.2065	244	2	2	1	2020.0		
+1035	Merlina Missimer	-0.5928	-2.6797	244	2	2	1	2020.0		
+1036	Rachel Bowden	-0.1519	-2.6895	245	1	1	1	2026.0		
+1037	Maria Kondratjuk	-0.5933	-2.2547	245	1	1	1	2026.0		
+1038	Alex Mifsud	-0.5004	-2.6936	246	2	2	1	2023.0		
+1039	Antonio Sánchez-Vázquez	-0.4255	-2.2204	246	2	2	1	2023.0		
+1040	Chris William Callaghan	-0.0531	-2.5218	246	2	2	1	2023.0		
+1041	Beatriz Cuadrado‐Ballesteros	-0.5299	-2.394	247	3	3	1	2025.0		
+1042	M. Isabel González-Bravo	-0.37	-2.7338	247	3	3	1	2025.0		
+1043	Jennifer Martínez‐Ferrero	-0.1898	-2.2348	247	3	3	1	2025.0		
+1044	Eva Lahuerta-Otero	-0.0299	-2.5746	247	3	3	1	2025.0		
+1045	Ming Li	-0.4074	-2.7041	248	2	2	1	2024.0		
+1046	Songyu Jiang	-0.3326	-2.2309	248	2	2	1	2024.0		
+1047	Nuttapong Jotikasthira	0.0398	-2.5323	248	2	2	1	2024.0		
+1048	Agnieszka Hajdukiewicz	0.0339	-2.7104	249	1	1	1	2020.0		
+1049	Bożena Pera	-0.4075	-2.2756	249	1	1	1	2020.0		
+1050	Mary Gene Saudelli	0.0805	-2.7134	250	1	1	1	2022.0		
+1051	Ewelina K. Niemczyk	-0.3609	-2.2787	250	1	1	1	2022.0		
+1052	Hatice Çıralı Sarıca	-0.1488	-2.5581	251	0	0	1	2026.0		
+1053	Fahru Azwa Mohd Zain	-0.0542	-2.5248	252	5	5	2	2026.0		
+1054	Siti Fariha Muhamad	-0.2123	-2.7418	252	2	2	1	2026.0		
+1055	Hazrin Izwan Che Haron	-0.0405	-2.7929	252	2	2	1	2026.0		
+1056	Wan Amalina Wan Abdullah	-0.1078	-2.3132	252	3	3	1	2026.0		
+1057	Rosmaria Jaffar	0.1062	-2.3769	252	3	3	1	2026.0		
+1058	Shahida Shaharuddin	0.0281	-2.2479	252	3	3	1	2026.0		
+1059	Mareen Patzelt	-1.5108	-2.1546	224	3	3	1	2025.0		
+1060	Päivi Laine	-1.5245	-2.3244	224	3	3	1	2025.0		
+1061	Soila Merijärvi	-1.3563	-2.3522	224	3	3	1	2025.0		
+1062	Ma Fernanda Sánchez Contreras	-0.0349	-2.2028	253	1	1	1	2019.0		
+1063	María Ángeles Murga Menoyo	-0.0007	-2.492	253	5	5	3	2019.0		
+1064	Nanda Novita	-0.2295	-2.4575	254	4	4	1	2025.0		
+1065	Riza Andriani	-0.0781	-2.7475	254	4	4	1	2025.0		
+1066	Muliani Muliani	0.2942	-2.3718	254	4	4	1	2025.0		
+1067	Husnul Makfirah	0.2457	-2.6971	254	4	4	1	2025.0		
+1068	Nurazizah Nurazizah	0.0014	-2.2239	254	4	4	1	2025.0		
+1069	Zhiqiang Xing	-0.0806	-2.7132	255	2	2	1	2021.0		
+1070	Letong Li	-0.0057	-2.24	255	2	2	1	2021.0		
+1071	Weibin Wang	0.3667	-2.5415	255	2	2	1	2021.0		
+1072	Serhii Koniukhov	0.3609	-2.7134	256	1	1	1	2020.0		
+1073	Kateryna Osadchа	-0.0805	-2.2787	256	1	1	1	2020.0		
+1074	Paul Bartlett	0.46	-2.5362	257	2	2	1	2020.0		
+1075	Milena Popov	0.0128	-2.708	257	2	2	1	2020.0		
+1076	John Ruppert	0.0877	-2.2348	257	2	2	1	2020.0		
+1077	Celina Salvador-García	0.0127	-2.2717	258	1	1	1	2025.0		
+1078	Aída Sanahuja Ribés	0.4541	-2.7065	258	1	1	1	2025.0		
+1079	Ellen Pfeiffer	0.1551	-2.7322	259	4	4	1	2017.0		
+1080	Uta Wehn	0.2345	-2.2086	259	4	4	1	2017.0		
+1081	Lakshmi Charli-Joseph	0.5273	-2.3566	259	4	4	1	2017.0		
+1082	Amy M. Lerner	0.0037	-2.4422	259	4	4	1	2017.0		
+1083	Kenneth Irvine	0.4789	-2.6818	259	4	4	1	2017.0		
+1084	Liz Brogden	0.6224	-2.5248	260	7	7	1	2022.0		
+1085	Desmond Bernie	0.0785	-2.3083	260	7	7	1	2022.0		
+1086	Megan Boston	0.5475	-2.275	260	7	7	1	2022.0		
+1087	A. Förster	0.3053	-2.183	260	7	7	1	2022.0		
+1088	Laurent Galbrun	0.2166	-2.7543	260	7	7	1	2022.0		
+1089	Leigh‐Anne Hepburn	0.3264	-2.4781	260	7	7	1	2022.0		
+1090	Taibat Lawanson	0.4741	-2.7388	260	7	7	1	2022.0		
+1091	Jolanda Morkel	0.0396	-2.5666	260	7	7	1	2022.0		
+1092	Ángela Suárez-Collado	-2.6472	0.8192	156	1	1	1	2025.0		
+1093	Tugba Karabiyik	0.1986	-2.6871	261	2	2	1	2024.0		
+1094	Aparajita Jaiswal	0.2734	-2.2139	261	2	2	1	2024.0		
+1095	Paul Thomas	0.6458	-2.5153	261	2	2	1	2024.0		
+1096	Ayotunde Dawodu	0.6145	-2.6773	262	6	6	1	2021.0		
+1097	FRANKLYN AWONFOR	0.1363	-2.528	262	6	6	1	2021.0		
+1098	Haoyue Dai	0.416	-2.4637	262	6	6	1	2021.0		
+1099	LI Sheng-yu	0.2238	-2.2509	262	6	6	1	2021.0		
+1100	Chengyang Wu	0.5067	-2.1894	262	6	6	1	2021.0		
+1101	Yang Xiao-yan	0.7009	-2.4028	262	6	6	1	2021.0		
+1102	Ziyi Yan	0.3331	-2.7406	262	6	6	1	2021.0		
+1103	Amanda Aliende da Matta	0.5549	-2.2069	263	3	3	1	2025.0		
+1104	Mihaela Vancea	0.2148	-2.3661	263	3	3	1	2025.0		
+1105	Lukáš Válek	0.7148	-2.5467	263	3	3	1	2025.0		
+1106	Olga Tarasova	0.3747	-2.7059	263	3	3	1	2025.0		
+1107	Carlo Daniels	0.5513	-2.3795	264	0	0	1	2025.0		
+1108	Inan Deniz Erguvan	0.5527	-2.3871	265	0	0	1	2024.0		
+1109	Kofi Nkonkonya Mpuangnan	0.8225	-2.6439	266	1	1	1	2025.0		
+1110	Samantha Govender	0.3811	-2.2091	266	1	1	1	2025.0		
+1111	Bettina Hollstein	0.5479	-2.1566	267	2	2	1	2024.0		
+1112	João Lucas Faco Tziminadis	0.473	-2.6298	267	2	2	1	2024.0		
+1113	Pia Marie Elisabeth Schrage	0.9203	-2.458	267	2	2	1	2024.0		
+1114	Hannah Prawitz	0.4714	-2.1849	268	1	1	1	2025.0		
+1115	Veronika Pinzger	0.9128	-2.6197	268	1	1	1	2025.0		
+1116	Jodie Birdman	0.8235	-2.6527	269	5	5	1	2025.0		
+1117	Handan Çelik	0.9217	-2.182	269	5	5	1	2025.0		
+1118	Irina Pandarova	0.6503	-2.1251	269	5	5	1	2025.0		
+1119	Anne Barron	1.0094	-2.4456	269	5	5	1	2025.0		
+1120	Nora Benitt	0.4644	-2.3323	269	5	5	1	2025.0		
+1121	Torben Dall Schmidt	0.5521	-2.5959	269	5	5	1	2025.0		
+1122	Maja Melballe Jensen	0.6823	-2.1165	270	2	2	1	2025.0		
+1123	Marianne Georgsen	1.0546	-2.418	270	2	2	1	2025.0		
+1124	Michal Pilgaard	0.6074	-2.5897	270	2	2	1	2025.0		
+1125	Linda Clarke	1.0214	-2.5723	271	6	6	1	2023.0		
+1126	M. Sahin-Dikmen	0.7401	-2.6356	271	6	6	1	2023.0		
+1127	Christopher Winch	0.6308	-2.1459	271	6	6	1	2023.0		
+1128	V. E. Price	0.9136	-2.0845	271	6	6	1	2023.0		
+1129	John Calvert	0.5433	-2.4231	271	6	6	1	2023.0		
+1130	Pier-Luc Bilodeau	0.823	-2.3588	271	6	6	1	2023.0		
+1131	Evelyn Dionne	1.1078	-2.2978	271	6	6	1	2023.0		
+1132	Roberto Rivas Hermann	0.7796	-2.5934	272	3	3	1	2025.0		
+1133	Marília Bonzanini Bossle	0.6197	-2.2535	272	3	3	1	2025.0		
+1134	Marcelo Azevedo Costa	1.1197	-2.4342	272	3	3	1	2025.0		
+1135	Daiane Mülling Neutzling	0.9598	-2.0944	272	3	3	1	2025.0		
+1136	Gitte Cecile Motzfeldt	1.1341	-2.5446	273	1	1	1	2025.0		
+1137	Margaretha Häggström	0.6926	-2.1098	273	1	1	1	2025.0		
+1138	Elizabeth Diaz-Clark	0.7827	-2.5247	274	2	2	1	2025.0		
+1139	Meena M. Balgopal	1.2299	-2.3529	274	2	2	1	2025.0		
+1140	Scott Denning	0.8575	-2.0515	274	2	2	1	2025.0		
+1141	Lina María Suárez-Vásquez	-2.5713	-0.939	189	3	3	1	2025.0		
+1142	Natalia Pérez-Orrego	-2.4343	-1.1335	189	3	3	1	2025.0		
+1143	Debby R.E. Cotton	-2.2606	0.358	159	3	3	1	2026.0		
+1144	Jennie Winter	-2.3702	0.4585	159	5	5	2	2021.0		
+1145	Jason Stratham Davis	-2.2235	0.489	159	3	3	1	2026.0		
+1146	Oscar Lindsey-Turner	-2.1832	0.407	159	3	3	1	2026.0		
+1147	Sevtap Tırınk	0.7235	-2.2493	275	4	4	1	2026.0		
+1148	Mehmet Hakkı Alma	0.8749	-2.5393	275	4	4	1	2026.0		
+1149	Sefa Altıkat	0.9543	-2.0157	275	4	4	1	2026.0		
+1150	Alper Gülbe	1.2471	-2.1637	275	4	4	1	2026.0		
+1151	Alperay Altıkat	1.1987	-2.4889	275	4	4	1	2026.0		
+1152	Edy Hafizan Mohd Shahali	1.7977	2.0623	44	2	2	1	2025.0		
+1153	Najwa Huda Shaharil	1.6008	2.0343	44	2	2	1	2025.0		
+1154	Jessica Willats	1.2414	-2.4698	276	4	4	1	2018.0		
+1155	Lina Erlandsson	0.7662	-2.2303	276	4	4	1	2018.0		
+1156	Petra Molthan‐Hill	0.9176	-2.5202	276	4	4	1	2018.0		
+1157	Aldilla Dharmasasmita	0.997	-1.9966	276	4	4	1	2018.0		
+1158	Eunice Simmons	1.2898	-2.1446	276	4	4	1	2018.0		
+1159	Bridget Tombleson	1.3054	-2.4698	277	1	1	1	2026.0		
+1160	Katharina Wolf	0.864	-2.035	277	1	1	1	2026.0		
+1161	Adriana  Lozjanin	0.9526	-2.4467	278	2	2	1	2025.0		
+1162	Gitanjaly  Chhabra	1.0275	-1.9735	278	2	2	1	2025.0		
+1163	Noosha  Mehdian	1.3998	-2.275	278	2	2	1	2025.0		
+1164	Robert Hantsch	1.3889	-2.4277	279	1	1	1	2025.0		
+1165	Harald Hantke	0.9475	-1.9929	279	1	1	1	2025.0		
+1166	Siok Yee Chan	-0.4498	-2.0644	239	2	2	1	2023.0		
+1167	Siti Fairuz Mohd Radzi	-0.3613	-2.1366	239	2	2	1	2023.0		
+1168	Li Lin	1.1101	-1.9298	280	2	2	1	2026.0		
+1169	Salma Dahiri	1.4825	-2.2313	280	2	2	1	2026.0		
+1170	Patience Princess Nkwocha	1.0353	-2.403	280	2	2	1	2026.0		
+1171	Asheena Singh-Pillay	1.2681	-2.1973	281	0	0	1	2020.0		
+1172	Widi Purwianingsih	1.5635	-2.1845	282	2	2	1	2022.0		
+1173	I. Novidsa	1.1911	-1.8831	282	2	2	1	2022.0		
+1174	R. Riandi	1.1162	-2.3563	282	2	2	1	2022.0		
+1175	Jiandong Chen	1.5508	-2.3342	283	1	1	1	2025.0		
+1176	Xingyu Chen	1.1094	-1.8994	283	1	1	1	2025.0		
+1177	André Lucas Novaes	1.6426	-2.1348	284	2	2	1	2025.0		
+1178	Giselle Cristina Cardoso	1.1954	-2.3066	284	2	2	1	2025.0		
+1179	Débora Zumkeller Sabonaro	1.2703	-1.8334	284	2	2	1	2025.0		
+1180	Odette Gabaudan	1.3091	-1.8074	285	2	2	1	2025.0		
+1181	Pilar Molina Taracena	1.2343	-2.2806	285	2	2	1	2025.0		
+1182	Alexandra Severino	1.6815	-2.1088	285	2	2	1	2025.0		
+1183	César García-Aranda	1.6967	-2.1292	286	3	3	1	2023.0		
+1184	Agustín Molina García	1.1967	-1.9486	286	3	3	1	2023.0		
+1185	Javier Pérez	1.3566	-2.2884	286	3	3	1	2023.0		
+1186	Jorge Rodríguez‐Chueca	1.5368	-1.7894	286	3	3	1	2023.0		
+1187	Rebecca Cassar	1.2638	-1.7941	287	1	2	2	2023.5		
+1188	Mark Mifsud	1.7053	-2.2289	287	1	2	2	2023.5		
+1189	Ruirui Zhang	1.3479	-2.1984	288	2	2	1	2025.0		
+1190	Chunmin Lang	1.7951	-2.0266	288	2	2	1	2025.0		
+1191	Hao Zhang	1.4227	-1.7252	288	2	2	1	2025.0		
+1192	Midhat Noor Kiyani	1.5768	-1.8777	289	0	0	1	2025.0		
+1193	Inga Schmidt-Ross	1.3743	-1.7077	290	1	1	1	2025.0		
+1194	Susanne Hensel-Börner	1.8157	-2.1425	290	1	1	1	2025.0		
+1195	Adriana Consorte-McCrea	1.4567	-2.1099	291	2	2	1	2018.0		
+1196	Chloe Griggs	1.9039	-1.9382	291	2	2	1	2018.0		
+1197	Nicola Kemp	1.5316	-1.6367	291	2	2	1	2018.0		
+1198	Iris Schmidberger	1.8959	-1.922	292	2	3	2	2024.5		
+1199	Ulrich Müller	1.5505	-1.5986	292	2	2	1	2025.0		
+1200	Sven Wippermann	1.5513	-2.0718	292	2	3	2	2024.5		
+1201	Lorena Ivonne Litzner Ordóñez	1.4797	-1.6153	293	1	1	1	2019.0		
+1202	Werner Rieß	1.9211	-2.05	293	1	1	1	2019.0		
+1203	Alessandra Viviani	1.7326	-1.7223	294	0	0	1	2022.0		
+1204	Sarmad Ali Khan	1.6368	-1.7267	295	0	0	1	2023.0		
+1205	Anette Hay	1.5798	-1.517	296	1	1	1	2025.0		
+1206	Zama Simamane	2.0212	-1.9518	296	1	1	1	2025.0		
+1207	Alfonso Coronado Marín	-0.2737	-2.5225	253	2	2	1	2020.0		
+1208	María José Bautista-Cerro Ruiz	-0.1947	-2.687	253	2	2	1	2020.0		
+1209	Omar Osman	-0.8317	-2.5724	239	4	4	1	2017.0		
+1210	K. Ibrahim	-0.7257	-2.6514	239	4	4	1	2017.0		
+1211	Kanayathu Koshy	-0.8671	-2.6425	239	4	4	1	2017.0		
+1212	Noor Adelyna Mohammed Akib	-0.7921	-2.6961	239	4	4	1	2017.0		
+1213	Paulina Navrouzoglou	2.1058	-1.7437	297	2	2	1	2024.0		
+1214	Lovleen Kushwah	1.7335	-1.4422	297	2	2	1	2024.0		
+1215	Geethanjali Selvaretnam	1.6586	-1.9154	297	2	2	1	2024.0		
+1216	Whitney Jane Bevan	1.8685	-1.6808	298	0	0	1	2025.0		
+1217	Naomi Braithwaite	1.6742	-1.4133	299	1	1	1	2025.0		
+1218	Lisa Trencher	2.1156	-1.8481	299	1	1	1	2025.0		
+1219	Diola Bijlhout	2.1983	-1.6382	300	2	2	1	2023.0		
+1220	Teresa Vilaça	1.751	-1.81	300	2	2	1	2023.0		
+1221	Rebecca Chewitt-Lucas	1.8259	-1.3368	300	2	2	1	2023.0		
+1222	Daniela Carvalho Messaoudi	1.9592	-1.6581	301	0	0	1	2025.0		
+1223	Therese Ferguson	1.7072	-1.4798	302	4	4	1	2022.0		
+1224	Carmel Roofe	1.938	-1.2462	302	4	4	1	2022.0		
+1225	Loraine D. Cook	2.2308	-1.3942	302	4	4	1	2022.0		
+1226	Sharon Bramwell-Lalor	1.8586	-1.7698	302	4	4	1	2022.0		
+1227	Carol Hordatt Gentles	2.1824	-1.7194	302	4	4	1	2022.0		
+1228	Paula Marcela Hernandez	2.5884	0.7961	22	2	2	1	2018.0		
+1229	A. Prabhu Chakkaravarthy	2.2322	-1.7019	303	1	1	1	2025.0		
+1230	J. Dhanalakshmi	1.7908	-1.2672	303	1	1	1	2025.0		
+1231	Aliaksandr Novikau	2.0279	-1.4288	304	0	0	1	2024.0		
+1232	Natalia Shchitova	2.3388	-1.4515	305	2	2	1	2020.0		
+1233	Vitaly Belozerov	1.9664	-1.1501	305	2	2	1	2020.0		
+1234	Julia Zolnikova	1.8916	-1.6233	305	2	2	1	2020.0		
+1235	Regina Hahn	1.8709	-1.1521	306	1	1	1	2025.0		
+1236	Martin Wenke	2.3123	-1.5868	306	1	1	1	2025.0		
+1237	S. Cravero	1.8668	-1.2398	307	3	3	1	2021.0		
+1238	Francesco Strada	2.2069	-1.0806	307	3	3	1	2021.0		
+1239	Isabella Maria Lami	2.0267	-1.5796	307	3	3	1	2021.0		
+1240	A. Bottino	2.3668	-1.4204	307	3	3	1	2021.0		
+1241	Trirat Yuenyong	2.2152	-1.3162	308	0	0	1	2024.0		
+1242	Manjeet Ridon	-1.9034	-1.2178	197	2	2	1	2024.0		
+1243	Stuart Lawson	-1.9968	-1.047	197	2	2	1	2024.0		
+1244	Graeme Heyes	2.5082	0.7593	22	1	1	1	2016.0		
+1245	Bruno Borsari	2.1246	-1.2751	309	0	0	1	2025.0		
+1246	María Armario	1.3267	2.4795	61	4	4	1	2022.0		
+1247	Beatriz Gómez-Chacón	1.4168	2.4517	61	4	4	1	2022.0		
+1248	Lourdes Aragón Núñez	1.3821	2.4023	61	4	4	1	2022.0		
+1249	Natalia Jiménez‐Tenorio	1.3768	2.5087	61	4	4	1	2022.0		
+1250	Gustavo R. Espinoza-Ramos	1.9673	-0.9919	310	1	1	2	2024.5		
+1251	Markus Will	2.0362	-1.3832	311	2	2	1	2018.0		
+1252	Claudia Neumann	2.1111	-0.91	311	2	2	1	2018.0		
+1253	Jana Brauweiler	2.4835	-1.2114	311	2	2	1	2018.0		
+1254	Fernando Correia	0.2713	-2.4584	253	2	2	1	2018.0		
+1255	Ángela Espinosa	0.2328	-2.6373	253	2	2	1	2018.0		
+1256	Tatjana Tambovceva	-0.6796	2.2814	101	3	3	1	2021.0		
+1257	Lovísa Eiríksdóttir	-0.6176	2.2866	101	3	3	1	2021.0		
+1258	Clinton Cassar	2.2775	-1.1102	312	0	0	1	2022.0		
+1259	Amanda Capucci-Polzin	2.4088	-1.4267	310	1	1	1	2025.0		
+1260	Elli Verhulst	2.1533	-0.8265	313	2	2	1	2023.0		
+1261	Heidi Rapp Nilsen	2.0784	-1.2997	313	2	2	1	2023.0		
+1262	Bjørn Sortland	2.5256	-1.1279	313	2	2	1	2023.0		
+1263	Claudia Thea Schmitt	2.2723	-1.0422	314	2	2	2	2017.5		
+1264	Sophie Palm	2.2423	-1.2791	314	1	1	1	2018.0		
+1265	Kathrin Rath	2.3023	-0.8059	314	1	1	1	2017.0		
+1266	Debby Cotton	-2.4852	0.5578	159	2	2	1	2016.0		
+1267	Adriana Granato	2.2649	-0.9741	315	0	0	1	2023.0		
+1268	Arkapravo Sarkar	2.089	-0.7393	316	1	1	1	2025.0		
+1269	Russell Seidle	2.5304	-1.1741	316	1	1	1	2025.0		
+1270	Sara Moggi	2.1065	-0.696	317	1	1	1	2025.0		
+1271	Gabriella Calvano	2.5479	-1.1307	317	1	1	1	2025.0		
+1272	Amanda Langdown	2.5646	-1.0871	318	1	1	1	2016.0		
+1273	Eleanor Hannan	2.1231	-0.6523	318	1	1	1	2016.0		
+1274	Anne-Kathrin Lindau	1.7712	2.047	42	1	1	1	2021.0		
+1275	Raquel M. Balanay	2.139	-0.6083	319	1	1	1	2016.0		
+1276	Anthony Halog	2.5804	-1.0431	319	1	1	1	2016.0		
+1277	Nadine Husenbeth	2.154	-0.5641	320	1	1	1	2021.0		
+1278	Merle Katrin Tegeler	2.5954	-0.9988	320	1	1	1	2021.0		
+1279	Leanne Denby	2.6096	-0.9543	321	1	1	1	2016.0		
+1280	Sara Rickards	2.1682	-0.5195	321	1	1	1	2016.0		
+1281	Ratna Lindawati Lubis	2.4071	-0.6437	322	0	0	1	2024.0		
+1282	Subarna Sivapalan	2.3797	-0.6634	323	0	0	1	2016.0		
+1283	Minghui Yang	2.3273	-0.3436	324	2	2	1	2022.0		
+1284	Jiawen Wang	2.6997	-0.645	324	2	2	1	2022.0		
+1285	Gaoyi Li	2.2525	-0.8168	324	2	2	1	2022.0		
+1286	Érica Kamimura Nishimura	2.2166	-0.3389	325	1	1	1	2018.0		
+1287	Tadeu Fabrício Malheiros	2.658	-0.7737	325	1	1	1	2018.0		
+1288	Dzintra Iliško	2.4277	-0.5838	326	0	0	1	2016.0		
+1289	Kay Emblen-Perry	2.4712	-0.4517	327	0	0	2	2018.5		
+1290	Aerin W. Benavides	2.7379	-0.462	328	2	2	1	2022.0		
+1291	Allison Freed	2.2906	-0.6338	328	2	2	1	2022.0		
+1292	Lacey D. Huffling	2.3655	-0.1605	328	2	2	1	2022.0		
+1293	Ann Hindley	-0.7646	2.7304	101	1	1	1	2018.0		
+1294	Māris Kļaviņš	2.4723	-0.3843	329	0	0	1	2021.0		
+1295	Annabel de Frece	2.6993	-0.5437	330	1	1	1	2025.0		
+1296	Ros Taplin	2.2579	-0.1089	330	1	1	1	2025.0		
+1297	Nabeel Dahicho	2.2636	-0.0625	331	1	1	1	2025.0		
+1298	Sufia Zaman	2.705	-0.4973	331	1	1	1	2025.0		
+1299	Klaus Fischer	-1.0372	-2.0103	233	1	1	1	2023.0		
+1300	Dong Li	2.4681	0.0622	332	7	7	1	2025.0		
+1301	Thanida Sujarittham	2.4891	-0.2329	332	7	7	1	2025.0		
+1302	Sarayuth Sethakhajorn	2.3794	-0.5091	332	7	7	1	2025.0		
+1303	Phatchareephorn Bangkheow	2.7852	-0.2796	332	7	7	1	2025.0		
+1304	Jintawat Tanamatayarat	2.2412	-0.0631	332	7	7	1	2025.0		
+1305	Trai Unyapoti	2.6369	-0.4936	332	7	7	1	2025.0		
+1306	S Wuttiprom	2.7103	-0.0298	332	7	7	1	2025.0		
+1307	Nathiphat Phungphrom	2.2024	-0.3214	332	7	7	1	2025.0		
+1308	Renji George Amballoor	2.2723	0.0306	333	1	1	1	2026.0		
+1309	Shankar B. Naik	2.7137	-0.4042	333	1	1	1	2026.0		
+1310	María J. de la Fuente	2.4253	-0.1612	334	0	0	1	2021.0		
+1311	Juliette N. Rooney‐Varga	2.3734	-0.3414	335	4	4	1	2014.0		
+1312	A. A. Brisk	2.7457	0.0342	335	4	4	1	2014.0		
+1313	Elizabeth A. Adams	2.4529	0.1822	335	4	4	1	2014.0		
+1314	Mitchell Shuldman	2.2221	-0.0514	335	4	4	1	2014.0		
+1315	Kenneth Rath	2.6972	-0.291	335	4	4	1	2014.0		
+1316	Laura Sims	2.2789	0.1706	336	1	1	1	2013.0		
+1317	Thomas Falkenberg	2.7203	-0.2641	336	1	1	1	2013.0		
+1318	Oğuz Özdemir	2.0997	1.29	31	0	0	2	2023.5		

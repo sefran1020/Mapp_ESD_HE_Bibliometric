@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="community" attr.type="long" />
+  <key id="d0" for="node" attr.name="frequency" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="curricula">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="high educations">
+      <data key="d0">4</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="digital-learning">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="e-learning">
+      <data key="d0">3</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="sustainable development">
+      <data key="d0">13</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="education computing">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="students">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="learning systems">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="planning">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="teaching">
+      <data key="d0">3</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="education for sustainable development">
+      <data key="d0">11</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="electrostatic devices">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="surveys">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="education">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="climate change">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="esd">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="engineering education">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="design thinking">
+      <data key="d0">3</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="higher education">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="educational program">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="higher education institutions">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="economic and social effects">
+      <data key="d0">3</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="personnel training">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <edge source="curricula" target="high educations">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricula" target="education computing">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="curricula" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="curricula" target="sustainable development">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="curricula" target="learning systems">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricula" target="planning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricula" target="education for sustainable development">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="curricula" target="electrostatic devices">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="curricula" target="surveys">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="high educations" target="digital-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="high educations" target="e-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="high educations" target="sustainable development">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="high educations" target="education for sustainable development">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="high educations" target="higher education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="digital-learning" target="e-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="digital-learning" target="sustainable development">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="e-learning" target="sustainable development">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development" target="education computing">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development" target="students">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sustainable development" target="learning systems">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="teaching">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development" target="planning">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="sustainable development" target="education for sustainable development">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="sustainable development" target="electrostatic devices">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="sustainable development" target="surveys">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development" target="education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="esd">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="engineering education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development" target="higher education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="educational program">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="higher education institutions">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="economic and social effects">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="personnel training">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education computing" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="education computing" target="learning systems">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education computing" target="planning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education computing" target="education for sustainable development">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="education computing" target="electrostatic devices">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education computing" target="surveys">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="learning systems">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="planning">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="students" target="education for sustainable development">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="students" target="electrostatic devices">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="students" target="surveys">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="students" target="climate change">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="esd">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="engineering education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="planning" target="teaching">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="planning" target="education for sustainable development">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="planning" target="electrostatic devices">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="planning" target="surveys">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="planning" target="engineering education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="teaching" target="education for sustainable development">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="education for sustainable development" target="electrostatic devices">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="education for sustainable development" target="surveys">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="engineering education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="design thinking">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="higher education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="education for sustainable development" target="educational program">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="higher education institutions">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="economic and social effects">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="personnel training">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="electrostatic devices" target="surveys">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="electrostatic devices" target="engineering education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="electrostatic devices" target="educational program">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="electrostatic devices" target="higher education institutions">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="surveys" target="engineering education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="educational program" target="higher education institutions">
+      <data key="d2">2</data>
+    </edge>
+  </graph>
+</graphml>

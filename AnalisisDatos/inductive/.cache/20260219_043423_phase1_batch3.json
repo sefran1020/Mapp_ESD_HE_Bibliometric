@@ -1,0 +1,583 @@
+{
+  "session_id": "20260219_043423",
+  "phase": "1",
+  "batch": 3,
+  "timestamp": "2026-02-19T04:41:21.253343",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Enhancement",
+        "definition": "The use of AI tools to develop and improve students' critical thinking skills, including analytical, evaluative, and reflective thinking, as frequently reported in educational interventions.",
+        "evidence": [
+          "[Chen2024a] the PP-iGAI approach could better promote students' learning achievement, extrinsic motivation, problem-solving awareness, critical thinking, and learning performance.",
+          "[Leahy2025] Students also reported very positive supportive effects with respect to learning engagement, learning efficiency, and critical thinking skills.",
+          "[PelaezAyala2026] This study explores the role of GenAI assistants in fostering critical thinking, a core competency for navigating an era of rapid technological change."
+        ],
+        "articles": [
+          "Chen2024a",
+          "Leahy2025",
+          "Littell2025",
+          "PelaezAyala2026",
+          "Bayly-Castaneda2025",
+          "Teng2026",
+          "Bora2025",
+          "Elshall2025",
+          "Hallal2026",
+          "Essel2024",
+          "Michalon2023",
+          "Namboothiri2025",
+          "Yuriev2025",
+          "Nathaniel2025",
+          "Jin2025",
+          "Muthmainnah2026",
+          "Lei2025",
+          "Katsenou2025",
+          "Martín-Alguacil2025",
+          "Tang2026",
+          "Gunawan2024",
+          "Hung2025",
+          "Liu2026",
+          "Sudo2025",
+          "Perdana2026"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Analytical thinking",
+          "Evaluative thinking",
+          "Problem-solving"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Generative AI Tools in Education",
+        "definition": "The integration of generative artificial intelligence tools, such as ChatGPT and GenAI, into educational settings to support teaching, learning, and various academic tasks.",
+        "evidence": [
+          "[Leahy2025] The emergence of generative artificial intelligence (GenAI) chatbots, such as ChatGPT, presents unique challenges and opportunities in an educational setting.",
+          "[Teng2026] This study investigates how GenAI features influence students' critical thinking and self-efficacy, with a specific focus on the mediating role of cognitive engagement.",
+          "[Zhai2025] Artificial Intelligence (AI) technologies are transforming educational settings by offering tools that enhance learning experiences."
+        ],
+        "articles": [
+          "Leahy2025",
+          "PelaezAyala2026",
+          "Bayly-Castaneda2025",
+          "Teng2026",
+          "Weigelt2026",
+          "Gong2025b",
+          "Zhai2025",
+          "Yuriev2025",
+          "Nathaniel2025",
+          "Jin2025",
+          "Muthmainnah2026",
+          "Lei2025",
+          "Tang2026",
+          "Liu2026",
+          "Sudo2025",
+          "Perdana2026",
+          "Essel2024",
+          "Michalon2023",
+          "Tirado-Olivares2023",
+          "Martín-Alguacil2025",
+          "Gunawan2024",
+          "Hung2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "ChatGPT",
+          "AI chatbots",
+          "Image-GAI"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Pedagogical Strategies with AI Integration",
+        "definition": "Innovative teaching methods that incorporate AI, such as progressive prompts, teacher-led interventions, flipped classrooms, and structured frameworks, to enhance learning experiences.",
+        "evidence": [
+          "[Chen2024a] this study proposed a progressive prompts-based image-GAI (PP-iGAI) approach to support students' ancient Chinese poetry learning.",
+          "[Leahy2025] Each cohort received two 50 min teacher-led AI-focused interventions, including practical exercises relevant to the specific discipline.",
+          "[Elshall2025] To address these challenges, the Fundamental, Applied, Conceptual, critical Thinking (FACT) assessment was implemented in an Environmental Data Science course."
+        ],
+        "articles": [
+          "Chen2024a",
+          "Leahy2025",
+          "Littell2025",
+          "Gong2025b",
+          "Elshall2025",
+          "Hallal2026",
+          "Michalon2023",
+          "Nathaniel2025",
+          "Lei2025",
+          "Tang2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Progressive prompts",
+          "Teacher-led interventions",
+          "Flipped classroom"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Cognitive and Motivational Learning Outcomes",
+        "definition": "Improvements in students' cognitive engagement, motivation, self-efficacy, metacognition, and other psychological constructs resulting from AI integration in education.",
+        "evidence": [
+          "[Teng2026] GenAI playfulness and perceived learning value significantly enhance students' cognitive engagement, which then positively affects their critical thinking and self-efficacy.",
+          "[Zhai2025] AI applications facilitate independent academic exploration and enhance learners’ motivation by providing immediate support and personalized learning experiences.",
+          "[Lei2025] the experimental group demonstrated significant improvements in intrinsic motivation, behavioral and emotional engagement, and computational thinking abilities."
+        ],
+        "articles": [
+          "Chen2024a",
+          "Teng2026",
+          "Zhai2025",
+          "Gong2025b",
+          "Chen2024b",
+          "Hallal2026",
+          "Essel2024",
+          "Jin2025",
+          "Lei2025",
+          "Liu2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-efficacy",
+          "Metacognition",
+          "Learning engagement"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and Practical Challenges of AI Use",
+        "definition": "Concerns and limitations associated with AI in education, including overreliance, accuracy issues, plagiarism, ethical dilemmas, and risks to cognitive development.",
+        "evidence": [
+          "[Leahy2025] Students noted plagiarism as a significant ethical concern.",
+          "[Bora2025] However, some students expressed concerns about potential risks associated with AI, including decreased engagement, learner passivity, and exposure to misinformation or contradictory content.",
+          "[Elshall2025] however, they also risk overreliance, which can diminish cognitive and skill development, and complicate assessment design."
+        ],
+        "articles": [
+          "Leahy2025",
+          "Bora2025",
+          "Elshall2025",
+          "Yuriev2025",
+          "Jin2025",
+          "Tang2026",
+          "Perdana2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Overreliance",
+          "Plagiarism",
+          "Algorithm aversion"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Domain-Specific AI Applications",
+        "definition": "The application of AI tools in specific academic disciplines or subjects, such as poetry, chemistry, history, programming, and language education, to address domain-specific learning challenges.",
+        "evidence": [
+          "[Chen2024a] A progressive prompt-based image-generative AI approach to promoting students' achievement and perceptions in learning ancient Chinese poetry.",
+          "[Hallal2026] This explanatory study investigates the integration of artificial intelligence (AI)-generated stories and analogies-developed by the course instructor-as pedagogical tools to improve student motivation and engagement in organic chemistry.",
+          "[Tirado-Olivares2023] This mixed study explores the potential of AI in developing an argumentative historical text compared to future teachers."
+        ],
+        "articles": [
+          "Chen2024a",
+          "Leahy2025",
+          "Littell2025",
+          "PelaezAyala2026",
+          "Bayly-Castaneda2025",
+          "Weigelt2026",
+          "Zhai2025",
+          "Gong2025b",
+          "Bora2025",
+          "Chen2024b",
+          "Elshall2025",
+          "Hallal2026",
+          "Essel2024",
+          "Michalon2023",
+          "Tirado-Olivares2023",
+          "Namboothiri2025",
+          "Yuriev2025",
+          "Nathaniel2025",
+          "Jin2025",
+          "Muthmainnah2026",
+          "Lei2025",
+          "Katsenou2025",
+          "Martín-Alguacil2025",
+          "Tang2026",
+          "Gunawan2024",
+          "Hung2025",
+          "Liu2026",
+          "Sudo2025",
+          "Perdana2026"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Subject-specific learning",
+          "Interdisciplinary applications",
+          "Technical skills development"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI in Assessment and Feedback",
+        "definition": "The use of AI for generating formative feedback, designing assessments, or evaluating student performance, often to balance traditional methods and enhance learning outcomes.",
+        "evidence": [
+          "[Elshall2025] To address these challenges, the Fundamental, Applied, Conceptual, critical Thinking (FACT) assessment was implemented in an Environmental Data Science course.",
+          "[Sudo2025] This study aimed to compare the quality of AI-generated formative feedback from 2 settings, feedback generated in a zero-shot setting and feedback generated in a few-shot setting."
+        ],
+        "articles": [
+          "Elshall2025",
+          "Sudo2025"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Formative feedback",
+          "Performance evaluation",
+          "Assessment design"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Critical thinking is the most frequently cited outcome across studies, with generative AI tools like ChatGPT being central. Research spans diverse disciplines, indicating broad applicability. Pedagogical strategies vary, but often involve structured interventions. Ethical concerns are consistently noted, though less emphasized than positive outcomes.",
+    "grounding_notes": "Themes are derived solely from explicit text in abstracts; quality notes indicate some missing elements, but no inferences were made. Quotes are verbatim; some abstracts lacked direct evidence for certain themes, so themes were included only when supported by multiple sources. All article keys are from the provided closed set.",
+    "_hallucination_control": {
+      "total_themes": 7,
+      "avg_grounding_score": 0.95,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Enhancement",
+          "evidence_verified": [
+            {
+              "quote": "[Chen2024a] the PP-iGAI approach could better promote students' learning achievement, extrinsic motivation, problem-solving awareness, critical thinking, and learning performance.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Leahy2025] Students also reported very positive supportive effects with respect to learning engagement, learning efficiency, and critical thinking skills.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PelaezAyala2026] This study explores the role of GenAI assistants in fostering critical thinking, a core competency for navigating an era of rapid technological change.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Chen2024a",
+            "Leahy2025",
+            "Littell2025",
+            "PelaezAyala2026",
+            "Bayly-Castaneda2025",
+            "Teng2026",
+            "Bora2025",
+            "Elshall2025",
+            "Hallal2026",
+            "Essel2024",
+            "Michalon2023",
+            "Namboothiri2025",
+            "Yuriev2025",
+            "Nathaniel2025",
+            "Jin2025",
+            "Muthmainnah2026",
+            "Lei2025",
+            "Katsenou2025",
+            "Martín-Alguacil2025",
+            "Tang2026",
+            "Gunawan2024",
+            "Hung2025",
+            "Liu2026",
+            "Sudo2025",
+            "Perdana2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Generative AI Tools in Education",
+          "evidence_verified": [
+            {
+              "quote": "[Leahy2025] The emergence of generative artificial intelligence (GenAI) chatbots, such as ChatGPT, presents unique challenges and opportunities in an educational setting.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Teng2026] This study investigates how GenAI features influence students' critical thinking and self-efficacy, with a specific focus on the mediating role of cognitive engagement.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Zhai2025] Artificial Intelligence (AI) technologies are transforming educational settings by offering tools that enhance learning experiences.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Leahy2025",
+            "PelaezAyala2026",
+            "Bayly-Castaneda2025",
+            "Teng2026",
+            "Weigelt2026",
+            "Gong2025b",
+            "Zhai2025",
+            "Yuriev2025",
+            "Nathaniel2025",
+            "Jin2025",
+            "Muthmainnah2026",
+            "Lei2025",
+            "Tang2026",
+            "Liu2026",
+            "Sudo2025",
+            "Perdana2026",
+            "Essel2024",
+            "Michalon2023",
+            "Tirado-Olivares2023",
+            "Martín-Alguacil2025",
+            "Gunawan2024",
+            "Hung2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Strategies with AI Integration",
+          "evidence_verified": [
+            {
+              "quote": "[Chen2024a] this study proposed a progressive prompts-based image-GAI (PP-iGAI) approach to support students' ancient Chinese poetry learning.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Leahy2025] Each cohort received two 50 min teacher-led AI-focused interventions, including practical exercises relevant to the specific discipline.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Elshall2025] To address these challenges, the Fundamental, Applied, Conceptual, critical Thinking (FACT) assessment was implemented in an Environmental Data Science course.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Chen2024a",
+            "Leahy2025",
+            "Littell2025",
+            "Gong2025b",
+            "Elshall2025",
+            "Hallal2026",
+            "Michalon2023",
+            "Nathaniel2025",
+            "Lei2025",
+            "Tang2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Cognitive and Motivational Learning Outcomes",
+          "evidence_verified": [
+            {
+              "quote": "[Teng2026] GenAI playfulness and perceived learning value significantly enhance students' cognitive engagement, which then positively affects their critical thinking and self-efficacy.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Zhai2025] AI applications facilitate independent academic exploration and enhance learners’ motivation by providing immediate support and personalized learning experiences.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Lei2025] the experimental group demonstrated significant improvements in intrinsic motivation, behavioral and emotional engagement, and computational thinking abilities.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Chen2024a",
+            "Teng2026",
+            "Zhai2025",
+            "Gong2025b",
+            "Chen2024b",
+            "Hallal2026",
+            "Essel2024",
+            "Jin2025",
+            "Lei2025",
+            "Liu2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Practical Challenges of AI Use",
+          "evidence_verified": [
+            {
+              "quote": "[Leahy2025] Students noted plagiarism as a significant ethical concern.",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Bora2025] However, some students expressed concerns about potential risks associated with AI, including decreased engagement, learner passivity, and exposure to misinformation or contradictory content.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Elshall2025] however, they also risk overreliance, which can diminish cognitive and skill development, and complicate assessment design.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Leahy2025",
+            "Bora2025",
+            "Elshall2025",
+            "Yuriev2025",
+            "Jin2025",
+            "Tang2026",
+            "Perdana2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Domain-Specific AI Applications",
+          "evidence_verified": [
+            {
+              "quote": "[Chen2024a] A progressive prompt-based image-generative AI approach to promoting students' achievement and perceptions in learning ancient Chinese poetry.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Hallal2026] This explanatory study investigates the integration of artificial intelligence (AI)-generated stories and analogies-developed by the course instructor-as pedagogical tools to improve student motivation and engagement in organic chemistry.",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Tirado-Olivares2023] This mixed study explores the potential of AI in developing an argumentative historical text compared to future teachers.",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Chen2024a",
+            "Leahy2025",
+            "Littell2025",
+            "PelaezAyala2026",
+            "Bayly-Castaneda2025",
+            "Weigelt2026",
+            "Zhai2025",
+            "Gong2025b",
+            "Bora2025",
+            "Chen2024b",
+            "Elshall2025",
+            "Hallal2026",
+            "Essel2024",
+            "Michalon2023",
+            "Tirado-Olivares2023",
+            "Namboothiri2025",
+            "Yuriev2025",
+            "Nathaniel2025",
+            "Jin2025",
+            "Muthmainnah2026",
+            "Lei2025",
+            "Katsenou2025",
+            "Martín-Alguacil2025",
+            "Tang2026",
+            "Gunawan2024",
+            "Hung2025",
+            "Liu2026",
+            "Sudo2025",
+            "Perdana2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI in Assessment and Feedback",
+          "evidence_verified": [
+            {
+              "quote": "[Elshall2025] To address these challenges, the Fundamental, Applied, Conceptual, critical Thinking (FACT) assessment was implemented in an Environmental Data Science course.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Sudo2025] This study aimed to compare the quality of AI-generated formative feedback from 2 settings, feedback generated in a zero-shot setting and feedback generated in a few-shot setting.",
+              "score": 0.71,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Elshall2025",
+            "Sudo2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.71), not verbatim: '[Sudo2025] This study aimed to compare the quality...'"
+          ],
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 2,
+  "timestamp": "2026-02-19T06:00:19.812110",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking and Analytical Skill Development through Generative AI",
+        "definition": "The enhancement of students' critical thinking, problem-solving, and analytical reasoning skills through the integration of generative artificial intelligence (GenAI) tools in educational practices, as indicated by multiple studies measuring these outcomes.",
+        "evidence": [
+          "[Cheng2025a] career competency skills including communication, problem-solving, critical thinking, knowledge construction with AI assistance, teamwork, leadership, and self-management.",
+          "[Zhang2025a] critical evaluation of GenAI outputs and autonomy and reflection in GenAI application.",
+          "[Huang2025a] Enhancements were also observed in higher-order thinking skills domains, particularly in critical thinking, problem-solving, and creativity."
+        ],
+        "articles": [
+          "Cheng2025a",
+          "Zhang2025a",
+          "Huang2025a",
+          "Liu2024a",
+          "Gholiagha2025",
+          "MagdielOliva-Córdova2025",
+          "Hwang2025",
+          "Wan2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Higher-order thinking",
+          "Analytical reasoning",
+          "Problem-solving",
+          "Metacognitive skills"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of Generative AI Literacy",
+        "definition": "Structured frameworks and assessments aimed at building students' competencies in using generative AI tools, encompassing operational skills, ethical understanding, critical evaluation, and reflective application.",
+        "evidence": [
+          "[Zhang2025a] developed a GenAI literacy framework that includes four dimensions: (a) Operational Competence in GenAI Tools, (b) Ethics and Security in GenAI Usage, (c) Critical Evaluation of GenAI Outputs and Autonomy, and (d) Reflection in GenAI Application.",
+          "[Tseng2025] AI literacy was measured using the Meta AI Literacy Scale (MAILS).",
+          "[MagdielOliva-Córdova2025] participants highlighted the usefulness of GenAI for generating ideas... promoting deeper reflections."
+        ],
+        "articles": [
+          "Zhang2025a",
+          "Tseng2025",
+          "MagdielOliva-Córdova2025",
+          "Dai2023"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "AI competence",
+          "Ethical evaluation",
+          "Reflective use of AI"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and Reflective AI Engagement in Education",
+        "definition": "Pedagogical approaches that emphasize responsible use of AI tools, encouraging critical reflection on AI-generated content and awareness of ethical implications in AI applications.",
+        "evidence": [
+          "[Gholiagha2025] students engaged with the underlying assumptions, ambiguities, and value judgments... developed the capacity to ask how it works, what it assumes, and what it leaves out.",
+          "[Holzmann2025] reinforcing student learning around responsible AI use for exploration while maintaining evidence-based skepticism.",
+          "[Wan2025] qualitative thematic analysis... highlighted... ethical awareness."
+        ],
+        "articles": [
+          "Gholiagha2025",
+          "Holzmann2025",
+          "Wan2025",
+          "Dai2023"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Responsible AI use",
+          "Critical evaluation",
+          "Ethical awareness"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Active and Experiential AI-Enhanced Learning Approaches",
+        "definition": "Educational methods combining AI tools with active learning techniques such as project-based work, community outreach, and immersive simulations to deepen conceptual understanding and practical application.",
+        "evidence": [
+          "[Cheng2025a] AI-assisted experiential learning (EL) through community outreach projects.",
+          "[Wan2025] students used GenAI to design educational games for elderly participants... enhanced knowledge transfer.",
+          "[Yao2025] immersive interactive learning model... effectively increases classroom engagement, teamwork skills, and problem-solving abilities."
+        ],
+        "articles": [
+          "Cheng2025a",
+          "Wan2025",
+          "Yao2025",
+          "Park2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Project-based learning",
+          "Community engagement",
+          "Immersive learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Metacognitive and Self-regulated Learning Development",
+        "definition": "Enhancement of learners' awareness and management of their cognitive processes through AI tools, including strategic planning, reflection, and assessment of learning progress.",
+        "evidence": [
+          "[MacNeil2025] scaffold metacognitive skills like planning and reflection.",
+          "[Hwang2025] GenAI-guided prompt-based learning approach... significantly enhanced... metacognition.",
+          "[Zhang2025b] metacognitive thinking amplifies the impact of creative thinking on critical thinking."
+        ],
+        "articles": [
+          "MacNeil2025",
+          "Hwang2025",
+          "Zhang2025b",
+          "Asher2026"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-assessment",
+          "Strategic learning",
+          "Reflection"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Themes consistently emerge around critical thinking enhancement due to the explicit focus in many studies. Generative AI literacy and ethical engagement are recurring subthemes, indicating a growing emphasis on responsible AI integration. Active learning and metacognitive development are frequently associated with experiential methods, suggesting pedagogical alignment. Notable variability in terminology (e.g., 'critical thinking' vs. 'higher-order thinking') complicates direct comparison.",
+    "grounding_notes": "All evidence strictly derived from verbatim abstract content. Some themes (e.g., gamification) emerged but were underrepresented. No quotes fabricated; citations adhere to the closed key set. Frequency assessments consider 8-11 articles for 'High', 4-7 for 'Medium', and 1-3 for 'Low'.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.72,
+      "total_hallucination_flags": 6,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking and Analytical Skill Development through Generative AI",
+          "evidence_verified": [
+            {
+              "quote": "[Cheng2025a] career competency skills including communication, problem-solving, critical thinking, knowledge construction with AI assistance, teamwork, leadership, and self-management.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Huang2025a] Enhancements were also observed in higher-order thinking skills domains, particularly in critical thinking, problem-solving, and creativity.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Zhang2025a] critical evaluation of GenAI outputs and autonomy and reflection in GenAI application.",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Cheng2025a",
+            "Zhang2025a",
+            "Huang2025a",
+            "Liu2024a",
+            "Gholiagha2025",
+            "MagdielOliva-Córdova2025",
+            "Hwang2025",
+            "Wan2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.62), not verbatim: '[Zhang2025a] critical evaluation of GenAI outputs ...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Development of Generative AI Literacy",
+          "evidence_verified": [
+            {
+              "quote": "[Zhang2025a] developed a GenAI literacy framework that includes four dimensions: (a) Operational Competence in GenAI Tools, (b) Ethics and Security in GenAI Usage, (c) Critical Evaluation of GenAI Outputs and Autonomy, and (d) Reflection in GenAI Application.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Tseng2025] AI literacy was measured using the Meta AI Literacy Scale (MAILS).",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[MagdielOliva-Córdova2025] participants highlighted the usefulness of GenAI for generating ideas... promoting deeper reflections.",
+              "score": 0.64,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Zhang2025a",
+            "Tseng2025",
+            "MagdielOliva-Córdova2025",
+            "Dai2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.64), not verbatim: '[MagdielOliva-Córdova2025] participants highlighte...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Reflective AI Engagement in Education",
+          "evidence_verified": [
+            {
+              "quote": "[Holzmann2025] reinforcing student learning around responsible AI use for exploration while maintaining evidence-based skepticism.",
+              "score": 0.87,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Gholiagha2025] students engaged with the underlying assumptions, ambiguities, and value judgments... developed the capacity to ask how it works, what it assumes, and what it leaves out.",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Wan2025] qualitative thematic analysis... highlighted... ethical awareness.",
+              "score": 0.43,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Gholiagha2025",
+            "Holzmann2025",
+            "Wan2025",
+            "Dai2023"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.59): '[Gholiagha2025] students engaged with the underlyi...'",
+            "Quote not found in source texts (score=0.43): '[Wan2025] qualitative thematic analysis... highlig...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Active and Experiential AI-Enhanced Learning Approaches",
+          "evidence_verified": [
+            {
+              "quote": "[Yao2025] immersive interactive learning model... effectively increases classroom engagement, teamwork skills, and problem-solving abilities.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Cheng2025a] AI-assisted experiential learning (EL) through community outreach projects.",
+              "score": 0.4,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Wan2025] students used GenAI to design educational games for elderly participants... enhanced knowledge transfer.",
+              "score": 0.36,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Cheng2025a",
+            "Wan2025",
+            "Yao2025",
+            "Park2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.40): '[Cheng2025a] AI-assisted experiential learning (EL...'",
+            "Quote not found in source texts (score=0.36): '[Wan2025] students used GenAI to design educationa...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Metacognitive and Self-regulated Learning Development",
+          "evidence_verified": [
+            {
+              "quote": "[MacNeil2025] scaffold metacognitive skills like planning and reflection.",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Hwang2025] GenAI-guided prompt-based learning approach... significantly enhanced... metacognition.",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Zhang2025b] metacognitive thinking amplifies the impact of creative thinking on critical thinking.",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "MacNeil2025",
+            "Hwang2025",
+            "Zhang2025b",
+            "Asher2026"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

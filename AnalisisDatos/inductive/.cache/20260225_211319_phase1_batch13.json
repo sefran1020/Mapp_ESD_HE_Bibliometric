@@ -1,0 +1,527 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "1",
+  "batch": 13,
+  "timestamp": "2026-02-25T21:40:31.059981",
+  "data": {
+    "themes": [
+      {
+        "name": "Whole Institution Approach to ESD",
+        "definition": "Universities adopting comprehensive strategies to embed sustainability across all institutional areas, often aligned with frameworks like the UN Global Action Programme, involving policies, practices, and campus-wide integration.",
+        "evidence": [
+          "[ZinMun_2017] the UN Global Action Program calls â€œwhole institution approachâ€",
+          "[OsmThe_2017] a whole-institution (GAP Priority 2) commitment",
+          "[LonTow_2018] embedding sustainable development into the whole institution mission"
+        ],
+        "articles": [
+          "ZinMun_2017",
+          "OsmThe_2017",
+          "LonTow_2018",
+          "VarSca_2016"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Strategic planning",
+          "institutional commitment",
+          "campus sustainability"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Pedagogical Innovations in Education for Sustainable Development",
+        "definition": "Implementation of novel teaching methods and learning strategies to foster sustainability, including action-oriented, transformative, experiential, and inclusive pedagogies designed to enhance student engagement and real-world impact.",
+        "evidence": [
+          "[LeiLea_2022] action-oriented pedagogy",
+          "[HayPre_2025] systems thinking in practice (STiP)",
+          "[CraLea_2021] learning by making games"
+        ],
+        "articles": [
+          "LeiLea_2022",
+          "HayPre_2025",
+          "CraLea_2021",
+          "JimEnq_2022",
+          "EspMak_2024",
+          "BorStu_2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Transformative learning",
+          "experiential learning",
+          "participatory action learning",
+          "inclusive education"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Curriculum Integration of Sustainability",
+        "definition": "Efforts to incorporate sustainability themes, competencies, and goals into academic curricula across disciplines, involving course design, syllabus reform, and interdisciplinary content to address sustainable development.",
+        "evidence": [
+          "[KhaPre_2023] reorienting HEIs curricula to incorporate future-focused leadership capabilities",
+          "[MesBet_2025] integration of sustainability education in Portuguese tourism higher education",
+          "[KioCur_2025] curriculum design to foster sustainability competence development"
+        ],
+        "articles": [
+          "KhaPre_2023",
+          "MesBet_2025",
+          "KioCur_2025",
+          "HahInt_2025",
+          "CebEdu_2020",
+          "FerEdu_2022",
+          "ShcFor_2020",
+          "ChaEnh_2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Course development",
+          "syllabus analysis",
+          "curriculum reform",
+          "disciplinary integration"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of Sustainability Competences",
+        "definition": "Building knowledge, skills, and attributes necessary for promoting sustainable development, such as literacy, critical thinking, systems thinking, and leadership, often assessed through frameworks and training programs.",
+        "evidence": [
+          "[HayPre_2025] sustainability competencies",
+          "[CorStu_2020] sustainability literacy",
+          "[SchDev_2022] development and assessment of ESD competences"
+        ],
+        "articles": [
+          "HayPre_2025",
+          "CorStu_2020",
+          "SchDev_2022",
+          "BorStu_2025",
+          "KioCur_2025",
+          "DraEDU_2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Skills development",
+          "literacy assessment",
+          "competence frameworks",
+          "green skills"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment Approaches in Education for Sustainable Development",
+        "definition": "Designing and implementing assessment strategies that evaluate and promote sustainability-oriented learning outcomes, including holistic, authentic, and collaborative methods to enhance student engagement and knowledge.",
+        "evidence": [
+          "[NavUsi_2024] holistic assessment approach for promoting graduatesâ€™ sustainability-oriented knowledge and skills",
+          "[BevA B_2025] changes to assessment",
+          "[KioCur_2025] authentic assessment"
+        ],
+        "articles": [
+          "NavUsi_2024",
+          "BevA B_2025",
+          "KioCur_2025"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Holistic assessment",
+          "authentic assessment",
+          "student feedback",
+          "collaborative learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Interdisciplinary and Multidisciplinary Approaches in ESD",
+        "definition": "Utilizing cross-disciplinary perspectives and methods to address sustainability issues in education, involving monodisciplinary, multidisciplinary, interdisciplinary, and transdisciplinary frameworks for integrated learning.",
+        "evidence": [
+          "[VivInc_2022] multidisciplinary and holistic approach to SD education",
+          "[ZinMun_2017] four different approaches of x-disciplinarity",
+          "[FerEdu_2022] interdisciplinary nature of ESD"
+        ],
+        "articles": [
+          "VivInc_2022",
+          "ZinMun_2017",
+          "FerEdu_2022",
+          "ShcFor_2020",
+          "ChaEnh_2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Holistic education",
+          "transdisciplinarity",
+          "integrated learning",
+          "cross-disciplinary collaboration"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Student Engagement and Empowerment in ESD",
+        "definition": "Involving students actively in the learning process, empowering them through leadership, participation, real-world applications, and student-centered pedagogies to foster agency and citizenship.",
+        "evidence": [
+          "[LeiLea_2022] student leadership, active citizenship, and professional agency",
+          "[CraLea_2021] students were involved in the design and development of SSGs",
+          "[BorStu_2025] student-centered pedagogies"
+        ],
+        "articles": [
+          "LeiLea_2022",
+          "CraLea_2021",
+          "BorStu_2025",
+          "EspMak_2024",
+          "NavUsi_2024",
+          "JimEnq_2022"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Active citizenship",
+          "professional agency",
+          "participatory learning",
+          "student voice"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Professional Development for Educators in ESD",
+        "definition": "Training and support programs for teachers and academic staff to enhance their capacity to implement education for sustainable development, including workshops, action research, and competence frameworks.",
+        "evidence": [
+          "[CebEdu_2020] cooperative action research with teachers",
+          "[SchDev_2022] staff training programme",
+          "[DraEDU_2024] training program"
+        ],
+        "articles": [
+          "CebEdu_2020",
+          "SchDev_2022",
+          "DraEDU_2024"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Staff training",
+          "capacity-building",
+          "teacher education",
+          "facilitator role"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts consistently focus on Education for Sustainable Development (ESD) as a core concept, with frequent mentions of the UN Sustainable Development Goals (SDGs) and Agenda 2030. Many studies are case-specific, reporting on institutional experiences, pedagogical experiments, or curriculum reforms without quantitative data. Themes emerge around institutional strategies, teaching methods, competence development, and interdisciplinary approaches, reflecting a holistic view of sustainability in higher education.",
+    "grounding_notes": "Evidence is limited to explicit statements from abstracts; quality notes indicate missing elements like objectives, methods, results, or conclusions in some abstracts, but this does not affect theme extraction. Some quotes contain encoding errors (e.g., â€œ) as per the provided text. Frequency judgments are based on the number of articles in this batch that explicitly mention the theme, with 'High' for >6 articles, 'Medium' for 3-6, and 'Low' for <3, though this is approximate. Confidence is high for well-supported themes, but lower for those with fewer references.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.85,
+      "total_hallucination_flags": 5,
+      "verification_details": [
+        {
+          "theme_name": "Whole Institution Approach to ESD",
+          "evidence_verified": [
+            {
+              "quote": "[ZinMun_2017] the UN Global Action Program calls â€œwhole institution approachâ€",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[OsmThe_2017] a whole-institution (GAP Priority 2) commitment",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[LonTow_2018] embedding sustainable development into the whole institution mission",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "ZinMun_2017",
+            "OsmThe_2017",
+            "LonTow_2018",
+            "VarSca_2016"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Innovations in Education for Sustainable Development",
+          "evidence_verified": [
+            {
+              "quote": "[LeiLea_2022] action-oriented pedagogy",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[HayPre_2025] systems thinking in practice (STiP)",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[CraLea_2021] learning by making games",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LeiLea_2022",
+            "HayPre_2025",
+            "CraLea_2021",
+            "JimEnq_2022",
+            "EspMak_2024",
+            "BorStu_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Curriculum Integration of Sustainability",
+          "evidence_verified": [
+            {
+              "quote": "[KhaPre_2023] reorienting HEIs curricula to incorporate future-focused leadership capabilities",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[MesBet_2025] integration of sustainability education in Portuguese tourism higher education",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[KioCur_2025] curriculum design to foster sustainability competence development",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "KhaPre_2023",
+            "MesBet_2025",
+            "KioCur_2025",
+            "HahInt_2025",
+            "CebEdu_2020",
+            "FerEdu_2022",
+            "ShcFor_2020",
+            "ChaEnh_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Development of Sustainability Competences",
+          "evidence_verified": [
+            {
+              "quote": "[SchDev_2022] development and assessment of ESD competences",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[HayPre_2025] sustainability competencies",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[CorStu_2020] sustainability literacy",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "HayPre_2025",
+            "CorStu_2020",
+            "SchDev_2022",
+            "BorStu_2025",
+            "KioCur_2025",
+            "DraEDU_2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[HayPre_2025] sustainability competencies...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[CorStu_2020] sustainability literacy...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment Approaches in Education for Sustainable Development",
+          "evidence_verified": [
+            {
+              "quote": "[NavUsi_2024] holistic assessment approach for promoting graduatesâ€™ sustainability-oriented knowledge and skills",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[BevA B_2025] changes to assessment",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[KioCur_2025] authentic assessment",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "NavUsi_2024",
+            "BevA B_2025",
+            "KioCur_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.60), not verbatim: '[BevA B_2025] changes to assessment...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[KioCur_2025] authentic assessment...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Interdisciplinary and Multidisciplinary Approaches in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[VivInc_2022] multidisciplinary and holistic approach to SD education",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[ZinMun_2017] four different approaches of x-disciplinarity",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[FerEdu_2022] interdisciplinary nature of ESD",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "VivInc_2022",
+            "ZinMun_2017",
+            "FerEdu_2022",
+            "ShcFor_2020",
+            "ChaEnh_2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Student Engagement and Empowerment in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[LeiLea_2022] student leadership, active citizenship, and professional agency",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[CraLea_2021] students were involved in the design and development of SSGs",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[BorStu_2025] student-centered pedagogies",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LeiLea_2022",
+            "CraLea_2021",
+            "BorStu_2025",
+            "EspMak_2024",
+            "NavUsi_2024",
+            "JimEnq_2022"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Professional Development for Educators in ESD",
+          "evidence_verified": [
+            {
+              "quote": "[CebEdu_2020] cooperative action research with teachers",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[SchDev_2022] staff training programme",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[DraEDU_2024] training program",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "CebEdu_2020",
+            "SchDev_2022",
+            "DraEDU_2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[DraEDU_2024] training program...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

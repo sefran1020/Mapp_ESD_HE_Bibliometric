@@ -1,0 +1,340 @@
+{
+  "session_id": "20260219_051153",
+  "phase": "1",
+  "batch": 4,
+  "timestamp": "2026-02-19T05:16:21.902584",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking and Metacognitive Development",
+        "definition": "Themes related to AI's impact on critical thinking skills and metacognitive processes, including self-monitoring and evaluation of learning strategies.",
+        "evidence": [
+          "[Huda2025] 'significant improvements in metacognitive skills, particularly in monitoring and evaluation strategies'",
+          "[Zhang2025c] 'using it for reflective thinking helps to develop critical thinking skills'",
+          "[Lai2025a] 'students’ average inquiry level improved from 3.3 to 4.1'"
+        ],
+        "articles": [
+          "Huda2025",
+          "Zhang2025c",
+          "Lai2025a",
+          "Nursaid2025",
+          "Mahmoudi-Dehaki2025",
+          "Brazão2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Higher-order thinking",
+          "Epistemic vigilance",
+          "Bloom's Taxonomy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Enhanced Pedagogical Approaches",
+        "definition": "Innovative teaching methods integrating AI tools to reformulate educational delivery and student interaction.",
+        "evidence": [
+          "[Lin2025b] 'Generative AI-enhanced UX Storyboarding'",
+          "[Almelweth2022] 'quasi-experimental method' with AI applications in teaching geography",
+          "[Melnychuk2025] 'AI adaptive tools including Google Scholar, Padlet, Grammarly'"
+        ],
+        "articles": [
+          "Lin2025b",
+          "Almelweth2022",
+          "Melnychuk2025",
+          "He2023",
+          "Kartal2024"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Blended learning",
+          "Design thinking",
+          "Guided inquiry"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Autonomy and Self-Regulated Learning",
+        "definition": "Themes centered on AI's role in fostering independent learning behaviors and personalized skill development.",
+        "evidence": [
+          "[Xu2025] 'both platforms are equally effective in... autonomy'",
+          "[Wang2025c] 'GAI tools could facilitate task planning and promote adaptive strategy use'",
+          "[Rangponsumrit2025] 'metacognitive awareness and... personalized study plans'"
+        ],
+        "articles": [
+          "Xu2025",
+          "Wang2025c",
+          "Rangponsumrit2025",
+          "Zhang2025c",
+          "Nursaid2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Adaptive learning",
+          "Self-regulation",
+          "Digital self-authenticity"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Creative Expression and Design Innovation",
+        "definition": "Exploration of AI tools for creative skill enhancement and design process optimization.",
+        "evidence": [
+          "[Abdulmajid2025] 'students enhanced stylistic fidelity, developed critical thinking, and deepened engagement with traditional art practices'",
+          "[Rana2025] 'design thinking pedagogy transforms... creativity'",
+          "[Lin2025b] 'GAIUXS promoted active experimentation and critical evaluation'"
+        ],
+        "articles": [
+          "Abdulmajid2025",
+          "Rana2025",
+          "Lin2025b",
+          "Kumaresan2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Aesthetic synthesis",
+          "Human-computer co-creation",
+          "Iterative design"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical, Validity and Reliability Concerns",
+        "definition": "Emergent dilemmas regarding academic integrity, AI output accuracy, and critical dependence on technology.",
+        "evidence": [
+          "[Hyde-Vaamonde2025] 'students identified significant limitations including superficial analysis... citation inadequacies'",
+          "[VereauAmaya2025] 'AI dependence is negatively associated with inference and evaluation'",
+          "[Alghusin2025] 'challenges regarding algorithmic bias and ethical use of AI-generated content'"
+        ],
+        "articles": [
+          "Hyde-Vaamonde2025",
+          "VereauAmaya2025",
+          "Abdulmajid2025",
+          "Mahmoudi-Dehaki2025",
+          "Rahman2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Academic integrity",
+          "Algorithmic bias",
+          "Epistemological trust"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Recurrent emphasis on critical thinking measurement across disciplines. Diverse AI integration models (e.g., adaptive learning, design scaffolding) show domain-specific applications. Emerging tension between technological enhancement and preservation of cognitive agency. Notable frequency of 'critical thinking' terminology compared to other cognitive outcomes.",
+    "grounding_notes": "Some abstract quality issues (e.g., missing data) constrained evidence scope. 'Ethical, Validity and Reliability' theme shows high conceptual dispersion. Limited mention of long-term impacts across studies.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.58,
+      "total_hallucination_flags": 9,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking and Metacognitive Development",
+          "evidence_verified": [
+            {
+              "quote": "[Huda2025] 'significant improvements in metacognitive skills, particularly in monitoring and evaluation strategies'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Zhang2025c] 'using it for reflective thinking helps to develop critical thinking skills'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Lai2025a] 'students’ average inquiry level improved from 3.3 to 4.1'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Huda2025",
+            "Zhang2025c",
+            "Lai2025a",
+            "Nursaid2025",
+            "Mahmoudi-Dehaki2025",
+            "Brazão2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Enhanced Pedagogical Approaches",
+          "evidence_verified": [
+            {
+              "quote": "[Lin2025b] 'Generative AI-enhanced UX Storyboarding'",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Almelweth2022] 'quasi-experimental method' with AI applications in teaching geography",
+              "score": 0.4,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Melnychuk2025] 'AI adaptive tools including Google Scholar, Padlet, Grammarly'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Lin2025b",
+            "Almelweth2022",
+            "Melnychuk2025",
+            "He2023",
+            "Kartal2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.40): '[Almelweth2022] 'quasi-experimental method' with A...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Melnychuk2025] 'AI adaptive tools including Googl...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Autonomy and Self-Regulated Learning",
+          "evidence_verified": [
+            {
+              "quote": "[Xu2025] 'both platforms are equally effective in... autonomy'",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Wang2025c] 'GAI tools could facilitate task planning and promote adaptive strategy use'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Rangponsumrit2025] 'metacognitive awareness and... personalized study plans'",
+              "score": 0.43,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Xu2025",
+            "Wang2025c",
+            "Rangponsumrit2025",
+            "Zhang2025c",
+            "Nursaid2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[Wang2025c] 'GAI tools could facilitate task plann...'",
+            "Quote not found in source texts (score=0.43): '[Rangponsumrit2025] 'metacognitive awareness and.....'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Creative Expression and Design Innovation",
+          "evidence_verified": [
+            {
+              "quote": "[Lin2025b] 'GAIUXS promoted active experimentation and critical evaluation'",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Abdulmajid2025] 'students enhanced stylistic fidelity, developed critical thinking, and deepened engagement with traditional art practices'",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Rana2025] 'design thinking pedagogy transforms... creativity'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Abdulmajid2025",
+            "Rana2025",
+            "Lin2025b",
+            "Kumaresan2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.60), not verbatim: '[Abdulmajid2025] 'students enhanced stylistic fide...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Rana2025] 'design thinking pedagogy transforms......'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical, Validity and Reliability Concerns",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Hyde-Vaamonde2025] 'students identified significant limitations including superficial analysis... citation inadequacies'",
+              "score": 0.45,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[VereauAmaya2025] 'AI dependence is negatively associated with inference and evaluation'",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Alghusin2025] 'challenges regarding algorithmic bias and ethical use of AI-generated content'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Hyde-Vaamonde2025",
+            "VereauAmaya2025",
+            "Abdulmajid2025",
+            "Mahmoudi-Dehaki2025",
+            "Rahman2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.45): '[Hyde-Vaamonde2025] 'students identified significa...'",
+            "Paraphrase detected (score=0.60), not verbatim: '[VereauAmaya2025] 'AI dependence is negatively ass...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Alghusin2025] 'challenges regarding algorithmic b...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

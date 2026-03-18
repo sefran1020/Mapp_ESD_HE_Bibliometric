@@ -1,0 +1,400 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 6,
+  "timestamp": "2026-02-19T06:02:55.295482",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical and Creative Thinking Facilitation",
+        "definition": "Integration of AI tools to enhance analytical reasoning, argumentation, and creative problem-solving among learners",
+        "evidence": [
+          "[Rattanakha2025a] 'enhance students’ analytical thinking and curiosity... systematic manner... create their own bodies of knowledge'",
+          "[Sánchez-Guerrero2024] 'preliminary results suggest... improvement of students’ capacity for active learning'",
+          "[Chiu2025] 'significantly outperformed... creative thinking tendencies, critical thinking awareness'"
+        ],
+        "articles": [
+          "Rattanakha2025a",
+          "Sánchez-Guerrero2024",
+          "Chiu2025",
+          "Cai2025",
+          "Bouamor2025",
+          "Dmitrenko2025",
+          "Butarbutar2025",
+          "Elmouhtadi2025",
+          "Bokan2025",
+          "Chiang2025",
+          "Gil-Ruíz2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Reflective Practice",
+          "Synthesis of Ideas",
+          "Problem-Solving Automation"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Collaborative and Problem-Based Learning Environments",
+        "definition": "Use of generative AI to structure cooperative learning experiences and adaptive problem-solving pedagogies",
+        "evidence": [
+          "[Rattanakha2025a] 'cooperative learning with an attempt to enhance analytical thinking'",
+          "[Rovira-Collado2025] 'collaborative learning... design a teaching proposal using an AI tool'",
+          "[Bouamor2025] 'leveling the playing field for Information Systems students with varying technical backgrounds'"
+        ],
+        "articles": [
+          "Rattanakha2025a",
+          "Rovira-Collado2025",
+          "Chiu2025",
+          "Bouamor2025",
+          "Bernetti2024",
+          "Zhan2025",
+          "Shi2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Group Dynamics",
+          "Role Distribution",
+          "Project-Based Learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and Reflective Practices in AI Education",
+        "definition": "Implementation of AI-mediated platforms for discussing moral implications and fostering metacognitive reflection",
+        "evidence": [
+          "[Zhang2025d] 'teach Deepfake-related ethics, fostering critical thinking and ethical awareness'",
+          "[Grande2024] 'ethical questions and concerns for computing educators and professionals'"
+        ],
+        "articles": [
+          "Zhang2025d",
+          "Chiang2025",
+          "Grande2024",
+          "Huang2026b",
+          "Zhan2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Digital Citizenship",
+          "Moral Reasoning",
+          "Technological Responsibility"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Curriculum Integration Strategies",
+        "definition": "Systematic approaches for embedding AI tools into existing educational frameworks across disciplines",
+        "evidence": [
+          "[Wei2025] 'industry-education practice has driven innovation in advertising design education'",
+          "[Zhan2025] 'integrating ChatGPT to facilitate interactive and adaptive learning in database management'"
+        ],
+        "articles": [
+          "Wei2025",
+          "Wei2024",
+          "Bokan2025",
+          "Dmitrenko2025",
+          "Bouamor2025",
+          "Zhan2025",
+          "Huang2025b"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Disciplinary Adaptation",
+          "Scaffolded Implementation",
+          "Cross-Domain Transfer"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 2,
+          "verified": false
+        }
+      },
+      {
+        "name": "Adaptive and Personalized Learning",
+        "definition": "AI-powered systems enabling individualized learning paths and tailored feedback mechanisms",
+        "evidence": [
+          "[Khotimah2024] 'meta-learning framework throughout the course... strategize, oversee, and control cognitive functions'",
+          "[Hasanudin2026] 'adaptive support made abstract concepts concrete and culturally meaningful'"
+        ],
+        "articles": [
+          "Khotimah2024",
+          "Hasanudin2026",
+          "Dmitrenko2025",
+          "Bouamor2025",
+          "Bernetti2024",
+          "Pdurean2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-Regulated Learning",
+          "Individualized Feedback",
+          "Skill Gap Targeting"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Technical Skills Enhancement in Domain-Specific Contexts",
+        "definition": "Application of AI tools to develop specialized competencies in technical and professional training",
+        "evidence": [
+          "[Zhan2025] 'mastery of database design to SQL programming... traditional methods emphasizing technical syntax'",
+          "[Bouamor2025] 'GenAI tools significantly helped complete programming tasks'"
+        ],
+        "articles": [
+          "Zhan2025",
+          "Bouamor2025",
+          "Bernetti2024",
+          "Arnecke2024",
+          "Bokan2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Programming Assistance",
+          "Domain Specialization",
+          "Task Automation"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 2,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Six major themes emerged consistently across multiple disciplines. High emphasis on AI as both pedagogical tool and subject of ethical instruction. Many studies mention methodological limitations while asserting positive outcomes. Strong focus on measurable skill improvements (critical thinking, problem-solving) but weak quantitative evidence in most reports. Cultural adaptation themes observed in design education (Chiang2025) and language learning (Elmouhtadi2025).",
+    "grounding_notes": "All evidence directly quoted from abstracts. Frequency calculations exclude marginal mentions. Some related_concepts inferred from article contexts when explicitly stated. Missing quantitative data in multiple studies limited precision in assessing effectiveness claims.",
+    "_hallucination_control": {
+      "total_themes": 6,
+      "avg_grounding_score": 0.51,
+      "total_hallucination_flags": 10,
+      "verification_details": [
+        {
+          "theme_name": "Critical and Creative Thinking Facilitation",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Rattanakha2025a] 'enhance students’ analytical thinking and curiosity... systematic manner... create their own bodies of knowledge'",
+              "score": 0.4,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Sánchez-Guerrero2024] 'preliminary results suggest... improvement of students’ capacity for active learning'",
+              "score": 0.58,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Chiu2025] 'significantly outperformed... creative thinking tendencies, critical thinking awareness'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Rattanakha2025a",
+            "Sánchez-Guerrero2024",
+            "Chiu2025",
+            "Cai2025",
+            "Bouamor2025",
+            "Dmitrenko2025",
+            "Butarbutar2025",
+            "Elmouhtadi2025",
+            "Bokan2025",
+            "Chiang2025",
+            "Gil-Ruíz2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.40): '[Rattanakha2025a] 'enhance students’ analytical th...'",
+            "Quote not found in source texts (score=0.58): '[Sánchez-Guerrero2024] 'preliminary results sugges...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Chiu2025] 'significantly outperformed... creative...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Collaborative and Problem-Based Learning Environments",
+          "evidence_verified": [
+            {
+              "quote": "[Bouamor2025] 'leveling the playing field for Information Systems students with varying technical backgrounds'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Rattanakha2025a] 'cooperative learning with an attempt to enhance analytical thinking'",
+              "score": 0.7,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Rovira-Collado2025] 'collaborative learning... design a teaching proposal using an AI tool'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Rattanakha2025a",
+            "Rovira-Collado2025",
+            "Chiu2025",
+            "Bouamor2025",
+            "Bernetti2024",
+            "Zhan2025",
+            "Shi2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.70), not verbatim: '[Rattanakha2025a] 'cooperative learning with an at...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Rovira-Collado2025] 'collaborative learning... de...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Reflective Practices in AI Education",
+          "evidence_verified": [
+            {
+              "quote": "[Zhang2025d] 'teach Deepfake-related ethics, fostering critical thinking and ethical awareness'",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Grande2024] 'ethical questions and concerns for computing educators and professionals'",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Zhang2025d",
+            "Chiang2025",
+            "Grande2024",
+            "Huang2026b",
+            "Zhan2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Curriculum Integration Strategies",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Wei2025] 'industry-education practice has driven innovation in advertising design education'",
+              "score": 0.73,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Zhan2025] 'integrating ChatGPT to facilitate interactive and adaptive learning in database management'",
+              "score": 0.58,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Wei2025",
+            "Wei2024",
+            "Bokan2025",
+            "Dmitrenko2025",
+            "Bouamor2025",
+            "Zhan2025",
+            "Huang2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.73), not verbatim: '[Wei2025] 'industry-education practice has driven ...'",
+            "Quote not found in source texts (score=0.58): '[Zhan2025] 'integrating ChatGPT to facilitate inte...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Adaptive and Personalized Learning",
+          "evidence_verified": [
+            {
+              "quote": "[Hasanudin2026] 'adaptive support made abstract concepts concrete and culturally meaningful'",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Khotimah2024] 'meta-learning framework throughout the course... strategize, oversee, and control cognitive functions'",
+              "score": 0.46,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Khotimah2024",
+            "Hasanudin2026",
+            "Dmitrenko2025",
+            "Bouamor2025",
+            "Bernetti2024",
+            "Pdurean2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.46): '[Khotimah2024] 'meta-learning framework throughout...'"
+          ],
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Technical Skills Enhancement in Domain-Specific Contexts",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Zhan2025] 'mastery of database design to SQL programming... traditional methods emphasizing technical syntax'",
+              "score": 0.31,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Bouamor2025] 'GenAI tools significantly helped complete programming tasks'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Zhan2025",
+            "Bouamor2025",
+            "Bernetti2024",
+            "Arnecke2024",
+            "Bokan2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.31): '[Zhan2025] 'mastery of database design to SQL prog...'",
+            "Quote not found in source texts (score=0.50): '[Bouamor2025] 'GenAI tools significantly helped co...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

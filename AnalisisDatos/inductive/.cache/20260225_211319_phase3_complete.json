@@ -1,0 +1,175 @@
+{
+  "session_id": "20260225_211319",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-02-25T21:49:23.120098",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Process-Outcome Analytical Framework",
+        "justification": "This organization reflects the data by separating themes into educational processes (curriculum and pedagogy) and outcomes (competencies and assessment), based on the identified axis of Process vs. Outcome, which is a clear empirical pattern in the studies.",
+        "general_objective": "To investigate the relationship between educational processes and outcomes in Education for Sustainable Development (ESD).",
+        "specific_objectives": [
+          {
+            "text": "To describe the integration of sustainability into curricula and the pedagogical approaches used in ESD.",
+            "key_themes": [
+              "Curriculum Design and Content Integration",
+              "Pedagogical Approaches and Learning Environments"
+            ],
+            "n_studies_support": "20-30",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To compare the effectiveness of different pedagogical approaches in developing sustainability competencies.",
+            "key_themes": [
+              "Pedagogical Approaches and Learning Environments",
+              "Sustainability Competencies and Educational Outcomes"
+            ],
+            "n_studies_support": "15-25",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To assess how assessment methods evaluate the outcomes of sustainability education.",
+            "key_themes": [
+              "Assessment of Education for Sustainable Development Effectiveness",
+              "Sustainability Competencies and Educational Outcomes"
+            ],
+            "n_studies_support": "10-20",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To examine the role of institutional strategies in enabling ESD processes and outcomes.",
+            "key_themes": [
+              "Institutional and Collaborative Strategies",
+              "Curriculum Design and Content Integration",
+              "Pedagogical Approaches and Learning Environments"
+            ],
+            "n_studies_support": "20-35",
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "50-60%",
+        "strengths": [
+          "Focuses on core educational elements",
+          "Allows for causal analysis between processes and outcomes",
+          "Covers major themes identified in the data"
+        ],
+        "limitations": [
+          "May underrepresent educator professional development and some assessment aspects in direct analysis"
+        ]
+      },
+      {
+        "approach": "Institutional-Educational Integration Framework",
+        "justification": "This organization reflects the data by distinguishing between educational delivery themes and institutional support themes, based on the identified axis of Educational Delivery vs. Institutional Support, highlighting how organizational factors influence teaching and learning.",
+        "general_objective": "To explore how institutional strategies and support mechanisms facilitate the delivery and effectiveness of ESD.",
+        "specific_objectives": [
+          {
+            "text": "To map university-level policies and partnerships for implementing ESD.",
+            "key_themes": [
+              "Institutional and Collaborative Strategies"
+            ],
+            "n_studies_support": "5-10",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To investigate the association between institutional strategies and the integration of sustainability into curricula.",
+            "key_themes": [
+              "Institutional and Collaborative Strategies",
+              "Curriculum Design and Content Integration"
+            ],
+            "n_studies_support": "10-20",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To analyze the causal impact of educator training programs on curriculum design and pedagogical approaches.",
+            "key_themes": [
+              "Educator Professional Development",
+              "Curriculum Design and Content Integration",
+              "Pedagogical Approaches and Learning Environments"
+            ],
+            "n_studies_support": "20-35",
+            "analysis_type": "causal"
+          },
+          {
+            "text": "To evaluate the use of technology and learning environments in the context of institutional ESD efforts.",
+            "key_themes": [
+              "Pedagogical Approaches and Learning Environments",
+              "Institutional and Collaborative Strategies"
+            ],
+            "n_studies_support": "15-25",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "60-70%",
+        "strengths": [
+          "Comprehensive view of systemic factors",
+          "Highlights the role of institutional support",
+          "Integrates all major themes through specific objectives"
+        ],
+        "limitations": [
+          "May not deeply focus on direct educational outcomes and assessment in isolation"
+        ]
+      },
+      {
+        "approach": "Human-Structural Synergy Framework",
+        "justification": "This framework is grounded in the Human Capital Development vs. Structural Integration axis, emphasizing the synergy between educator development and institutional integration in ESD, based on empirical patterns in the data.",
+        "general_objective": "To analyze how professional development and institutional integration synergize to enhance ESD implementation and outcomes.",
+        "specific_objectives": [
+          {
+            "text": "To describe training programs and initiatives for enhancing educator competence in sustainability.",
+            "key_themes": [
+              "Educator Professional Development"
+            ],
+            "n_studies_support": "5-10",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To examine the causal relationship between educator professional development and curriculum design in ESD.",
+            "key_themes": [
+              "Educator Professional Development",
+              "Curriculum Design and Content Integration"
+            ],
+            "n_studies_support": "10-20",
+            "analysis_type": "causal"
+          },
+          {
+            "text": "To assess the effectiveness of whole-institution approaches and collaborations in supporting ESD.",
+            "key_themes": [
+              "Institutional and Collaborative Strategies",
+              "Curriculum Design and Content Integration",
+              "Pedagogical Approaches and Learning Environments"
+            ],
+            "n_studies_support": "20-35",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To compare educational outcomes from ESD implementations with varying levels of human and structural integration.",
+            "key_themes": [
+              "Sustainability Competencies and Educational Outcomes",
+              "Assessment of Education for Sustainable Development Effectiveness"
+            ],
+            "n_studies_support": "10-20",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "40-50%",
+        "strengths": [
+          "Focuses on synergies between individual and systemic factors",
+          "Useful for designing scalable interventions",
+          "Integrates key themes effectively"
+        ],
+        "limitations": [
+          "Lower coverage compared to other frameworks",
+          "May not fully address all pedagogical nuances and technology aspects"
+        ]
+      }
+    ],
+    "recommendation": "I recommend the Institutional-Educational Integration Framework because it has the highest estimated coverage of studies (60-70%), effectively integrates all major themes through specific objectives, and provides a systemic view that is crucial for understanding and improving ESD implementation in higher education, based on robust empirical patterns in the data.",
+    "_theme_reference_check": {
+      "valid_references": 25,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true
+    }
+  }
+}

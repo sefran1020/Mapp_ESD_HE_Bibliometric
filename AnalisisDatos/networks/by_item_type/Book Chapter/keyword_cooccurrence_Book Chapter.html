@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#f28e2b", "font": {"color": "#333333"}, "id": "environmental education", "label": "environmental education", "shape": "dot", "size": 21, "title": "environmental education"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "sustainable development", "label": "sustainable development", "shape": "dot", "size": 50, "title": "sustainable development"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "sustainable development goals", "label": "sustainable development goals", "shape": "dot", "size": 50, "title": "sustainable development goals"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "education for sustainable development", "label": "education for sustainable development", "shape": "dot", "size": 50, "title": "education for sustainable development"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "teaching", "label": "teaching", "shape": "dot", "size": 50, "title": "teaching"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "curricula", "label": "curricula", "shape": "dot", "size": 50, "title": "curricula"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "climate change", "label": "climate change", "shape": "dot", "size": 25, "title": "climate change"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "higher education", "label": "higher education", "shape": "dot", "size": 50, "title": "higher education"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "professional development", "label": "professional development", "shape": "dot", "size": 10, "title": "professional development"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "higher education institutions", "label": "higher education institutions", "shape": "dot", "size": 50, "title": "higher education institutions"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "high educations", "label": "high educations", "shape": "dot", "size": 50, "title": "high educations"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "education computing", "label": "education computing", "shape": "dot", "size": 50, "title": "education computing"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "students", "label": "students", "shape": "dot", "size": 50, "title": "students"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "case-studies", "label": "case-studies", "shape": "dot", "size": 29, "title": "case-studies"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "education", "label": "education", "shape": "dot", "size": 15, "title": "education"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "curriculum", "label": "curriculum", "shape": "dot", "size": 23, "title": "curriculum"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "global challenges", "label": "global challenges", "shape": "dot", "size": 13, "title": "global challenges"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "education for sustainable development (esd)", "label": "education for sustainable development (esd)", "shape": "dot", "size": 13, "title": "education for sustainable development (esd)"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "munich university of applied sciences (muas)", "label": "munich university of applied sciences (muas)", "shape": "dot", "size": 13, "title": "munich university of applied sciences (muas)"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "transdisciplinarity", "label": "transdisciplinarity", "shape": "dot", "size": 13, "title": "transdisciplinarity"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "sustainability", "label": "sustainability", "shape": "dot", "size": 50, "title": "sustainability"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "awareness", "label": "awareness", "shape": "dot", "size": 10, "title": "awareness"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "sdgs", "label": "sdgs", "shape": "dot", "size": 10, "title": "sdgs"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "e-learning", "label": "e-learning", "shape": "dot", "size": 25, "title": "e-learning"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "implementation", "label": "implementation", "shape": "dot", "size": 10, "title": "implementation"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "esd", "label": "esd", "shape": "dot", "size": 31, "title": "esd"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "behavioral research", "label": "behavioral research", "shape": "dot", "size": 13, "title": "behavioral research"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "educators\u2019 competences", "label": "educators\u2019 competences", "shape": "dot", "size": 10, "title": "educators\u2019 competences"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "sustainability education", "label": "sustainability education", "shape": "dot", "size": 47, "title": "sustainability education"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "personnel training", "label": "personnel training", "shape": "dot", "size": 25, "title": "personnel training"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "esd competences", "label": "esd competences", "shape": "dot", "size": 13, "title": "esd competences"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "geography education", "label": "geography education", "shape": "dot", "size": 13, "title": "geography education"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "esd framework", "label": "esd framework", "shape": "dot", "size": 10, "title": "esd framework"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "curricular sustainability", "label": "curricular sustainability", "shape": "dot", "size": 13, "title": "curricular sustainability"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "teaching practice", "label": "teaching practice", "shape": "dot", "size": 13, "title": "teaching practice"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "curriculum design", "label": "curriculum design", "shape": "dot", "size": 10, "title": "curriculum design"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "transformation", "label": "transformation", "shape": "dot", "size": 10, "title": "transformation"}]);
+                  edges = new vis.DataSet([{"from": "environmental education", "title": "Weight: 2", "to": "sustainable development", "value": 2}, {"from": "environmental education", "title": "Weight: 2", "to": "sustainable development goals", "value": 2}, {"from": "environmental education", "title": "Weight: 2", "to": "education for sustainable development", "value": 2}, {"from": "environmental education", "title": "Weight: 2", "to": "teaching", "value": 2}, {"from": "sustainable development", "title": "Weight: 6", "to": "sustainable development goals", "value": 6}, {"from": "sustainable development", "title": "Weight: 7", "to": "curricula", "value": 7}, {"from": "sustainable development", "title": "Weight: 9", "to": "education for sustainable development", "value": 9}, {"from": "sustainable development", "title": "Weight: 10", "to": "teaching", "value": 10}, {"from": "sustainable development", "title": "Weight: 4", "to": "higher education institutions", "value": 4}, {"from": "sustainable development", "title": "Weight: 5", "to": "higher education", "value": 5}, {"from": "sustainable development", "title": "Weight: 8", "to": "high educations", "value": 8}, {"from": "sustainable development", "title": "Weight: 4", "to": "education computing", "value": 4}, {"from": "sustainable development", "title": "Weight: 5", "to": "students", "value": 5}, {"from": "sustainable development", "title": "Weight: 2", "to": "case-studies", "value": 2}, {"from": "sustainable development", "title": "Weight: 3", "to": "education", "value": 3}, {"from": "sustainable development", "title": "Weight: 3", "to": "curriculum", "value": 3}, {"from": "sustainable development", "title": "Weight: 2", "to": "global challenges", "value": 2}, {"from": "sustainable development", "title": "Weight: 4", "to": "sustainability", "value": 4}, {"from": "sustainable development", "title": "Weight: 2", "to": "e-learning", "value": 2}, {"from": "sustainable development", "title": "Weight: 2", "to": "climate change", "value": 2}, {"from": "sustainable development", "title": "Weight: 2", "to": "behavioral research", "value": 2}, {"from": "sustainable development", "title": "Weight: 4", "to": "sustainability education", "value": 4}, {"from": "sustainable development", "title": "Weight: 2", "to": "personnel training", "value": 2}, {"from": "sustainable development goals", "title": "Weight: 4", "to": "curricula", "value": 4}, {"from": "sustainable development goals", "title": "Weight: 8", "to": "education for sustainable development", "value": 8}, {"from": "sustainable development goals", "title": "Weight: 4", "to": "teaching", "value": 4}, {"from": "sustainable development goals", "title": "Weight: 3", "to": "higher education institutions", "value": 3}, {"from": "sustainable development goals", "title": "Weight: 2", "to": "students", "value": 2}, {"from": "sustainable development goals", "title": "Weight: 2", "to": "education computing", "value": 2}, {"from": "sustainable development goals", "title": "Weight: 4", "to": "higher education", "value": 4}, {"from": "sustainable development goals", "title": "Weight: 3", "to": "sustainability", "value": 3}, {"from": "sustainable development goals", "title": "Weight: 3", "to": "sustainability education", "value": 3}, {"from": "sustainable development goals", "title": "Weight: 3", "to": "high educations", "value": 3}, {"from": "education for sustainable development", "title": "Weight: 6", "to": "curricula", "value": 6}, {"from": "education for sustainable development", "title": "Weight: 8", "to": "teaching", "value": 8}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "professional development", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 5", "to": "higher education institutions", "value": 5}, {"from": "education for sustainable development", "title": "Weight: 8", "to": "higher education", "value": 8}, {"from": "education for sustainable development", "title": "Weight: 5", "to": "high educations", "value": 5}, {"from": "education for sustainable development", "title": "Weight: 3", "to": "education computing", "value": 3}, {"from": "education for sustainable development", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "implementation", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "e-learning", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "educators\u2019 competences", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "esd", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 5", "to": "sustainability", "value": 5}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "sustainability education", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "esd framework", "value": 2}, {"from": "education for sustainable development", "title": "Weight: 2", "to": "climate change", "value": 2}, {"from": "teaching", "title": "Weight: 5", "to": "curricula", "value": 5}, {"from": "teaching", "title": "Weight: 3", "to": "higher education", "value": 3}, {"from": "teaching", "title": "Weight: 6", "to": "high educations", "value": 6}, {"from": "teaching", "title": "Weight: 3", "to": "education computing", "value": 3}, {"from": "teaching", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "teaching", "title": "Weight: 2", "to": "education", "value": 2}, {"from": "teaching", "title": "Weight: 4", "to": "sustainability", "value": 4}, {"from": "teaching", "title": "Weight: 2", "to": "e-learning", "value": 2}, {"from": "teaching", "title": "Weight: 2", "to": "climate change", "value": 2}, {"from": "teaching", "title": "Weight: 3", "to": "sustainability education", "value": 3}, {"from": "curricula", "title": "Weight: 4", "to": "higher education", "value": 4}, {"from": "curricula", "title": "Weight: 4", "to": "high educations", "value": 4}, {"from": "curricula", "title": "Weight: 3", "to": "education computing", "value": 3}, {"from": "curricula", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "curricula", "title": "Weight: 2", "to": "case-studies", "value": 2}, {"from": "curricula", "title": "Weight: 2", "to": "sustainability education", "value": 2}, {"from": "curricula", "title": "Weight: 2", "to": "personnel training", "value": 2}, {"from": "curricula", "title": "Weight: 2", "to": "higher education institutions", "value": 2}, {"from": "curricula", "title": "Weight: 2", "to": "sustainability", "value": 2}, {"from": "climate change", "title": "Weight: 2", "to": "higher education", "value": 2}, {"from": "climate change", "title": "Weight: 2", "to": "high educations", "value": 2}, {"from": "higher education", "title": "Weight: 4", "to": "high educations", "value": 4}, {"from": "higher education", "title": "Weight: 2", "to": "education computing", "value": 2}, {"from": "higher education", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "higher education", "title": "Weight: 2", "to": "case-studies", "value": 2}, {"from": "higher education", "title": "Weight: 2", "to": "sdgs", "value": 2}, {"from": "higher education", "title": "Weight: 10", "to": "sustainability", "value": 10}, {"from": "higher education", "title": "Weight: 4", "to": "esd", "value": 4}, {"from": "higher education", "title": "Weight: 2", "to": "sustainability education", "value": 2}, {"from": "higher education", "title": "Weight: 2", "to": "personnel training", "value": 2}, {"from": "higher education", "title": "Weight: 2", "to": "higher education institutions", "value": 2}, {"from": "higher education", "title": "Weight: 2", "to": "curricular sustainability", "value": 2}, {"from": "higher education", "title": "Weight: 2", "to": "teaching practice", "value": 2}, {"from": "higher education", "title": "Weight: 2", "to": "curriculum", "value": 2}, {"from": "higher education institutions", "title": "Weight: 2", "to": "sustainability education", "value": 2}, {"from": "higher education institutions", "title": "Weight: 2", "to": "high educations", "value": 2}, {"from": "higher education institutions", "title": "Weight: 3", "to": "sustainability", "value": 3}, {"from": "high educations", "title": "Weight: 3", "to": "education computing", "value": 3}, {"from": "high educations", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "high educations", "title": "Weight: 2", "to": "case-studies", "value": 2}, {"from": "high educations", "title": "Weight: 2", "to": "behavioral research", "value": 2}, {"from": "high educations", "title": "Weight: 3", "to": "sustainability education", "value": 3}, {"from": "high educations", "title": "Weight: 2", "to": "personnel training", "value": 2}, {"from": "high educations", "title": "Weight: 2", "to": "sustainability", "value": 2}, {"from": "education computing", "title": "Weight: 4", "to": "students", "value": 4}, {"from": "education computing", "title": "Weight: 2", "to": "case-studies", "value": 2}, {"from": "education computing", "title": "Weight: 2", "to": "e-learning", "value": 2}, {"from": "students", "title": "Weight: 2", "to": "case-studies", "value": 2}, {"from": "students", "title": "Weight: 2", "to": "e-learning", "value": 2}, {"from": "students", "title": "Weight: 2", "to": "sustainability", "value": 2}, {"from": "students", "title": "Weight: 2", "to": "personnel training", "value": 2}, {"from": "curriculum", "title": "Weight: 2", "to": "global challenges", "value": 2}, {"from": "curriculum", "title": "Weight: 2", "to": "sustainability", "value": 2}, {"from": "education for sustainable development (esd)", "title": "Weight: 2", "to": "munich university of applied sciences (muas)", "value": 2}, {"from": "education for sustainable development (esd)", "title": "Weight: 2", "to": "transdisciplinarity", "value": 2}, {"from": "munich university of applied sciences (muas)", "title": "Weight: 2", "to": "transdisciplinarity", "value": 2}, {"from": "sustainability", "title": "Weight: 2", "to": "awareness", "value": 2}, {"from": "sustainability", "title": "Weight: 3", "to": "esd", "value": 3}, {"from": "sustainability", "title": "Weight: 2", "to": "curriculum design", "value": 2}, {"from": "sustainability", "title": "Weight: 2", "to": "transformation", "value": 2}, {"from": "esd", "title": "Weight: 2", "to": "esd competences", "value": 2}, {"from": "esd", "title": "Weight: 2", "to": "geography education", "value": 2}, {"from": "esd competences", "title": "Weight: 2", "to": "geography education", "value": 2}, {"from": "curricular sustainability", "title": "Weight: 2", "to": "teaching practice", "value": 2}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 14, "face": "arial"}}, "edges": {"color": {"inherit": "both"}, "smooth": false}, "physics": {"forceAtlas2Based": {"gravitationalConstant": -80, "centralGravity": 0.01, "springLength": 120, "springConstant": 0.02}, "solver": "forceAtlas2Based", "stabilization": {"iterations": 200}}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

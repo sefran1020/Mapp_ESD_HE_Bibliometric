@@ -1,0 +1,363 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 11,
+  "timestamp": "2026-02-19T06:06:58.955481",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Enhancement",
+        "definition": "The development and reinforcement of students' ability to analyze, evaluate, and synthesize information through AI-integrated educational practices. This theme captures how AI tools are used to foster critical thinking skills by encouraging students to assess AI-generated outputs, compare multiple perspectives, and engage in reflective practices.",
+        "evidence": [
+          "[Liu2024c] 'AI-supported SSI model led to significant increases in critical thinking dispositions and skills.'",
+          "[Espínola2025] 'ChatGPT was employed to gain further insights... fostering critical reflection.'",
+          "[Vesali2025] 'This assignment not only improves students' ability to use AI tools responsibly but also helps them recognize and mitigate errors in both AI responses and human prompts.'"
+        ],
+        "articles": [
+          "Liu2024c",
+          "Espínola2025",
+          "Vesali2025",
+          "Lee2025c",
+          "MoslemiNezhadArani2025",
+          "Fan2025",
+          "Zhou2025c",
+          "Rico2026",
+          "Khor2025",
+          "Wong2025",
+          "Orozova2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Critical thinking decline due to AI use",
+          "Reflective practices",
+          "Evaluation of AI outputs"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Integrated Pedagogical Models",
+        "definition": "The systematic incorporation of AI tools into educational frameworks such as Problem-Based Learning (PBL), Research-Based Learning (RBL), and socio-scientific issues instruction. These models often involve structured scaffolding, rubric-based feedback, or adaptive learning environments to achieve specific learning outcomes.",
+        "evidence": [
+          "[Becerra2025] 'AICoFe... facilitates both peer and self-assessments using rubric-based frameworks.'",
+          "[Lee2025c] 'This study aims to examine how integrating cultural diversity and generative AI into coursework can enhance students’ creativity, critical thinking and innovation.'",
+          "[Habibah2025] 'Problem-Oriented Project-Based Learning (POPBL-AI) showed significant positive effects on critical thinking and communication skills.'"
+        ],
+        "articles": [
+          "Becerra2025",
+          "Lee2025c",
+          "Habibah2025",
+          "Liu2024c",
+          "Calderón-Oliver2025",
+          "MoslemiNezhadArani2025",
+          "Orozova2025",
+          "Pantazatos2024"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Scaffolded AI use",
+          "Adaptive learning environments",
+          "Rubric-based frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Challenges of AI Dependence in Education",
+        "definition": "The unintended negative consequences associated with over-reliance on AI tools, including reduced peer interaction, lower critical thinking performance, and compromised accuracy. This theme highlights concerns about analytical delegation, cognitive overload, and the erosion of foundational skills.",
+        "evidence": [
+          "[ElIdrissi2025] 'AI use shifted student behaviors toward information consumption rather than collaborative knowledge construction.'",
+          "[Rico2026] 'AI-using students showed... deteriorated critical thinking (d = −1.31).'",
+          "[Fan2025] 'Challenges like over-reliance on AI, cognitive overload, and biases within AI were identified.'"
+        ],
+        "articles": [
+          "ElIdrissi2025",
+          "Rico2026",
+          "Fan2025",
+          "Habib2025",
+          "Agnaou2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Analytical delegation",
+          "Cognitive decline",
+          "Bias in AI outputs"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and Reflective AI Use",
+        "definition": "Discussions around validating AI-generated content for factual accuracy, addressing ethical concerns in AI development, and fostering students’ ability to critically assess the limitations and societal impacts of AI tools.",
+        "evidence": [
+          "[Nezhyva2025] 'Challenges and limitations... include the need for content validation, technical support, addressing ethical concerns.'",
+          "[Smith2025] '95.2% of students learned it was important to verify GenAI-generated content and external sources.'",
+          "[Preda-ulita2025] 'The article highlights AI's role in promoting critical thinking... while acknowledging its limitations in music education.'"
+        ],
+        "articles": [
+          "Nezhyva2025",
+          "Smith2025",
+          "Preda-ulita2025",
+          "Chew2025",
+          "Zhou2025c",
+          "Delanoy2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Content validation processes",
+          "Bias recognition",
+          "Ethical AI frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Collaborative and Problem-Solving Learning Environments",
+        "definition": "Educational strategies that emphasize teamwork, active experimentation, and collective problem-solving enhanced by AI tools. This includes the use of AI to support group dynamics, scaffold complex tasks, and facilitate collaborative knowledge construction.",
+        "evidence": [
+          "[Geissler2025] 'Students demonstrated significant improvements in... teamwork skills.'",
+          "[Agnaou2025] 'Examined how LLMs affected group dynamics, idea generation, consensus building, and productivity.'",
+          "[Delanoy2025] 'Students demonstrated growth in... critical evaluation of AI-generated outputs through collaborative learning.'"
+        ],
+        "articles": [
+          "Geissler2025",
+          "Agnaou2025",
+          "Delanoy2025",
+          "Orozova2025",
+          "Rattanakha2025b",
+          "Becerra2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Teamwork skill development",
+          "Consensus building",
+          "Active experimentation"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The dataset reveals a dominant focus on critical thinking as both an outcome and challenge of AI integration. Many abstracts frame AI as a dual-edged tool requiring balanced pedagogical strategies to mitigate over-reliance while maximizing cognitive benefits. Emerging patterns show strong emphasis on structured models (e.g., PBL) and ethical considerations, with fewer discussions on long-term skill retention or interdisciplinary applications.",
+    "grounding_notes": "All evidence quotes are verbatim from the provided abstracts. Theme frequencies reflect the number of articles explicitly mentioning related terminology. Confidence levels assume 'high' where multiple verbatim statements exist, though some themes like collaborative environments have less dense coverage despite meeting minimum criteria. No fabricated information is included.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.63,
+      "total_hallucination_flags": 8,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Enhancement",
+          "evidence_verified": [
+            {
+              "quote": "[Liu2024c] 'AI-supported SSI model led to significant increases in critical thinking dispositions and skills.'",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Vesali2025] 'This assignment not only improves students' ability to use AI tools responsibly but also helps them recognize and mitigate errors in both AI responses and human prompts.'",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Espínola2025] 'ChatGPT was employed to gain further insights... fostering critical reflection.'",
+              "score": 0.64,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Liu2024c",
+            "Espínola2025",
+            "Vesali2025",
+            "Lee2025c",
+            "MoslemiNezhadArani2025",
+            "Fan2025",
+            "Zhou2025c",
+            "Rico2026",
+            "Khor2025",
+            "Wong2025",
+            "Orozova2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.64), not verbatim: '[Espínola2025] 'ChatGPT was employed to gain furth...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Integrated Pedagogical Models",
+          "evidence_verified": [
+            {
+              "quote": "[Becerra2025] 'AICoFe... facilitates both peer and self-assessments using rubric-based frameworks.'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Lee2025c] 'This study aims to examine how integrating cultural diversity and generative AI into coursework can enhance students’ creativity, critical thinking and innovation.'",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Habibah2025] 'Problem-Oriented Project-Based Learning (POPBL-AI) showed significant positive effects on critical thinking and communication skills.'",
+              "score": 0.33,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Becerra2025",
+            "Lee2025c",
+            "Habibah2025",
+            "Liu2024c",
+            "Calderón-Oliver2025",
+            "MoslemiNezhadArani2025",
+            "Orozova2025",
+            "Pantazatos2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.33): '[Habibah2025] 'Problem-Oriented Project-Based Lear...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Challenges of AI Dependence in Education",
+          "evidence_verified": [
+            {
+              "quote": "[ElIdrissi2025] 'AI use shifted student behaviors toward information consumption rather than collaborative knowledge construction.'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Fan2025] 'Challenges like over-reliance on AI, cognitive overload, and biases within AI were identified.'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Rico2026] 'AI-using students showed... deteriorated critical thinking (d = −1.31).'",
+              "score": 0.55,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "ElIdrissi2025",
+            "Rico2026",
+            "Fan2025",
+            "Habib2025",
+            "Agnaou2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.55): '[Rico2026] 'AI-using students showed... deteriorat...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Reflective AI Use",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Nezhyva2025] 'Challenges and limitations... include the need for content validation, technical support, addressing ethical concerns.'",
+              "score": 0.47,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Smith2025] '95.2% of students learned it was important to verify GenAI-generated content and external sources.'",
+              "score": 0.47,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Preda-ulita2025] 'The article highlights AI's role in promoting critical thinking... while acknowledging its limitations in music education.'",
+              "score": 0.42,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Nezhyva2025",
+            "Smith2025",
+            "Preda-ulita2025",
+            "Chew2025",
+            "Zhou2025c",
+            "Delanoy2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.47): '[Nezhyva2025] 'Challenges and limitations... inclu...'",
+            "Quote not found in source texts (score=0.47): '[Smith2025] '95.2% of students learned it was impo...'",
+            "Quote not found in source texts (score=0.42): '[Preda-ulita2025] 'The article highlights AI's rol...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Collaborative and Problem-Solving Learning Environments",
+          "evidence_verified": [
+            {
+              "quote": "[Agnaou2025] 'Examined how LLMs affected group dynamics, idea generation, consensus building, and productivity.'",
+              "score": 0.85,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Geissler2025] 'Students demonstrated significant improvements in... teamwork skills.'",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Delanoy2025] 'Students demonstrated growth in... critical evaluation of AI-generated outputs through collaborative learning.'",
+              "score": 0.43,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Geissler2025",
+            "Agnaou2025",
+            "Delanoy2025",
+            "Orozova2025",
+            "Rattanakha2025b",
+            "Becerra2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.62), not verbatim: '[Geissler2025] 'Students demonstrated significant ...'",
+            "Quote not found in source texts (score=0.43): '[Delanoy2025] 'Students demonstrated growth in... ...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

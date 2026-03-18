@@ -1,0 +1,119 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>	score<Avg. pub. year>	description	url
+1	Sustainability (Switzerland)	1.2368	2.1751	3	105	2115	2013			
+2	Forests	2.8659	0.0253	1	22	25	4			
+3	International Journal of Sustainability in Higher Education	1.2509	2.1778	3	106	2095	2231			
+4	Assessment and Evaluation in Higher Education	2.2908	1.1763	2	23	46	82			
+5	Discover Sustainability	1.2566	2.1595	3	93	714	126			
+6	Nurse Education Today	1.2984	2.4973	3	7	8	50			
+7	Sustainability Science	-2.5276	-0.0103	7	69	277	325			
+8	Integrative and Comparative Biology	2.5231	1.1348	2	10	12	7			
+9	INTERNATIONAL JOURNAL OF DISASTER RESILIENCE IN THE BUILT ENVIRONMENT	-1.2252	-2.172	9	0	0	5			
+10	BMC Medical Education	0.0324	-2.4238	10	0	0	0			
+11	International Journal of Educational Technology in Higher Education	2.611	-0.1278	1	52	104	0			
+12	Education Sciences	2.3615	-0.0729	1	48	116	42			
+13	Sustainable Development	-2.5913	0.0712	7	58	179	39			
+14	Mountain Research and Development	2.479	0.0719	1	55	109	4			
+15	Journal of Advanced Nursing	1.4932	2.1638	3	6	11	9			
+16	Cogent Education	2.502	-0.1577	1	47	130	4			
+17	Higher Education Policy	1.9402	1.2621	2	61	197	29			
+18	Asia Pacific Education Review	1.2716	2.2639	3	35	91	40			
+19	Frontiers in Education	1.2679	2.208	3	80	628	108			
+20	European Journal of Education	2.6064	0.1132	1	49	149	0			
+21	Bulletin of the American Meteorological Society	1.4368	1.9629	3	7	12	6			
+22	Environment, Development and Sustainability	1.2981	2.1603	3	54	213	58			
+23	Planning Practice and Research	2.4233	0.0316	1	56	162	0			
+24	Environmental Education Research	1.2822	2.1843	3	92	684	163			
+25	SUSTAINABILITY	2.5161	-0.0032	1	83	551	261			
+26	Sustainability Accounting, Management and Policy Journal	2.5474	0.1227	1	55	212	125			
+27	Frontiers in Sustainable Cities	1.1105	2.2722	3	15	26	4			
+28	Journal of Public Budgeting, Accounting and Financial Management	1.1896	2.0844	3	22	52	14			
+29	SUSTAINABILITY SCIENCE	2.4897	-0.2445	1	37	48	2			
+30	Journal of Teacher Education for Sustainability	2.4197	0.0864	1	60	141	81			
+31	Current Research in Environmental Sustainability	1.4673	2.353	3	12	12	0			
+32	European Journal of Geography	2.7246	-0.0672	1	41	97	12			
+33	International Journal of Comparative Education and Development	2.532	-0.0524	1	60	184	5			
+34	Systemic Practice and Action Research	2.5521	-0.1519	1	49	99	0			
+35	Revista Interuniversitaria de Formacion del Profesorado	1.1357	2.1921	3	19	46	6			
+36	International Journal of Management Education	2.1415	1.2795	2	70	300	349			
+37	Sustainable Futures	2.054	1.3235	2	61	205	0			
+38	Technological Forecasting and Social Change	2.1199	1.1868	2	61	250	106			
+39	Profesorado	2.4874	0.2958	1	27	36	11			
+40	Frontiers in Sustainability	2.5831	-0.0631	1	68	253	47			
+41	Journal of Geography in Higher Education	2.6233	-0.1816	1	37	106	13			
+42	Journal of University Teaching and Learning Practice	1.3502	2.213	3	22	59	3			
+43	Behavioral Sciences	1.3385	2.3059	3	19	36	4			
+44	Impact Assessment and Project Appraisal	2.5699	0.0033	1	60	199	1			
+45	European Journal of Applied Linguistics	2.1697	-0.0079	1	14	30	0			
+46	Revista Complutense de Educacion	2.3827	-0.1306	1	41	79	3			
+47	E3S Web of Conferences	-2.4906	-0.2013	7	18	26	18			
+48	Lecture Notes in Computer Science	2.6654	0.1383	1	41	100	0			
+49	IOP Conference Series: Earth and Environmental Science	-2.1768	-1.2617	8	0	0	4			
+50	Journal of Education and Learning (EduLearn)	0.8835	2.1669	3	3	5	11			
+51	Sustainable Horizons	1.0895	1.995	3	8	12	11			
+52	Practices, Perceptions and Prospects for Climate Change Education in Africa	1.0469	2.16	3	15	25	0			
+53	Problems and Perspectives in Management	1.3471	2.2607	3	21	46	1			
+54	Journal of Applied Research in Higher Education	1.1624	2.1732	3	33	92	0			
+55	International Journal of Training and Development	2.3588	0.0813	1	57	108	6			
+56	Journal of Adult and Continuing Education	-2.4464	0.0544	7	53	154	8			
+57	GAIA - Ecological Perspectives for Science and Society	1.1676	2.3564	3	12	22	2			
+58	World Sustainability Series	1.2494	2.1977	3	101	1478	247			
+59	EUROPEAN JOURNAL OF SUSTAINABLE DEVELOPMENT	1.1735	2.0065	3	8	17	2			
+60	Journal of Integrative Environmental Sciences	2.6142	0.2942	1	32	54	4			
+61	Journal of Planning Education and Research	-2.3811	-0.1626	7	23	41	28			
+62	Journal of Environmental Studies and Sciences	1.3016	2.0711	3	17	39	1			
+63	Management and Marketing	1.2116	2.289	3	23	55	38			
+64	International Journal of Data and Network Science	2.244	-1.2116	12	0	0	52			
+65	Investigaciones Turisticas	2.4026	0.2569	1	29	33	5			
+66	ARCHNET-IJAR INTERNATIONAL JOURNAL OF ARCHITECTURAL RESEARCH	1.4501	2.2278	3	10	18	18			
+67	Higher Education, Skills and Work-based Learning	2.2954	-0.0838	1	41	53	28			
+68	Asian Education and Development Studies	2.4488	-0.0063	1	66	216	0			
+69	Regulation and Governance	2.0659	0.2928	1	4	11	0			
+70	Journal of Asian Public Policy	2.4847	0.0176	1	56	144	9			
+71	Transformative Language Teaching for Sustainability: From Theory to Practice	2.5062	-0.0945	1	52	118	0			
+72	Frontiers in Psychology	1.1716	2.232	3	19	53	5			
+73	Colloquium in Information Science and Technology, CIST	2.2407	1.4828	2	22	34	0			
+74	Studies in the Education of Adults	-0.0235	2.5271	4	0	0	4			
+75	LUMAT	1.104	2.1533	3	21	44	2			
+76	ACM International Conference Proceeding Series	1.3573	2.0571	3	14	32	2			
+77	JOURNAL OF MEDICAL EDUCATION AND CURRICULAR DEVELOPMENT	2.6863	-0.0425	1	43	120	6			
+78	Communications in Computer and Information Science	1.3233	2.3661	3	12	23	2			
+79	Acta Horticulturae	-2.1882	1.2267	6	0	0	0			
+80	Sustainable Development Goals Series	2.5529	0.0331	1	70	284	39			
+81	Southern African Journal of Environmental Education	1.4096	2.2659	3	15	23	1			
+82	Smart Innovation, Systems and Technologies	2.4401	-0.2244	1	41	56	2			
+83	Innovations in Education and Teaching International	2.3366	-0.0129	1	45	83	0			
+84	Journal of Curriculum and Teaching	2.8262	-0.076	1	28	47	0			
+85	Perspectives in Education	2.537	0.2402	1	31	69	19			
+86	JOURNAL OF INTERNATIONAL EDUCATION IN BUSINESS	1.495	2.0649	3	1	7	0			
+87	Bordon. Revista de Pedagogia	2.4362	-0.1085	1	50	101	17			
+88	Proceedings - 2021 2nd International Conference on Information Science and Education, ICISE-IE 2021	0.8869	1.9367	3	3	3	3			
+89	International Journal of Educational Research Open	2.4444	-0.0494	1	55	166	7			
+90	Proceedings - Frontiers in Education Conference, FIE	0.9941	2.4479	3	2	4	0			
+91	WIT Transactions on Ecology and the Environment	1.2302	2.0685	3	19	48	6			
+92	Building a Green Future Through Essential Decision-Making Competencies	1.2621	-2.2607	11	0	0	0			
+93	Energy Procedia	2.3788	-0.2142	1	42	57	42			
+94	Humanities and Social Sciences Communications	1.154	2.2774	3	22	41	4			
+95	Women’s Leadership in African Education	1.1985	1.8447	3	4	4	0			
+96	Journal of College Science Teaching	1.3535	1.8914	3	5	7	0			
+97	The Sustainable Development Goals and the Business Sector: Trends and Implementation Challenges	-2.5028	0.2466	7	18	33	0			
+98	Handbook of Sustainability Science in the Future	1.363	2.1211	3	18	41	2			
+99	INTERNATIONAL JOURNAL OF SUSTAINABILITY IN HIGHER EDUCATION	1.1825	2.1469	3	32	71	0			
+100	Universal Journal of Educational Research	1.076	2.232	3	19	34	15			
+101	Jurnal Pendidikan IPA Indonesia	2.4446	0.1676	1	40	92	14			
+102	Journal of Chinese Economic and Business Studies	1.1135	2.0913	3	19	34	1			
+103	Teoria de la Educacion	2.3248	-0.1744	1	43	76	28			
+104	The Sustainable University of the Future: Reimagining Higher Education and Research	-2.6043	-0.1263	7	22	27	3			
+105	Embedding Sustainability in Built Environment Curricula: Opportunities and Challenges	1.2526	1.9519	3	9	14	0			
+106	Sustainable Practices in Higher Education: Finance, Strategy, and Engagement	2.5963	-0.0189	1	57	153	8			
+107	Brock Education: A Journal of Educational Research and Practice	1.2547	2.2988	3	23	50	28			
+108	Revista Iberoamericana de Educacion Superior	2.0103	1.1542	2	56	186	35			
+109	Improving Doctoral Education and Research Development for Sustainability	-1.3362	2.1369	5	0	0	0			
+110	InterCarto, InterGIS	-2.2021	0.2306	7	8	8	2			
+111	International Conference on Higher Education Advances	1.2321	2.3942	3	13	21	11			
+112	Contemporary Studies in Economic and Financial Analysis	-2.4354	-0.072	7	35	81	8			
+113	CSR, Sustainability, Ethics and Governance	2.5349	0.0628	1	59	156	0			
+114	Journal of Marketing Theory and Practice	2.672	0.0314	1	51	121	1			
+115	The Palgrave Handbook of Sustainable Digitalization for Business, Industry, and Society	-2.8183	-0.0304	7	15	15	1			
+116	Journal of Geoscience Education	1.6798	1.6973	3	2	3	44			
+117	International Journal of Higher Education	1.2663	2.1046	3	28	76	58			
+118	Science Insights Education Frontiers	1.3841	2.1662	3	14	37	13			

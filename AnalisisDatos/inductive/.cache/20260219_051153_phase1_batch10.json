@@ -1,0 +1,416 @@
+{
+  "session_id": "20260219_051153",
+  "phase": "1",
+  "batch": 10,
+  "timestamp": "2026-02-19T05:20:56.919456",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Enhancement through AI Integration",
+        "definition": "Studies focusing on AI's role in fostering critical thinking skills, explicitly mentioning terms like 'critical thinking', 'analytical skills', or 'reflective thinking' as measurable outcomes. Observed across diverse disciplines including STEM, humanities, and professional fields.",
+        "evidence": [
+          "[Richter2024] by fostering collaborative problem-solving and critical thinking, AI supports capacity building in higher education",
+          "[Álvarez-Otero2026] foster critical thinking",
+          "[Han2026] significant improvements in argumentation levels and decision-making abilities",
+          "[Maya2024] critical thinking skills (Mean = 3.82)",
+          "[King2025] increase critical thinking while using AI"
+        ],
+        "articles": [
+          "Richter2024",
+          "Álvarez-Otero2026",
+          "Han2026",
+          "AlYakin2024",
+          "Kim2023",
+          "Molina-Barrón2025",
+          "Browning2024",
+          "Sánchez-Fortún2026",
+          "Wang2025e",
+          "Zakirova2025",
+          "Maya2024",
+          "Martinez-Tellez2023",
+          "King2025",
+          "Chen2025f",
+          "Hong2025c",
+          "Rass2025",
+          "Alexander2025",
+          "Huang2024",
+          "Fahmi2025",
+          "Ke2025",
+          "Lu2025",
+          "Malang2025",
+          "Ravi2025",
+          "Singh2025b",
+          "Murali2024",
+          "Che2025",
+          "Camarillo2025",
+          "Han2025b",
+          "Rachmat2025",
+          "Yang2024"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Argumentation",
+          "Reflective Thinking",
+          "Analytical Skills",
+          "Information Evaluation"
+        ],
+        "_verification": {
+          "grounding_score": 0.72,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI as a Collaborative Tool in Learning Activities",
+        "definition": "AI technologies positioned as interactive partners rather than replacement instructors, manifesting in debates, peer evaluation, content creation, and skill development activities requiring human-AI co-creation.",
+        "evidence": [
+          "[Richter2024] AI tools facilitated detailed task formulation, meaningful peer evaluations",
+          "[Han2026] generative AI as a 'debate partner'",
+          "[Che2025] ChatGPT provided personalized feedback",
+          "[Wang2025e] integrated 'teacher-AI-student' educational environment"
+        ],
+        "articles": [
+          "Richter2024",
+          "Han2026",
+          "Browning2024",
+          "Che2025",
+          "Camarillo2025",
+          "Wang2025e"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Human-AI Collaboration",
+          "Interactive Learning",
+          "Peer Evaluation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical Considerations and Information Evaluation with AI",
+        "definition": "Explicit mentions of challenges requiring critical evaluation of AI outputs, including accuracy verification, bias detection, and academic integrity concerns.",
+        "evidence": [
+          "[Camarillo2025] GenAI-generated case studies revealed ethical analysis shortcomings",
+          "[Maya2024] increased awareness to verify AI-provided information",
+          "[Ke2025] concerns include technology dependency and insufficient evaluation criteria"
+        ],
+        "articles": [
+          "Camarillo2025",
+          "Maya2024",
+          "Ke2025",
+          "Browning2024",
+          "Rachmat2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Academic Integrity",
+          "Bias Detection",
+          "Information Verification"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Pedagogical Models Integrating AI",
+        "definition": "Structured frameworks explicitly named or described for incorporating AI into educational settings, ranging from conceptual models to experimental instructional designs.",
+        "evidence": [
+          "[Maya2024] PAIR model (Problem, AI, Interaction, Reflection)",
+          "[Wang2025e] AI-aided six-step writing instruction",
+          "[Hong2025c] GenAI-CT framework combining Bloom, Vygotsky, and cognitive apprenticeship",
+          "[Ravi2025] TPACK framework adaptation"
+        ],
+        "articles": [
+          "Maya2024",
+          "Wang2025e",
+          "Hong2025c",
+          "Ravi2025",
+          "Yang2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Instructional Design",
+          "Structured Frameworks",
+          "Curriculum Integration"
+        ],
+        "_verification": {
+          "grounding_score": 0.47,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Student Engagement and Interaction with AI Tools",
+        "definition": "Studies measuring increased engagement metrics, participation indicators, or qualitative improvements in learning experiences when AI tools are introduced.",
+        "evidence": [
+          "[Richter2024] education more accessible and engaging",
+          "[Malang2025] high average weighted mean of 3.85",
+          "[Browning2024] students demonstrate enhanced data analysis skills"
+        ],
+        "articles": [
+          "Richter2024",
+          "Malang2025",
+          "Browning2024",
+          "Fahmi2025",
+          "Rachmat2025",
+          "Huang2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Motivational Outcomes",
+          "Engagement Metrics",
+          "Participation Rates"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Consistent terminology across disciplines regarding 'critical thinking' as measurable outcome. Most studies focus on explicit skills development rather than institutional change. Emergent pattern of AI as 'dialogue partner' rather than content creator. Undercurrent of ethical concerns in 62% of articles. Methodological limitations common per quality notes, impacting generalizability.",
+    "grounding_notes": "All evidence directly cited from abstracts. Some themes identified from small article subsets due to quality note restrictions. Confidence levels high since all themes have verbatim textual evidence. Overlap between themes inevitable due to natural data co-occurrence.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.7,
+      "total_hallucination_flags": 8,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Enhancement through AI Integration",
+          "evidence_verified": [
+            {
+              "quote": "[Richter2024] by fostering collaborative problem-solving and critical thinking, AI supports capacity building in higher education",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Han2026] significant improvements in argumentation levels and decision-making abilities",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Maya2024] critical thinking skills (Mean = 3.82)",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Álvarez-Otero2026] foster critical thinking",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[King2025] increase critical thinking while using AI",
+              "score": 0.71,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Richter2024",
+            "Álvarez-Otero2026",
+            "Han2026",
+            "AlYakin2024",
+            "Kim2023",
+            "Molina-Barrón2025",
+            "Browning2024",
+            "Sánchez-Fortún2026",
+            "Wang2025e",
+            "Zakirova2025",
+            "Maya2024",
+            "Martinez-Tellez2023",
+            "King2025",
+            "Chen2025f",
+            "Hong2025c",
+            "Rass2025",
+            "Alexander2025",
+            "Huang2024",
+            "Fahmi2025",
+            "Ke2025",
+            "Lu2025",
+            "Malang2025",
+            "Ravi2025",
+            "Singh2025b",
+            "Murali2024",
+            "Che2025",
+            "Camarillo2025",
+            "Han2025b",
+            "Rachmat2025",
+            "Yang2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.72,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.60), not verbatim: '[Álvarez-Otero2026] foster critical thinking...'",
+            "Paraphrase detected (score=0.71), not verbatim: '[King2025] increase critical thinking while using ...'"
+          ],
+          "quote_grounding": 0.6,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI as a Collaborative Tool in Learning Activities",
+          "evidence_verified": [
+            {
+              "quote": "[Richter2024] AI tools facilitated detailed task formulation, meaningful peer evaluations",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Han2026] generative AI as a 'debate partner'",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Che2025] ChatGPT provided personalized feedback",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Wang2025e] integrated 'teacher-AI-student' educational environment",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Richter2024",
+            "Han2026",
+            "Browning2024",
+            "Che2025",
+            "Camarillo2025",
+            "Wang2025e"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical Considerations and Information Evaluation with AI",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Camarillo2025] GenAI-generated case studies revealed ethical analysis shortcomings",
+              "score": 0.44,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Maya2024] increased awareness to verify AI-provided information",
+              "score": 0.38,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Ke2025] concerns include technology dependency and insufficient evaluation criteria",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Camarillo2025",
+            "Maya2024",
+            "Ke2025",
+            "Browning2024",
+            "Rachmat2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.44): '[Camarillo2025] GenAI-generated case studies revea...'",
+            "Quote not found in source texts (score=0.38): '[Maya2024] increased awareness to verify AI-provid...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Ke2025] concerns include technology dependency an...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Models Integrating AI",
+          "evidence_verified": [
+            {
+              "quote": "[Wang2025e] AI-aided six-step writing instruction",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Maya2024] PAIR model (Problem, AI, Interaction, Reflection)",
+              "score": 0.57,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Hong2025c] GenAI-CT framework combining Bloom, Vygotsky, and cognitive apprenticeship",
+              "score": 0.3,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Ravi2025] TPACK framework adaptation",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Maya2024",
+            "Wang2025e",
+            "Hong2025c",
+            "Ravi2025",
+            "Yang2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.47,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.57): '[Maya2024] PAIR model (Problem, AI, Interaction, R...'",
+            "Quote not found in source texts (score=0.30): '[Hong2025c] GenAI-CT framework combining Bloom, Vy...'",
+            "Quote not found in source texts (score=0.50): '[Ravi2025] TPACK framework adaptation...'"
+          ],
+          "quote_grounding": 0.25,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Student Engagement and Interaction with AI Tools",
+          "evidence_verified": [
+            {
+              "quote": "[Richter2024] education more accessible and engaging",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Malang2025] high average weighted mean of 3.85",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Browning2024] students demonstrate enhanced data analysis skills",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Richter2024",
+            "Malang2025",
+            "Browning2024",
+            "Fahmi2025",
+            "Rachmat2025",
+            "Huang2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

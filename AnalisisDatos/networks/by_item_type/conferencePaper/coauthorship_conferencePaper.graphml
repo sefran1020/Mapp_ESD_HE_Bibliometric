@@ -1,0 +1,808 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d3" for="node" attr.name="community" attr.type="long" />
+  <key id="d2" for="node" attr.name="total_cites" attr.type="long" />
+  <key id="d1" for="node" attr.name="frequency" attr.type="long" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Zarifjon Adilov">
+      <data key="d0">Zarifjon Adilov</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="Jurat Tajibaev">
+      <data key="d0">Jurat Tajibaev</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="Lobar Rasul-Zade">
+      <data key="d0">Lobar Rasul-Zade</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="Mustafo Tursunov">
+      <data key="d0">Mustafo Tursunov</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="Zokir Mamadiyarov">
+      <data key="d0">Zokir Mamadiyarov</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="Dadaxon Abdullayev">
+      <data key="d0">Dadaxon Abdullayev</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="Flavia Maria Esteves">
+      <data key="d0">Flavia Maria Esteves</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="Eddie Maes">
+      <data key="d0">Eddie Maes</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="Benoît Mayeur">
+      <data key="d0">Benoît Mayeur</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="Florianne Fassotte">
+      <data key="d0">Florianne Fassotte</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="Perrine Neuprez">
+      <data key="d0">Perrine Neuprez</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="S. Mertens">
+      <data key="d0">S. Mertens</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="Björn‐Olav Dozo">
+      <data key="d0">Björn‐Olav Dozo</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="Valérie Defaweux">
+      <data key="d0">Valérie Defaweux</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">7</data>
+    </node>
+    <node id="Xin Yun Du">
+      <data key="d0">Xin Yun Du</data>
+      <data key="d1">1</data>
+      <data key="d2">3</data>
+      <data key="d3">14</data>
+    </node>
+    <node id="Yi Bo Guan">
+      <data key="d0">Yi Bo Guan</data>
+      <data key="d1">1</data>
+      <data key="d2">3</data>
+      <data key="d3">14</data>
+    </node>
+    <node id="Tsung Shun Hsieh">
+      <data key="d0">Tsung Shun Hsieh</data>
+      <data key="d1">1</data>
+      <data key="d2">3</data>
+      <data key="d3">14</data>
+    </node>
+    <node id="А. Abdildauly">
+      <data key="d0">А. Abdildauly</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">10</data>
+    </node>
+    <node id="A. S. Bakhtaulova">
+      <data key="d0">A. S. Bakhtaulova</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">10</data>
+    </node>
+    <node id="D. Mukasheva">
+      <data key="d0">D. Mukasheva</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">10</data>
+    </node>
+    <node id="Michael Haas">
+      <data key="d0">Michael Haas</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">10</data>
+    </node>
+    <node id="Mirela Blaga">
+      <data key="d0">Mirela Blaga</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">16</data>
+    </node>
+    <node id="Dirk Hofer">
+      <data key="d0">Dirk Hofer</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">16</data>
+    </node>
+    <node id="Annemarie Grundmeier">
+      <data key="d0">Annemarie Grundmeier</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">16</data>
+    </node>
+    <node id="Deniz Köksal">
+      <data key="d0">Deniz Köksal</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">16</data>
+    </node>
+    <node id="Jochen Strähle">
+      <data key="d0">Jochen Strähle</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">16</data>
+    </node>
+    <node id="Zlatina Kazlacheva">
+      <data key="d0">Zlatina Kazlacheva</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">16</data>
+    </node>
+    <node id="Zlatin Zlatev">
+      <data key="d0">Zlatin Zlatev</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">16</data>
+    </node>
+    <node id="Laura Bartolomé-Quevedo">
+      <data key="d0">Laura Bartolomé-Quevedo</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">18</data>
+    </node>
+    <node id="Juan Manuel Campos-Rodríguez">
+      <data key="d0">Juan Manuel Campos-Rodríguez</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">18</data>
+    </node>
+    <node id="Ignacio de Blas">
+      <data key="d0">Ignacio de Blas</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">18</data>
+    </node>
+    <node id="Marta Calleja-Duque">
+      <data key="d0">Marta Calleja-Duque</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">18</data>
+    </node>
+    <node id="David Álvarez-Antelo">
+      <data key="d0">David Álvarez-Antelo</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">18</data>
+    </node>
+    <node id="Gonzalo Parrado-Hernando">
+      <data key="d0">Gonzalo Parrado-Hernando</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">18</data>
+    </node>
+    <node id="Pedro Mauricio Acosta Castellanos">
+      <data key="d0">Pedro Mauricio Acosta Castellanos</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+    </node>
+    <node id="Araceli Queiruga‐Dios">
+      <data key="d0">Araceli Queiruga‐Dios</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+    </node>
+    <node id="Laura Gomez Araque">
+      <data key="d0">Laura Gomez Araque</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+    </node>
+    <node id="Paula Rojas Ramos">
+      <data key="d0">Paula Rojas Ramos</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+    </node>
+    <node id="Carolien van den Berg">
+      <data key="d0">Carolien van den Berg</data>
+      <data key="d1">2</data>
+      <data key="d2">4</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="Iva Prgomet">
+      <data key="d0">Iva Prgomet</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="I. Varičak">
+      <data key="d0">I. Varičak</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="M. Šavor">
+      <data key="d0">M. Šavor</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="M. Blažić">
+      <data key="d0">M. Blažić</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="Željko Prgomet">
+      <data key="d0">Željko Prgomet</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="Mara Zeltina">
+      <data key="d0">Mara Zeltina</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">6</data>
+    </node>
+    <node id="Alex Mifsud">
+      <data key="d0">Alex Mifsud</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">8</data>
+    </node>
+    <node id="Antonio Sánchez-Vázquez">
+      <data key="d0">Antonio Sánchez-Vázquez</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">8</data>
+    </node>
+    <node id="Chris William Callaghan">
+      <data key="d0">Chris William Callaghan</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">8</data>
+    </node>
+    <node id="Zhiqiang Xing">
+      <data key="d0">Zhiqiang Xing</data>
+      <data key="d1">1</data>
+      <data key="d2">3</data>
+      <data key="d3">9</data>
+    </node>
+    <node id="Letong Li">
+      <data key="d0">Letong Li</data>
+      <data key="d1">1</data>
+      <data key="d2">3</data>
+      <data key="d3">9</data>
+    </node>
+    <node id="Weibin Wang">
+      <data key="d0">Weibin Wang</data>
+      <data key="d1">1</data>
+      <data key="d2">3</data>
+      <data key="d3">9</data>
+    </node>
+    <node id="Serhii Koniukhov">
+      <data key="d0">Serhii Koniukhov</data>
+      <data key="d1">1</data>
+      <data key="d2">18</data>
+      <data key="d3">11</data>
+    </node>
+    <node id="Kateryna Osadchа">
+      <data key="d0">Kateryna Osadchа</data>
+      <data key="d1">1</data>
+      <data key="d2">18</data>
+      <data key="d3">11</data>
+    </node>
+    <node id="Tugba Karabiyik">
+      <data key="d0">Tugba Karabiyik</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">12</data>
+    </node>
+    <node id="Aparajita Jaiswal">
+      <data key="d0">Aparajita Jaiswal</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">12</data>
+    </node>
+    <node id="Paul Thomas">
+      <data key="d0">Paul Thomas</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">12</data>
+    </node>
+    <node id="Torsten Masseck">
+      <data key="d0">Torsten Masseck</data>
+      <data key="d1">1</data>
+      <data key="d2">42</data>
+      <data key="d3">13</data>
+    </node>
+    <node id="Maja Melballe Jensen">
+      <data key="d0">Maja Melballe Jensen</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">15</data>
+    </node>
+    <node id="Marianne Georgsen">
+      <data key="d0">Marianne Georgsen</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">15</data>
+    </node>
+    <node id="Michal Pilgaard">
+      <data key="d0">Michal Pilgaard</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+      <data key="d3">15</data>
+    </node>
+    <node id="Natalia Shchitova">
+      <data key="d0">Natalia Shchitova</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">17</data>
+    </node>
+    <node id="Vitaly Belozerov">
+      <data key="d0">Vitaly Belozerov</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">17</data>
+    </node>
+    <node id="Julia Zolnikova">
+      <data key="d0">Julia Zolnikova</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">17</data>
+    </node>
+    <node id="S. Cravero">
+      <data key="d0">S. Cravero</data>
+      <data key="d1">1</data>
+      <data key="d2">9</data>
+      <data key="d3">0</data>
+    </node>
+    <node id="Francesco Strada">
+      <data key="d0">Francesco Strada</data>
+      <data key="d1">1</data>
+      <data key="d2">9</data>
+      <data key="d3">0</data>
+    </node>
+    <node id="Isabella Maria Lami">
+      <data key="d0">Isabella Maria Lami</data>
+      <data key="d1">1</data>
+      <data key="d2">9</data>
+      <data key="d3">0</data>
+    </node>
+    <node id="A. Bottino">
+      <data key="d0">A. Bottino</data>
+      <data key="d1">1</data>
+      <data key="d2">9</data>
+      <data key="d3">0</data>
+    </node>
+    <node id="Iris Schmidberger">
+      <data key="d0">Iris Schmidberger</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </node>
+    <node id="Sven Wippermann">
+      <data key="d0">Sven Wippermann</data>
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </node>
+    <edge source="Zarifjon Adilov" target="Jurat Tajibaev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zarifjon Adilov" target="Lobar Rasul-Zade">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zarifjon Adilov" target="Mustafo Tursunov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zarifjon Adilov" target="Zokir Mamadiyarov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zarifjon Adilov" target="Dadaxon Abdullayev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jurat Tajibaev" target="Lobar Rasul-Zade">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jurat Tajibaev" target="Mustafo Tursunov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jurat Tajibaev" target="Zokir Mamadiyarov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jurat Tajibaev" target="Dadaxon Abdullayev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Lobar Rasul-Zade" target="Mustafo Tursunov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Lobar Rasul-Zade" target="Zokir Mamadiyarov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Lobar Rasul-Zade" target="Dadaxon Abdullayev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mustafo Tursunov" target="Zokir Mamadiyarov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mustafo Tursunov" target="Dadaxon Abdullayev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zokir Mamadiyarov" target="Dadaxon Abdullayev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Flavia Maria Esteves" target="Eddie Maes">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Flavia Maria Esteves" target="Benoît Mayeur">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Flavia Maria Esteves" target="Florianne Fassotte">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Flavia Maria Esteves" target="Perrine Neuprez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Flavia Maria Esteves" target="S. Mertens">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Flavia Maria Esteves" target="Björn‐Olav Dozo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Flavia Maria Esteves" target="Valérie Defaweux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eddie Maes" target="Benoît Mayeur">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eddie Maes" target="Florianne Fassotte">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eddie Maes" target="Perrine Neuprez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eddie Maes" target="S. Mertens">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eddie Maes" target="Björn‐Olav Dozo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eddie Maes" target="Valérie Defaweux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benoît Mayeur" target="Florianne Fassotte">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benoît Mayeur" target="Perrine Neuprez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benoît Mayeur" target="S. Mertens">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benoît Mayeur" target="Björn‐Olav Dozo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benoît Mayeur" target="Valérie Defaweux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Florianne Fassotte" target="Perrine Neuprez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Florianne Fassotte" target="S. Mertens">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Florianne Fassotte" target="Björn‐Olav Dozo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Florianne Fassotte" target="Valérie Defaweux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Perrine Neuprez" target="S. Mertens">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Perrine Neuprez" target="Björn‐Olav Dozo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Perrine Neuprez" target="Valérie Defaweux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="S. Mertens" target="Björn‐Olav Dozo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="S. Mertens" target="Valérie Defaweux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Björn‐Olav Dozo" target="Valérie Defaweux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Xin Yun Du" target="Yi Bo Guan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Xin Yun Du" target="Tsung Shun Hsieh">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Yi Bo Guan" target="Tsung Shun Hsieh">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="А. Abdildauly" target="A. S. Bakhtaulova">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="А. Abdildauly" target="D. Mukasheva">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="А. Abdildauly" target="Michael Haas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="A. S. Bakhtaulova" target="D. Mukasheva">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="A. S. Bakhtaulova" target="Michael Haas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="D. Mukasheva" target="Michael Haas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mirela Blaga" target="Dirk Hofer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mirela Blaga" target="Annemarie Grundmeier">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mirela Blaga" target="Deniz Köksal">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mirela Blaga" target="Jochen Strähle">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mirela Blaga" target="Zlatina Kazlacheva">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mirela Blaga" target="Zlatin Zlatev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dirk Hofer" target="Annemarie Grundmeier">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dirk Hofer" target="Deniz Köksal">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dirk Hofer" target="Jochen Strähle">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dirk Hofer" target="Zlatina Kazlacheva">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dirk Hofer" target="Zlatin Zlatev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Annemarie Grundmeier" target="Deniz Köksal">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Annemarie Grundmeier" target="Jochen Strähle">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Annemarie Grundmeier" target="Zlatina Kazlacheva">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Annemarie Grundmeier" target="Zlatin Zlatev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Deniz Köksal" target="Jochen Strähle">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Deniz Köksal" target="Zlatina Kazlacheva">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Deniz Köksal" target="Zlatin Zlatev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jochen Strähle" target="Zlatina Kazlacheva">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jochen Strähle" target="Zlatin Zlatev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zlatina Kazlacheva" target="Zlatin Zlatev">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Laura Bartolomé-Quevedo" target="Juan Manuel Campos-Rodríguez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Laura Bartolomé-Quevedo" target="Ignacio de Blas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Laura Bartolomé-Quevedo" target="Marta Calleja-Duque">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Laura Bartolomé-Quevedo" target="David Álvarez-Antelo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Laura Bartolomé-Quevedo" target="Gonzalo Parrado-Hernando">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Juan Manuel Campos-Rodríguez" target="Ignacio de Blas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Juan Manuel Campos-Rodríguez" target="Marta Calleja-Duque">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Juan Manuel Campos-Rodríguez" target="David Álvarez-Antelo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Juan Manuel Campos-Rodríguez" target="Gonzalo Parrado-Hernando">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ignacio de Blas" target="Marta Calleja-Duque">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ignacio de Blas" target="David Álvarez-Antelo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ignacio de Blas" target="Gonzalo Parrado-Hernando">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Marta Calleja-Duque" target="David Álvarez-Antelo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Marta Calleja-Duque" target="Gonzalo Parrado-Hernando">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="David Álvarez-Antelo" target="Gonzalo Parrado-Hernando">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Pedro Mauricio Acosta Castellanos" target="Araceli Queiruga‐Dios">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Pedro Mauricio Acosta Castellanos" target="Laura Gomez Araque">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Pedro Mauricio Acosta Castellanos" target="Paula Rojas Ramos">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Araceli Queiruga‐Dios" target="Laura Gomez Araque">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Araceli Queiruga‐Dios" target="Paula Rojas Ramos">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Laura Gomez Araque" target="Paula Rojas Ramos">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Carolien van den Berg" target="Carolien van den Berg">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Iva Prgomet" target="I. Varičak">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Iva Prgomet" target="M. Šavor">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Iva Prgomet" target="M. Blažić">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Iva Prgomet" target="Željko Prgomet">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="I. Varičak" target="M. Šavor">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="I. Varičak" target="M. Blažić">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="I. Varičak" target="Željko Prgomet">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="M. Šavor" target="M. Blažić">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="M. Šavor" target="Željko Prgomet">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="M. Blažić" target="Željko Prgomet">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Alex Mifsud" target="Antonio Sánchez-Vázquez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Alex Mifsud" target="Chris William Callaghan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Antonio Sánchez-Vázquez" target="Chris William Callaghan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zhiqiang Xing" target="Letong Li">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zhiqiang Xing" target="Weibin Wang">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Letong Li" target="Weibin Wang">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Serhii Koniukhov" target="Kateryna Osadchа">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Tugba Karabiyik" target="Aparajita Jaiswal">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Tugba Karabiyik" target="Paul Thomas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Aparajita Jaiswal" target="Paul Thomas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Maja Melballe Jensen" target="Marianne Georgsen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Maja Melballe Jensen" target="Michal Pilgaard">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Marianne Georgsen" target="Michal Pilgaard">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Natalia Shchitova" target="Vitaly Belozerov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Natalia Shchitova" target="Julia Zolnikova">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Vitaly Belozerov" target="Julia Zolnikova">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="S. Cravero" target="Francesco Strada">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="S. Cravero" target="Isabella Maria Lami">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="S. Cravero" target="A. Bottino">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Francesco Strada" target="Isabella Maria Lami">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Francesco Strada" target="A. Bottino">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Isabella Maria Lami" target="A. Bottino">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Iris Schmidberger" target="Sven Wippermann">
+      <data key="d4">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,451 @@
+{
+  "session_id": "20260219_051153",
+  "phase": "1",
+  "batch": 6,
+  "timestamp": "2026-02-19T05:18:06.644076",
+  "data": {
+    "themes": [
+      {
+        "name": "Development of Critical Thinking Skills",
+        "definition": "Enhanced ability to systematically analyze problems, evaluate arguments, and generate logical reasoning through AI integration in educational practices. The theme focuses on methods that explicitly train students in analytical approaches, evidence evaluation, and argument construction.",
+        "evidence": [
+          "[Rattanakha2025a] 'enhance students’ analytical thinking and curiosity... systematic manner'",
+          "[Butarbutar2025] 'Significant improvements in debate performance with mean scores of 77.45 for content'",
+          "[Zhang2025d] 'fostering critical thinking and ethical awareness through interactive AI-powered modules'"
+        ],
+        "articles": [
+          "Rattanakha2025a",
+          "Butarbutar2025",
+          "Zhang2025d",
+          "Huang2025b",
+          "Sánchez-Guerrero2024",
+          "Rovira-Collado2025",
+          "Chiu2025",
+          "Bouamor2025",
+          "Cai2025",
+          "Yang2025b",
+          "Dmitrenko2025",
+          "Elmouhtadi2025",
+          "Lin2025d",
+          "Gil-Ruíz2025",
+          "Huang2026b",
+          "Wei2025",
+          "Grande2024",
+          "Zhan2025",
+          "Wei2024",
+          "Hussein2025",
+          "Bernetti2024",
+          "Shi2025",
+          "Suyidno2025",
+          "Arnecke2024",
+          "Chiang2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Analytical reasoning",
+          "Argumentation skills",
+          "Problem-solving frameworks"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Generative AI in Creative Pedagogy",
+        "definition": "Use of AI tools to enhance creative output while maintaining human agency in artistic, design, or narrative creation. This involves structured methods combining AI-generated content with human refinement across fields like advertising, music, and scientific writing.",
+        "evidence": [
+          "[Cai2025] 'AR-based embodied conversational agent significantly enhanced students’ critical thinking and inquisitiveness'",
+          "[Wei2025] 'AIGC significantly enhances creativity... while cautioning against machine bias'",
+          "[Arnecke2024] 'Interactive model stimulates critical thinking about musical style and authenticity'"
+        ],
+        "articles": [
+          "Cai2025",
+          "Wei2025",
+          "Arnecke2024",
+          "Rovira-Collado2025",
+          "Chiu2025",
+          "Wei2024",
+          "Chiang2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Human-AI collaboration",
+          "AI-assisted design",
+          "Creative refinement"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Metacognitive and Reflective Learning",
+        "definition": "Strategies that explicitly improve students’ awareness of their cognitive processes, including self-monitoring and strategic adjustment of learning approaches through AI-assisted reflection.",
+        "evidence": [
+          "[Khotimah2024] 'Meta-learning enables students to comprehend their own learning processes'",
+          "[Huang2026b] 'ChatGPT supports reflective learning through structured stages of goal setting and evaluation'",
+          "[Lin2025d] 'Selective use of GenAI tools highlights student agency in decision-making processes'"
+        ],
+        "articles": [
+          "Khotimah2024",
+          "Huang2026b",
+          "Lin2025d",
+          "Yang2025b",
+          "Chiang2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-regulated learning",
+          "Learning strategies",
+          "Metacognitive awareness"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical AI Literacy Development",
+        "definition": "Educational approaches that integrate ethical considerations of AI usage, particularly focusing on digital literacy, responsible innovation, and critical awareness of AI limitations.",
+        "evidence": [
+          "[Zhang2025d] 'Platform for Deepfake-related ethics education in middle schools'",
+          "[Grande2024] 'Students identified limitations of Large Language Models in ethical reasoning'",
+          "[Hasanudin2026] 'Increased awareness of copyright and ethical issues in AI-assisted design'"
+        ],
+        "articles": [
+          "Zhang2025d",
+          "Grande2024",
+          "Hasanudin2026",
+          "Wei2024",
+          "Elmouhtadi2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Algorithmic bias awareness",
+          "Responsible AI use",
+          "Digital ethics"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Collaborative AI-Enhanced Learning",
+        "definition": "Pedagogical designs that utilize AI tools to facilitate group dynamics, peer interaction, and collective problem-solving while maintaining social accountability.",
+        "evidence": [
+          "[Rattanakha2025a] 'Students encouraged to do activities in small groups in virtual environments'",
+          "[Shi2025] 'Multi-agent mock trials enhance perspective-taking and collaborative reasoning'",
+          "[Suyidno2025] 'Local wisdom integration strengthened sustainability awareness through collaborative learning'"
+        ],
+        "articles": [
+          "Rattanakha2025a",
+          "Shi2025",
+          "Suyidno2025",
+          "Bouamor2025",
+          "Bernetti2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Group problem-solving",
+          "AI-mediated discussion",
+          "Social learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "AI-Augmented Technical Skill Acquisition",
+        "definition": "AI integration to develop technical proficiency in programming, database management, and scientific analysis while addressing knowledge gaps through adaptive feedback.",
+        "evidence": [
+          "[Zhan2025] 'ChatGPT provides immediate feedback for SQL query generation and database maintenance'",
+          "[Bouamor2025] 'GenAI tools significantly improve programming task completion'",
+          "[Hussein2025] 'Experimental group showed 15% improvement in problem-solving abilities'"
+        ],
+        "articles": [
+          "Zhan2025",
+          "Bouamor2025",
+          "Hussein2025",
+          "Butarbutar2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Error analysis",
+          "Code refinement",
+          "Technical literacy"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Critical thinking development appears universally emphasized, though with varying operationalizations (debate, scientific reasoning, technical analysis). Ethical considerations often intersect with creative applications, particularly in design fields. Several studies demonstrate longitudinal AI integration beyond single interventions. Notably, seven studies explicitly reference both generative AI and critical thinking, suggesting a strong current research focus.",
+    "grounding_notes": "While many articles discuss 'critical thinking', operationalizations vary from debate skills to algorithmic reasoning without consensus on measurement. 'Creative' applications are often conflated with novelty generation rather than originality assessment. Multiple articles lacked quantitative data, relying solely on self-reported outcomes. Some thematic elements (e.g., 'digital citizenship') were implied but not explicitly stated in abstracts.",
+    "_hallucination_control": {
+      "total_themes": 6,
+      "avg_grounding_score": 0.41,
+      "total_hallucination_flags": 15,
+      "verification_details": [
+        {
+          "theme_name": "Development of Critical Thinking Skills",
+          "evidence_verified": [
+            {
+              "quote": "[Butarbutar2025] 'Significant improvements in debate performance with mean scores of 77.45 for content'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Rattanakha2025a] 'enhance students’ analytical thinking and curiosity... systematic manner'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Zhang2025d] 'fostering critical thinking and ethical awareness through interactive AI-powered modules'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Rattanakha2025a",
+            "Butarbutar2025",
+            "Zhang2025d",
+            "Huang2025b",
+            "Sánchez-Guerrero2024",
+            "Rovira-Collado2025",
+            "Chiu2025",
+            "Bouamor2025",
+            "Cai2025",
+            "Yang2025b",
+            "Dmitrenko2025",
+            "Elmouhtadi2025",
+            "Lin2025d",
+            "Gil-Ruíz2025",
+            "Huang2026b",
+            "Wei2025",
+            "Grande2024",
+            "Zhan2025",
+            "Wei2024",
+            "Hussein2025",
+            "Bernetti2024",
+            "Shi2025",
+            "Suyidno2025",
+            "Arnecke2024",
+            "Chiang2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[Rattanakha2025a] 'enhance students’ analytical th...'",
+            "Quote not found in source texts (score=0.50): '[Zhang2025d] 'fostering critical thinking and ethi...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Generative AI in Creative Pedagogy",
+          "evidence_verified": [
+            {
+              "quote": "[Cai2025] 'AR-based embodied conversational agent significantly enhanced students’ critical thinking and inquisitiveness'",
+              "score": 0.77,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Wei2025] 'AIGC significantly enhances creativity... while cautioning against machine bias'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Arnecke2024] 'Interactive model stimulates critical thinking about musical style and authenticity'",
+              "score": 0.45,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Cai2025",
+            "Wei2025",
+            "Arnecke2024",
+            "Rovira-Collado2025",
+            "Chiu2025",
+            "Wei2024",
+            "Chiang2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[Wei2025] 'AIGC significantly enhances creativity....'",
+            "Quote not found in source texts (score=0.45): '[Arnecke2024] 'Interactive model stimulates critic...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Metacognitive and Reflective Learning",
+          "evidence_verified": [
+            {
+              "quote": "[Khotimah2024] 'Meta-learning enables students to comprehend their own learning processes'",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Huang2026b] 'ChatGPT supports reflective learning through structured stages of goal setting and evaluation'",
+              "score": 0.31,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Lin2025d] 'Selective use of GenAI tools highlights student agency in decision-making processes'",
+              "score": 0.38,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Khotimah2024",
+            "Huang2026b",
+            "Lin2025d",
+            "Yang2025b",
+            "Chiang2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.31): '[Huang2026b] 'ChatGPT supports reflective learning...'",
+            "Quote not found in source texts (score=0.38): '[Lin2025d] 'Selective use of GenAI tools highlight...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical AI Literacy Development",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Zhang2025d] 'Platform for Deepfake-related ethics education in middle schools'",
+              "score": 0.3,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Grande2024] 'Students identified limitations of Large Language Models in ethical reasoning'",
+              "score": 0.36,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Hasanudin2026] 'Increased awareness of copyright and ethical issues in AI-assisted design'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Zhang2025d",
+            "Grande2024",
+            "Hasanudin2026",
+            "Wei2024",
+            "Elmouhtadi2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.30): '[Zhang2025d] 'Platform for Deepfake-related ethics...'",
+            "Quote not found in source texts (score=0.36): '[Grande2024] 'Students identified limitations of L...'",
+            "Quote not found in source texts (score=0.50): '[Hasanudin2026] 'Increased awareness of copyright ...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Collaborative AI-Enhanced Learning",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Rattanakha2025a] 'Students encouraged to do activities in small groups in virtual environments'",
+              "score": 0.58,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Shi2025] 'Multi-agent mock trials enhance perspective-taking and collaborative reasoning'",
+              "score": 0.27,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Suyidno2025] 'Local wisdom integration strengthened sustainability awareness through collaborative learning'",
+              "score": 0.2,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Rattanakha2025a",
+            "Shi2025",
+            "Suyidno2025",
+            "Bouamor2025",
+            "Bernetti2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.58): '[Rattanakha2025a] 'Students encouraged to do activ...'",
+            "Quote not found in source texts (score=0.27): '[Shi2025] 'Multi-agent mock trials enhance perspec...'",
+            "Quote not found in source texts (score=0.20): '[Suyidno2025] 'Local wisdom integration strengthen...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Augmented Technical Skill Acquisition",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Zhan2025] 'ChatGPT provides immediate feedback for SQL query generation and database maintenance'",
+              "score": 0.17,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Bouamor2025] 'GenAI tools significantly improve programming task completion'",
+              "score": 0.38,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Hussein2025] 'Experimental group showed 15% improvement in problem-solving abilities'",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Zhan2025",
+            "Bouamor2025",
+            "Hussein2025",
+            "Butarbutar2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.17): '[Zhan2025] 'ChatGPT provides immediate feedback fo...'",
+            "Quote not found in source texts (score=0.38): '[Bouamor2025] 'GenAI tools significantly improve p...'",
+            "Quote not found in source texts (score=0.50): '[Hussein2025] 'Experimental group showed 15% impro...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,527 @@
+EXAMPLE: 1
+TITLE: Empowering Non-Academic Staff for the Implementation of Sustainability in Higher Education Institutions
+ABSTRACT: Sustainability within higher education institutions (HEIs) is a well-established topic in the literature. Many fields of education for sustainable development have been explored, mainly focused on HEI students, as well as on academic staff. The technical, administrative, and management staff, referred to as non-academic staff has not received as much attention as the remaining HEI community, which leaves a gap in the successful implementation of sustainability practices and policies, as they play a vital and central role in the HEIs’ everyday functioning. Hence, the EUSTEPs project launched two sustainability training courses dedicated exclusively to this segment of the university community, aiming to increase their knowledge on facts and tools for the best sustainability transition. The first short-term online training, organized by the University of Aveiro and Universidade Aberta, Portugal, was run in May 2021. The training targeted 27 non-academic staff from different sectors. The second online training course was implemented one year later and involved 17 elements from the previous training. The results showed very high levels of overall satisfaction and full achievement of the participants’ expectations in sustainability issues. The non-academic staff learned and discussed the human–environment relationship, tracked and discussed their personal ecological footprint in the workspace, actively participated on how to run the university ecological footprint calculator, developed within the EUSTEPs project, and felt mobilized to implement actions to reduce their university’s environmental impacts (as well as in their general daily activities). Similar training programs can be used to empower non-academic staff for the implementation of sustainability in other higher education institutions, hence contributing to a successful integrated sustainability approach for the whole school.
+DECISION: INCLUDE
+SCORE: 0.74
+JUSTIFICATION: P-HEI Context: CUMPLE | Explicitly situated in higher education
+  institutions (University of Aveiro, Universidade Aberta);
+  non-academic staff as target population — underexplored segment
+  within the HEI sustainability literature.
+  I-ESD Framework: CUMPLE | Sustainability training courses
+  (EUSTEPs project) addressing knowledge, ecological footprint
+  awareness, and behavioral mobilization — aligned with ESD as
+  institutional transformation.
+  C-Comparison: PARCIAL | Pre-post expectations vs. outcomes
+  reported; no control group; single-country context (Portugal).
+  O-Outcome: CUMPLE | Sustainability knowledge and ecological
+  footprint competency development measured via satisfaction
+  and expectation fulfillment instruments.
+
+All four PICO criteria met. Relevant contribution to
+whole-institution ESD approach and curriculum greening beyond
+academic staff. Limitations flagged: small samples (n=27, n=17),
+self-reported satisfaction as primary outcome without validated
+competency instrument, limited generalizability. Full-text
+should verify alignment with recognized ESD competency framework.
+
+---
+EXAMPLE: 2
+TITLE: Rehabilitation using virtual gaming for Hospital and hOMe-Based training for the Upper limb post Stroke (RHOMBUS II): protocol of a feasibility randomised controlled trial
+ABSTRACT: ntroduction Upper limb (UL) rehabilitation is most effective early after stroke, with higher doses leading to improved outcomes. For the stroke survivor, the repetition may be monotonous. For clinicians, providing a clinically meaningful level of input can be challenging. As such, time spent engaged in UL activity among subacute stroke survivors remains inadequate. Opportunities for the stroke survivor to engage with UL rehabilitation in a safe, accessible and engaging way are essential to improving UL outcomes following stroke. The NeuroBall is a non-immersive virtual reality (VR) digital system designed for stroke rehabilitation, specifically for the arm and hand. The aim of the Rehabilitation using virtual gaming for Hospital and hOMe-Based training for the Upper limb post Stroke study is to determine the safety, feasibility and acceptability of the NeuroBall as a rehabilitation intervention for the UL in subacute stroke. Methods and analysis A feasibility randomised controlled trial (RCT) will compare the NeuroBall plus usual care with usual care only, in supporting UL rehabilitation over 7 weeks. Twenty-four participants in the subacute poststroke phase will be recruited while on the inpatient or early supported discharge (ESD) stroke pathway. Sixteen participants will be randomised to the intervention group and eight to the control group. Outcomes assessed at baseline and 7 weeks include gross level of disability, arm function, spasticity, pain, fatigue and quality of life (QoL). Safety will be assessed by recording adverse events and using pain, spasticity and fatigue scores. A parallel process evaluation will assess feasibility and acceptability of the intervention. Feasibility will also be determined by assessing fidelity to the intervention. Postintervention, semistructured interviews will be used to explore acceptability with 12 participants from the intervention group, four from the usual care group and with up to nine staff involved in delivering the intervention.
+DECISION: EXCLUDE
+SCORE: 0.0
+EXCLUSION_CATEGORY: out_of_scope_domain
+JUSTIFICATION: P-HEI/VET Context: NO CUMPLE | Study population is subacute
+  stroke survivors in clinical rehabilitation settings —
+  no educational institution, student, educator, or
+  training program involved.
+  I-ESD Framework: NO CUMPLE | Intervention is a non-immersive
+  virtual reality device (NeuroBall) for upper limb motor
+  rehabilitation — zero connection to ESD, climate literacy,
+  green skills, or sustainability literacy.
+  C-Comparison: N/A | Comparison is NeuroBall vs. usual
+  clinical care — irrelevant to review framework.
+  O-Outcome: NO CUMPLE | Outcomes are arm function, spasticity,
+  pain, fatigue, and quality of life — no sustainability
+  competency, environmental knowledge, or educational
+  outcome measured.
+
+Note: "ESD" in the abstract refers to Early Supported
+Discharge (stroke pathway) — canonical false positive
+from the ESD acrónimo identified during chain construction.
+Confirms the risk flagged in the bibliometric protocol.
+Zero PICO criteria met. Excluded with maximum confidence.
+
+---
+EXAMPLE: 3
+TITLE: The Impact of the Sand Table Simulation Teaching Method on Secondary Vocational Students' Sustainable Practical Competencies: An Empirical Study on Engineering Bidding Instruction
+ABSTRACT: Against the backdrop of the global sustainable development agenda and China’s “dual carbon” strategy, vocational education confronts an urgent mandate to nurture talents with professional proficiency and sustainable literacy. Thus, this study innovatively employed the sand table simulation teaching method in the secondary vocational course “Engineering Bidding and Contract Management”, integrating sustainability principles such as green procurement and life cycle cost analysis within a structured “learning–thinking–acting–reflecting” framework. The study aims to empirically explore the impact of this approach on the sustainable practice capabilities of secondary vocational students. Using a single-group pretest–posttest design, a 16-week intervention was conducted with 40 students. Data were collected via questionnaires, interviews, observations, and professional assessments, analyzed via paired t-tests. The results show that the method significantly enhanced students’ sustainable practical competencies: all posttest dimension scores exceeded pretest scores (p < 0.05, Cohen’s d = 2.201). This study verifies the effectiveness of sand table simulation teaching method in sustainable education and expands its application to engineering secondary vocational courses. It also provides a situational and operational teaching paradigm and empirical support for the integration of vocational education with SDGs.
+DECISION: INCLUDE
+SCORE: 0.61
+JUSTIFICATION: INCLUDE (CONDITIONAL)
+P-VET Context: PARCIAL | Secondary vocational students in China
+  (engineering bidding course) — VET context confirmed but at
+  secondary level, below the tertiary/post-secondary threshold
+  of the review's PICO. Flag for full-text eligibility decision.
+  I-ESD Framework: CUMPLE | Sand table simulation integrating
+  green procurement and life cycle cost analysis within a
+  structured pedagogical framework; explicit connection to SDGs
+  and China's dual carbon strategy — sustainability literacy
+  operationalized within vocational curriculum.
+  C-Comparison: PARCIAL | Single-group pretest-posttest design
+  (n=40), no control group; paired t-tests with Cohen's d
+  reported — methodologically limited but transparent.
+  O-Outcome: CUMPLE | Sustainable practical competencies measured
+  via multi-instrument validated approach (questionnaire,
+  interview, observation, professional assessment); statistically
+  significant results (p<0.05, d=2.201).
+
+Strong ESD-VET integration and robust outcome measurement.
+Primary eligibility risk: secondary (not tertiary) vocational
+level. Full-text review must determine whether the institution
+qualifies within the review's VET scope definition.
+
+---
+EXAMPLE: 4
+TITLE: Effects of Solutions Centered Climate Education on Youth Beliefs and Behaviors: The University of California's Bending the Curve Course
+ABSTRACT: Per the United Nations, enhancing climate literacy can play an essential role in advancing climate mitigation, adaptation, and promoting sustainable human behaviors. Yet, there is a lack of empirical research explicitly studying the effects of climate solutions focused education. Here, we studied the effects of a climate solutions focused course—the University of California Bending the Curve (BtC) course on: (1) climate change beliefs, (2) personal pro-environmental actions, and (3) psychological health, using baseline and post-course surveys. A total of 374 youth (median age 21 ± 1.7 years, 63% female) participated in the study, and data analysis focused on statistically comparing pre- versus post-course survey-based data. We observed that the BtC course enhanced climate change beliefs. Specifically, at post-relative to pre-course, we observed significantly increased belief that global warming will impact individuals personally as well as impact our future generations; it tripled the number of students who believe that humans can and will act to reduce global warming; it significantly increased the number of individuals who believe in a scientific basis for climate change. Notably, climate solutions education also enhanced belief in the efficacy of personal climate action and increased agreement amongst youth that many of their friends also share the same views on global warming. With regard to personal pro-environmental actions, the course significantly improved self-reported actions, including waste reduction, making food choices with reduced emissions, and purchase of carbon offsets. These actions reduced the carbon footprint per student at post- vs. pre-course by a significant 0.3 ± 0.1 CO<inf>2</inf> tons/year, which is equivalent to the CO<inf>2</inf> absorbed by about 15 trees per year. While psychological health outcomes did not show any significant post- vs. pre-course change, we found that enhanced personal pro-environmental actions as well as enhanced psychological health were predicted by course-related strengthening of climate change beliefs. Overall, our findings provide evidence that solutions-based climate education can be an important strategy to enhance individual climate change awareness as well as personal pro-environmental actions that lead to significant individual carbon footprint reduction, with potential for widespread scale-up.
+DECISION: INCLUDE
+SCORE: 0.89
+JUSTIFICATION: JUSTIFICATION:
+P-HEI Context: CUMPLE | University of California undergraduate
+  students (n=374, median age 21); formal higher education
+  course — fully within PICO institutional scope.
+  I-Climate Literacy: CUMPLE | Solutions-focused climate
+  education course explicitly designed to enhance climate
+  literacy (beliefs, efficacy, scientific consensus) —
+  direct operationalization of the review's core construct;
+  aligned with UNESCO climate literacy dimensions (scientific,
+  civic, and behavioral).
+  C-Comparison: CUMPLE | Pretest-posttest design with
+  statistical comparison (pre vs. post); quantified carbon
+  footprint reduction (0.3 CO₂ tons/year/student) provides
+  objective behavioral outcome beyond self-report.
+  O-Outcome: CUMPLE | Multi-dimensional measurement: climate
+  beliefs, pro-environmental behaviors, psychological health,
+  and carbon footprint reduction — among the most complete
+  outcome operationalizations identified in this corpus.
+
+Highest-confidence inclusion in current screening batch.
+Rare empirical study combining climate literacy, behavioral
+outcomes, and quantified environmental impact in HEI context.
+Limitations: single-institution, self-reported behavioral
+data, no control group. Full-text should verify validated
+instrument use and course replicability across institutions.
+
+---
+EXAMPLE: 5
+TITLE: The Use of Different Translation Devices to Analyze Knowledge-Building in a University Chemistry Classroom
+ABSTRACT: This research draws on Legitimation Code Theory (LCT) to understand the epistemic dimension of the higher education classroom discourse of a professor who is well evaluated by his students. In expository science classroom discourse, concepts are loaded with different meanings, a process that is called “condensation of meanings” in LCT, and are expressed using the concept of epistemic semantic density (ESD). The ESD can vary in classroom discourse, generating what is called a semantic wave in the LCT context. In this work, we initially compare two different translation devices, which are ways of systematically exploring the characteristics of the knowledge expressed in the classroom and how they vary, generating semantic waves. We were able to observe the strengths and weaknesses of both devices. They proved to be powerful tools in revealing how the complexity of science knowledge varies in a lesson. However, neither one demonstrates how meanings are connected in the lesson or how the semantic density of a particular concept changes over time. In this sense, we explore how everyday words at times become loaded with technical meaning when other concepts are connected to them. To achieve that, we use third device based on network science, an approach that analyzes and represents the systems of interactions of a wide range of physical and social phenomena. This allows us to evaluate how a term commonly used in everyday language, such as “lamp,” can play a central role in the construction of meanings related to the episteme of chemistry. In addition, while LCT assumes that semantic waves necessarily optimize learning, the results obtained herein revealed that constellation of meanings does not directly relate to semantic waves.
+DECISION: EXCLUDE
+SCORE: 0.03
+EXCLUSION_CATEGORY: false_positive_ESD_acronym
+JUSTIFICATION: P-HEI Context: PARCIAL | University chemistry classroom —
+  higher education setting confirmed, but sustainability
+  education is entirely absent from the study's purpose.
+  I-ESD Framework: NO CUMPLE | "ESD" throughout the abstract
+  refers exclusively to Epistemic Semantic Density — a
+  construct from Legitimation Code Theory (LCT) applied
+  to chemistry discourse analysis. Zero connection to
+  Education for Sustainable Development, climate literacy,
+  green skills, or sustainability literacy.
+  C-Comparison: N/A | Comparison between translation devices
+  for semantic wave analysis — irrelevant to review framework.
+  O-Outcome: NO CUMPLE | Outcomes are knowledge-building
+  patterns and semantic density variation in chemistry
+  instruction — no sustainability competency or
+  environmental outcome measured.
+
+Canonical false positive of the ESD acronym confirmed —
+identical retrieval mechanism to the RHOMBUS II stroke
+rehabilitation case (Early Supported Discharge). Both
+validate the acrónimo contamination risk flagged during
+chain construction. Zero PICO criteria met.
+Excluded with maximum confidence.
+
+---
+EXAMPLE: 6
+TITLE: Visualizing Status, Hotspots, and Future Trends in Mathematical Literacy Research via Knowledge Graph
+ABSTRACT: The goal of education for sustainable development is to prepare future citizens to make informed decisions and take responsible action to solve problems. The purpose of mathematical literacy is to ensure that all learners develop an understanding of mathematics, and how to relate mathematics to the world and use mathematical knowledge to make valuable decisions in their lives, work, and society. It can be seen that the purpose of mathematical literacy coincides with the goal of education for sustainable development. In addition, math literacy is closely related to self-regulated learning (SRL), which is the key to meaningful learning and sustainable development. In educational research, it is an essential task to cultivate learners’ mathematical literacy and promote their sustainable development. With the rapid growth of emerging technologies, the emergence of big data has brought numerous challenges to various research fields. In the age of big data, educational research that can identify research perspectives and hotspots and summarize research evolution rules from a large body of literature can assist us in deepening subsequent analysis. As a result, in this study, we used CiteSpace and HistCite knowledge map visualization and exploration technology to examine mathematical literacy research trends, major research countries and regions, major research institutions, significant researchers, highly cited papers, research hotspots, and evolution trends on a global scale. Through this study, we found that the earliest literature on mathematical literacy appeared in 1957, and the research on mathematical literacy can be divided into three germination stages (1957–2001), a slow development stage (2001–2011), and a prosperous development stage (2011–2022). Most studies come from developed countries such as the US, the UK, Germany, and Australia. The Universities of Utrecht and Purdue University were the most published institutions, and scholars at Purpura published the most articles. The research object of highly cited literature is mainly children, and the research is primarily carried out through the measurement of students’ mathematical ability and achievement and the analysis of related influencing factors, which provides a direction for how to improve students’ mathematical literacy. The research on mathematical literacy mainly includes four research hotspots: working memory and mathematical literacy; brain science and mathematical literacy; mathematical achievement and mathematical literacy; and the generation strategy of mathematical literacy. The research field of mathematics literacy mainly includes working memory, parietal cortex, math performance, mathematics education, early childhood, parental belief, fractions, cognitive development, and student learning. There are 10 clusters. Different clusters have different evolutionary trends. With the evolution of time, working memory, mathematical education, fractions, and precinct beliefs clustered, gradually expanding from the concentrated research direction to the subdivision field. The clusters of parietal cortex, math performance, early childhood, cognitive development, and students do not show large keyword nodes during the research period. With time, it has gradually expanded from the centralized research direction to the subdivision field. The parietal cortex, math performance, early childhood, cognitive development, and students clusters did not show large keyword nodes during the whole study period.
+DECISION: EXCLUDE
+SCORE: 0.08
+EXCLUSION_CATEGORY: peripheral_ESD_mention
+JUSTIFICATION: P-HEI/VET Context: NO CUMPLE | Research objects are primarily
+  children and K-12 students; higher education appears only
+  as an institutional affiliation of researchers, not as
+  the educational context under study.
+  I-ESD Framework: NO CUMPLE | ESD appears solely in the
+  opening sentence as rhetorical justification for
+  mathematical literacy's importance — not as an
+  intervention, framework, or analytical construct.
+  The study's core subject is mathematical literacy
+  research trends via CiteSpace/HistCite bibliometric
+  mapping, with no sustainability education content.
+  C-Comparison: N/A | Bibliometric temporal comparison
+  of mathematical literacy literature — no ESD
+  pedagogical comparison conducted.
+  O-Outcome: NO CUMPLE | Outcomes are research hotspots,
+  citation patterns, and knowledge clusters in mathematics
+  education — no sustainability competency, climate
+  literacy, or green skills outcome measured.
+
+Distinct false positive pattern from prior cases:
+not an acronym collision but a peripheral ESD citation
+used as rhetorical framing without substantive engagement.
+Documents a third retrieval noise mechanism in this corpus
+alongside acronym collision (RHOMBUS II, chemistry LCT)
+and domain contamination. Zero PICO criteria met.
+Excluded with high confidence.
+
+---
+EXAMPLE: 7
+TITLE: Addressing the Demand for Green Skills: Bridging the Gap Between University Outcomes and Industry Requirements
+ABSTRACT: The transition to a green economy requires a workforce equipped with green skills to meet the demands of sustainable development and environmental stewardship. This study investigates the alignment between university educational outcomes and industry requirements in Ireland, addressing the persistent gap in green skills. Using a mixed-methods approach, surveys were conducted with students from three Irish universities and companies across diverse sectors. The findings reveal a strong recognition of the importance of green skills among students and companies, yet significant barriers remain. Students report challenges in accessing practical learning experiences, balancing education with personal commitments, and navigating the costs of green certifications. Companies acknowledge the growing need for sustainability expertise but often fail to integrate green skills into recruitment and training strategies, citing high competition for talent and limited awareness of emerging green roles. This study highlights the need for systemic changes in both education and industry. Universities should adopt experiential learning approaches, expand industry collaborations, and ensure flexible access to green education. Companies must prioritise upskilling programmes and align hiring practices with sustainability goals. Policymakers are encouraged to foster public–private partnerships and incentivise investments in green skills development. Addressing these challenges can strengthen the country’s position as a leader in the global green transition, fostering innovation and inclusivity in its workforce.
+DECISION: INCLUDE
+SCORE: 0.91
+JUSTIFICATION: P-HEI Context: CUMPLE | Students from three Irish universities
+  and companies across diverse sectors — higher education
+  institutional scope fully confirmed; labor market
+  alignment dimension adds VET-adjacent relevance.
+  I-Green Skills Framework: CUMPLE | Green skills as primary
+  construct throughout; investigates structural gap between
+  university curriculum outcomes and industry sustainability
+  requirements — direct operationalization of the review's
+  green skills and curriculum integration focus.
+  C-Comparison: CUMPLE | Mixed-methods design comparing
+  student perceptions vs. industry requirements across
+  multiple institutions and sectors — one of the stronger
+  comparative designs identified in this screening batch.
+  O-Outcome: CUMPLE | Multi-dimensional outcomes: green
+  skills recognition, access barriers, recruitment
+  alignment, and systemic recommendations for curriculum
+  reform, upskilling, and public-private policy — directly
+  aligned with review objectives on HEI-industry green
+  transition.
+
+Highest-confidence inclusion in current batch alongside
+UC Bending the Curve. Rare empirical study triangulating
+student and employer perspectives on green skills gap
+in HEI context (Ireland, 2025). Strong policy relevance
+for European Green Deal skills agenda. Limitations:
+single-country scope, survey instruments not validated
+against recognized green skills taxonomy (CEDEFOP, ESCO).
+Full-text should verify instrument design and sectoral
+distribution of company sample.
+
+---
+EXAMPLE: 8
+TITLE: Patterns of missing data in the use of the endometriosis symptom diary
+ABSTRACT: Background: Endometriosis is a common, chronic condition in women of reproductive age that is characterized by the presence of functional endometriotic lesions outside the uterus. The Endometriosis Symptom Diary (ESD) is an electronic patient-reported outcome (ePRO) instrument that assesses women's experience of endometriosis symptoms, with pain scored using a 0-10 numeric rating scale. This study investigated patterns of data missing from the ESD in the VALEPRO study. Methods: Post hoc analyses of missing data were conducted. Results: Of 272 participants using the ESD, 26.5% had no missing diary entries, 46.7% had >0-5% of entries missing, 13.2% had >5-10% of entries missing and 13.6% had >10% of entries missing over the entire study period. The duration of missing episodes (defined as ≥1 consecutive days with missing diary entries) was generally short; most (81.4%) were 1day. The difference in mean worst pain scores between missing and complete episodes per participant was -0.1, suggesting that missing episodes were not related to severity of pain. Entries were significantly more likely to be missing on Fridays (18.5%) and Saturdays (22.9%) compared with other days of the week (p<0.0001). Participants in the USA had significantly more long missing episodes than those in Germany (proportions of missing episodes longer than 1day, 22.6 and 10.5%, respectively; p<0.0001). The proportions of women with ≥1 missing entry were 50.0, 70.2 and 79.8% for women with elementary education, secondary education, and a college or university education, respectively. The proportions of women with ≥1 missing entry were similar for those with and without children (72.2 and 74.3%, respectively). Conclusions: Most participants were highly compliant with entering data in the ESD and the amount of missing data was low. Entries were significantly more likely to be missing on Fridays and Saturdays compared with other days of the week, and participants in the USA had significantly more long missing episodes than participants in Germany.
+DECISION: EXCLUDE
+SCORE: 0.01
+EXCLUSION_CATEGORY: false_positive_ESD_acronym
+JUSTIFICATION: P-HEI/VET Context: NO CUMPLE | Study population is women
+  of reproductive age with endometriosis in clinical trial
+  settings (VALEPRO study) — no educational institution,
+  student, or training program involved.
+  I-ESD Framework: NO CUMPLE | "ESD" refers exclusively to
+  Endometriosis Symptom Diary — an electronic patient-reported
+  outcome instrument measuring pain on a 0-10 numeric scale.
+  Zero connection to Education for Sustainable Development,
+  climate literacy, green skills, or sustainability literacy.
+  C-Comparison: N/A | Comparison between missing data
+  patterns across countries (USA vs. Germany) and education
+  levels — entirely clinical and epidemiological in nature.
+  O-Outcome: NO CUMPLE | Outcomes are diary compliance,
+  missing data frequency, and pain score patterns —
+  no sustainability competency or educational outcome
+  of any kind.
+
+Fourth confirmed instance of ESD acronym false positive
+in this screening batch (prior cases: stroke rehabilitation,
+chemistry LCT, endometriosis). This case is the most
+distant from the review domain — medical/clinical setting
+with no tangential educational element. Pattern now
+statistically significant: ESD acronym contamination
+represents the dominant retrieval noise mechanism
+in this corpus, warranting consideration of acronym
+exclusion refinement in future database updates.
+Zero PICO criteria met. Excluded with maximum confidence.
+
+---
+EXAMPLE: 9
+TITLE: Leveraging educational partnerships to integrate education for sustainable development into university geoscience curriculum
+ABSTRACT: Purpose: The application of Earth Observation (EO) science to sustainable development has become increasingly accessible. This is partly due to an open science movement concurrent with increased popularity of both higher education partnerships and the concept of Education for Sustainable Development (ESD). The confluence of these movements presents a unique capacity building opportunity: to provide emerging professionals with the ability to capitalize on open EO data and software, leveraging them for sustainable development across various thematic areas. The purpose of this paper is to provide a framework and case study illustrating how academic partnerships can catalyze the integration of ESD on a small scale in postsecondary education. Design/methodology/approach: This paper presents a novel capacity building approach via the co-development of higher education curriculum by SERVIR and ITC. SERVIR is a U.S. government initiative of NASA. ITC is the University of Twente’s Faculty of Geo-Information Science and EO. This paper integrated SERVIR’s open-source EO tools into courses at ITC, building the capacity of students to apply such tools to address real-world environmental challenges. Findings: This paper provides a case study indicating that educational partnerships can strengthen the ESD approach of a Higher Education Institution (HEI) by providing local environmental challenges and open-source tools to combat those challenges, while simultaneously strengthening the capacity building strategies of both institutions. Originality/value: While educational partnerships have pursued curriculum development initiatives, the literature is limited in approaches that supplement existing courses with curriculum materials co-developed with an external partner. This paper provides a framework and case study of this smaller-scale collaboration for HEIs wishing to leverage external partners to use ESD in the higher education classroom.
+DECISION: INCLUDE
+SCORE: 0.86
+JUSTIFICATION: P-HEI Context: CUMPLE | ITC (University of Twente) and SERVIR
+  (NASA) partnership targeting postsecondary geoscience
+  students — higher education institutional scope fully
+  confirmed; international North-South collaboration dimension
+  adds geographic breadth to corpus.
+  I-ESD Framework: CUMPLE | ESD explicitly named as the
+  integration framework; co-developed curriculum using
+  open-source Earth Observation tools applied to real-world
+  environmental challenges — ESD operationalized at both
+  pedagogical and institutional partnership levels; direct
+  SDG alignment documented.
+  C-Comparison: PARCIAL | Framework and case study design;
+  originality claimed against limited prior literature on
+  small-scale external partnership curriculum co-development
+  — no control group, but comparative institutional
+  analysis present between SERVIR and ITC strategies.
+  O-Outcome: CUMPLE | Capacity building outcomes documented:
+  student ability to apply EO tools to sustainability
+  challenges, institutional ESD strengthening, and
+  replicable framework for HEI-external partner curriculum
+  integration — directly aligned with curriculum greening
+  objectives of the review.
+
+Strong ESD curriculum integration case with replicable
+framework value and rare geoscience disciplinary context —
+contributes to disciplinary diversity mapping of corpus.
+Limitations: single partnership case study, no validated
+ESD competency instrument, outcomes reported at framework
+level without individual student learning measurement.
+Full-text should verify student-level outcome data and
+scalability evidence beyond the ITC-SERVIR context.
+
+---
+EXAMPLE: 10
+TITLE: A Framework for Integrating Sustainable Development
+Concepts into the Chemistry Curriculum Towards Achieving
+Education for Sustainable Development in Malaysia
+ABSTRACT: Purpose: In Malaysia, research indicates that there is an interest amongst the stakeholders, namely, administrators and academicians to be engaged in education for sustainable development (SD), but it is rarely implemented as a part of the higher education curriculum due to various barriers. This paper aims to develop a framework for integrating SD concepts into the chemistry curriculum, using a case study approach. Design/methodology/approach: This study was conducted at a local university located in Selangor, Malaysia, offering a foundation programme to students between 17 to 18 years of age. Data was collected using a qualitative approach that involved 12 experts as informants. The collected data was analysed via three coding stages, namely, open coding, category coding and thematic encoding using Atlas.ti 7.0 software. Findings: The research revealed that six aspects contribute to the integration of SD concepts into the chemistry curriculum, namely, educational policy, awareness, resources, curriculum, pedagogical approach and stakeholders’ engagement. The proposed framework was formulated by considering these aspects. Originality/value: The findings of this study can be used as a guide to facilitate the integration of SD concepts into the chemistry curriculum. It is expected to encourage the involvement of more teachers in adopting sustainable chemistry teaching.
+DECISION: INCLUDE
+SCORE: 0.58
+EXCLUSION_CATEGORY: INCLUDE (CONDITIONAL)
+JUSTIFICATION: P-HEI Context: PARCIAL | Study conducted at a Malaysian
+  university offering a foundation programme to students
+  aged 17-18 — institutional affiliation is higher
+  education but student population is pre-university
+  (foundation/bridging level). Borderline PICO eligibility;
+  flag for full-text institutional classification decision.
+  I-ESD Framework: CUMPLE | ESD explicitly named as
+  target framework; six-dimension integration model
+  (policy, awareness, resources, curriculum, pedagogy,
+  stakeholder engagement) developed via expert qualitative
+  analysis — substantive ESD curriculum integration
+  framework with replicability value.
+  C-Comparison: PARCIAL | Qualitative case study with
+  12 expert informants analyzed via Atlas.ti thematic
+  coding — no control group; rigorous qualitative design
+  appropriate for framework development but limited
+  generalizability beyond Malaysian chemistry context.
+  O-Outcome: CUMPLE | Framework for SD curriculum
+  integration documented across six actionable dimensions;
+  barriers to implementation identified — directly
+  relevant to curriculum greening and institutional
+  transformation mapping objectives.
+
+Methodologically sound ESD framework development study
+with policy relevance for Southeast Asian HEI context —
+underrepresented geography in corpus. Primary eligibility
+risk mirrors Sand Table case: student age (17-18) and
+foundation programme status require full-text
+clarification of institutional classification within
+Malaysian higher education system. Chemistry disciplinary
+context relevant given SUBJAREA exclusion decisions
+made during chain construction — verify that ESD
+integration framing justifies retention over area filter.
+
+---
+EXAMPLE: 11
+TITLE: Electrostatic Spraying for Fine-Tuning Particle Dimensions
+to Enhance Oral Bioavailability of Poorly Water-Soluble Drugs
+ABSTRACT: While spray-drying has been widely utilized to improve the bioavailability of poorly water-soluble drugs, the outcomes often exhibit suboptimal particle size distribution and large particle sizes, limiting their effectiveness. In this study, we introduce electrostatic spraying as an advanced technology tailored for poorly water-soluble drugs, enabling the fabrication of nanoparticles with fine and uniform particle size distribution. Regorafenib (1 g), as a model drug, copovidone (5 g), and sodium dodecyl sulfate (0.1 g) were dissolved in 200 ml ethanol and subjected to conventional-spray-dryer and electrostatic spray dryer. The electrostatic spray-dried nanoparticles (ESDN) showed smaller particle sizes with better uniformity compared to conventional spray-dried nanoparticles (CSDN). ESDN demonstrated significantly enhanced solubility and rapid release in water. In vitro studies revealed that ESDN induced apoptosis in HCT-116 cells to a greater extent, exhibiting superior cytotoxicity compared to CSDN. Furthermore, ESDN substantially improved oral bioavailability and antitumor efficacy compared to CSDN. These findings suggest that ESD shows potential in developing enhanced drug delivery systems for poorly water-soluble drugs, effectively addressing the limitations associated with CSD methods.
+DECISION: EXCLUDE
+SCORE: 0.01
+EXCLUSION_CATEGORY: false_positive_ESD_acronym + subjarea_contamination
+JUSTIFICATION: P-HEI/VET Context: NO CUMPLE | Study domain is pharmaceutical
+  nanotechnology and drug delivery — no educational
+  institution, student, or training program of any kind.
+  I-ESD Framework: NO CUMPLE | "ESD" refers exclusively to
+  Electrostatic Spray Drying — a nanoparticle fabrication
+  technology applied to cancer drug bioavailability.
+  Zero connection to Education for Sustainable Development,
+  climate literacy, green skills, or sustainability literacy.
+  C-Comparison: N/A | Comparison between ESDN and CSDN
+  (conventional spray-dried nanoparticles) — entirely
+  pharmaceutical in nature.
+  O-Outcome: NO CUMPLE | Outcomes are particle size
+  distribution, solubility, cytotoxicity in HCT-116 cells,
+  and antitumor efficacy — no educational or sustainability
+  outcome of any kind.
+
+Fifth confirmed ESD acronym false positive in this
+screening batch. This case introduces a second acronym
+collision domain (pharmaceutical/engineering) alongside
+the medical-clinical cases previously identified.
+Additionally represents the exact SUBJAREA contamination
+vector (chemistry/pharmacology) that the CHEM exclusion
+filter was designed to eliminate during chain construction
+— confirms that filter was correctly applied. Zero PICO
+criteria met. Excluded with maximum confidence.
+
+---
+EXAMPLE: 12
+TITLE: How do International Student Returnees Contribute to the
+Development of their Home Countries? A Systematic Mapping
+and Thematic Synthesis
+ABSTRACT: This study investigates the significant yet under-examined role of international student returnees in catalysing societal development in their home countries. Through systematic mapping and thematic synthesis of 53 articles selected from an initial pool of 1515, this review delineates the literature's portrayal of returnees’ impacts across various domains, including firm growth, industrial innovation, higher education, research, social diversity, equity, inclusion, democracy, and civic engagement. While highlighting the skills, knowledge, and resilience students garner abroad—facilitating innovative problem-solving and engagement in their countries—the study concurrently points out the emerging nature and methodological limitations of the extant literature. This review identifies critical gaps in the literature on international student returnees. It notes a lack of global evidence and an overemphasis on certain geographical contexts which questions the generalisability of the findings. Furthermore, there is a narrow focus on economic and political impacts, overlooking crucial areas like poverty reduction and environmental sustainability. Equally important is the absence of comparative studies between returnees and local counterparts. This lack of comparative studies highlights the need to distinguish the unique effects of international versus domestic higher education. This review not only advances academic understanding by systematically mapping the underexplored nexus between international student mobility and societal development but also offers implications for policy. By delineating the transformative potential of returnees and highlighting the importance of conducive environments, it underscores the necessity of informed, strategic interventions to maximise returnees’ societal contributions. In doing so, the study acknowledges existing gaps and methodological limitations within the literature, advocating for a more nuanced and evidence-based approach to leveraging international education for sustainable development.
+DECISION: EXCLUDE
+SCORE: 0.21
+EXCLUSION_CATEGORY: document_type_secondary_study
+JUSTIFICATION: P-HEI Context: PARCIAL | Higher education mentioned as one
+  of several impact domains analyzed — not the primary
+  focus; international student mobility and societal
+  development is the core subject, not ESD integration
+  or sustainability competency development.
+  I-ESD Framework: MARGINAL | "Education for sustainable
+  development" appears only in closing sentence as
+  rhetorical framing ("leveraging international education
+  for sustainable development") — not operationalized
+  as intervention, framework, or analytical construct
+  throughout the study.
+  C-Comparison: N/A | Systematic mapping and thematic
+  synthesis of 53 articles — secondary study design.
+  O-Outcome: NO CUMPLE | Outcomes are returnees' societal
+  impacts (firm growth, innovation, democracy, civic
+  engagement) — no sustainability competency, climate
+  literacy, or curriculum integration outcome measured.
+
+Excluded on two independent grounds: (1) secondary
+study design — systematic review/mapping of primary
+literature falls outside PICO inclusion criteria for
+empirical primary studies; (2) peripheral ESD mention
+without substantive engagement — same retrieval noise
+pattern identified in mathematical literacy case.
+Content focus on international student mobility and
+brain circulation is outside review scope regardless
+of document type. Excluded with high confidence.
+
+---
+EXAMPLE: 13
+TITLE: Assessing the Knowledge and Attitude of Elementary School
+Students Towards Environmental Issues in Rawalpindi
+ABSTRACT: Educational institutions need to increase their efforts in the modern era of Education for Sustainable Development (ESD) to educate their students for a sustainable future. Teachers and curriculum is the key ingredient to educate children and teenagers to be leaders of tomorrow in protecting the environment. This quantitative study was conducted to examine elementary school students' knowledge and attitudes towards environmental issues in Rawalpindi. The environment is directly and indirectly affected by humanity. The environment is getting polluted day by day due to which it becomes difficult to live in such a massive environment. To achieve this, there is a need to develop knowledge and attitudes in each individual. For this purpose, the population of the study consisted of all the public and private schools of the Rawalpindi. A hundred students of the ten schools, five public and five private schools of Rawalpindi, were taken as a sample for data collection. To check the attitudes of students' the questionnaire-based Relevance of Science Education (ROSE) Project was used to measure a student's attitudes and to measure the knowledge of students' self-made knowledge assessment test was used to collect the data from 7thgrade students'. The study examined the knowledge and attitude of elementary school students in public and private schools. The study also checked and compared students' knowledge and attitudes in public and private schools of Rawalpindi. Data was analyzed on SPSS software; Cross tabulation and chi-square were used to check students' knowledge. The Independent t-test was used to measure the attitudes of students. The results indicated no significant difference between government and private school students' knowledge and attitudes. Private school students' had slightly more knowledge than public school students but this difference was not significant. The public and private school students had a positive attitude towards environmental issues. Students owned environmental problems and were highly motivated to solve these problems. They were agreed to take action for the betterment of the future. As a result, sustainable development from elementary school to university necessitates a paradigm shift in our educational systems. Indeed, a sustainable way of life is impossible to achieve without a proper education system that teaches our youth how to integrate sustainability principles into their daily lives and work. Significant progress has been made in integrating environmental values into current curricula, developing new approaches and producing educational content for effective EE implementation in both programmes, since it was a government initiative to integrate environmental concepts into established curricula, devise different approaches and prepare training materials for ef Teacher teaching is therefore important in both Pakistani education systems to improve vital thinking skills and to react positively to the world about potential Pakistanis.
+DECISION: EXCLUDE
+SCORE: 0.11
+EXCLUSION_CATEGORY: population_out_of_scope
+JUSTIFICATION: P-HEI/VET Context: NO CUMPLE | Study population is 7th
+  grade elementary school students (N=100) from public
+  and private schools in Rawalpindi, Pakistan — K-12
+  educational level entirely outside PICO institutional
+  scope; higher education appears only in closing
+  paragraph as rhetorical aspiration, not as study
+  context.
+  I-ESD Framework: PARCIAL | ESD explicitly named in
+  abstract framing; environmental knowledge and attitude
+  measurement using ROSE instrument — substantive
+  sustainability education content present but applied
+  to wrong educational level.
+  C-Comparison: CUMPLE | Public vs. private school
+  comparison with chi-square and independent t-test —
+  methodologically adequate for the research design.
+  O-Outcome: PARCIAL | Environmental knowledge and
+  attitudes measured with validated instrument (ROSE
+  Project) — relevant outcome construct but in
+  out-of-scope population.
+
+Exclusion is solely on population grounds: elementary
+school level (grade 7) is unambiguously outside the
+higher education and VET scope of the review. Study
+represents a recurring retrieval pattern — ESD used
+as framing label in K-12 environmental education
+research that does not target tertiary level. Content
+quality and methodology are adequate; study would
+be eligible for a broader ESD review including
+primary and secondary education levels.
+
+---
+EXAMPLE: 14
+TITLE: Bibliometric study on Quality Education
+ABSTRACT: Meeting the 17 sustainable development goals (SDG) declared in the 2030 Agenda is vital for our survival. Its fulfillment is incomplete without achieving an education for sustainable development. Previous bibliometric studies partially analyze the scientific production related to Quality Education, which does not allow full knowledge of its bibliometric behavior. For this reason, the objectives of this study are to analyze the scientific production related to SDG 04 during the 2017-2021 period and verify its level of integration with the other SDGs. The Clarivate Analytics Incite tool was used to obtain the information and, to search for the documents and their metrics, the Web of Science Core Collection. 189,364 documents were identified from them, 141,372 were analyzed, distributed as follows: articles (135,476) and reviews (5,896). For the analysis and representation of the data, the VOSViewer tool was used, as well as Tornado and Sankey type diagrams. The results show that the terms with the highest co-occurrence were: COVID-19 (7,366), Mental health (5,903), Higher Education (5,659), Education (5,547), Gender (5,152), Sustainability (4,689), Food insecurity (4,394), Depression (3,444), and Health (3,338). The most influential sustainable development goals with Quality Education were 03 (Good Health and Well-being), 05 (Gender Equality) and 10 (Reduced Inequality). In relation to the countries with more than 1,000 published documents, the following stand out: the United States (46,937), the United Kingdom (14,611), Australia (11,659) and the People's Republic of China (10,307). The analysis of the scientific production justifies those efforts toward curricular sustainability and the integration of the sustainable development goals are still insufficient. © 2024, Ministry Education and Science. document_type_secondary_study
+DECISION: EXCLUDE
+SCORE: 0.18
+EXCLUSION_CATEGORY: document_type_secondary_study
+JUSTIFICATION: P-HEI Context: PARCIAL | Higher education appears as
+  one of the top co-occurrence terms in the corpus
+  analyzed (5,659 documents) — not as the institutional
+  context of the study itself; the study's population
+  is a bibliometric corpus of 141,372 documents,
+  not students, educators, or curricula.
+  I-ESD Framework: PARCIAL | ESD and SDG 04 (Quality
+  Education) are the bibliometric subject of analysis —
+  treated as objects of measurement rather than
+  as pedagogical interventions or frameworks
+  operationalized in educational practice.
+  C-Comparison: N/A | Comparison between SDG integration
+  levels and country productivity — bibliometric
+  in nature, not pedagogical.
+  O-Outcome: NO CUMPLE | Outcomes are co-occurrence
+  terms, citation counts, country distributions,
+  and SDG integration indexes — no sustainability
+  competency, climate literacy, or curriculum
+  integration outcome measured in any educational
+  population.
+
+Excluded on same grounds as international student
+returnees systematic mapping case: secondary study
+design (bibliometric analysis of primary literature)
+falls outside PICO inclusion criteria. Distinct
+from that case in that ESD content is substantively
+present, but the document type renders it ineligible
+regardless of topical relevance. Pattern now
+confirmed: secondary studies (systematic reviews,
+scoping reviews, bibliometric analyses, meta-analyses)
+constitute a recurring exclusion category requiring
+explicit documentation in the PRISMA flow diagram
+as a separate exclusion reason from out-of-scope
+content. Excluded with high confidence.
+
+---
+EXAMPLE: 15
+TITLE: Climate change and health: Changes in student environmental knowledge and awareness due to the implementation of a mandatory elective at the Medical Faculty of Ulm?
+ABSTRACT: Background and objectives: According to the World Health Organization, climate change constitutes the single greatest threat to human health. However, the health care system contributes to climate change worldwide through its high CO2 emissions. In orderto make future physicians more aware of this issue and to expand medical education to include climate-related aspects, the mandatory 28 academic hours elective “Climate Change and Health” for students of human medicine in the preclinical study stage was implemented at the Medical Faculty of Ulm in the 2020/21 winter semester. Our accompanyingstudy investigated 1. in what form the topic of climate change can be successfully integrated into the study of human medicine in a manner that includes student opinions and 2. whether being required to take an elective on the topic led to changes in student environmental knowledge and awareness. Methodology: Personal individual interviews were conducted with all n=11 students after the course in a pilot that was carried out in the 2020/21 winter semester to determine course feasibility and student acceptance. The students were also able to evaluate the course using an evaluation form and were asked to complete a questionnaire on their environmental knowledge and awareness before and after the course. The course was revised on the basis of the results and offered again in the 2021 summer semester with an intervention group (n=16, participation in the mandatory elective) and a comparison group (n=25, no participation in the mandatory elective). The intervention group was asked to evaluate the course on the evaluation form. Both groups completed the environmental questionnaire at the same time. Results: The positive feedback from students for both semesters indicates a good feasibility and acceptance of the course. Student environmental knowledge was increased in both semesters. However, there were only few observable changes in student environmental awareness. Conclusion: This paper illustrates how the topic of climate change and health can be embedded into medical studies. The students considered climate change an important topic and drew added value from the course for their future work in healthcare. The study shows that knowledge transfer at the university level is an effective way to educate the young generation on climate change and its impacts.
+DECISION: INCLUDE
+SCORE: 0.8
+JUSTIFICATION: P-HEI Context: CUMPLE | Preclinical medical students at
+  University of Ulm Medical Faculty; mandatory elective
+  formally integrated into university curriculum —
+  fully within PICO higher education institutional scope;
+  medical education disciplinary context adds diversity
+  to corpus.
+  I-Climate Literacy: CUMPLE | 28-hour mandatory elective
+  "Climate Change and Health" explicitly designed to
+  expand climate-related knowledge and awareness in
+  medical education — direct operationalization of
+  climate literacy integration into HEI curriculum;
+  WHO framing and CO2 emissions consciousness align
+  with scientific and behavioral climate literacy
+  dimensions.
+  C-Comparison: CUMPLE | Two-phase design: pilot (N=11)
+  followed by intervention group (N=16) vs. comparison
+  group (N=25) with simultaneous pre-post environmental
+  questionnaire — one of the stronger quasi-experimental
+  designs identified in this screening batch.
+  O-Outcome: CUMPLE | Environmental knowledge measured
+  pre-post with questionnaire (significant increase);
+  environmental awareness assessed separately —
+  distinction between knowledge and awareness outcomes
+  adds methodological nuance; course feasibility
+  and acceptance also documented.
+
+Strong climate literacy integration case with
+quasi-experimental design and control group —
+methodological quality above corpus average.
+Medical education framing contributes to disciplinary
+diversity and healthcare sector green skills mapping.
+Limitations: small sample sizes (N=16 intervention,
+N=25 comparison), single institution (Ulm), self-
+developed environmental questionnaire without
+reported validation against recognized climate
+literacy instrument. Full-text should verify
+questionnaire psychometric properties and confirm
+whether awareness measurement instrument was
+validated independently.

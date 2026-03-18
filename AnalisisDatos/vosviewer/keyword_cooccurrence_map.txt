@@ -1,0 +1,362 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>	score<Avg. pub. year>	description	url
+1	carbon footprint	2.731	0.002	1	3	6	3	2025.0		
+2	sustainability	2.5208	0.0431	1	157	843	129	2022.1		
+3	literacy	2.5469	-0.0405	1	31	129	20	2022.85		
+4	student	-1.7411	-1.7208	6	66	278	33	2022.48		
+5	climate change	-1.9278	1.6467	4	37	117	21	2022.86		
+6	united states	2.6526	0.0385	1	5	11	4	2023.5		
+7	climate literacy	2.4597	-0.174	1	9	22	9	2023.67		
+8	spatiotemporal analysis	2.8083	-0.074	1	4	8	3	2024.0		
+9	curricula	-2.5083	-0.0795	5	36	150	21	2023.67		
+10	teaching and learning	-2.3879	-0.0875	5	11	26	4	2021.25		
+11	surveys	-2.4387	-0.0893	5	11	39	6	2020.0		
+12	planning	-2.4337	-0.0519	5	13	51	9	2019.89		
+13	sustainable development	-2.5021	0.0196	5	195	1061	149	2022.17		
+14	education for sustainable development	1.7112	1.8085	2	160	797	156	2022.45		
+15	teaching	-1.8474	-1.8212	6	77	385	48	2022.27		
+16	interdisciplinarity	-2.3681	0.0339	5	17	44	9	2020.22		
+17	higher education	1.7949	1.6954	2	184	997	159	2022.31		
+18	learning	-1.8236	-1.7633	6	79	337	37	2021.35		
+19	students	-2.48	-0.1562	5	69	282	42	2021.36		
+20	education computing	-2.482	-0.0988	5	18	79	10	2023.1		
+21	learning systems	-2.5782	-0.1114	5	5	14	3	2024.33		
+22	education	-1.698	-1.7332	6	92	437	63	2022.03		
+23	brandenburg [germany]	0.4234	2.3908	3	3	6	2	2021.5		
+24	germany	0.177	2.4588	3	27	73	7	2021.43		
+25	stakeholder	2.5995	-0.1252	1	8	20	4	2022.5		
+26	impact	-1.6081	-1.5813	6	16	46	12	2022.83		
+27	interdisciplinary approach	-2.4119	0.0943	5	17	52	8	2021.62		
+28	implementation process	-1.9006	-2.1397	6	3	6	2	2022.0		
+29	transdisciplinarity	-0.1693	2.4663	3	12	30	7	2018.43		
+30	development	2.2612	0.0444	1	5	10	3	2020.67		
+31	real-world	-2.2975	-0.3893	5	5	10	4	2022.0		
+32	participation	-1.8309	-1.5653	6	10	21	4	2020.5		
+33	participatory approach	-1.8727	-1.7219	6	13	33	5	2020.6		
+34	university sector	-1.7513	-1.7455	6	52	189	22	2021.45		
+35	leadership	-1.8112	-1.6198	6	11	28	8	2021.62		
+36	universities	1.7973	1.8341	2	29	91	19	2022.05		
+37	management	1.8295	1.8461	2	19	51	11	2021.36		
+38	knowledge	-1.7233	-1.6791	6	57	211	26	2021.58		
+39	engineering education	-2.5018	-0.0152	5	19	58	13	2022.46		
+40	esd	1.7333	1.6756	2	39	141	37	2022.32		
+41	participatory action research	-2.5064	0.2983	5	2	4	2	2022.0		
+42	sweden	-2.5862	0.277	5	3	6	2	2021.5		
+43	engineering	-2.5663	0.0994	5	6	14	4	2020.5		
+44	capacity building	-2.5366	0.2048	5	3	7	5	2020.8		
+45	green skills	1.7253	1.5068	2	6	14	9	2024.56		
+46	policy making	1.7633	1.531	2	5	11	4	2024.75		
+47	ireland	-1.8879	-1.6064	6	6	14	4	2023.75		
+48	innovation	2.5441	-0.0923	1	19	57	10	2022.3		
+49	sustainability education	-2.5523	-0.047	5	17	53	14	2024.21		
+50	workforce development	-2.2399	0.2109	5	1	2	2	2024.5		
+51	green economy	-2.2325	0.1033	5	1	2	3	2023.67		
+52	curriculum	2.5092	-0.0446	1	71	319	43	2021.77		
+53	environmental attitudes	1.7511	1.3937	2	1	2	2	2021.0		
+54	behaviors	-1.5793	-1.6842	6	8	18	3	2023.0		
+55	systems thinking	2.6043	-0.0069	1	7	15	8	2023.5		
+56	gender	-1.732	-1.6035	6	11	31	6	2021.5		
+57	learning design	-2.1102	-2.0057	6	3	6	2	2024.0		
+58	design	1.7815	1.6706	2	10	26	7	2023.29		
+59	competencies	1.8176	1.5379	2	5	14	5	2021.0		
+60	global climate	-1.9503	1.3162	4	3	6	2	2024.0		
+61	curriculum design	2.4151	0.1715	1	5	14	7	2022.71		
+62	perception	-1.8063	-1.7072	6	19	65	9	2021.0		
+63	quality	-1.949	-1.7214	6	9	19	5	2022.8		
+64	behavior	-1.6249	-1.6444	6	14	44	12	2021.58		
+65	romania	-2.0286	-1.6475	6	4	8	2	2022.5		
+66	sustainable development goal	-1.7417	-1.8634	6	33	103	15	2023.67		
+67	ethics	-1.5979	-1.7606	6	14	31	6	2023.33		
+68	active learning	2.6142	0.1115	1	4	12	6	2022.67		
+69	complexity	-2.1742	-1.8934	6	2	4	2	2023.0		
+70	values	-1.6693	-1.581	6	11	32	9	2020.78		
+71	nep	-2.3613	-0.4238	5	1	2	2	2017.0		
+72	evaluation	-2.4236	-0.4443	5	1	2	3	2019.33		
+73	caucasus	-2.6545	0.2975	5	2	4	2	2022.0		
+74	sustainable development goals	1.8529	1.812	2	51	213	53	2023.28		
+75	comparative study	-1.736	-1.4799	6	5	10	3	2024.33		
+76	european union	-2.4559	0.3415	5	2	4	2	2024.5		
+77	male	-1.6643	1.8556	4	21	51	4	2022.5		
+78	questionnaire	-1.5685	1.9846	4	10	20	3	2023.0		
+79	nursing student	-1.8015	1.7145	4	8	16	2	2021.5		
+80	environmental protection	-1.5215	1.8451	4	15	32	5	2021.8		
+81	conservation of natural resources	-1.4707	1.8764	4	10	20	2	2022.0		
+82	procedures	-1.4998	1.7912	4	10	20	2	2022.0		
+83	environmental sustainability	-1.498	1.946	4	14	31	7	2021.29		
+84	humans	-1.6447	1.816	4	21	51	4	2022.5		
+85	adult	-1.684	1.7995	4	21	51	4	2022.5		
+86	students, nursing	-1.7417	1.6675	4	8	16	2	2021.5		
+87	female	-1.6976	1.8777	4	21	51	4	2022.5		
+88	human	-1.7134	1.8347	4	21	51	4	2022.5		
+89	surveys and questionnaires	-1.5522	1.9219	4	10	20	2	2022.0		
+90	health	-1.8498	1.779	4	13	28	5	2022.4		
+91	e-learning	-2.523	-0.1722	5	16	49	10	2022.6		
+92	framework	2.4784	-0.0679	1	42	172	27	2021.15		
+93	teaching materials	-2.5282	-0.368	5	3	6	2	2021.5		
+94	climate-change	-2.0006	-1.9295	6	4	8	3	2021.33		
+95	communities of practice	-0.3058	2.5666	3	1	2	2	2022.5		
+96	education for sustainable development (esd)	-0.0521	2.4801	3	43	118	33	2022.76		
+97	educational development	1.7984	1.5937	2	14	45	9	2021.11		
+98	higher education institutions	1.7759	1.7459	2	39	130	28	2022.96		
+99	business	-1.6998	-1.9277	6	15	43	10	2023.9		
+100	learning outcomes	-1.8646	-2.0128	6	9	20	6	2021.17		
+101	united nations	-1.7963	-2.0247	6	9	18	5	2024.2		
+102	business education	2.3629	0.3062	1	1	2	3	2025.0		
+103	sustainable development goals (sdgs)	-0.0546	2.6318	3	12	31	10	2022.7		
+104	competences	0.0408	2.5505	3	48	189	34	2021.65		
+105	experiences	2.2116	-0.3491	1	1	2	4	2021.75		
+106	future	2.4171	-0.1466	1	17	44	7	2021.57		
+107	stakeholders	2.2993	0.2212	1	1	2	3	2021.67		
+108	challenges	1.7548	1.8094	2	16	50	12	2021.42		
+109	higher education for sustainable development	1.7783	1.8746	2	11	25	10	2021.5		
+110	policy	2.66	0.336	1	2	4	4	2023.25		
+111	pbl	1.6275	1.7849	2	4	9	5	2023.2		
+112	learning environments	-1.4358	-2.1053	6	2	4	2	2022.5		
+113	research work	-1.6505	-1.8796	6	13	34	6	2021.83		
+114	responsible behavior	-2.7522	0.2258	5	3	6	3	2021.67		
+115	taiwan	-2.7172	0.2651	5	2	4	3	2023.0		
+116	young adult	-1.787	1.9102	4	9	23	3	2024.0		
+117	self-efficacy	-1.7901	2.0043	4	13	28	6	2023.17		
+118	perceptions	-1.7499	-1.6418	6	20	64	10	2021.1		
+119	university	2.4091	-0.0377	1	41	187	34	2021.41		
+120	problem-based learning	1.5875	1.8659	2	9	23	7	2021.43		
+121	performance	-1.8004	-1.5272	6	10	21	6	2023.67		
+122	problem based learning	-2.5806	-0.4392	5	3	6	3	2020.67		
+123	knowledge management	1.6887	1.41	2	1	2	3	2023.33		
+124	higher-education	2.5024	-0.0998	1	44	166	27	2021.89		
+125	inquiry	2.6963	-0.3318	1	2	4	4	2021.25		
+126	attitudes	-1.6955	-1.6982	6	24	94	15	2021.2		
+127	affective learning	-2.3289	-0.2091	5	2	4	2	2021.0		
+128	transformation	0.0728	2.4014	3	14	37	8	2020.25		
+129	key competences	2.4892	-0.1192	1	59	272	45	2022.0		
+130	psychology	-2.0144	-1.8298	6	6	14	4	2022.5		
+131	literature review	2.498	0.3584	1	2	4	2	2019.5		
+132	development goals	1.7384	1.7216	2	23	72	15	2023.0		
+133	controlled study	-1.6217	1.7296	4	7	14	2	2025.5		
+134	awareness	-1.69	1.9908	4	15	38	9	2022.11		
+135	program evaluation	-2.8065	0.0026	5	1	2	2	2023.5		
+136	educational program	1.7151	1.9497	2	4	9	3	2023.0		
+137	whole institution approach	-0.2276	2.6815	3	2	4	4	2021.0		
+138	climate change education	-2.2606	1.5387	4	5	10	6	2023.5		
+139	model	-1.8273	-1.6663	6	15	47	10	2022.5		
+140	environmental awareness	-1.5128	-1.6576	6	6	14	3	2021.0		
+141	integration	1.7918	1.791	2	10	31	10	2022.1		
+142	self-determination	1.8057	1.3936	2	1	2	2	2024.0		
+143	gamification	-2.6608	0.1306	5	2	5	3	2023.33		
+144	engagement	1.8237	1.7551	2	14	40	8	2022.25		
+145	questionnaire survey	-1.7446	-1.8047	6	13	35	6	2021.67		
+146	intention	-2.4115	0.3036	5	2	4	3	2023.33		
+147	motivation	-2.1769	-0.0097	5	1	2	2	2023.0		
+148	teachers	1.677	1.8538	2	9	24	10	2021.9		
+149	environmental education	0.0206	-2.3262	7	37	118	21	2022.81		
+150	united kingdom	-1.9255	-1.8816	6	4	10	3	2022.33		
+151	geography education	1.6892	1.5797	2	11	24	6	2023.17		
+152	tool	2.5745	0.0846	1	2	5	3	2020.33		
+153	simulations	2.8262	0.113	1	1	2	2	2023.0		
+154	science	2.5753	-0.1721	1	7	15	6	2020.0		
+155	satisfaction	2.7229	0.19	1	1	2	2	2022.5		
+156	serious games	2.6794	-0.1673	1	3	6	2	2022.5		
+157	green	1.7363	1.6214	2	8	21	7	2022.43		
+158	vocational education	0.0821	2.5974	3	14	33	7	2023.29		
+159	skill development	-0.1804	-2.6888	7	2	4	3	2022.33		
+160	foreign countries	-0.0034	-2.5287	7	20	60	12	2021.67		
+161	madrid	1.9396	1.6386	2	4	8	2	2020.0		
+162	education for sustainability	1.8757	1.687	2	13	35	11	2021.27		
+163	skills	2.7805	0.1418	1	1	2	4	2021.0		
+164	curricula revision	1.5741	1.7068	2	5	10	2	2017.0		
+165	educational change	1.5759	1.7507	2	5	10	2	2017.0		
+166	professional development	1.644	1.7337	2	8	25	8	2019.75		
+167	views	2.1536	-0.1777	1	2	4	2	2020.0		
+168	implementation	1.6827	1.7613	2	17	47	11	2023.09		
+169	sustainability consciousness	1.5043	1.7968	2	2	4	3	2021.67		
+170	citizenship	2.55	0.2823	1	3	6	2	2022.0		
+171	sustainability competencies	2.3771	-0.0588	1	12	31	9	2022.89		
+172	edinsost project	-0.036	2.3523	3	6	14	3	2021.0		
+173	training	-1.7933	-1.8134	6	15	52	7	2021.0		
+174	pedagogy	2.4773	-0.0127	1	24	80	16	2021.81		
+175	holistic approach	-2.1747	-1.7837	6	2	4	3	2022.0		
+176	urban	-2.2887	0.2681	5	2	4	2	2019.5		
+177	spain	1.9055	1.722	2	9	23	5	2020.0		
+178	document analysis	0.0767	2.4686	3	12	29	4	2021.75		
+179	governance	0.1235	2.4808	3	15	37	6	2022.83		
+180	monitoring and evaluation	0.1338	2.3421	3	8	16	2	2020.5		
+181	teacher training	-1.8194	-1.8713	6	21	66	13	2021.38		
+182	climate	1.913	1.5118	2	3	7	5	2021.0		
+183	education policy	0.1678	2.5575	3	7	15	3	2022.33		
+184	sustainability literacy	2.5834	-0.0623	1	19	64	17	2022.24		
+185	portugal	1.6438	1.5292	2	2	5	3	2019.33		
+186	campus sustainability	2.8249	-0.0041	1	2	4	2	2022.0		
+187	opportunities	1.5212	1.6801	2	2	4	3	2024.0		
+188	design thinking	1.8837	1.7548	2	9	23	8	2023.62		
+189	roles	0.2044	2.7665	3	2	4	2	2021.0		
+190	case study	2.4752	-0.2925	1	5	11	7	2021.0		
+191	planning education	-2.1793	0.0866	5	2	4	2	2025.0		
+192	urban planning	-2.0971	-1.5706	6	4	8	4	2022.5		
+193	communication	2.7072	0.2621	1	3	6	3	2022.67		
+194	assessment	2.3981	0.0357	1	10	21	7	2020.71		
+195	sustainability competence	2.3238	-0.0429	1	6	13	5	2023.8		
+196	models	-1.5813	-1.4181	6	1	2	2	2024.5		
+197	attitude	1.9174	2.0986	2	1	2	2	2022.5		
+198	program	2.5067	-0.2198	1	5	11	4	2021.5		
+199	higher education for sustainable development (hesd)	-2.2971	0.2048	5	1	2	2	2022.5		
+200	constructive alignment	2.4729	-0.4172	1	1	2	2	2020.5		
+201	professional-development	-2.2165	0.1577	5	2	4	3	2019.33		
+202	environmental-education	-2.5446	-0.2667	5	4	8	3	2023.0		
+203	malaysia	2.6557	0.2696	1	2	4	2	2023.0		
+204	development esd	1.5726	1.6348	2	2	4	3	2022.33		
+205	statistical analysis	2.4243	0.3439	1	1	2	2	2019.5		
+206	united arab emirates	2.2522	0.1764	1	2	4	2	2024.0		
+207	local participation	-1.5576	-1.9246	6	3	6	3	2023.33		
+208	barriers	1.9287	1.8776	2	9	22	7	2022.0		
+209	organizational-change	2.1143	2.0938	2	1	2	2	2020.5		
+210	problem-based learning (pbl)	-0.3238	2.4236	3	1	2	3	2023.67		
+211	emotions	-2.2129	0.0354	5	1	2	3	2023.0		
+212	beliefs	-2.2256	-0.0396	5	1	2	3	2023.67		
+213	colombia	-2.6434	0.0494	5	6	15	4	2022.0		
+214	cognitive theory	1.972	1.4512	2	1	2	2	2023.0		
+215	pro-environmental behavior	1.9349	1.7608	2	3	7	3	2023.67		
+216	survey method	-1.92	-1.6591	6	7	14	3	2022.0		
+217	public attitude	-1.6477	-1.7408	6	11	36	5	2022.6		
+218	china	-2.7983	-0.098	5	4	8	4	2023.75		
+219	qatar	-2.607	0.1823	5	3	8	3	2023.33		
+220	consumption	2.3153	0.0908	1	7	16	4	2022.5		
+221	quantitative analysis	2.4029	-0.0983	1	7	16	3	2023.0		
+222	equity	-2.8108	-0.0482	5	2	4	2	2021.0		
+223	institutions	1.6953	1.7079	2	9	26	7	2023.43		
+224	sdgs	2.3799	-0.0196	1	26	85	19	2022.63		
+225	strategies	-2.7338	-0.1993	5	1	2	2	2022.0		
+226	whole-institution approach	2.125	-0.1031	1	1	2	2	2019.0		
+227	partnerships	2.5669	0.3559	1	1	2	2	2022.0		
+228	vulnerability	-2.2549	1.7135	4	1	2	2	2021.0		
+229	integrated approach	2.5143	0.1571	1	4	8	3	2020.0		
+230	experimental design	2.3168	0.2727	1	2	4	2	2020.0		
+231	curricular sustainability	1.9084	1.5962	2	3	7	4	2020.5		
+232	sustainable education	-2.8122	0.0512	5	1	2	2	2022.0		
+233	validity	0.0396	2.8185	3	1	2	2	2025.0		
+234	institutional framework	-1.484	-1.8829	6	5	10	3	2021.67		
+235	college faculty	-0.0379	-2.6889	7	4	9	3	2024.0		
+236	teacher attitudes	0.0207	-2.7635	7	3	6	2	2023.5		
+237	benefits	1.8621	1.3941	2	1	2	2	2025.0		
+238	strategic approach	-1.6164	-1.8556	6	8	16	3	2021.33		
+239	earth (planet)	-2.6015	-0.1616	5	10	20	3	2023.33		
+240	school	2.3421	-0.1559	1	2	4	4	2022.0		
+241	technology	2.4134	-0.3748	1	1	2	3	2020.33		
+242	entrepreneur	-1.421	-1.344	6	1	2	2	2025.0		
+243	environment	-1.499	-1.5833	6	4	9	3	2021.67		
+244	tourism	-2.052	-2.0651	6	3	6	3	2023.67		
+245	pls-sem	2.6652	-0.0532	1	3	6	2	2024.0		
+246	transdisciplinary	1.8781	1.8981	2	2	4	2	2020.0		
+247	collaborative learning	1.4062	1.8617	2	1	2	3	2024.0		
+248	outcomes	1.6229	2.002	2	1	3	3	2023.0		
+249	context	-1.5698	-1.5125	6	4	8	4	2021.5		
+250	latin america	-2.3476	0.2593	5	2	4	3	2020.0		
+251	developing world	-2.3577	0.3155	5	2	4	2	2021.5		
+252	responsible management education	-1.5467	-1.9981	6	5	10	2	2022.5		
+253	abroad	-1.3747	-1.7777	6	1	2	2	2021.0		
+254	whole institution approach (wia)	-0.135	2.2186	3	1	2	2	2025.0		
+255	labelling	1.9885	-1.9851	8	1	2	2	2025.0		
+256	mapping	1.5471	-1.5504	8	1	2	2	2025.0		
+257	climate action	-2.1214	1.5079	4	4	9	5	2024.4		
+258	perspective	1.8518	2.0045	2	2	4	2	2022.0		
+259	research	-1.6742	-1.9944	6	3	6	3	2022.67		
+260	global competence	1.6258	2.0895	2	1	2	2	2023.0		
+261	internationalization	1.4768	2.0072	2	1	2	2	2023.0		
+262	transformative learning	1.9178	1.8033	2	15	43	12	2022.67		
+263	academic research	2.3357	-0.2954	1	5	11	3	2020.33		
+264	wicked problems	2.6691	-0.0937	1	4	8	2	2021.5		
+265	environmental design	-2.0583	-1.7571	6	3	6	2	2022.0		
+266	learning experiences	-2.4916	-0.457	5	2	4	3	2022.67		
+267	curriculum development	-2.4761	0.1511	5	7	24	9	2020.78		
+268	sustainable architecture	-1.7403	-1.9987	6	2	4	2	2019.5		
+269	design method	-2.115	-1.861	6	2	4	2	2021.5		
+270	massive open online course	-2.6348	-0.2509	5	2	4	2	2024.0		
+271	sustainability transition	2.0923	-0.0043	1	1	2	3	2020.0		
+272	blended learning	1.6618	1.6585	2	4	10	4	2022.5		
+273	online learning	-2.3874	-0.1759	5	4	9	3	2022.67		
+274	moocs	1.4227	1.928	2	1	2	2	2021.0		
+275	accounting education	2.058	1.8938	2	4	9	3	2025.67		
+276	students perceptions	2.3101	-0.0665	1	3	7	3	2022.67		
+277	teacher education	1.6105	1.6749	2	6	15	8	2022.0		
+278	critical thinking	-2.813	0.1041	5	2	4	4	2023.0		
+279	project-based learning	-2.3684	0.0831	5	12	26	6	2023.33		
+280	sdg 13: climate action	2.3356	-0.4416	1	1	2	2	2024.5		
+281	sustainability competences	1.9935	1.5762	2	2	4	3	2025.0		
+282	environmental engineering	-2.7376	0.0844	5	4	8	2	2021.0		
+283	consciousness	1.5802	2.085	2	1	2	2	2023.5		
+284	research-based learning	1.9263	1.4136	2	1	2	2	2023.5		
+285	unesco	1.6683	2.1051	2	1	2	3	2022.33		
+286	experiential learning	2.3525	0.0888	1	11	31	15	2022.87		
+287	service-learning	2.0822	1.5893	2	1	2	2	2024.5		
+288	climate crisis	2.0492	1.7481	2	2	4	2	2022.0		
+289	anxiety	2.2062	1.8656	2	1	2	2	2023.5		
+290	staff	-2.7932	0.1583	5	3	6	2	2020.5		
+291	college-students	2.7597	0.2594	1	2	4	2	2022.5		
+292	interdisciplinary learning	-2.3089	0.1148	5	8	16	3	2021.0		
+293	sustainability knowledge	2.8236	0.0571	1	3	6	2	2023.0		
+294	faculty development	-2.4159	0.1881	5	4	9	3	2024.0		
+295	academic staff	-2.6685	0.2363	5	1	2	2	2023.0		
+296	work	1.7228	2.1154	2	1	2	2	2023.5		
+297	switzerland	2.0159	1.4812	2	2	4	2	2022.0		
+298	environmental knowledge	-2.2017	-0.0917	5	1	2	3	2020.67		
+299	laboratories	-2.5997	0.3315	5	1	2	2	2019.0		
+300	educational innovation	2.0511	1.528	2	1	2	2	2020.0		
+301	student learning	-2.4802	-0.2235	5	7	14	3	2024.67		
+302	high educations	-2.5108	-0.1038	5	21	87	13	2024.38		
+303	interdisciplinary	2.01	2.0434	2	1	2	4	2023.25		
+304	quality education	1.6431	1.6165	2	5	11	6	2024.67		
+305	social responsibility	-2.7373	0.1695	5	2	4	2	2020.5		
+306	world	2.5982	-0.2656	1	2	4	3	2022.33		
+307	csr	2.5441	-0.4103	1	2	4	2	2023.5		
+308	management education	1.7986	1.9999	2	3	6	4	2022.25		
+309	higher education institution	1.4585	1.9642	2	1	2	5	2022.6		
+310	service learning	1.8085	1.8997	2	4	10	9	2022.89		
+311	accounting	-2.2329	-0.1457	5	1	2	2	2024.5		
+312	teaching methods	1.5368	1.9288	2	1	3	5	2022.2		
+313	pre-service teachers	-2.3929	-0.2514	5	2	4	2	2019.0		
+314	circular economy	-2.3552	-0.0324	5	3	8	4	2022.5		
+315	action research	-2.707	0.0125	5	2	5	4	2019.75		
+316	2030 agenda	2.0587	2.0016	2	1	2	3	2022.67		
+317	key competencies in sustainability	2.614	-0.3892	1	1	2	2	2025.0		
+318	course content	-2.4563	0.2502	5	4	8	2	2019.0		
+319	business schools	1.7328	2.0609	2	4	8	3	2021.67		
+320	digital-learning	-2.6357	-0.1967	5	3	6	2	2025.5		
+321	computer aided instruction	-2.4468	-0.1718	5	8	18	3	2025.0		
+322	electrostatic devices	-2.4579	-0.0349	5	10	33	6	2020.67		
+323	preservice teachers	1.6185	1.937	2	4	10	4	2023.25		
+324	multiple literacies	0.024	-2.1029	7	1	2	2	2023.5		
+325	thinking skills	1.7869	2.0972	2	1	2	2	2024.5		
+326	sdg	2.7947	0.2001	1	2	4	3	2022.33		
+327	qaa and hea guidance	1.5984	1.5955	2	2	4	2	2018.0		
+328	university teachers	1.4527	1.8862	2	1	2	3	2024.67		
+329	community engagement	2.4827	0.2984	1	2	4	4	2025.0		
+330	governance approach	-1.9849	-2.1083	6	1	2	2	2022.5		
+331	staff training	1.4263	1.6973	2	1	2	2	2021.0		
+332	university teaching	-1.375	-1.6693	6	1	2	2	2020.5		
+333	employability	2.6051	0.3049	1	1	2	3	2023.67		
+334	work-based learning	2.4135	0.2754	1	1	2	2	2022.0		
+335	qualitative research	2.0952	0.2155	1	1	2	3	2017.67		
+336	case-studies	-2.5539	-0.1504	5	7	18	3	2023.67		
+337	global challenges	-2.1149	1.3585	4	4	8	3	2023.33		
+338	munich university of applied sciences (muas)	-0.2374	2.3461	3	2	4	2	2016.5		
+339	sustainability in higher education	1.5426	2.0587	2	1	2	3	2021.0		
+340	economic and social effects	-2.5339	0.343	5	2	4	3	2021.33		
+341	carbon accounting	2.0987	1.9423	2	4	8	2	2026.0		
+342	esg reporting	2.1205	1.8627	2	4	8	2	2026.0		
+343	data analytics	2.1213	1.9073	2	4	8	2	2026.0		
+344	personnel training	-2.6158	-0.0829	5	10	25	4	2024.0		
+345	professional aspects	-2.7261	-0.084	5	3	6	2	2023.0		
+346	living lab	-2.7682	-0.1495	5	1	2	2	2021.0		
+347	behavioral research	-2.3233	-0.1371	5	2	4	2	2025.5		
+348	pedagogical content knowledge	1.4129	1.7564	2	1	2	2	2023.5		
+349	educators’ competences	1.5215	2.0205	2	1	2	2	2023.5		
+350	esd competences	1.5838	1.4579	2	2	4	3	2024.0		
+351	esd framework	1.4126	1.8095	2	1	2	2	2025.0		
+352	mindset	2.0359	1.6935	2	3	6	2	2024.5		
+353	gestaltungskompetenz	2.0241	1.655	2	3	6	2	2024.5		
+354	expertise	0.1744	-2.6922	7	2	4	2	2023.5		
+355	graduate study	-0.2313	-2.5531	7	1	2	2	2017.5		
+356	teaching practice	1.8873	1.4638	2	2	4	2	2019.0		
+357	student attitudes	0.0114	-2.4101	7	6	15	4	2023.5		
+358	undergraduate students	0.1734	-2.5414	7	3	8	4	2023.75		
+359	knowledge level	0.112	-2.4412	7	6	14	3	2023.0		
+360	learner engagement	-0.201	-2.4104	7	1	2	2	2025.0		
+361	student behavior	0.1175	-2.3524	7	5	10	2	2023.5		

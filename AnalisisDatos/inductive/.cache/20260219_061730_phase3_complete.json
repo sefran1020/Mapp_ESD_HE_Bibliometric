@@ -1,0 +1,140 @@
+{
+  "session_id": "20260219_061730",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-02-19T06:26:13.160283",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Integration and Outcomes Framework",
+        "justification": "Reflects the complementary relationship between pedagogical strategies and cognitive development, while explicitly addressing trade-offs with challenges. Grounded in high-robustness relationships (n=10-15 studies) between skill development and implementation frameworks.",
+        "general_objective": "To investigate how GenAI-mediated pedagogical strategies facilitate cognitive skill development while navigating implementation challenges",
+        "specific_objectives": [
+          {
+            "text": "Examine structured implementation models' role in fostering analytical reasoning",
+            "key_themes": [
+              "COGNITIVE SKILL DEVELOPMENT THROUGH GENAI",
+              "PEDAGOGICAL STRATEGIES AND COLLABORATIVE FRAMEWORKS"
+            ],
+            "n_studies_support": "10-15",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Evaluate cognitive regulation patterns during human-AI co-creative processes",
+            "key_themes": [
+              "PEDAGOGICAL STRATEGIES AND COLLABORATIVE FRAMEWORKS",
+              "CHALLENGES AND EMERGING CONSIDERATIONS"
+            ],
+            "n_studies_support": "5-7",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Document contradictions between domain-specific competency gains and over-reliance consequences",
+            "key_themes": [
+              "COGNITIVE SKILL DEVELOPMENT THROUGH GENAI",
+              "CHALLENGES AND EMERGING CONSIDERATIONS"
+            ],
+            "n_studies_support": "4-6",
+            "analysis_type": "contradictory"
+          }
+        ],
+        "estimated_coverage": "60-70%",
+        "strengths": [
+          "Highly robust relationships (n=10-15 studies)",
+          "Balances efficacy with critical limitations",
+          "Maps implementation progression"
+        ],
+        "limitations": [
+          "Limited coverage of humanistic competency aspects"
+        ]
+      },
+      {
+        "approach": "Dichotomy Analysis Framework",
+        "justification": "Aligns with the identified analytical axes 'Efficacy vs. Integration Trade-offs' and 'Skill Development Approaches'. Captures 60-70% of studies through contrasting cognitive development paradigms.",
+        "general_objective": "To compare analytical reasoning enhancement versus domain-specific competency outcomes across GenAI implementation models",
+        "specific_objectives": [
+          {
+            "text": "Analyze critical thinking development in language/clinical simulations",
+            "key_themes": [
+              "COGNITIVE SKILL DEVELOPMENT THROUGH GENAI"
+            ],
+            "n_studies_support": "15-20",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Evaluate structured models (GASA, GenAI-PP) against co-creative frameworks",
+            "key_themes": [
+              "PEDAGOGICAL STRATEGIES AND COLLABORATIVE FRAMEWORKS"
+            ],
+            "n_studies_support": "10-15",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Investigate ambiguity management in ethical-integration contexts",
+            "key_themes": [
+              "CHALLENGES AND EMERGING CONSIDERATIONS"
+            ],
+            "n_studies_support": "8-10",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "60-70%",
+        "strengths": [
+          "Clear methodological distinction between implementation approaches",
+          "Differentiates outcome categories",
+          "Supports comparative analysis"
+        ],
+        "limitations": [
+          "Underrepresents relationship dynamics between themes"
+        ]
+      },
+      {
+        "approach": "Progressive Implementation Framework",
+        "justification": "Mirrors the emergent taxonomy's hierarchical structure and documented implementation patterns. Built on high-robustness pedagogical strategy research (10-15 studies).",
+        "general_objective": "To map sequential development from pedagogical design to cognitive outcomes and challenge mitigation",
+        "specific_objectives": [
+          {
+            "text": "Identify implementation models enabling scenario-based learning",
+            "key_themes": [
+              "PEDAGOGICAL STRATEGIES AND COLLABORATIVE FRAMEWORKS"
+            ],
+            "n_studies_support": "10-15",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Assess resulting analytical reasoning and domain competency gains",
+            "key_themes": [
+              "COGNITIVE SKILL DEVELOPMENT THROUGH GENAI"
+            ],
+            "n_studies_support": "15-20",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Develop adaptive frameworks for managing cognitive dependencies",
+            "key_themes": [
+              "CHALLENGES AND EMERGING CONSIDERATIONS"
+            ],
+            "n_studies_support": "8-10",
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "50-60%",
+        "strengths": [
+          "Temporal implementation logic",
+          "High practical research potential",
+          "Natural progression from design to mitigation"
+        ],
+        "limitations": [
+          "Linear assumption may overlook complex interactions"
+        ]
+      }
+    ],
+    "recommendation": "Framework 1 (Integration and Outcomes) is recommended as it captures the most robust relationships (n=10-15 studies for key connections), balances efficacy with critical limitations, and directly addresses all three analytical axes. Its estimated 60-70% coverage ensures comprehensive engagement with the literature while acknowledging the medium robustness of challenge-related findings (n=8-10).",
+    "_theme_reference_check": {
+      "valid_references": 12,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true
+    }
+  }
+}

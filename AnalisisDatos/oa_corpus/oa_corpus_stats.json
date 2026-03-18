@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-02-25T22:20:27.770981",
+  "total_corpus": 442,
+  "total_oa": 223,
+  "pct_oa": 50.45,
+  "with_pdf_url": 182,
+  "pct_with_pdf": 81.61,
+  "with_repository_copy": 148,
+  "by_color": {
+    "gold": 160,
+    "hybrid": 35,
+    "green": 13,
+    "bronze": 10,
+    "diamond": 4,
+    "closed": 1
+  },
+  "by_year": {
+    "2013": {
+      "bronze": 1
+    },
+    "2016": {
+      "gold": 2
+    },
+    "2017": {
+      "green": 1,
+      "gold": 1
+    },
+    "2018": {
+      "gold": 1,
+      "hybrid": 1,
+      "green": 2,
+      "bronze": 1
+    },
+    "2019": {
+      "gold": 7,
+      "green": 1,
+      "hybrid": 3,
+      "bronze": 1
+    },
+    "2020": {
+      "gold": 19,
+      "green": 2,
+      "closed": 1
+    },
+    "2021": {
+      "gold": 21,
+      "green": 1,
+      "hybrid": 1,
+      "bronze": 1
+    },
+    "2022": {
+      "gold": 27,
+      "green": 3,
+      "bronze": 1,
+      "diamond": 1
+    },
+    "2023": {
+      "hybrid": 4,
+      "gold": 19,
+      "green": 1,
+      "diamond": 1
+    },
+    "2024": {
+      "gold": 25,
+      "hybrid": 9,
+      "diamond": 1,
+      "green": 2
+    },
+    "2025": {
+      "hybrid": 14,
+      "gold": 33,
+      "bronze": 5,
+      "diamond": 1
+    },
+    "2026": {
+      "hybrid": 3,
+      "gold": 5
+    }
+  },
+  "by_item_type": {
+    "Journal Article": 209,
+    "Conference Paper": 10,
+    "Book Chapter": 4
+  },
+  "by_license": {
+    "cc-by": 161,
+    "unknown": 24,
+    "cc-by-nc-nd": 22,
+    "cc-by-nc": 6,
+    "other-oa": 4,
+    "cc-by-nd": 2,
+    "cc-by-nc-sa": 2,
+    "cc-by-sa": 2
+  },
+  "citation_stats": {
+    "mean": 18.45,
+    "median": 9.0,
+    "max": 175,
+    "total": 4115
+  }
+}

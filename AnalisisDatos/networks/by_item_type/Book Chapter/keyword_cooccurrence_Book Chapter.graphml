@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="community" attr.type="long" />
+  <key id="d0" for="node" attr.name="frequency" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="environmental education">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="sustainable development">
+      <data key="d0">21</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="sustainable development goals">
+      <data key="d0">12</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="education for sustainable development">
+      <data key="d0">35</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="teaching">
+      <data key="d0">11</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="curricula">
+      <data key="d0">8</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="climate change">
+      <data key="d0">4</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="higher education">
+      <data key="d0">21</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="professional development">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="higher education institutions">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="high educations">
+      <data key="d0">8</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="education computing">
+      <data key="d0">4</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="students">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="case-studies">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="education">
+      <data key="d0">3</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="curriculum">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="global challenges">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="education for sustainable development (esd)">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="munich university of applied sciences (muas)">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="transdisciplinarity">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="sustainability">
+      <data key="d0">17</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="awareness">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="sdgs">
+      <data key="d0">4</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="e-learning">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="implementation">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="esd">
+      <data key="d0">8</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="behavioral research">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="educators’ competences">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="sustainability education">
+      <data key="d0">4</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="personnel training">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="esd competences">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="geography education">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="esd framework">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="curricular sustainability">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="teaching practice">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="curriculum design">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="transformation">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <edge source="environmental education" target="sustainable development">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="environmental education" target="sustainable development goals">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="environmental education" target="education for sustainable development">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="environmental education" target="teaching">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="sustainable development goals">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="sustainable development" target="curricula">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="sustainable development" target="education for sustainable development">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="sustainable development" target="teaching">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="sustainable development" target="higher education institutions">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development" target="higher education">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sustainable development" target="high educations">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="sustainable development" target="education computing">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development" target="students">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sustainable development" target="case-studies">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development" target="curriculum">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development" target="global challenges">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="sustainability">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development" target="e-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="climate change">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="behavioral research">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development" target="sustainability education">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development" target="personnel training">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development goals" target="curricula">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development goals" target="education for sustainable development">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="sustainable development goals" target="teaching">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development goals" target="higher education institutions">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development goals" target="students">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development goals" target="education computing">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainable development goals" target="higher education">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="sustainable development goals" target="sustainability">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development goals" target="sustainability education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainable development goals" target="high educations">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="education for sustainable development" target="curricula">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="education for sustainable development" target="teaching">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="education for sustainable development" target="professional development">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="higher education institutions">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="education for sustainable development" target="higher education">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="education for sustainable development" target="high educations">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="education for sustainable development" target="education computing">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="education for sustainable development" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="education for sustainable development" target="implementation">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="e-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="educators’ competences">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="esd">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="sustainability">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="education for sustainable development" target="sustainability education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="esd framework">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development" target="climate change">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="teaching" target="curricula">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="teaching" target="higher education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="teaching" target="high educations">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="teaching" target="education computing">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="teaching" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="teaching" target="education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="teaching" target="sustainability">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="teaching" target="e-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="teaching" target="climate change">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="teaching" target="sustainability education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="curricula" target="higher education">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="curricula" target="high educations">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="curricula" target="education computing">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="curricula" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="curricula" target="case-studies">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricula" target="sustainability education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricula" target="personnel training">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricula" target="higher education institutions">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricula" target="sustainability">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="climate change" target="higher education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="climate change" target="high educations">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="high educations">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="higher education" target="education computing">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="higher education" target="case-studies">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="sdgs">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="sustainability">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="higher education" target="esd">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="higher education" target="sustainability education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="personnel training">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="higher education institutions">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="curricular sustainability">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="teaching practice">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education" target="curriculum">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education institutions" target="sustainability education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education institutions" target="high educations">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="higher education institutions" target="sustainability">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="high educations" target="education computing">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="high educations" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="high educations" target="case-studies">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="high educations" target="behavioral research">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="high educations" target="sustainability education">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="high educations" target="personnel training">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="high educations" target="sustainability">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education computing" target="students">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="education computing" target="case-studies">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education computing" target="e-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="case-studies">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="e-learning">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="sustainability">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="students" target="personnel training">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curriculum" target="global challenges">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curriculum" target="sustainability">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development (esd)" target="munich university of applied sciences (muas)">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="education for sustainable development (esd)" target="transdisciplinarity">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="munich university of applied sciences (muas)" target="transdisciplinarity">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainability" target="awareness">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainability" target="esd">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sustainability" target="curriculum design">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="sustainability" target="transformation">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="esd" target="esd competences">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="esd" target="geography education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="esd competences" target="geography education">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="curricular sustainability" target="teaching practice">
+      <data key="d2">2</data>
+    </edge>
+  </graph>
+</graphml>

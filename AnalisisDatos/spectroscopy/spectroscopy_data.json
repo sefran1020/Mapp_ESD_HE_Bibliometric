@@ -1,0 +1,5126 @@
+{
+  "n_refs_analyzed": 10009,
+  "n_concepts": 3499,
+  "n_top_concepts": 30,
+  "top_concepts": [
+    {
+      "name": "Sociology",
+      "frequency": 3661
+    },
+    {
+      "name": "Psychology",
+      "frequency": 3652
+    },
+    {
+      "name": "Political science",
+      "frequency": 3310
+    },
+    {
+      "name": "Sustainability",
+      "frequency": 2857
+    },
+    {
+      "name": "Pedagogy",
+      "frequency": 2460
+    },
+    {
+      "name": "Sustainable development",
+      "frequency": 2146
+    },
+    {
+      "name": "Engineering ethics",
+      "frequency": 1930
+    },
+    {
+      "name": "Business",
+      "frequency": 1919
+    },
+    {
+      "name": "Mathematics education",
+      "frequency": 1862
+    },
+    {
+      "name": "Computer science",
+      "frequency": 1858
+    },
+    {
+      "name": "Public relations",
+      "frequency": 1532
+    },
+    {
+      "name": "Higher education",
+      "frequency": 1475
+    },
+    {
+      "name": "Knowledge management",
+      "frequency": 1248
+    },
+    {
+      "name": "Curriculum",
+      "frequency": 1190
+    },
+    {
+      "name": "Context (archaeology)",
+      "frequency": 931
+    },
+    {
+      "name": "Medical education",
+      "frequency": 826
+    },
+    {
+      "name": "Environmental education",
+      "frequency": 786
+    },
+    {
+      "name": "Engineering",
+      "frequency": 772
+    },
+    {
+      "name": "Social psychology",
+      "frequency": 650
+    },
+    {
+      "name": "Process (computing)",
+      "frequency": 623
+    },
+    {
+      "name": "Management science",
+      "frequency": 612
+    },
+    {
+      "name": "Environmental resource management",
+      "frequency": 609
+    },
+    {
+      "name": "Environmental planning",
+      "frequency": 572
+    },
+    {
+      "name": "Epistemology",
+      "frequency": 561
+    },
+    {
+      "name": "Economic growth",
+      "frequency": 546
+    },
+    {
+      "name": "Environmental ethics",
+      "frequency": 508
+    },
+    {
+      "name": "Geography",
+      "frequency": 449
+    },
+    {
+      "name": "Process management",
+      "frequency": 447
+    },
+    {
+      "name": "Climate change",
+      "frequency": 444
+    },
+    {
+      "name": "Value (mathematics)",
+      "frequency": 429
+    }
+  ],
+  "rpys": {
+    "peak_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "total_refs": 10009,
+    "year_range": [
+      1951,
+      2026
+    ],
+    "deviation_std": 7.87
+  },
+  "heatmap": {
+    "n_concepts": 30,
+    "year_range": [
+      1954,
+      2026
+    ]
+  },
+  "lifecycles": [
+    {
+      "concept": "Sociology",
+      "emergence_year": 1965,
+      "growth_year": 2003,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 3661,
+      "max_annual": 278
+    },
+    {
+      "concept": "Psychology",
+      "emergence_year": 1956,
+      "growth_year": 2001,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 3652,
+      "max_annual": 280
+    },
+    {
+      "concept": "Political science",
+      "emergence_year": 1954,
+      "growth_year": 2006,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 3310,
+      "max_annual": 255
+    },
+    {
+      "concept": "Sustainability",
+      "emergence_year": 1969,
+      "growth_year": 2008,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 2857,
+      "max_annual": 262
+    },
+    {
+      "concept": "Pedagogy",
+      "emergence_year": 1965,
+      "growth_year": 2004,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 2460,
+      "max_annual": 188
+    },
+    {
+      "concept": "Sustainable development",
+      "emergence_year": 1985,
+      "growth_year": 2008,
+      "peak_year": 2019,
+      "decline_year": 2023,
+      "last_year": 2025,
+      "total_refs": 2146,
+      "max_annual": 198
+    },
+    {
+      "concept": "Engineering ethics",
+      "emergence_year": 1965,
+      "growth_year": 2006,
+      "peak_year": 2019,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 1930,
+      "max_annual": 151
+    },
+    {
+      "concept": "Business",
+      "emergence_year": 1969,
+      "growth_year": 2007,
+      "peak_year": 2020,
+      "decline_year": 2023,
+      "last_year": 2025,
+      "total_refs": 1919,
+      "max_annual": 172
+    },
+    {
+      "concept": "Mathematics education",
+      "emergence_year": 1969,
+      "growth_year": 2002,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 1862,
+      "max_annual": 153
+    },
+    {
+      "concept": "Computer science",
+      "emergence_year": 1954,
+      "growth_year": 2001,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2026,
+      "total_refs": 1858,
+      "max_annual": 159
+    },
+    {
+      "concept": "Public relations",
+      "emergence_year": 1969,
+      "growth_year": 2006,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 1532,
+      "max_annual": 120
+    },
+    {
+      "concept": "Higher education",
+      "emergence_year": 1969,
+      "growth_year": 2006,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 1475,
+      "max_annual": 122
+    },
+    {
+      "concept": "Knowledge management",
+      "emergence_year": 1980,
+      "growth_year": 2007,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 1248,
+      "max_annual": 122
+    },
+    {
+      "concept": "Curriculum",
+      "emergence_year": 1969,
+      "growth_year": 2006,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 1190,
+      "max_annual": 96
+    },
+    {
+      "concept": "Context (archaeology)",
+      "emergence_year": 1980,
+      "growth_year": 2007,
+      "peak_year": 2020,
+      "decline_year": 2022,
+      "last_year": 2025,
+      "total_refs": 931,
+      "max_annual": 95
+    }
+  ],
+  "seminal_works": {
+    "n_rows": 519,
+    "rows": [
+      {
+        "concept": "Sociology",
+        "decade": "1960s",
+        "year": 1968,
+        "first_author": "Wagner",
+        "title": "The Discovery of Grounded Theory: Strategies for Qualitative Research.",
+        "cited_by_count": 46596,
+        "openalex_id": "https://openalex.org/W2329395632"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Morshead",
+        "title": "Taxonomy of Educational Objectives Handbook II: Affective Domain",
+        "cited_by_count": 1197,
+        "openalex_id": "https://openalex.org/W1992883909"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Timmerman",
+        "title": "From Policy to Pedagogy: The Implications of Sustainability Policy for Sustainab",
+        "cited_by_count": 19,
+        "openalex_id": "https://openalex.org/W2992707317"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bourdıeu",
+        "title": "Outline of a Theory of Practice",
+        "cited_by_count": 26478,
+        "openalex_id": "https://openalex.org/W4301056702"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Kytle",
+        "title": "Social Learning Theory.",
+        "cited_by_count": 25678,
+        "openalex_id": "https://openalex.org/W1550621568"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Rittel",
+        "title": "Dilemmas in a general theory of planning",
+        "cited_by_count": 14925,
+        "openalex_id": "https://openalex.org/W2010793828"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "DiMaggio",
+        "title": "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in",
+        "cited_by_count": 34215,
+        "openalex_id": "https://openalex.org/W3123282572"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Eisenhardt",
+        "title": "Building Theories from Case Study Research",
+        "cited_by_count": 23060,
+        "openalex_id": "https://openalex.org/W2141951329"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Haraway",
+        "title": "Situated Knowledges: The Science Question in Feminism and the Privilege of Parti",
+        "cited_by_count": 16635,
+        "openalex_id": "https://openalex.org/W3146083582"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Creswell",
+        "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+        "cited_by_count": 35392,
+        "openalex_id": "https://openalex.org/W1714723801"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lave",
+        "title": "Situated Learning",
+        "cited_by_count": 31037,
+        "openalex_id": "https://openalex.org/W4245961435"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Ellis",
+        "title": "Basics of Qualitative Research: Grounded Theory Procedures and Techniques.",
+        "cited_by_count": 29423,
+        "openalex_id": "https://openalex.org/W2000117884"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Braun",
+        "title": "Using thematic analysis in psychology",
+        "cited_by_count": 168887,
+        "openalex_id": "https://openalex.org/W1979290264"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Eisenhardt",
+        "title": "Theory Building From Cases: Opportunities And Challenges",
+        "cited_by_count": 15611,
+        "openalex_id": "https://openalex.org/W2167928095"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Patton",
+        "title": "Qualitative research & evaluation methods",
+        "cited_by_count": 15249,
+        "openalex_id": "https://openalex.org/W1572092804"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Lewis",
+        "title": "Qualitative Inquiry and Research Design: Choosing Among Five Approaches",
+        "cited_by_count": 22230,
+        "openalex_id": "https://openalex.org/W2149868499"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Phelan",
+        "title": "Case study research: design and methods",
+        "cited_by_count": 21946,
+        "openalex_id": "https://openalex.org/W2133766618"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Charmaz",
+        "title": "Constructing grounded theory",
+        "cited_by_count": 15044,
+        "openalex_id": "https://openalex.org/W409344806"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Bell",
+        "title": "Business Research Methods",
+        "cited_by_count": 10851,
+        "openalex_id": "https://openalex.org/W3147181238"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Braun",
+        "title": "One size fits all? What counts as quality practice in (reflexive) thematic analy",
+        "cited_by_count": 7240,
+        "openalex_id": "https://openalex.org/W3048560297"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Braun",
+        "title": "Conceptual and design thinking for thematic analysis.",
+        "cited_by_count": 3389,
+        "openalex_id": "https://openalex.org/W3154463802"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1950s",
+        "year": 1956,
+        "first_author": "Bloom",
+        "title": "Taxonomy of Educational Objectives: The Classification of Educational Goals, Han",
+        "cited_by_count": 9380,
+        "openalex_id": "https://openalex.org/W2573894086"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1950s",
+        "year": 1957,
+        "first_author": "Feshbach",
+        "title": "Nebraska Symposium on Motivation: 1955",
+        "cited_by_count": 3842,
+        "openalex_id": "https://openalex.org/W2325605806"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1968,
+        "first_author": "Wagner",
+        "title": "The Discovery of Grounded Theory: Strategies for Qualitative Research.",
+        "cited_by_count": 46596,
+        "openalex_id": "https://openalex.org/W2329395632"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1960,
+        "first_author": "Kaiser",
+        "title": "The Application of Electronic Computers to Factor Analysis",
+        "cited_by_count": 11862,
+        "openalex_id": "https://openalex.org/W2160172778"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Tuckman",
+        "title": "Developmental sequence in small groups.",
+        "cited_by_count": 5598,
+        "openalex_id": "https://openalex.org/W2118847637"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Vygotsky",
+        "title": "Mind in Society: The Development of Higher Psychological Processes",
+        "cited_by_count": 53842,
+        "openalex_id": "https://openalex.org/W2135943618"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Larasati",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 41103,
+        "openalex_id": "https://openalex.org/W4292808503"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 35466,
+        "openalex_id": "https://openalex.org/W2134049139"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Muller",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 83851,
+        "openalex_id": "https://openalex.org/W4300870773"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Davis",
+        "title": "Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information ",
+        "cited_by_count": 61217,
+        "openalex_id": "https://openalex.org/W1791587663"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Anderson",
+        "title": "Structural equation modeling in practice: A review and recommended two-step appr",
+        "cited_by_count": 38956,
+        "openalex_id": "https://openalex.org/W2122912498"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior",
+        "cited_by_count": 81010,
+        "openalex_id": "https://openalex.org/W2099697766"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Chaiklin",
+        "title": "Case Study Research: Design and Methods",
+        "cited_by_count": 39925,
+        "openalex_id": "https://openalex.org/W2006479099"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Bloch",
+        "title": "Situated Learning: Legitimate Peripheral Participation.",
+        "cited_by_count": 39763,
+        "openalex_id": "https://openalex.org/W2116199508"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Braun",
+        "title": "Using thematic analysis in psychology",
+        "cited_by_count": 168887,
+        "openalex_id": "https://openalex.org/W1979290264"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Podsakoff",
+        "title": "Common method biases in behavioral research: A critical review of the literature",
+        "cited_by_count": 72284,
+        "openalex_id": "https://openalex.org/W2106096361"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Hsieh",
+        "title": "Three Approaches to Qualitative Content Analysis",
+        "cited_by_count": 42086,
+        "openalex_id": "https://openalex.org/W2142225512"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Phelan",
+        "title": "Case study research: design and methods",
+        "cited_by_count": 21946,
+        "openalex_id": "https://openalex.org/W2133766618"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Festinger",
+        "title": "A Theory of Cognitive Dissonance",
+        "cited_by_count": 18338,
+        "openalex_id": "https://openalex.org/W1966114254"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Podsakoff",
+        "title": "Sources of Method Bias in Social Science Research and Recommendations on How to ",
+        "cited_by_count": 13931,
+        "openalex_id": "https://openalex.org/W2162437324"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Costello",
+        "title": "Best practices in exploratory factor analysis: four recommendations for getting ",
+        "cited_by_count": 10078,
+        "openalex_id": "https://openalex.org/W2896548965"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Braun",
+        "title": "One size fits all? What counts as quality practice in (reflexive) thematic analy",
+        "cited_by_count": 7240,
+        "openalex_id": "https://openalex.org/W3048560297"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Amabile",
+        "title": "A model of creativity and innovation in organizations.",
+        "cited_by_count": 4532,
+        "openalex_id": "https://openalex.org/W58517354"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1950s",
+        "year": 1955,
+        "first_author": "Unknown",
+        "title": "United Nations Educational, Scientific and Cultural Organization",
+        "cited_by_count": 426,
+        "openalex_id": "https://openalex.org/W2310538086"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1950s",
+        "year": 1954,
+        "first_author": "Unknown",
+        "title": "United Nations Educational, Scientific and Cultural Organization",
+        "cited_by_count": 8,
+        "openalex_id": "https://openalex.org/W4299681486"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1960s",
+        "year": 1968,
+        "first_author": "Hardin",
+        "title": "The Tragedy of the Commons",
+        "cited_by_count": 22617,
+        "openalex_id": "https://openalex.org/W2226396244"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Dalkey",
+        "title": "An experimental study of group opinion",
+        "cited_by_count": 745,
+        "openalex_id": "https://openalex.org/W2090740742"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Timmerman",
+        "title": "From Policy to Pedagogy: The Implications of Sustainability Policy for Sustainab",
+        "cited_by_count": 19,
+        "openalex_id": "https://openalex.org/W2992707317"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Rittel",
+        "title": "Dilemmas in a general theory of planning",
+        "cited_by_count": 14925,
+        "openalex_id": "https://openalex.org/W2010793828"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1970s",
+        "year": 1972,
+        "first_author": "Meadows",
+        "title": "The Limits to Growth: A report for the Club of Rome's Project on the Predicament",
+        "cited_by_count": 4027,
+        "openalex_id": "https://openalex.org/W2079238586"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Anderson",
+        "title": "On the Philosophy of Higher Education",
+        "cited_by_count": 102,
+        "openalex_id": "https://openalex.org/W4289253034"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Yin",
+        "title": "Case Study Research: Design and Methods",
+        "cited_by_count": 74915,
+        "openalex_id": "https://openalex.org/W1527311855"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "DiMaggio",
+        "title": "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in",
+        "cited_by_count": 34215,
+        "openalex_id": "https://openalex.org/W3123282572"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1980s",
+        "year": 1980,
+        "first_author": "Ajzen",
+        "title": "Understanding Attitudes and Predicting Social Behavior",
+        "cited_by_count": 26054,
+        "openalex_id": "https://openalex.org/W1491644571"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Greenhalgh",
+        "title": "Encountering Development: The Making and Unmaking of the Third World.",
+        "cited_by_count": 5484,
+        "openalex_id": "https://openalex.org/W2323781633"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Elkington",
+        "title": "Partnerships from <i>cannibals with forks: The triple bottom line of 21st‐centur",
+        "cited_by_count": 4774,
+        "openalex_id": "https://openalex.org/W2054592136"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Woolcock",
+        "title": "Social capital and economic development: Toward a theoretical synthesis and poli",
+        "cited_by_count": 4516,
+        "openalex_id": "https://openalex.org/W1533558196"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Rockström",
+        "title": "A safe operating space for humanity",
+        "cited_by_count": 12447,
+        "openalex_id": "https://openalex.org/W2096885696"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Friedman",
+        "title": "The Social Responsibility of Business Is to Increase Its Profits",
+        "cited_by_count": 11625,
+        "openalex_id": "https://openalex.org/W2177756622"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Etzkowitz",
+        "title": "The dynamics of innovation: from National Systems and “Mode 2” to a Triple Helix",
+        "cited_by_count": 7981,
+        "openalex_id": "https://openalex.org/W2095197847"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Unknown",
+        "title": "Transforming Our World: The 2030 Agenda for Sustainable Development",
+        "cited_by_count": 19546,
+        "openalex_id": "https://openalex.org/W2412247133"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Steffen",
+        "title": "Planetary boundaries: Guiding human development on a changing planet",
+        "cited_by_count": 11779,
+        "openalex_id": "https://openalex.org/W1999167944"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Field",
+        "title": "Climate Change 2014 Impacts, Adaptation, and Vulnerability",
+        "cited_by_count": 11217,
+        "openalex_id": "https://openalex.org/W1588713494"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Unknown",
+        "title": "Transforming our world: the 2030 Agenda for Sustainable Development",
+        "cited_by_count": 6785,
+        "openalex_id": "https://openalex.org/W4361016261"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Unknown",
+        "title": "The State of Food Security and Nutrition in the World 2020",
+        "cited_by_count": 3764,
+        "openalex_id": "https://openalex.org/W3188465708"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Calvin",
+        "title": "IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Group",
+        "cited_by_count": 2586,
+        "openalex_id": "https://openalex.org/W4385118605"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Timmerman",
+        "title": "From Policy to Pedagogy: The Implications of Sustainability Policy for Sustainab",
+        "cited_by_count": 19,
+        "openalex_id": "https://openalex.org/W2992707317"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "HARIEMBRUNDTLAND",
+        "title": "World Commission on environment and development",
+        "cited_by_count": 4797,
+        "openalex_id": "https://openalex.org/W2015442086"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Elkington",
+        "title": "Partnerships from <i>cannibals with forks: The triple bottom line of 21st‐centur",
+        "cited_by_count": 4774,
+        "openalex_id": "https://openalex.org/W2054592136"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Kemp",
+        "title": "Regime shifts to sustainability through processes of niche formation: The approa",
+        "cited_by_count": 2777,
+        "openalex_id": "https://openalex.org/W2058869237"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lele",
+        "title": "Sustainable development: A critical review",
+        "cited_by_count": 2169,
+        "openalex_id": "https://openalex.org/W2001994011"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Остром",
+        "title": "A General Framework for Analyzing Sustainability of Social-Ecological Systems",
+        "cited_by_count": 7824,
+        "openalex_id": "https://openalex.org/W2034994370"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Holling",
+        "title": "Understanding the Complexity of Economic, Ecological, and Social Systems",
+        "cited_by_count": 3937,
+        "openalex_id": "https://openalex.org/W2105827100"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Walker",
+        "title": "Resilience Thinking: Sustaining Ecosystems and People in a Changing World",
+        "cited_by_count": 2955,
+        "openalex_id": "https://openalex.org/W1566741571"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Steffen",
+        "title": "Planetary boundaries: Guiding human development on a changing planet",
+        "cited_by_count": 11779,
+        "openalex_id": "https://openalex.org/W1999167944"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2010s",
+        "year": 2016,
+        "first_author": "Geissdoerfer",
+        "title": "The Circular Economy – A new sustainability paradigm?",
+        "cited_by_count": 7586,
+        "openalex_id": "https://openalex.org/W2565277564"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Ghisellini",
+        "title": "A review on circular economy: the expected transition to a balanced interplay of",
+        "cited_by_count": 5810,
+        "openalex_id": "https://openalex.org/W1732240353"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Christensen",
+        "title": "Mandatory CSR and sustainability reporting: economic analysis and literature rev",
+        "cited_by_count": 1372,
+        "openalex_id": "https://openalex.org/W3159759907"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Kirchherr",
+        "title": "Conceptualizing the Circular Economy (Revisited): An Analysis of 221 Definitions",
+        "cited_by_count": 877,
+        "openalex_id": "https://openalex.org/W4366780296"
+      },
+      {
+        "concept": "Sustainability",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Ruggerio",
+        "title": "Sustainability and sustainable development: A review of principles and definitio",
+        "cited_by_count": 713,
+        "openalex_id": "https://openalex.org/W3159789627"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Tyler",
+        "title": "Basic Principles of Curriculum and Instruction",
+        "cited_by_count": 3033,
+        "openalex_id": "https://openalex.org/W1561697184"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Morshead",
+        "title": "Taxonomy of Educational Objectives Handbook II: Affective Domain",
+        "cited_by_count": 1197,
+        "openalex_id": "https://openalex.org/W1992883909"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Timmerman",
+        "title": "From Policy to Pedagogy: The Implications of Sustainability Policy for Sustainab",
+        "cited_by_count": 19,
+        "openalex_id": "https://openalex.org/W2992707317"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Dunlap",
+        "title": "The “New Environmental Paradigm”",
+        "cited_by_count": 2694,
+        "openalex_id": "https://openalex.org/W2088678796"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1970s",
+        "year": 1971,
+        "first_author": "Bloom",
+        "title": "Handbook On Formative and Summative Evaluation of Student Learning",
+        "cited_by_count": 715,
+        "openalex_id": "https://openalex.org/W1569239808"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1970s",
+        "year": 1972,
+        "first_author": "Apostel",
+        "title": "Interdisciplinarity : problems of teaching and research in universities",
+        "cited_by_count": 557,
+        "openalex_id": "https://openalex.org/W1598758256"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Shulman",
+        "title": "Those Who Understand: Knowledge Growth in Teaching",
+        "cited_by_count": 17762,
+        "openalex_id": "https://openalex.org/W2140369176"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Shulman",
+        "title": "Knowledge and Teaching:Foundations of the New Reform",
+        "cited_by_count": 16153,
+        "openalex_id": "https://openalex.org/W2153000380"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Dewey",
+        "title": "Experience and Education",
+        "cited_by_count": 13347,
+        "openalex_id": "https://openalex.org/W2075355359"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lave",
+        "title": "Situated Learning",
+        "cited_by_count": 31037,
+        "openalex_id": "https://openalex.org/W4245961435"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Kvale",
+        "title": "InterViews: Learning the Craft of Qualitative Research Interviewing",
+        "cited_by_count": 6740,
+        "openalex_id": "https://openalex.org/W1622527855"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Mezirow",
+        "title": "Transformative Learning: Theory to Practice",
+        "cited_by_count": 3976,
+        "openalex_id": "https://openalex.org/W2011182411"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Mishra",
+        "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
+        "cited_by_count": 9267,
+        "openalex_id": "https://openalex.org/W2123184471"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 6761,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Unknown",
+        "title": "What Video Games Have to Teach Us about Learning and Literacy",
+        "cited_by_count": 6693,
+        "openalex_id": "https://openalex.org/W1980850924"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Phelan",
+        "title": "Case study research: design and methods",
+        "cited_by_count": 21946,
+        "openalex_id": "https://openalex.org/W2133766618"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Sams",
+        "title": "Flip Your Classroom: Reach Every Student in Every Class Every Day",
+        "cited_by_count": 3851,
+        "openalex_id": "https://openalex.org/W228428956"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Kemmis",
+        "title": "The Action Research Planner: Doing Critical Participatory Action Research",
+        "cited_by_count": 3416,
+        "openalex_id": "https://openalex.org/W1555279274"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1439,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Toquero",
+        "title": "Challenges and Opportunities for Higher Education amid the COVID-19 Pandemic: Th",
+        "cited_by_count": 1285,
+        "openalex_id": "https://openalex.org/W3016439225"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Soler",
+        "title": "Pedagogy of the oppressed: 50th anniversary edition",
+        "cited_by_count": 1082,
+        "openalex_id": "https://openalex.org/W4322487358"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "HARIEMBRUNDTLAND",
+        "title": "World Commission on environment and development",
+        "cited_by_count": 4797,
+        "openalex_id": "https://openalex.org/W2015442086"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Elkington",
+        "title": "Towards the Sustainable Corporation: Win-Win-Win Business Strategies for Sustain",
+        "cited_by_count": 3782,
+        "openalex_id": "https://openalex.org/W2010053310"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Kemp",
+        "title": "Regime shifts to sustainability through processes of niche formation: The approa",
+        "cited_by_count": 2777,
+        "openalex_id": "https://openalex.org/W2058869237"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lele",
+        "title": "Sustainable development: A critical review",
+        "cited_by_count": 2169,
+        "openalex_id": "https://openalex.org/W2001994011"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Holling",
+        "title": "Understanding the Complexity of Economic, Ecological, and Social Systems",
+        "cited_by_count": 3937,
+        "openalex_id": "https://openalex.org/W2105827100"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Cash",
+        "title": "Knowledge systems for sustainable development",
+        "cited_by_count": 3457,
+        "openalex_id": "https://openalex.org/W2124611226"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Rennings",
+        "title": "Redefining innovation — eco-innovation research and the contribution from ecolog",
+        "cited_by_count": 2912,
+        "openalex_id": "https://openalex.org/W2097628222"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Unknown",
+        "title": "Transforming Our World: The 2030 Agenda for Sustainable Development",
+        "cited_by_count": 19546,
+        "openalex_id": "https://openalex.org/W2412247133"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Steffen",
+        "title": "Planetary boundaries: Guiding human development on a changing planet",
+        "cited_by_count": 11779,
+        "openalex_id": "https://openalex.org/W1999167944"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2010s",
+        "year": 2019,
+        "first_author": "Affairs",
+        "title": "The Sustainable Development Goals Report 2019",
+        "cited_by_count": 3568,
+        "openalex_id": "https://openalex.org/W4212781379"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Unknown",
+        "title": "Transforming our world: the 2030 Agenda for Sustainable Development",
+        "cited_by_count": 6785,
+        "openalex_id": "https://openalex.org/W4361016261"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Sachs",
+        "title": "Sustainable Development Report 2022",
+        "cited_by_count": 1334,
+        "openalex_id": "https://openalex.org/W4295705282"
+      },
+      {
+        "concept": "Sustainable development",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Vaio",
+        "title": "Artificial intelligence and business models in the sustainable development goals",
+        "cited_by_count": 979,
+        "openalex_id": "https://openalex.org/W3085940513"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Tyler",
+        "title": "Basic Principles of Curriculum and Instruction",
+        "cited_by_count": 3033,
+        "openalex_id": "https://openalex.org/W1561697184"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Morshead",
+        "title": "Taxonomy of Educational Objectives Handbook II: Affective Domain",
+        "cited_by_count": 1197,
+        "openalex_id": "https://openalex.org/W1992883909"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1970s",
+        "year": 1972,
+        "first_author": "Apostel",
+        "title": "Interdisciplinarity : problems of teaching and research in universities",
+        "cited_by_count": 557,
+        "openalex_id": "https://openalex.org/W1598758256"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1970s",
+        "year": 1974,
+        "first_author": "Gagné",
+        "title": "Educational Technology and the Learning Process",
+        "cited_by_count": 51,
+        "openalex_id": "https://openalex.org/W1994323617"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Schön",
+        "title": "Educating the reflective practitioner",
+        "cited_by_count": 11390,
+        "openalex_id": "https://openalex.org/W2106470680"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bijker",
+        "title": "Science in Action: How to Follow Scientists and Engineers through Society",
+        "cited_by_count": 10857,
+        "openalex_id": "https://openalex.org/W2334930053"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Schön",
+        "title": "Educating the Reflective Practitioner: Toward a New Design for Teaching and Lear",
+        "cited_by_count": 6950,
+        "openalex_id": "https://openalex.org/W2048431936"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Creswell",
+        "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+        "cited_by_count": 35392,
+        "openalex_id": "https://openalex.org/W1714723801"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Maxwell",
+        "title": "Qualitative Research Design: An Interactive Approach",
+        "cited_by_count": 11632,
+        "openalex_id": "https://openalex.org/W1684809301"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Flinders",
+        "title": "InterViews: An introduction to qualitative research interviewing",
+        "cited_by_count": 7294,
+        "openalex_id": "https://openalex.org/W2941631585"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Patton",
+        "title": "Qualitative research & evaluation methods",
+        "cited_by_count": 15249,
+        "openalex_id": "https://openalex.org/W1572092804"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Bowen",
+        "title": "Document Analysis as a Qualitative Research Method",
+        "cited_by_count": 10697,
+        "openalex_id": "https://openalex.org/W1983981789"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Mishra",
+        "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
+        "cited_by_count": 9267,
+        "openalex_id": "https://openalex.org/W2123184471"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Lewis",
+        "title": "Qualitative Inquiry and Research Design: Choosing Among Five Approaches",
+        "cited_by_count": 22230,
+        "openalex_id": "https://openalex.org/W2149868499"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Gioia",
+        "title": "Seeking Qualitative Rigor in Inductive Research",
+        "cited_by_count": 10960,
+        "openalex_id": "https://openalex.org/W2002554683"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Moghiman",
+        "title": "World Academy of Science, Engineering and Technology 62 2010",
+        "cited_by_count": 3833,
+        "openalex_id": "https://openalex.org/W783341876"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Bell",
+        "title": "Business Research Methods",
+        "cited_by_count": 10851,
+        "openalex_id": "https://openalex.org/W3147181238"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Haleem",
+        "title": "Understanding the role of digital technologies in education: A review",
+        "cited_by_count": 2248,
+        "openalex_id": "https://openalex.org/W4281398834"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Braun",
+        "title": "The online survey as a <i>qualitative</i> research tool",
+        "cited_by_count": 1379,
+        "openalex_id": "https://openalex.org/W3051124794"
+      },
+      {
+        "concept": "Business",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Altbach",
+        "title": "Education and Social Change",
+        "cited_by_count": 6,
+        "openalex_id": "https://openalex.org/W2281225843"
+      },
+      {
+        "concept": "Business",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Carroll",
+        "title": "A Three-Dimensional Conceptual Model of Corporate Performance",
+        "cited_by_count": 7969,
+        "openalex_id": "https://openalex.org/W2128614305"
+      },
+      {
+        "concept": "Business",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Carroll",
+        "title": "A Three-Dimensional Conceptual Model of Corporate Performance",
+        "cited_by_count": 4139,
+        "openalex_id": "https://openalex.org/W4248049325"
+      },
+      {
+        "concept": "Business",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Davis",
+        "title": "Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information ",
+        "cited_by_count": 61217,
+        "openalex_id": "https://openalex.org/W1791587663"
+      },
+      {
+        "concept": "Business",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "DiMaggio",
+        "title": "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in",
+        "cited_by_count": 34215,
+        "openalex_id": "https://openalex.org/W3123282572"
+      },
+      {
+        "concept": "Business",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Al-Athel",
+        "title": "Report of the World Commission on Environment and Development: \"Our Common Futur",
+        "cited_by_count": 5794,
+        "openalex_id": "https://openalex.org/W2289969916"
+      },
+      {
+        "concept": "Business",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Costanza",
+        "title": "The value of the world's ecosystem services and natural capital",
+        "cited_by_count": 21552,
+        "openalex_id": "https://openalex.org/W2746485780"
+      },
+      {
+        "concept": "Business",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Ozanne",
+        "title": "Basics of Qualitative Research",
+        "cited_by_count": 17938,
+        "openalex_id": "https://openalex.org/W3022607203"
+      },
+      {
+        "concept": "Business",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Nonaka",
+        "title": "The Knowledge-Creating Company",
+        "cited_by_count": 14733,
+        "openalex_id": "https://openalex.org/W1495419098"
+      },
+      {
+        "concept": "Business",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Assessment",
+        "title": "Ecosystems and Human Well-being: Synthesis",
+        "cited_by_count": 10725,
+        "openalex_id": "https://openalex.org/W1551533759"
+      },
+      {
+        "concept": "Business",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Etzkowitz",
+        "title": "The dynamics of innovation: from National Systems and “Mode 2” to a Triple Helix",
+        "cited_by_count": 7981,
+        "openalex_id": "https://openalex.org/W2095197847"
+      },
+      {
+        "concept": "Business",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Остром",
+        "title": "A General Framework for Analyzing Sustainability of Social-Ecological Systems",
+        "cited_by_count": 7824,
+        "openalex_id": "https://openalex.org/W2034994370"
+      },
+      {
+        "concept": "Business",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Unknown",
+        "title": "Transforming Our World: The 2030 Agenda for Sustainable Development",
+        "cited_by_count": 19546,
+        "openalex_id": "https://openalex.org/W2412247133"
+      },
+      {
+        "concept": "Business",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Beh",
+        "title": "Development and Distortion of Malaysian Public- Private Partnerships: Patronage,",
+        "cited_by_count": 16137,
+        "openalex_id": "https://openalex.org/W1797402740"
+      },
+      {
+        "concept": "Business",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Unknown",
+        "title": "Academy of Management Executive",
+        "cited_by_count": 9011,
+        "openalex_id": "https://openalex.org/W4231495351"
+      },
+      {
+        "concept": "Business",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Amabile",
+        "title": "A model of creativity and innovation in organizations.",
+        "cited_by_count": 4532,
+        "openalex_id": "https://openalex.org/W58517354"
+      },
+      {
+        "concept": "Business",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Liu",
+        "title": "Challenges and opportunities for carbon neutrality in China",
+        "cited_by_count": 1540,
+        "openalex_id": "https://openalex.org/W4200336467"
+      },
+      {
+        "concept": "Business",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Christensen",
+        "title": "Mandatory CSR and sustainability reporting: economic analysis and literature rev",
+        "cited_by_count": 1372,
+        "openalex_id": "https://openalex.org/W3159759907"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Tyler",
+        "title": "Basic Principles of Curriculum and Instruction",
+        "cited_by_count": 3033,
+        "openalex_id": "https://openalex.org/W1561697184"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1970s",
+        "year": 1972,
+        "first_author": "Eisner",
+        "title": "Handbook on Formative and Summative Evaluation of Student Learning",
+        "cited_by_count": 1825,
+        "openalex_id": "https://openalex.org/W2983535025"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Stake",
+        "title": "The Case Study Method in Social Inquiry",
+        "cited_by_count": 1406,
+        "openalex_id": "https://openalex.org/W2024478733"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1970s",
+        "year": 1971,
+        "first_author": "Bloom",
+        "title": "Handbook On Formative and Summative Evaluation of Student Learning",
+        "cited_by_count": 715,
+        "openalex_id": "https://openalex.org/W1569239808"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Shulman",
+        "title": "Those Who Understand: Knowledge Growth in Teaching",
+        "cited_by_count": 17762,
+        "openalex_id": "https://openalex.org/W2140369176"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Shulman",
+        "title": "Knowledge and Teaching:Foundations of the New Reform",
+        "cited_by_count": 16153,
+        "openalex_id": "https://openalex.org/W2153000380"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Dewey",
+        "title": "Experience and Education",
+        "cited_by_count": 13347,
+        "openalex_id": "https://openalex.org/W2075355359"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Fraenkel",
+        "title": "How to Design and Evaluate Research in Education",
+        "cited_by_count": 13426,
+        "openalex_id": "https://openalex.org/W1493632016"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Maxwell",
+        "title": "Qualitative Research Design: An Interactive Approach",
+        "cited_by_count": 11632,
+        "openalex_id": "https://openalex.org/W1684809301"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Biggs",
+        "title": "Teaching For Quality Learning At University",
+        "cited_by_count": 6688,
+        "openalex_id": "https://openalex.org/W1987665027"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Field",
+        "title": "Discovering Statistics Using SPSS",
+        "cited_by_count": 27792,
+        "openalex_id": "https://openalex.org/W1573234480"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Mishra",
+        "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
+        "cited_by_count": 9267,
+        "openalex_id": "https://openalex.org/W2123184471"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Krathwohl",
+        "title": "A Revision of Bloom's Taxonomy: An Overview",
+        "cited_by_count": 7308,
+        "openalex_id": "https://openalex.org/W2162821268"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Phelan",
+        "title": "Case study research: design and methods",
+        "cited_by_count": 21946,
+        "openalex_id": "https://openalex.org/W2133766618"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Field",
+        "title": "Discovering Statistics Using Ibm Spss Statistics",
+        "cited_by_count": 16556,
+        "openalex_id": "https://openalex.org/W2249595199"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Creswell",
+        "title": "Qualitative inquiry & research design : choosing among five approaches",
+        "cited_by_count": 12147,
+        "openalex_id": "https://openalex.org/W1569268909"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Wei",
+        "title": "<scp>COVID</scp> ‐19 and online teaching in higher education: A case study of Pe",
+        "cited_by_count": 2204,
+        "openalex_id": "https://openalex.org/W3014723334"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Rapanta",
+        "title": "Online University Teaching During and After the Covid-19 Crisis: Refocusing Teac",
+        "cited_by_count": 1989,
+        "openalex_id": "https://openalex.org/W3042009104"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1439,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1950s",
+        "year": 1956,
+        "first_author": "Bloom",
+        "title": "Taxonomy of Educational Objectives: The Classification of Educational Goals, Han",
+        "cited_by_count": 9380,
+        "openalex_id": "https://openalex.org/W2573894086"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1950s",
+        "year": 1958,
+        "first_author": "Anthony",
+        "title": "Scientific Literature and the Classification of the Sciences",
+        "cited_by_count": 3,
+        "openalex_id": "https://openalex.org/W2118841309"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1950s",
+        "year": 1954,
+        "first_author": "Schlaack",
+        "title": "Development of the LD Radio System",
+        "cited_by_count": 1,
+        "openalex_id": "https://openalex.org/W2065995151"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1960s",
+        "year": 1963,
+        "first_author": "Ward",
+        "title": "Hierarchical Grouping to Optimize an Objective Function",
+        "cited_by_count": 18811,
+        "openalex_id": "https://openalex.org/W2016381774"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1960s",
+        "year": 1960,
+        "first_author": "Kaiser",
+        "title": "The Application of Electronic Computers to Factor Analysis",
+        "cited_by_count": 11862,
+        "openalex_id": "https://openalex.org/W2160172778"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1960s",
+        "year": 1964,
+        "first_author": "Chomsky",
+        "title": "ASPECTS OF THE THEORY OF SYNTAX",
+        "cited_by_count": 10933,
+        "openalex_id": "https://openalex.org/W2170716495"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Landis",
+        "title": "The Measurement of Observer Agreement for Categorical Data",
+        "cited_by_count": 76176,
+        "openalex_id": "https://openalex.org/W2164777277"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Freeman",
+        "title": "A Set of Measures of Centrality Based on Betweenness",
+        "cited_by_count": 10005,
+        "openalex_id": "https://openalex.org/W1971937094"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Armstrong",
+        "title": "Estimating Nonresponse Bias in Mail Surveys",
+        "cited_by_count": 9698,
+        "openalex_id": "https://openalex.org/W2134884007"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Muller",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 83851,
+        "openalex_id": "https://openalex.org/W4300870773"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Yin",
+        "title": "Case Study Research: Design and Methods",
+        "cited_by_count": 74915,
+        "openalex_id": "https://openalex.org/W1527311855"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Fornell",
+        "title": "Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "cited_by_count": 63647,
+        "openalex_id": "https://openalex.org/W4235678817"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Chaiklin",
+        "title": "Case Study Research: Design and Methods",
+        "cited_by_count": 39925,
+        "openalex_id": "https://openalex.org/W2006479099"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Ellis",
+        "title": "Basics of Qualitative Research: Grounded Theory Procedures and Techniques.",
+        "cited_by_count": 29423,
+        "openalex_id": "https://openalex.org/W2000117884"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Einax",
+        "title": "Multivariate Data Analysis",
+        "cited_by_count": 18815,
+        "openalex_id": "https://openalex.org/W1499170180"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Team",
+        "title": "R: A Language and Environment for Statistical Computing",
+        "cited_by_count": 352817,
+        "openalex_id": "https://openalex.org/W2582743722"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Faul",
+        "title": "G*Power 3: A flexible statistical power analysis program for the social, behavio",
+        "cited_by_count": 60806,
+        "openalex_id": "https://openalex.org/W2087484885"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Hsieh",
+        "title": "Three Approaches to Qualitative Content Analysis",
+        "cited_by_count": 42086,
+        "openalex_id": "https://openalex.org/W2142225512"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Bates",
+        "title": "Fitting Linear Mixed-Effects Models Using<b>lme4</b>",
+        "cited_by_count": 80896,
+        "openalex_id": "https://openalex.org/W1951724000"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Henseler",
+        "title": "A new criterion for assessing discriminant validity in variance-based structural",
+        "cited_by_count": 30375,
+        "openalex_id": "https://openalex.org/W2105846236"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2010s",
+        "year": 2016,
+        "first_author": "Wickham",
+        "title": "ggplot2",
+        "cited_by_count": 30151,
+        "openalex_id": "https://openalex.org/W4254687493"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2020s",
+        "year": 2025,
+        "first_author": "Saldaña",
+        "title": "The Coding Manual for Qualitative Researchers",
+        "cited_by_count": 17847,
+        "openalex_id": "https://openalex.org/W1803273808"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Pereira",
+        "title": "Suspending OpenMP Tasks on Asynchronous Events: Extending the Taskwait Construct",
+        "cited_by_count": 12930,
+        "openalex_id": "https://openalex.org/W4381304672"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Bell",
+        "title": "Business Research Methods",
+        "cited_by_count": 10851,
+        "openalex_id": "https://openalex.org/W3147181238"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Timmerman",
+        "title": "From Policy to Pedagogy: The Implications of Sustainability Policy for Sustainab",
+        "cited_by_count": 19,
+        "openalex_id": "https://openalex.org/W2992707317"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Checkoway",
+        "title": "The Reflective Practitioner: How Professionals Think in Action",
+        "cited_by_count": 21386,
+        "openalex_id": "https://openalex.org/W2568476927"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Guba",
+        "title": "Criteria for assessing the trustworthiness of naturalistic inquiries",
+        "cited_by_count": 5341,
+        "openalex_id": "https://openalex.org/W1575714269"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1980s",
+        "year": 1980,
+        "first_author": "Binsted",
+        "title": "Design for Learning in Management Training and Development: A View",
+        "cited_by_count": 29,
+        "openalex_id": "https://openalex.org/W1989691140"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Carroll",
+        "title": "The pyramid of corporate social responsibility: Toward the moral management of o",
+        "cited_by_count": 8539,
+        "openalex_id": "https://openalex.org/W2035880114"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Elkington",
+        "title": "Towards the Sustainable Corporation: Win-Win-Win Business Strategies for Sustain",
+        "cited_by_count": 3782,
+        "openalex_id": "https://openalex.org/W2010053310"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Cornwall",
+        "title": "What is participatory research?",
+        "cited_by_count": 2390,
+        "openalex_id": "https://openalex.org/W2140960626"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Norris",
+        "title": "Community Resilience as a Metaphor, Theory, Set of Capacities, and Strategy for ",
+        "cited_by_count": 4877,
+        "openalex_id": "https://openalex.org/W2074746092"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Reed",
+        "title": "Stakeholder participation for environmental management: A literature review",
+        "cited_by_count": 3991,
+        "openalex_id": "https://openalex.org/W2168682319"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Wasko",
+        "title": "Why Should I Share? Examining Social Capital and Knowledge Contribution in Elect",
+        "cited_by_count": 3818,
+        "openalex_id": "https://openalex.org/W3147795728"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Tohidi",
+        "title": "Organizational culture and leadership",
+        "cited_by_count": 4333,
+        "openalex_id": "https://openalex.org/W2068588283"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Kemmis",
+        "title": "The Action Research Planner: Doing Critical Participatory Action Research",
+        "cited_by_count": 3416,
+        "openalex_id": "https://openalex.org/W1555279274"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Stilgoe",
+        "title": "Developing a framework for responsible innovation",
+        "cited_by_count": 2816,
+        "openalex_id": "https://openalex.org/W2100967449"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Amabile",
+        "title": "A model of creativity and innovation in organizations.",
+        "cited_by_count": 4532,
+        "openalex_id": "https://openalex.org/W58517354"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Christensen",
+        "title": "Mandatory CSR and sustainability reporting: economic analysis and literature rev",
+        "cited_by_count": 1372,
+        "openalex_id": "https://openalex.org/W3159759907"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Ferri",
+        "title": "Online Learning and Emergency Remote Teaching: Opportunities and Challenges in E",
+        "cited_by_count": 1309,
+        "openalex_id": "https://openalex.org/W3101597317"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Timmerman",
+        "title": "From Policy to Pedagogy: The Implications of Sustainability Policy for Sustainab",
+        "cited_by_count": 19,
+        "openalex_id": "https://openalex.org/W2992707317"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Anderson",
+        "title": "On the Philosophy of Higher Education",
+        "cited_by_count": 102,
+        "openalex_id": "https://openalex.org/W4289253034"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Dowdall",
+        "title": "Approaches to Social Research",
+        "cited_by_count": 2838,
+        "openalex_id": "https://openalex.org/W1963871207"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Lindström",
+        "title": "PLANNING FOR HIGHER EDUCATION",
+        "cited_by_count": 1004,
+        "openalex_id": "https://openalex.org/W2013552760"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Dorn",
+        "title": "Simulation Games: One More Tool on the Pedagogical Shelf",
+        "cited_by_count": 201,
+        "openalex_id": "https://openalex.org/W2090232104"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Astin",
+        "title": "Student involvement: A developmental theory for higher education.",
+        "cited_by_count": 5296,
+        "openalex_id": "https://openalex.org/W121643928"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Biggs",
+        "title": "Enhancing teaching through constructive alignment",
+        "cited_by_count": 3564,
+        "openalex_id": "https://openalex.org/W1967747674"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Mortimore",
+        "title": "Learning: The Treasure Within",
+        "cited_by_count": 1596,
+        "openalex_id": "https://openalex.org/W1520758392"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Kolb",
+        "title": "Learning Styles and Learning Spaces: Enhancing Experiential Learning in Higher E",
+        "cited_by_count": 4738,
+        "openalex_id": "https://openalex.org/W2147454772"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Garrison",
+        "title": "Blended learning: Uncovering its transformative potential in higher education",
+        "cited_by_count": 4397,
+        "openalex_id": "https://openalex.org/W2114003275"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Knight",
+        "title": "Internationalization Remodeled: Definition, Approaches, and Rationales",
+        "cited_by_count": 2498,
+        "openalex_id": "https://openalex.org/W2106829690"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Kahu",
+        "title": "Framing student engagement in higher education",
+        "cited_by_count": 1846,
+        "openalex_id": "https://openalex.org/W2047706901"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Lozano",
+        "title": "Declarations for sustainability in higher education: becoming better leaders, th",
+        "cited_by_count": 1151,
+        "openalex_id": "https://openalex.org/W2036596200"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Lozano",
+        "title": "A review of commitment and implementation of sustainable development in higher e",
+        "cited_by_count": 1031,
+        "openalex_id": "https://openalex.org/W1973718260"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Wei",
+        "title": "<scp>COVID</scp> ‐19 and online teaching in higher education: A case study of Pe",
+        "cited_by_count": 2204,
+        "openalex_id": "https://openalex.org/W3014723334"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1439,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Toquero",
+        "title": "Challenges and Opportunities for Higher Education amid the COVID-19 Pandemic: Th",
+        "cited_by_count": 1285,
+        "openalex_id": "https://openalex.org/W3016439225"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Davis",
+        "title": "Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information ",
+        "cited_by_count": 61217,
+        "openalex_id": "https://openalex.org/W1791587663"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Davis",
+        "title": "User Acceptance of Computer Technology: A Comparison of Two Theoretical Models",
+        "cited_by_count": 24906,
+        "openalex_id": "https://openalex.org/W2033943395"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Berniker",
+        "title": "Structure in Fives: Designing Effective Organizations.",
+        "cited_by_count": 2745,
+        "openalex_id": "https://openalex.org/W1967254945"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Nonaka",
+        "title": "The Knowledge-Creating Company",
+        "cited_by_count": 14733,
+        "openalex_id": "https://openalex.org/W1495419098"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Edmondson",
+        "title": "Psychological Safety and Learning Behavior in Work Teams",
+        "cited_by_count": 9800,
+        "openalex_id": "https://openalex.org/W2156435103"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Nonaka",
+        "title": "The Concept of “Ba”: Building a Foundation for Knowledge Creation",
+        "cited_by_count": 4466,
+        "openalex_id": "https://openalex.org/W2005309592"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Eisenhardt",
+        "title": "Theory Building From Cases: Opportunities And Challenges",
+        "cited_by_count": 15611,
+        "openalex_id": "https://openalex.org/W2167928095"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Hartley",
+        "title": "Case Study Research",
+        "cited_by_count": 15172,
+        "openalex_id": "https://openalex.org/W1506150625"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Mishra",
+        "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
+        "cited_by_count": 9267,
+        "openalex_id": "https://openalex.org/W2123184471"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2010s",
+        "year": 2016,
+        "first_author": "Geissdoerfer",
+        "title": "The Circular Economy – A new sustainability paradigm?",
+        "cited_by_count": 7586,
+        "openalex_id": "https://openalex.org/W2565277564"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Baxter",
+        "title": "Qualitative Case Study Methodology: Study Design and Implementation for Novice R",
+        "cited_by_count": 7501,
+        "openalex_id": "https://openalex.org/W2131919497"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Chen",
+        "title": "Business Intelligence and Analytics: From Big Data to Big Impact",
+        "cited_by_count": 5851,
+        "openalex_id": "https://openalex.org/W2141975087"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Amabile",
+        "title": "A model of creativity and innovation in organizations.",
+        "cited_by_count": 4532,
+        "openalex_id": "https://openalex.org/W58517354"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "O'Leary",
+        "title": "The Essential Guide to Doing Your Research Project",
+        "cited_by_count": 1367,
+        "openalex_id": "https://openalex.org/W1588735394"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Vaio",
+        "title": "Artificial intelligence and business models in the sustainable development goals",
+        "cited_by_count": 979,
+        "openalex_id": "https://openalex.org/W3085940513"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Tyler",
+        "title": "Basic Principles of Curriculum and Instruction",
+        "cited_by_count": 3033,
+        "openalex_id": "https://openalex.org/W1561697184"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1970s",
+        "year": 1971,
+        "first_author": "Bloom",
+        "title": "Handbook On Formative and Summative Evaluation of Student Learning",
+        "cited_by_count": 715,
+        "openalex_id": "https://openalex.org/W1569239808"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1980s",
+        "year": 1980,
+        "first_author": "Hungerford",
+        "title": "Goals for Curriculum Development in Environmental Education",
+        "cited_by_count": 369,
+        "openalex_id": "https://openalex.org/W2041107462"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Cornbleth",
+        "title": "Beyond Hidden Curriculum?",
+        "cited_by_count": 83,
+        "openalex_id": "https://openalex.org/W2199044251"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Hungerford",
+        "title": "A prototype environmental education curriculum for the middle school : a discuss",
+        "cited_by_count": 10,
+        "openalex_id": "https://openalex.org/W2751373775"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Biggs",
+        "title": "Enhancing teaching through constructive alignment",
+        "cited_by_count": 3564,
+        "openalex_id": "https://openalex.org/W1967747674"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1990s",
+        "year": 1993,
+        "first_author": "Albanese",
+        "title": "The Transition",
+        "cited_by_count": 2493,
+        "openalex_id": "https://openalex.org/W2112780789"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Gherardi",
+        "title": "Toward a Social Understanding of How People Learn in Organizations",
+        "cited_by_count": 753,
+        "openalex_id": "https://openalex.org/W2056917709"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Kolb",
+        "title": "Learning Styles and Learning Spaces: Enhancing Experiential Learning in Higher E",
+        "cited_by_count": 4738,
+        "openalex_id": "https://openalex.org/W2147454772"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Sadler",
+        "title": "Informal reasoning regarding socioscientific issues: A critical review of resear",
+        "cited_by_count": 1357,
+        "openalex_id": "https://openalex.org/W2092581386"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Watt",
+        "title": "Motivational Factors Influencing Teaching as a Career Choice: Development and Va",
+        "cited_by_count": 965,
+        "openalex_id": "https://openalex.org/W1973724695"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Unknown",
+        "title": "Journal of Curriculum and Supervision",
+        "cited_by_count": 1870,
+        "openalex_id": "https://openalex.org/W4241596949"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Lozano",
+        "title": "Declarations for sustainability in higher education: becoming better leaders, th",
+        "cited_by_count": 1151,
+        "openalex_id": "https://openalex.org/W2036596200"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Fichman",
+        "title": "Digital Innovation as a Fundamental and Powerful Concept in the Information Syst",
+        "cited_by_count": 881,
+        "openalex_id": "https://openalex.org/W2158182105"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Toquero",
+        "title": "Challenges and Opportunities for Higher Education amid the COVID-19 Pandemic: Th",
+        "cited_by_count": 1285,
+        "openalex_id": "https://openalex.org/W3016439225"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Žalėnienė",
+        "title": "Higher Education For Sustainability: A Global Perspective",
+        "cited_by_count": 565,
+        "openalex_id": "https://openalex.org/W3163995701"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2020s",
+        "year": 2024,
+        "first_author": "Abulibdeh",
+        "title": "Navigating the confluence of artificial intelligence and education for sustainab",
+        "cited_by_count": 504,
+        "openalex_id": "https://openalex.org/W4390583258"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Brown",
+        "title": "Situated Cognition and the Culture of Learning",
+        "cited_by_count": 12833,
+        "openalex_id": "https://openalex.org/W2164599981"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "PERKINS",
+        "title": "Are Cognitive Skills Context-Bound?",
+        "cited_by_count": 1062,
+        "openalex_id": "https://openalex.org/W2107121732"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Law",
+        "title": "On the Methods of Long-Distance Control: Vessels, Navigation and the Portuguese ",
+        "cited_by_count": 770,
+        "openalex_id": "https://openalex.org/W2764973111"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Edmondson",
+        "title": "Psychological Safety and Learning Behavior in Work Teams",
+        "cited_by_count": 9800,
+        "openalex_id": "https://openalex.org/W2156435103"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Nonaka",
+        "title": "The Concept of “Ba”: Building a Foundation for Knowledge Creation",
+        "cited_by_count": 4466,
+        "openalex_id": "https://openalex.org/W2005309592"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Kemp",
+        "title": "Regime shifts to sustainability through processes of niche formation: The approa",
+        "cited_by_count": 2777,
+        "openalex_id": "https://openalex.org/W2058869237"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Hsieh",
+        "title": "Three Approaches to Qualitative Content Analysis",
+        "cited_by_count": 42086,
+        "openalex_id": "https://openalex.org/W2142225512"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Bowen",
+        "title": "Document Analysis as a Qualitative Research Method",
+        "cited_by_count": 10697,
+        "openalex_id": "https://openalex.org/W1983981789"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Kirschner",
+        "title": "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failur",
+        "cited_by_count": 6527,
+        "openalex_id": "https://openalex.org/W1976637107"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Steffen",
+        "title": "Planetary boundaries: Guiding human development on a changing planet",
+        "cited_by_count": 11779,
+        "openalex_id": "https://openalex.org/W1999167944"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Yang",
+        "title": "A Design Framework for Instrumenting Analytic Provenance for Problem-Solving Tas",
+        "cited_by_count": 6597,
+        "openalex_id": "https://openalex.org/W2791753912"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Dijk",
+        "title": "Critical Discourse Analysis",
+        "cited_by_count": 5262,
+        "openalex_id": "https://openalex.org/W2161586993"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Richardson",
+        "title": "Earth beyond six of nine planetary boundaries",
+        "cited_by_count": 2430,
+        "openalex_id": "https://openalex.org/W4386706488"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Guest",
+        "title": "A simple method to assess and report thematic saturation in qualitative research",
+        "cited_by_count": 2336,
+        "openalex_id": "https://openalex.org/W3023639742"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Dash",
+        "title": "CB-SEM vs PLS-SEM methods for research in social sciences and technology forecas",
+        "cited_by_count": 2013,
+        "openalex_id": "https://openalex.org/W3192855505"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Checkoway",
+        "title": "The Reflective Practitioner: How Professionals Think in Action",
+        "cited_by_count": 21386,
+        "openalex_id": "https://openalex.org/W2568476927"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Schön",
+        "title": "Educating the reflective practitioner",
+        "cited_by_count": 11390,
+        "openalex_id": "https://openalex.org/W2106470680"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Schön",
+        "title": "Educating the Reflective Practitioner: Toward a New Design for Teaching and Lear",
+        "cited_by_count": 6950,
+        "openalex_id": "https://openalex.org/W2048431936"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Flinders",
+        "title": "InterViews: An introduction to qualitative research interviewing",
+        "cited_by_count": 7294,
+        "openalex_id": "https://openalex.org/W2941631585"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Kvale",
+        "title": "InterViews: Learning the Craft of Qualitative Research Interviewing",
+        "cited_by_count": 6740,
+        "openalex_id": "https://openalex.org/W1622527855"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Miller",
+        "title": "The assessment of clinical skills/competence/performance",
+        "cited_by_count": 4601,
+        "openalex_id": "https://openalex.org/W1991635648"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Thomas",
+        "title": "Methods for the thematic synthesis of qualitative research in systematic reviews",
+        "cited_by_count": 7987,
+        "openalex_id": "https://openalex.org/W2109305774"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Kuh",
+        "title": "High-Impact Educational Practices: What They Are, Who Has Access to Them, and Wh",
+        "cited_by_count": 3014,
+        "openalex_id": "https://openalex.org/W635888385"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Lizzio",
+        "title": "University Students' Perceptions of the Learning Environment and Academic Outcom",
+        "cited_by_count": 1388,
+        "openalex_id": "https://openalex.org/W2121224052"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "OʼBrien",
+        "title": "Standards for Reporting Qualitative Research",
+        "cited_by_count": 10535,
+        "openalex_id": "https://openalex.org/W2331393505"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Sullivan",
+        "title": "Using Effect Size—or Why the P Value Is Not Enough",
+        "cited_by_count": 5157,
+        "openalex_id": "https://openalex.org/W2107026277"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Williams",
+        "title": "Exploratory Factor Analysis: A Five-Step Guide for Novices",
+        "cited_by_count": 2663,
+        "openalex_id": "https://openalex.org/W2118934859"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Wei",
+        "title": "<scp>COVID</scp> ‐19 and online teaching in higher education: A case study of Pe",
+        "cited_by_count": 2204,
+        "openalex_id": "https://openalex.org/W3014723334"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1439,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Guo",
+        "title": "A review of project-based learning in higher education: Student outcomes and mea",
+        "cited_by_count": 1125,
+        "openalex_id": "https://openalex.org/W3026509280"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Dunlap",
+        "title": "The “New Environmental Paradigm”",
+        "cited_by_count": 2694,
+        "openalex_id": "https://openalex.org/W2088678796"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Hines",
+        "title": "Analysis and Synthesis of Research on Responsible Environmental Behavior: A Meta",
+        "cited_by_count": 3288,
+        "openalex_id": "https://openalex.org/W2146134048"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "1980s",
+        "year": 1980,
+        "first_author": "Hungerford",
+        "title": "Goals for Curriculum Development in Environmental Education",
+        "cited_by_count": 369,
+        "openalex_id": "https://openalex.org/W2041107462"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Sia",
+        "title": "Selected Predictors of Responsible Environmental Behavior: An Analysis",
+        "cited_by_count": 350,
+        "openalex_id": "https://openalex.org/W2046534947"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Hungerford",
+        "title": "Changing Learner Behavior Through Environmental Education",
+        "cited_by_count": 2058,
+        "openalex_id": "https://openalex.org/W1969203828"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Jensen",
+        "title": "The Action Competence Approach in Environmental Education",
+        "cited_by_count": 929,
+        "openalex_id": "https://openalex.org/W2029889044"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Tilbury",
+        "title": "Environmental Education for Sustainability: defining the new focus of environmen",
+        "cited_by_count": 695,
+        "openalex_id": "https://openalex.org/W2034457393"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Kollmuss",
+        "title": "Mind the Gap: Why do people act environmentally and what are the barriers to pro",
+        "cited_by_count": 8092,
+        "openalex_id": "https://openalex.org/W2170488209"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Cortese",
+        "title": "THE CRITICAL ROLE OF HIGHER EDUCATION IN CREATING A SUSTAINABLE FUTURE",
+        "cited_by_count": 1122,
+        "openalex_id": "https://openalex.org/W131893276"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Sterling",
+        "title": "Sustainable education : re-visioning learning and change",
+        "cited_by_count": 1116,
+        "openalex_id": "https://openalex.org/W1591178480"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Monroe",
+        "title": "Identifying effective climate change education strategies: a systematic review o",
+        "cited_by_count": 1141,
+        "openalex_id": "https://openalex.org/W2750183730"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Zsóka",
+        "title": "Greening due to environmental education? Environmental knowledge, attitudes, con",
+        "cited_by_count": 890,
+        "openalex_id": "https://openalex.org/W2000806946"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Vicente-Molina",
+        "title": "Environmental knowledge and other variables affecting pro-environmental behaviou",
+        "cited_by_count": 739,
+        "openalex_id": "https://openalex.org/W2015161281"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Liu",
+        "title": "How does environmental knowledge translate into pro-environmental behaviors?: Th",
+        "cited_by_count": 569,
+        "openalex_id": "https://openalex.org/W3013770308"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Chankseliani",
+        "title": "Higher education and the Sustainable Development Goals",
+        "cited_by_count": 555,
+        "openalex_id": "https://openalex.org/W3096231161"
+      },
+      {
+        "concept": "Environmental education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Kopnina",
+        "title": "Education for the future? Critical evaluation of education for sustainable devel",
+        "cited_by_count": 528,
+        "openalex_id": "https://openalex.org/W3001048598"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1970s",
+        "year": 1972,
+        "first_author": "Apostel",
+        "title": "Interdisciplinarity : problems of teaching and research in universities",
+        "cited_by_count": 557,
+        "openalex_id": "https://openalex.org/W1598758256"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bijker",
+        "title": "Science in Action: How to Follow Scientists and Engineers through Society",
+        "cited_by_count": 10857,
+        "openalex_id": "https://openalex.org/W2334930053"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Latour",
+        "title": "Science in action : how to follow scientists and engineers through society",
+        "cited_by_count": 9000,
+        "openalex_id": "https://openalex.org/W2042349004"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Papanek",
+        "title": "Design for the real world : human ecology and social change",
+        "cited_by_count": 934,
+        "openalex_id": "https://openalex.org/W1482164693"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Senge",
+        "title": "The fifth discipline, the art and practice of the learning organization",
+        "cited_by_count": 20154,
+        "openalex_id": "https://openalex.org/W2101157755"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Flinders",
+        "title": "InterViews: An introduction to qualitative research interviewing",
+        "cited_by_count": 7294,
+        "openalex_id": "https://openalex.org/W2941631585"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Elkington",
+        "title": "Partnerships from <i>cannibals with forks: The triple bottom line of 21st‐centur",
+        "cited_by_count": 4774,
+        "openalex_id": "https://openalex.org/W2054592136"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 6761,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Pérez‐Lombard",
+        "title": "A review on buildings energy consumption information",
+        "cited_by_count": 6358,
+        "openalex_id": "https://openalex.org/W2163121678"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Okoli",
+        "title": "The Delphi method as a research tool: an example, design considerations and appl",
+        "cited_by_count": 4431,
+        "openalex_id": "https://openalex.org/W1963879048"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Yin",
+        "title": "Case study research and applications design and methods",
+        "cited_by_count": 9692,
+        "openalex_id": "https://openalex.org/W2925515791"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Moghiman",
+        "title": "World Academy of Science, Engineering and Technology 62 2010",
+        "cited_by_count": 3833,
+        "openalex_id": "https://openalex.org/W783341876"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Kemmis",
+        "title": "The Action Research Planner: Doing Critical Participatory Action Research",
+        "cited_by_count": 3416,
+        "openalex_id": "https://openalex.org/W1555279274"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Boje",
+        "title": "Towards a semantic Construction Digital Twin: Directions for future research",
+        "cited_by_count": 1075,
+        "openalex_id": "https://openalex.org/W3013120860"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Anwar",
+        "title": "Green Human Resource Management for organisational citizenship behaviour towards",
+        "cited_by_count": 567,
+        "openalex_id": "https://openalex.org/W3005211116"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2020s",
+        "year": 2024,
+        "first_author": "Abulibdeh",
+        "title": "Navigating the confluence of artificial intelligence and education for sustainab",
+        "cited_by_count": 504,
+        "openalex_id": "https://openalex.org/W4390583258"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 35466,
+        "openalex_id": "https://openalex.org/W2134049139"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Schwartz",
+        "title": "Normative Influences on Altruism",
+        "cited_by_count": 4951,
+        "openalex_id": "https://openalex.org/W2198829320"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Gilligan",
+        "title": "In a Different Voice: Women's Conceptions of Self and of Morality",
+        "cited_by_count": 2348,
+        "openalex_id": "https://openalex.org/W2157355491"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Lincoln",
+        "title": "Naturalistic inquiry",
+        "cited_by_count": 31954,
+        "openalex_id": "https://openalex.org/W79229537"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1980s",
+        "year": 1980,
+        "first_author": "Ajzen",
+        "title": "Understanding Attitudes and Predicting Social Behavior",
+        "cited_by_count": 26054,
+        "openalex_id": "https://openalex.org/W1491644571"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Davis",
+        "title": "User Acceptance of Computer Technology: A Comparison of Two Theoretical Models",
+        "cited_by_count": 24906,
+        "openalex_id": "https://openalex.org/W2033943395"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior",
+        "cited_by_count": 81010,
+        "openalex_id": "https://openalex.org/W2099697766"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Schwartz",
+        "title": "Universals in the Content and Structure of Values: Theoretical Advances and Empi",
+        "cited_by_count": 13993,
+        "openalex_id": "https://openalex.org/W1896027656"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Corbin",
+        "title": "Grounded theory research: Procedures, canons, and evaluative criteria",
+        "cited_by_count": 10626,
+        "openalex_id": "https://openalex.org/W1607675442"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Ryan",
+        "title": "Self-determination theory and the facilitation of intrinsic motivation, social d",
+        "cited_by_count": 32797,
+        "openalex_id": "https://openalex.org/W4242883546"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Deci",
+        "title": "The \"What\" and \"Why\" of Goal Pursuits: Human Needs and the Self-Determination of",
+        "cited_by_count": 30246,
+        "openalex_id": "https://openalex.org/W2122517769"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Ryan",
+        "title": "Self-determination theory and the facilitation of intrinsic motivation, social d",
+        "cited_by_count": 27133,
+        "openalex_id": "https://openalex.org/W2141846678"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Festinger",
+        "title": "A Theory of Cognitive Dissonance",
+        "cited_by_count": 18338,
+        "openalex_id": "https://openalex.org/W1966114254"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Podsakoff",
+        "title": "Sources of Method Bias in Social Science Research and Recommendations on How to ",
+        "cited_by_count": 13931,
+        "openalex_id": "https://openalex.org/W2162437324"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Tavakol",
+        "title": "Making sense of Cronbach's alpha",
+        "cited_by_count": 13470,
+        "openalex_id": "https://openalex.org/W2061935394"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior: Frequently asked questions",
+        "cited_by_count": 2799,
+        "openalex_id": "https://openalex.org/W3034582256"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Eccles",
+        "title": "From expectancy-value theory to situated expectancy-value theory: A developmenta",
+        "cited_by_count": 1904,
+        "openalex_id": "https://openalex.org/W3031051743"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Clayton",
+        "title": "Climate anxiety: Psychological responses to climate change",
+        "cited_by_count": 1160,
+        "openalex_id": "https://openalex.org/W3037450747"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1950s",
+        "year": 1958,
+        "first_author": "Anthony",
+        "title": "Scientific Literature and the Classification of the Sciences",
+        "cited_by_count": 3,
+        "openalex_id": "https://openalex.org/W2118841309"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1960s",
+        "year": 1963,
+        "first_author": "Ward",
+        "title": "Hierarchical Grouping to Optimize an Objective Function",
+        "cited_by_count": 18811,
+        "openalex_id": "https://openalex.org/W2016381774"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Mezirow",
+        "title": "Perspective Transformation",
+        "cited_by_count": 1318,
+        "openalex_id": "https://openalex.org/W4238999211"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1970s",
+        "year": 1970,
+        "first_author": "Freiré",
+        "title": "The Adult Literacy Process as Cultural Action for Freedom",
+        "cited_by_count": 425,
+        "openalex_id": "https://openalex.org/W1883351010"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1970s",
+        "year": 1974,
+        "first_author": "Gagné",
+        "title": "Educational Technology and the Learning Process",
+        "cited_by_count": 51,
+        "openalex_id": "https://openalex.org/W1994323617"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bagozzi",
+        "title": "On the evaluation of structural equation models",
+        "cited_by_count": 20096,
+        "openalex_id": "https://openalex.org/W4243667233"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "Boyd",
+        "title": "Reflective Learning",
+        "cited_by_count": 887,
+        "openalex_id": "https://openalex.org/W2156288458"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lave",
+        "title": "Situated Learning",
+        "cited_by_count": 31037,
+        "openalex_id": "https://openalex.org/W4245961435"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Wenger",
+        "title": "Communities of Practice",
+        "cited_by_count": 21283,
+        "openalex_id": "https://openalex.org/W4210702550"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Mezirow",
+        "title": "Transformative Dimensions of Adult Learning",
+        "cited_by_count": 7174,
+        "openalex_id": "https://openalex.org/W1556215917"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Field",
+        "title": "Discovering Statistics Using SPSS",
+        "cited_by_count": 27792,
+        "openalex_id": "https://openalex.org/W1573234480"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Bowen",
+        "title": "Document Analysis as a Qualitative Research Method",
+        "cited_by_count": 10697,
+        "openalex_id": "https://openalex.org/W1983981789"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Fereday",
+        "title": "Demonstrating Rigor Using Thematic Analysis: A Hybrid Approach of Inductive and ",
+        "cited_by_count": 10637,
+        "openalex_id": "https://openalex.org/W2133674686"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Lewis",
+        "title": "Qualitative Inquiry and Research Design: Choosing Among Five Approaches",
+        "cited_by_count": 22230,
+        "openalex_id": "https://openalex.org/W2149868499"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Nowell",
+        "title": "Thematic Analysis",
+        "cited_by_count": 11588,
+        "openalex_id": "https://openalex.org/W2763766763"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Boateng",
+        "title": "Best Practices for Developing and Validating Scales for Health, Social, and Beha",
+        "cited_by_count": 4605,
+        "openalex_id": "https://openalex.org/W2801702920"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Hsu",
+        "title": "The Delphi Technique: Making Sense of Consensus",
+        "cited_by_count": 4212,
+        "openalex_id": "https://openalex.org/W2583504027"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Naeem",
+        "title": "A Step-by-Step Process of Thematic Analysis to Develop a Conceptual Model in Qua",
+        "cited_by_count": 1396,
+        "openalex_id": "https://openalex.org/W4388503650"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "O'Leary",
+        "title": "The Essential Guide to Doing Your Research Project",
+        "cited_by_count": 1367,
+        "openalex_id": "https://openalex.org/W1588735394"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Dalkey",
+        "title": "An experimental study of group opinion",
+        "cited_by_count": 745,
+        "openalex_id": "https://openalex.org/W2090740742"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Jick",
+        "title": "Mixing Qualitative and Quantitative Methods: Triangulation in Action",
+        "cited_by_count": 6860,
+        "openalex_id": "https://openalex.org/W2056683859"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Anderson",
+        "title": "Structural equation modeling in practice: A review and recommended two-step appr",
+        "cited_by_count": 38956,
+        "openalex_id": "https://openalex.org/W2122912498"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bagozzi",
+        "title": "On the evaluation of structural equation models",
+        "cited_by_count": 20096,
+        "openalex_id": "https://openalex.org/W4243667233"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Fink",
+        "title": "Consensus methods: characteristics and guidelines for use.",
+        "cited_by_count": 2074,
+        "openalex_id": "https://openalex.org/W2168909631"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Creswell",
+        "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+        "cited_by_count": 35392,
+        "openalex_id": "https://openalex.org/W1714723801"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Fraenkel",
+        "title": "How to Design and Evaluate Research in Education",
+        "cited_by_count": 13426,
+        "openalex_id": "https://openalex.org/W1493632016"
+      },
+      {
+        "concept": "Management science",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Maxwell",
+        "title": "Qualitative Research Design: An Interactive Approach",
+        "cited_by_count": 11632,
+        "openalex_id": "https://openalex.org/W1684809301"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Podsakoff",
+        "title": "Common method biases in behavioral research: A critical review of the literature",
+        "cited_by_count": 72284,
+        "openalex_id": "https://openalex.org/W2106096361"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Kline",
+        "title": "Principles and Practice of Structural Equation Modeling",
+        "cited_by_count": 36205,
+        "openalex_id": "https://openalex.org/W1665332082"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Eisenhardt",
+        "title": "Theory Building From Cases: Opportunities And Challenges",
+        "cited_by_count": 15611,
+        "openalex_id": "https://openalex.org/W2167928095"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Lewis",
+        "title": "Qualitative Inquiry and Research Design: Choosing Among Five Approaches",
+        "cited_by_count": 22230,
+        "openalex_id": "https://openalex.org/W2149868499"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Hair",
+        "title": "PLS-SEM: Indeed a Silver Bullet",
+        "cited_by_count": 20097,
+        "openalex_id": "https://openalex.org/W1988050849"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "ภู่พันธ์",
+        "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+        "cited_by_count": 12928,
+        "openalex_id": "https://openalex.org/W3013171296"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Hsu",
+        "title": "The Delphi Technique: Making Sense of Consensus",
+        "cited_by_count": 4212,
+        "openalex_id": "https://openalex.org/W2583504027"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Braun",
+        "title": "Conceptual and design thinking for thematic analysis.",
+        "cited_by_count": 3389,
+        "openalex_id": "https://openalex.org/W3154463802"
+      },
+      {
+        "concept": "Management science",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Guest",
+        "title": "A simple method to assess and report thematic saturation in qualitative research",
+        "cited_by_count": 2336,
+        "openalex_id": "https://openalex.org/W3023639742"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Dunlap",
+        "title": "The “New Environmental Paradigm”",
+        "cited_by_count": 2694,
+        "openalex_id": "https://openalex.org/W2088678796"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Goodland",
+        "title": "THE CONCEPT OF ENVIRONMENTAL SUSTAINABILITY",
+        "cited_by_count": 1318,
+        "openalex_id": "https://openalex.org/W2177463640"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Graedel",
+        "title": "ON THE CONCEPT OF INDUSTRIAL ECOLOGY",
+        "cited_by_count": 294,
+        "openalex_id": "https://openalex.org/W2108020464"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Clayton",
+        "title": "Sustainability: A Systems Approach",
+        "cited_by_count": 288,
+        "openalex_id": "https://openalex.org/W1753257943"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Assessment",
+        "title": "Ecosystems and Human Well-being: Synthesis",
+        "cited_by_count": 10725,
+        "openalex_id": "https://openalex.org/W1551533759"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Остром",
+        "title": "A General Framework for Analyzing Sustainability of Social-Ecological Systems",
+        "cited_by_count": 7824,
+        "openalex_id": "https://openalex.org/W2034994370"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Holling",
+        "title": "Understanding the Complexity of Economic, Ecological, and Social Systems",
+        "cited_by_count": 3937,
+        "openalex_id": "https://openalex.org/W2105827100"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Field",
+        "title": "Climate Change 2014 Impacts, Adaptation, and Vulnerability",
+        "cited_by_count": 11217,
+        "openalex_id": "https://openalex.org/W1588713494"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Chairman",
+        "title": "Climate Change 2014 - Synthesis Report",
+        "cited_by_count": 5297,
+        "openalex_id": "https://openalex.org/W2513922847"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Purvis",
+        "title": "Three pillars of sustainability: in search of conceptual origins",
+        "cited_by_count": 2914,
+        "openalex_id": "https://openalex.org/W2888940799"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2022 – Impacts, Adaptation and Vulnerability",
+        "cited_by_count": 6932,
+        "openalex_id": "https://openalex.org/W4382362038"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2021 – The Physical Science Basis",
+        "cited_by_count": 5501,
+        "openalex_id": "https://openalex.org/W4382363623"
+      },
+      {
+        "concept": "Environmental resource management",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Abbass",
+        "title": "A review of the global climate change impacts, adaptation, and sustainable mitig",
+        "cited_by_count": 1990,
+        "openalex_id": "https://openalex.org/W4226404192"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Dunlap",
+        "title": "The “New Environmental Paradigm”",
+        "cited_by_count": 2694,
+        "openalex_id": "https://openalex.org/W2088678796"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "HARIEMBRUNDTLAND",
+        "title": "World Commission on environment and development",
+        "cited_by_count": 4797,
+        "openalex_id": "https://openalex.org/W2015442086"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Brundtland",
+        "title": "Our common future ; by world commission on environment and development",
+        "cited_by_count": 2508,
+        "openalex_id": "https://openalex.org/W2913390697"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "1980s",
+        "year": 1982,
+        "first_author": "Brown",
+        "title": "Building a sustainable society",
+        "cited_by_count": 338,
+        "openalex_id": "https://openalex.org/W1529662721"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Campbell",
+        "title": "Green Cities, Growing Cities, Just Cities?: Urban Planning and the Contradiction",
+        "cited_by_count": 1628,
+        "openalex_id": "https://openalex.org/W1995894768"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Clayton",
+        "title": "Sustainability: A Systems Approach",
+        "cited_by_count": 288,
+        "openalex_id": "https://openalex.org/W1753257943"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Partidärio",
+        "title": "Strategic environmental assessment: Key issues emerging from recent practice",
+        "cited_by_count": 234,
+        "openalex_id": "https://openalex.org/W2066533592"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Cash",
+        "title": "Knowledge systems for sustainable development",
+        "cited_by_count": 3457,
+        "openalex_id": "https://openalex.org/W2124611226"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Thompson",
+        "title": "Plastics, the environment and human health: current consensus and future trends",
+        "cited_by_count": 2907,
+        "openalex_id": "https://openalex.org/W2119654329"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Tzoulas",
+        "title": "Promoting ecosystem and human health in urban areas using Green Infrastructure: ",
+        "cited_by_count": 2676,
+        "openalex_id": "https://openalex.org/W2097935015"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Unknown",
+        "title": "Transforming Our World: The 2030 Agenda for Sustainable Development",
+        "cited_by_count": 19546,
+        "openalex_id": "https://openalex.org/W2412247133"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Field",
+        "title": "Climate Change 2014 Impacts, Adaptation, and Vulnerability",
+        "cited_by_count": 11217,
+        "openalex_id": "https://openalex.org/W1588713494"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Chairman",
+        "title": "Climate Change 2014 - Synthesis Report",
+        "cited_by_count": 5297,
+        "openalex_id": "https://openalex.org/W2513922847"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2022 – Impacts, Adaptation and Vulnerability",
+        "cited_by_count": 6932,
+        "openalex_id": "https://openalex.org/W4382362038"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Unknown",
+        "title": "Transforming our world: the 2030 Agenda for Sustainable Development",
+        "cited_by_count": 6785,
+        "openalex_id": "https://openalex.org/W4361016261"
+      },
+      {
+        "concept": "Environmental planning",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2021 – The Physical Science Basis",
+        "cited_by_count": 5501,
+        "openalex_id": "https://openalex.org/W4382363623"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1950s",
+        "year": 1958,
+        "first_author": "Anthony",
+        "title": "Scientific Literature and the Classification of the Sciences",
+        "cited_by_count": 3,
+        "openalex_id": "https://openalex.org/W2118841309"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1960s",
+        "year": 1968,
+        "first_author": "Wagner",
+        "title": "The Discovery of Grounded Theory: Strategies for Qualitative Research.",
+        "cited_by_count": 46596,
+        "openalex_id": "https://openalex.org/W2329395632"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Morshead",
+        "title": "Taxonomy of Educational Objectives Handbook II: Affective Domain",
+        "cited_by_count": 1197,
+        "openalex_id": "https://openalex.org/W1992883909"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Vygotsky",
+        "title": "Mind in Society: The Development of Higher Psychological Processes",
+        "cited_by_count": 53842,
+        "openalex_id": "https://openalex.org/W2135943618"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bourdıeu",
+        "title": "Outline of a Theory of Practice",
+        "cited_by_count": 26478,
+        "openalex_id": "https://openalex.org/W4301056702"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Gould",
+        "title": "The spandrels of San Marco and the Panglossian paradigm: a critique of the adapt",
+        "cited_by_count": 7700,
+        "openalex_id": "https://openalex.org/W2066261007"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bagozzi",
+        "title": "On the evaluation of structural equation models",
+        "cited_by_count": 20096,
+        "openalex_id": "https://openalex.org/W4243667233"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Shulman",
+        "title": "Knowledge and Teaching:Foundations of the New Reform",
+        "cited_by_count": 16153,
+        "openalex_id": "https://openalex.org/W2153000380"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Brown",
+        "title": "Situated Cognition and the Culture of Learning",
+        "cited_by_count": 12833,
+        "openalex_id": "https://openalex.org/W2164599981"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Creswell",
+        "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+        "cited_by_count": 35392,
+        "openalex_id": "https://openalex.org/W1714723801"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Wenger",
+        "title": "Communities of Practice",
+        "cited_by_count": 21283,
+        "openalex_id": "https://openalex.org/W4210702550"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Schwartz",
+        "title": "Universals in the Content and Structure of Values: Theoretical Advances and Empi",
+        "cited_by_count": 13993,
+        "openalex_id": "https://openalex.org/W1896027656"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Braun",
+        "title": "Using thematic analysis in psychology",
+        "cited_by_count": 168887,
+        "openalex_id": "https://openalex.org/W1979290264"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Graneheim",
+        "title": "Qualitative content analysis in nursing research: concepts, procedures and measu",
+        "cited_by_count": 20115,
+        "openalex_id": "https://openalex.org/W2122328334"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Ryan",
+        "title": "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions",
+        "cited_by_count": 17618,
+        "openalex_id": "https://openalex.org/W2170899200"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Charmaz",
+        "title": "Constructing grounded theory",
+        "cited_by_count": 15044,
+        "openalex_id": "https://openalex.org/W409344806"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2010s",
+        "year": 2019,
+        "first_author": "Braun",
+        "title": "Reflecting on reflexive thematic analysis",
+        "cited_by_count": 14921,
+        "openalex_id": "https://openalex.org/W2950504429"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Creswell",
+        "title": "Qualitative inquiry & research design : choosing among five approaches",
+        "cited_by_count": 12147,
+        "openalex_id": "https://openalex.org/W1569268909"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Braun",
+        "title": "One size fits all? What counts as quality practice in (reflexive) thematic analy",
+        "cited_by_count": 7240,
+        "openalex_id": "https://openalex.org/W3048560297"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Braun",
+        "title": "Conceptual and design thinking for thematic analysis.",
+        "cited_by_count": 3389,
+        "openalex_id": "https://openalex.org/W3154463802"
+      },
+      {
+        "concept": "Epistemology",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Kirchherr",
+        "title": "Conceptualizing the Circular Economy (Revisited): An Analysis of 221 Definitions",
+        "cited_by_count": 877,
+        "openalex_id": "https://openalex.org/W4366780296"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1950s",
+        "year": 1955,
+        "first_author": "Unknown",
+        "title": "United Nations Educational, Scientific and Cultural Organization",
+        "cited_by_count": 426,
+        "openalex_id": "https://openalex.org/W2310538086"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1960s",
+        "year": 1969,
+        "first_author": "Altbach",
+        "title": "Education and Social Change",
+        "cited_by_count": 6,
+        "openalex_id": "https://openalex.org/W2281225843"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "HARIEMBRUNDTLAND",
+        "title": "World Commission on environment and development",
+        "cited_by_count": 4797,
+        "openalex_id": "https://openalex.org/W2015442086"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Lindström",
+        "title": "PLANNING FOR HIGHER EDUCATION",
+        "cited_by_count": 1004,
+        "openalex_id": "https://openalex.org/W2013552760"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Pallas",
+        "title": "The Changing Nature of the Disadvantaged Population Current Dimensions and Futur",
+        "cited_by_count": 271,
+        "openalex_id": "https://openalex.org/W1990932784"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lele",
+        "title": "Sustainable development: A critical review",
+        "cited_by_count": 2169,
+        "openalex_id": "https://openalex.org/W2001994011"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Campbell",
+        "title": "Green Cities, Growing Cities, Just Cities?: Urban Planning and the Contradiction",
+        "cited_by_count": 1628,
+        "openalex_id": "https://openalex.org/W1995894768"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Delors",
+        "title": "Learning : the treasure within : report to UNESCO of the International Commissio",
+        "cited_by_count": 1102,
+        "openalex_id": "https://openalex.org/W1566678405"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Schofer",
+        "title": "The Worldwide Expansion of Higher Education in the Twentieth Century",
+        "cited_by_count": 1619,
+        "openalex_id": "https://openalex.org/W2123154495"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Healy",
+        "title": "The well-being of nations the role of human and social capital",
+        "cited_by_count": 1186,
+        "openalex_id": "https://openalex.org/W1515138736"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Denton",
+        "title": "Climate change vulnerability, impacts, and adaptation: Why does gender matter?",
+        "cited_by_count": 684,
+        "openalex_id": "https://openalex.org/W1965765095"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2010s",
+        "year": 2019,
+        "first_author": "Affairs",
+        "title": "The Sustainable Development Goals Report 2019",
+        "cited_by_count": 3568,
+        "openalex_id": "https://openalex.org/W4212781379"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Caragliu",
+        "title": "Smart Cities in Europe",
+        "cited_by_count": 3230,
+        "openalex_id": "https://openalex.org/W1974963036"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Sachs",
+        "title": "From Millennium Development Goals to Sustainable Development Goals",
+        "cited_by_count": 2192,
+        "openalex_id": "https://openalex.org/W2058993674"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Unknown",
+        "title": "The State of Food Security and Nutrition in the World 2020",
+        "cited_by_count": 3764,
+        "openalex_id": "https://openalex.org/W3188465708"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Sachs",
+        "title": "Sustainable Development Report 2022",
+        "cited_by_count": 1334,
+        "openalex_id": "https://openalex.org/W4295705282"
+      },
+      {
+        "concept": "Economic growth",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Toquero",
+        "title": "Challenges and Opportunities for Higher Education amid the COVID-19 Pandemic: Th",
+        "cited_by_count": 1285,
+        "openalex_id": "https://openalex.org/W3016439225"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1950s",
+        "year": 1959,
+        "first_author": "SUMNER",
+        "title": "The Two Cultures and the Scientific Revolution",
+        "cited_by_count": 745,
+        "openalex_id": "https://openalex.org/W1667299253"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1960s",
+        "year": 1968,
+        "first_author": "Hardin",
+        "title": "The Tragedy of the Commons",
+        "cited_by_count": 22617,
+        "openalex_id": "https://openalex.org/W2226396244"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1970s",
+        "year": 1972,
+        "first_author": "Meadows",
+        "title": "The Limits to Growth: A report for the Club of Rome's Project on the Predicament",
+        "cited_by_count": 4027,
+        "openalex_id": "https://openalex.org/W2079238586"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Dunlap",
+        "title": "The “New Environmental Paradigm”",
+        "cited_by_count": 2694,
+        "openalex_id": "https://openalex.org/W2088678796"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Mezirow",
+        "title": "Perspective Transformation",
+        "cited_by_count": 120,
+        "openalex_id": "https://openalex.org/W4246820242"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Noddings",
+        "title": "Caring: A Feminine Approach to Ethics and Moral Education",
+        "cited_by_count": 6344,
+        "openalex_id": "https://openalex.org/W1506025291"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Keeble",
+        "title": "The Brundtland report: ‘Our common future’",
+        "cited_by_count": 1204,
+        "openalex_id": "https://openalex.org/W1811501337"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Brundtland",
+        "title": "Our Common Future—Call for Action",
+        "cited_by_count": 1083,
+        "openalex_id": "https://openalex.org/W2117301310"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Bass",
+        "title": "Ethics, character, and authentic transformational leadership behavior",
+        "cited_by_count": 2471,
+        "openalex_id": "https://openalex.org/W2011508098"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lele",
+        "title": "Sustainable development: A critical review",
+        "cited_by_count": 2169,
+        "openalex_id": "https://openalex.org/W2001994011"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Orr",
+        "title": "Earth in Mind: On Education, Environment, and the Human Prospect",
+        "cited_by_count": 1594,
+        "openalex_id": "https://openalex.org/W1561376627"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Rockström",
+        "title": "A safe operating space for humanity",
+        "cited_by_count": 12447,
+        "openalex_id": "https://openalex.org/W2096885696"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Rockström",
+        "title": "Planetary Boundaries: Exploring the Safe Operating Space for Humanity",
+        "cited_by_count": 6882,
+        "openalex_id": "https://openalex.org/W2105414963"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Cash",
+        "title": "Knowledge systems for sustainable development",
+        "cited_by_count": 3457,
+        "openalex_id": "https://openalex.org/W2124611226"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Steffen",
+        "title": "Planetary boundaries: Guiding human development on a changing planet",
+        "cited_by_count": 11779,
+        "openalex_id": "https://openalex.org/W1999167944"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Steffen",
+        "title": "Trajectories of the Earth System in the Anthropocene",
+        "cited_by_count": 3002,
+        "openalex_id": "https://openalex.org/W2886281704"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Morton",
+        "title": "Hyperobjects: Philosophy and Ecology after the End of the World",
+        "cited_by_count": 2648,
+        "openalex_id": "https://openalex.org/W597620852"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Bartelmus",
+        "title": "Environment and Development",
+        "cited_by_count": 990,
+        "openalex_id": "https://openalex.org/W1583889278"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Ruggerio",
+        "title": "Sustainability and sustainable development: A review of principles and definitio",
+        "cited_by_count": 713,
+        "openalex_id": "https://openalex.org/W3159789627"
+      },
+      {
+        "concept": "Environmental ethics",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Wurth",
+        "title": "Toward an Entrepreneurial Ecosystem Research Program",
+        "cited_by_count": 626,
+        "openalex_id": "https://openalex.org/W3128170268"
+      },
+      {
+        "concept": "Geography",
+        "decade": "1950s",
+        "year": 1955,
+        "first_author": "Unknown",
+        "title": "United Nations Educational, Scientific and Cultural Organization",
+        "cited_by_count": 426,
+        "openalex_id": "https://openalex.org/W2310538086"
+      },
+      {
+        "concept": "Geography",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Bronfenbrenner",
+        "title": "The Ecology of Human Development",
+        "cited_by_count": 22777,
+        "openalex_id": "https://openalex.org/W2254735081"
+      },
+      {
+        "concept": "Geography",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Brundtland",
+        "title": "Our Common Future—Call for Action",
+        "cited_by_count": 1083,
+        "openalex_id": "https://openalex.org/W2117301310"
+      },
+      {
+        "concept": "Geography",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "Tracy",
+        "title": "Relationships among Ecologically Responsible Behaviors",
+        "cited_by_count": 69,
+        "openalex_id": "https://openalex.org/W2317511171"
+      },
+      {
+        "concept": "Geography",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Greenhalgh",
+        "title": "Encountering Development: The Making and Unmaking of the Third World.",
+        "cited_by_count": 5484,
+        "openalex_id": "https://openalex.org/W2323781633"
+      },
+      {
+        "concept": "Geography",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Orr",
+        "title": "Ecological literacy : education and the transition to a postmodern world",
+        "cited_by_count": 1727,
+        "openalex_id": "https://openalex.org/W1567553845"
+      },
+      {
+        "concept": "Geography",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Goodland",
+        "title": "THE CONCEPT OF ENVIRONMENTAL SUSTAINABILITY",
+        "cited_by_count": 1318,
+        "openalex_id": "https://openalex.org/W2177463640"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Peel",
+        "title": "Updated world map of the Köppen-Geiger climate classification",
+        "cited_by_count": 12393,
+        "openalex_id": "https://openalex.org/W2101108516"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Tzoulas",
+        "title": "Promoting ecosystem and human health in urban areas using Green Infrastructure: ",
+        "cited_by_count": 2676,
+        "openalex_id": "https://openalex.org/W2097935015"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Scott",
+        "title": "Regions, Globalization, Development",
+        "cited_by_count": 952,
+        "openalex_id": "https://openalex.org/W2153215022"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Steffen",
+        "title": "Planetary boundaries: Guiding human development on a changing planet",
+        "cited_by_count": 11779,
+        "openalex_id": "https://openalex.org/W1999167944"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Field",
+        "title": "Climate Change 2014 Impacts, Adaptation, and Vulnerability",
+        "cited_by_count": 11217,
+        "openalex_id": "https://openalex.org/W1588713494"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Chairman",
+        "title": "Climate Change 2014 - Synthesis Report",
+        "cited_by_count": 5297,
+        "openalex_id": "https://openalex.org/W2513922847"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2022 – Impacts, Adaptation and Vulnerability",
+        "cited_by_count": 6932,
+        "openalex_id": "https://openalex.org/W4382362038"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2021 – The Physical Science Basis",
+        "cited_by_count": 5501,
+        "openalex_id": "https://openalex.org/W4382363623"
+      },
+      {
+        "concept": "Geography",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Braun",
+        "title": "Thematic Analysis",
+        "cited_by_count": 4127,
+        "openalex_id": "https://openalex.org/W4320081749"
+      },
+      {
+        "concept": "Process management",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Carroll",
+        "title": "A Three-Dimensional Conceptual Model of Corporate Performance",
+        "cited_by_count": 7969,
+        "openalex_id": "https://openalex.org/W2128614305"
+      },
+      {
+        "concept": "Process management",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Carroll",
+        "title": "A Three-Dimensional Conceptual Model of Corporate Performance",
+        "cited_by_count": 4139,
+        "openalex_id": "https://openalex.org/W4248049325"
+      },
+      {
+        "concept": "Process management",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Gersick",
+        "title": "TIME AN TRANSITION IN WORK TEAMS: TOWARD A NEW MODEL OF GROUP DEVELOPMENT.",
+        "cited_by_count": 2125,
+        "openalex_id": "https://openalex.org/W2153041355"
+      },
+      {
+        "concept": "Process management",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Kotler",
+        "title": "Strategic Planning for Higher Education",
+        "cited_by_count": 156,
+        "openalex_id": "https://openalex.org/W4246603887"
+      },
+      {
+        "concept": "Process management",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Hulland",
+        "title": "Use of partial least squares (PLS) in strategic management research: a review of",
+        "cited_by_count": 6821,
+        "openalex_id": "https://openalex.org/W2014134373"
+      },
+      {
+        "concept": "Process management",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Gladwin",
+        "title": "Shifting Paradigms for Sustainable Development: Implications for Management Theo",
+        "cited_by_count": 1870,
+        "openalex_id": "https://openalex.org/W2159923160"
+      },
+      {
+        "concept": "Process management",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Kirkman",
+        "title": "BEYOND SELF-MANAGEMENT: ANTECEDENTS AND CONSEQUENCES OF TEAM EMPOWERMENT.",
+        "cited_by_count": 1788,
+        "openalex_id": "https://openalex.org/W1978374798"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Okoli",
+        "title": "The Delphi method as a research tool: an example, design considerations and appl",
+        "cited_by_count": 4431,
+        "openalex_id": "https://openalex.org/W1963879048"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Carlile",
+        "title": "Transferring, Translating, and Transforming: An Integrative Framework for Managi",
+        "cited_by_count": 2912,
+        "openalex_id": "https://openalex.org/W2139041794"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Brown",
+        "title": "Change by design : how design thinking transforms organizations and inspires inn",
+        "cited_by_count": 2621,
+        "openalex_id": "https://openalex.org/W178016035"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Nowell",
+        "title": "Thematic Analysis",
+        "cited_by_count": 11588,
+        "openalex_id": "https://openalex.org/W2763766763"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2010s",
+        "year": 2016,
+        "first_author": "Bocken",
+        "title": "Product design and business model strategies for a circular economy",
+        "cited_by_count": 3393,
+        "openalex_id": "https://openalex.org/W2342540942"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Lieder",
+        "title": "Towards circular economy implementation: a comprehensive review in context of ma",
+        "cited_by_count": 2562,
+        "openalex_id": "https://openalex.org/W2216357226"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Vaio",
+        "title": "Artificial intelligence and business models in the sustainable development goals",
+        "cited_by_count": 979,
+        "openalex_id": "https://openalex.org/W3085940513"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "UNESCO",
+        "title": "Education for sustainable development: a roadmap",
+        "cited_by_count": 706,
+        "openalex_id": "https://openalex.org/W4361741174"
+      },
+      {
+        "concept": "Process management",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Unknown",
+        "title": "The International Journal of Logistics Management",
+        "cited_by_count": 670,
+        "openalex_id": "https://openalex.org/W4383905718"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Raval",
+        "title": "Observational determination of the greenhouse effect",
+        "cited_by_count": 491,
+        "openalex_id": "https://openalex.org/W2035798471"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Peel",
+        "title": "Updated world map of the Köppen-Geiger climate classification",
+        "cited_by_count": 12393,
+        "openalex_id": "https://openalex.org/W2101108516"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Solomon",
+        "title": "IPCC (2007): Climate Change The Physical Science Basis",
+        "cited_by_count": 3794,
+        "openalex_id": "https://openalex.org/W2986345846"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Cash",
+        "title": "Knowledge systems for sustainable development",
+        "cited_by_count": 3457,
+        "openalex_id": "https://openalex.org/W2124611226"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Steffen",
+        "title": "Planetary boundaries: Guiding human development on a changing planet",
+        "cited_by_count": 11779,
+        "openalex_id": "https://openalex.org/W1999167944"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Field",
+        "title": "Climate Change 2014 Impacts, Adaptation, and Vulnerability",
+        "cited_by_count": 11217,
+        "openalex_id": "https://openalex.org/W1588713494"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Chairman",
+        "title": "Climate Change 2014 - Synthesis Report",
+        "cited_by_count": 5297,
+        "openalex_id": "https://openalex.org/W2513922847"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2022 – Impacts, Adaptation and Vulnerability",
+        "cited_by_count": 6932,
+        "openalex_id": "https://openalex.org/W4382362038"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Change",
+        "title": "Climate Change 2021 – The Physical Science Basis",
+        "cited_by_count": 5501,
+        "openalex_id": "https://openalex.org/W4382363623"
+      },
+      {
+        "concept": "Climate change",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Calvin",
+        "title": "IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Group",
+        "cited_by_count": 2586,
+        "openalex_id": "https://openalex.org/W4385118605"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Davis",
+        "title": "User Acceptance of Computer Technology: A Comparison of Two Theoretical Models",
+        "cited_by_count": 24906,
+        "openalex_id": "https://openalex.org/W2033943395"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "1980s",
+        "year": 1980,
+        "first_author": "Smetana",
+        "title": "Fishbein's Value x Expectancy Model",
+        "cited_by_count": 89,
+        "openalex_id": "https://openalex.org/W2060243053"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior",
+        "cited_by_count": 81010,
+        "openalex_id": "https://openalex.org/W2099697766"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Costanza",
+        "title": "The value of the world's ecosystem services and natural capital",
+        "cited_by_count": 21552,
+        "openalex_id": "https://openalex.org/W2746485780"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Schwartz",
+        "title": "Universals in the Content and Structure of Values: Theoretical Advances and Empi",
+        "cited_by_count": 13993,
+        "openalex_id": "https://openalex.org/W1896027656"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Stern",
+        "title": "New Environmental Theories: Toward a Coherent Theory of Environmentally Signific",
+        "cited_by_count": 7922,
+        "openalex_id": "https://openalex.org/W1983150389"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Ajzen",
+        "title": "Nature and Operation of Attitudes",
+        "cited_by_count": 4174,
+        "openalex_id": "https://openalex.org/W2134694239"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Schultz",
+        "title": "THE STRUCTURE OF ENVIRONMENTAL CONCERN: CONCERN FOR SELF, OTHER PEOPLE, AND THE ",
+        "cited_by_count": 1815,
+        "openalex_id": "https://openalex.org/W2003924484"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Sullivan",
+        "title": "Using Effect Size—or Why the P Value Is Not Enough",
+        "cited_by_count": 5157,
+        "openalex_id": "https://openalex.org/W2107026277"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Schwartz",
+        "title": "An Overview of the Schwartz Theory of Basic Values",
+        "cited_by_count": 3800,
+        "openalex_id": "https://openalex.org/W1986829999"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Rich",
+        "title": "Job Engagement: Antecedents and Effects on Job Performance",
+        "cited_by_count": 3670,
+        "openalex_id": "https://openalex.org/W2137819727"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Eccles",
+        "title": "From expectancy-value theory to situated expectancy-value theory: A developmenta",
+        "cited_by_count": 1904,
+        "openalex_id": "https://openalex.org/W3031051743"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1439,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Value (mathematics)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Meyer",
+        "title": "Changing Design Education for the 21st Century",
+        "cited_by_count": 454,
+        "openalex_id": "https://openalex.org/W3014623960"
+      }
+    ]
+  },
+  "cooccurrence": {
+    "n_refs_with_multiple_concepts": 8564,
+    "n_unique_pairs": 428,
+    "top_pairs": [
+      {
+        "concepts": [
+          "Political science",
+          "Sociology"
+        ],
+        "count": 1792
+      },
+      {
+        "concepts": [
+          "Pedagogy",
+          "Sociology"
+        ],
+        "count": 1631
+      },
+      {
+        "concepts": [
+          "Pedagogy",
+          "Psychology"
+        ],
+        "count": 1523
+      },
+      {
+        "concepts": [
+          "Sociology",
+          "Sustainability"
+        ],
+        "count": 1433
+      },
+      {
+        "concepts": [
+          "Mathematics education",
+          "Psychology"
+        ],
+        "count": 1411
+      },
+      {
+        "concepts": [
+          "Engineering ethics",
+          "Sociology"
+        ],
+        "count": 1351
+      },
+      {
+        "concepts": [
+          "Political science",
+          "Sustainability"
+        ],
+        "count": 1339
+      },
+      {
+        "concepts": [
+          "Political science",
+          "Sustainable development"
+        ],
+        "count": 1290
+      },
+      {
+        "concepts": [
+          "Sustainability",
+          "Sustainable development"
+        ],
+        "count": 1261
+      },
+      {
+        "concepts": [
+          "Mathematics education",
+          "Pedagogy"
+        ],
+        "count": 1161
+      },
+      {
+        "concepts": [
+          "Psychology",
+          "Sociology"
+        ],
+        "count": 1157
+      },
+      {
+        "concepts": [
+          "Political science",
+          "Public relations"
+        ],
+        "count": 1112
+      },
+      {
+        "concepts": [
+          "Engineering ethics",
+          "Sustainability"
+        ],
+        "count": 1039
+      },
+      {
+        "concepts": [
+          "Sociology",
+          "Sustainable development"
+        ],
+        "count": 990
+      },
+      {
+        "concepts": [
+          "Public relations",
+          "Sociology"
+        ],
+        "count": 980
+      },
+      {
+        "concepts": [
+          "Engineering ethics",
+          "Political science"
+        ],
+        "count": 978
+      },
+      {
+        "concepts": [
+          "Business",
+          "Sustainability"
+        ],
+        "count": 948
+      },
+      {
+        "concepts": [
+          "Higher education",
+          "Political science"
+        ],
+        "count": 867
+      },
+      {
+        "concepts": [
+          "Higher education",
+          "Sociology"
+        ],
+        "count": 865
+      },
+      {
+        "concepts": [
+          "Higher education",
+          "Sustainability"
+        ],
+        "count": 830
+      }
+    ]
+  }
+}

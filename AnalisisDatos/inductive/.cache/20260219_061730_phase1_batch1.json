@@ -1,0 +1,498 @@
+{
+  "session_id": "20260219_061730",
+  "phase": "1",
+  "batch": 1,
+  "timestamp": "2026-02-19T06:18:16.356528",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Skills Development",
+        "definition": "Explicit focus on fostering analytical reasoning, argument evaluation, and reflective judgment through GenAI integration. Studies emphasize measurable enhancements in critical thinking through AI-mediated strategies across disciplines including language learning, nursing, and medical education.",
+        "evidence": [
+          "[Zheng2024] The theoretical knowledge scores... clinical critical thinking abilities of students(P < 0.001) in the experimental group were significantly improved",
+          "[Wang2025a] GPT feedback markedly improved problem-solving and critical thinking skills, though its impact on creativity was limited"
+        ],
+        "articles": [
+          "Elmotri2025",
+          "Huang2023",
+          "Tang2024",
+          "Liu2023",
+          "Zheng2024",
+          "Wang2025a",
+          "Chang2024",
+          "Zhao2025",
+          "Zhou2025a",
+          "Wang2025b",
+          "Darmawansah2025",
+          "Cui2025",
+          "Gong2025a"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Higher-order thinking skills",
+          "Argumentation",
+          "Clinical reasoning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Generative AI in STEM and Health Education",
+        "definition": "Applications of GenAI tools (ChatGPT, Ernie Bot, GPT-based systems) to improve domain-specific competencies in STEM and clinical fields. Includes scenario-based simulations, diagnostic training, and experiential learning modules.",
+        "evidence": [
+          "[Zheng2024] AI-empowered scenario-based simulation teaching mode significantly improve students’ performance in many aspects... clinical critical thinking abilities",
+          "[Li2025a] GenAI could serve as a learning partner to discuss... help master core concepts and develop key career competencies"
+        ],
+        "articles": [
+          "Zheng2024",
+          "Lin2025a",
+          "Song2025",
+          "Li2025a",
+          "Shen2025a",
+          "Gong2025a",
+          "Zhao2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Programming education",
+          "Medical simulation",
+          "STEM pedagogy"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 2,
+          "verified": false
+        }
+      },
+      {
+        "name": "AI-Enhanced Collaborative and Reflective Learning",
+        "definition": "Structured approaches embedding GenAI to facilitate knowledge co-construction through dialogue, peer interaction, and reflective writing practices. Involves tools like GASA for summarization support and conversational scaffolding.",
+        "evidence": [
+          "[Tang2024] conceptualizes GenAI not as a definitive knowledge provider but as a dialogic agent that facilitates collaborative dialogue and co-construction of knowledge",
+          "[Lin2025a] GASA supports learners in their reflective observation and conceptualization processes by providing feedback tailored to experiential learning phases"
+        ],
+        "articles": [
+          "Tang2024",
+          "Ba2025",
+          "Chen2025b",
+          "Neshaei2025",
+          "Lin2025a",
+          "Chang2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Argument mapping",
+          "Epistemic networks",
+          "Reflective practice"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and Practical Challenges of AI Integration",
+        "definition": "Documented concerns including over-reliance on AI outputs, privacy issues, unequal skill development across ability levels, and preservation of humanistic competencies in AI-mediated education.",
+        "evidence": [
+          "[Shen2025a] concerns about incomplete or imprecise responses, GenAI’s limited emotional understanding, and privacy risks associated with sensitive healthcare data",
+          "[Nasr2025] passive learning with automated solutions rather than active engagement observed in unstructured ChatGPT utilization"
+        ],
+        "articles": [
+          "Nasr2025",
+          "Shen2025a",
+          "Hou2026",
+          "Chu2025a",
+          "Chang2025",
+          "Darmawansah2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Digital literacy",
+          "Prompt engineering",
+          "Data privacy"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Pedagogical Design and Implementation Strategies",
+        "definition": "Framework development for effective GenAI integration including structured problem-based learning, progressive prompting models (GenAI-PP), and blended teaching approaches combining AI with experiential components.",
+        "evidence": [
+          "[Abouelenein2025] R5E pattern, a novel pedagogical model for integrating ChatGPT into programming education to promote active learning and critical thinking",
+          "[Parmar2025] blended... model combining experiential learning and generative AI proved effective in promoting engagement and digital literacy"
+        ],
+        "articles": [
+          "Abouelenein2025",
+          "Parmar2025",
+          "Chang2025",
+          "Darmawansah2025",
+          "Zhao2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Instructional scaffolding",
+          "Blended learning",
+          "Professional training"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Higher Order Thinking Skills (HOTS) Development",
+        "definition": "Focus on advanced cognitive processes beyond basic recall including synthesis, evaluation, and creative application in GenAI-facilitated learning environments.",
+        "evidence": [
+          "[Chang2024] generative artificial intelligence via ChatGPT system... improved learners’ critical thinking ability, problem solving, and learning enjoyment",
+          "[Cui2025] AI emerges as a catalyst of educational transformation... compelling educators to rethink how equity can be preserved in AI-rich environments"
+        ],
+        "articles": [
+          "Wang2025a",
+          "Cui2025",
+          "Song2025",
+          "Zhao2025"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Cognitive load",
+          "Creative problem-solving",
+          "Epistemic understanding"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 2,
+          "verified": false
+        }
+      },
+      {
+        "name": "Emerging Tools and AI Integration Frameworks",
+        "definition": "Development of specialized AI systems (GASA, GenAI-PP, Auto-Yoga) designed for educational contexts with demonstrated efficacy in controlled studies.",
+        "evidence": [
+          "[Chen2025a] Multimodal generative AI-powered visual programming support tool MindScratch that balances structured activities with creative programming",
+          "[Li2025a] GPT-Assisted Summarization Aid (GASA) applied in collaborative learning activities within experiential learning"
+        ],
+        "articles": [
+          "Chen2025a",
+          "Gong2025a",
+          "Lin2025a",
+          "Li2025a",
+          "Hsia2025",
+          "Chang2025"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Conversational agents",
+          "Simulation systems",
+          "Visual scaffolding"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 2,
+          "verified": false
+        }
+      },
+      {
+        "name": "Need for Cognitive Closure in Human-AI Collaboration",
+        "definition": "Identification of metacognitive patterns related to ambiguity avoidance and certainty-seeking behaviors in GenAI-assisted learning contexts.",
+        "evidence": [
+          "[Han2025a] Need for Cognitive Closure (NFCC)... regulates how students engage with GenAI and their metacognitive processes",
+          "[Nasr2025] passive, AI-directed use and collaborative, AI-supported interaction patterns emerged in usage analysis"
+        ],
+        "articles": [
+          "Han2025a",
+          "Nasr2025"
+        ],
+        "frequency": "Low",
+        "confidence": "uncertain",
+        "related_concepts": [
+          "Ambiguity tolerance",
+          "Cognitive regulation",
+          "Behavioral patterns"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "n_hallucination_flags": 2,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "Critical thinking emerged as the most frequently mentioned outcome across disciplines. Health professions education (specifically nursing/clinical training) had a strong presence in the dataset. Several studies demonstrated similar quasi-experimental designs with pre-post comparisons and control groups, though many lacked quantitative data due to quality issues. The term 'Generative AI' showed higher usage frequency than alternative terminology like 'large language models'.",
+    "grounding_notes": "'Need for Cognitive Closure' theme has limited articles but is explicitly mentioned in both Han2025a and Nasr2025. All themes were directly supported by verbatim citations from the provided abstracts without inferential interpretations. Frequency calculations exclude abstracts with quality issues that made content analysis challenging.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.52,
+      "total_hallucination_flags": 11,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Skills Development",
+          "evidence_verified": [
+            {
+              "quote": "[Zheng2024] The theoretical knowledge scores... clinical critical thinking abilities of students(P < 0.001) in the experimental group were significantly improved",
+              "score": 0.76,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Wang2025a] GPT feedback markedly improved problem-solving and critical thinking skills, though its impact on creativity was limited",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Elmotri2025",
+            "Huang2023",
+            "Tang2024",
+            "Liu2023",
+            "Zheng2024",
+            "Wang2025a",
+            "Chang2024",
+            "Zhao2025",
+            "Zhou2025a",
+            "Wang2025b",
+            "Darmawansah2025",
+            "Cui2025",
+            "Gong2025a"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Generative AI in STEM and Health Education",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Zheng2024] AI-empowered scenario-based simulation teaching mode significantly improve students’ performance in many aspects... clinical critical thinking abilities",
+              "score": 0.74,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Li2025a] GenAI could serve as a learning partner to discuss... help master core concepts and develop key career competencies",
+              "score": 0.47,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Zheng2024",
+            "Lin2025a",
+            "Song2025",
+            "Li2025a",
+            "Shen2025a",
+            "Gong2025a",
+            "Zhao2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.74), not verbatim: '[Zheng2024] AI-empowered scenario-based simulation...'",
+            "Quote not found in source texts (score=0.47): '[Li2025a] GenAI could serve as a learning partner ...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Enhanced Collaborative and Reflective Learning",
+          "evidence_verified": [
+            {
+              "quote": "[Tang2024] conceptualizes GenAI not as a definitive knowledge provider but as a dialogic agent that facilitates collaborative dialogue and co-construction of knowledge",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Lin2025a] GASA supports learners in their reflective observation and conceptualization processes by providing feedback tailored to experiential learning phases",
+              "score": 0.68,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Tang2024",
+            "Ba2025",
+            "Chen2025b",
+            "Neshaei2025",
+            "Lin2025a",
+            "Chang2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.68), not verbatim: '[Lin2025a] GASA supports learners in their reflect...'"
+          ],
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Practical Challenges of AI Integration",
+          "evidence_verified": [
+            {
+              "quote": "[Shen2025a] concerns about incomplete or imprecise responses, GenAI’s limited emotional understanding, and privacy risks associated with sensitive healthcare data",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Nasr2025] passive learning with automated solutions rather than active engagement observed in unstructured ChatGPT utilization",
+              "score": 0.27,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Nasr2025",
+            "Shen2025a",
+            "Hou2026",
+            "Chu2025a",
+            "Chang2025",
+            "Darmawansah2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.27): '[Nasr2025] passive learning with automated solutio...'"
+          ],
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Pedagogical Design and Implementation Strategies",
+          "evidence_verified": [
+            {
+              "quote": "[Abouelenein2025] R5E pattern, a novel pedagogical model for integrating ChatGPT into programming education to promote active learning and critical thinking",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Parmar2025] blended... model combining experiential learning and generative AI proved effective in promoting engagement and digital literacy",
+              "score": 0.71,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Abouelenein2025",
+            "Parmar2025",
+            "Chang2025",
+            "Darmawansah2025",
+            "Zhao2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.71), not verbatim: '[Parmar2025] blended... model combining experienti...'"
+          ],
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Higher Order Thinking Skills (HOTS) Development",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Chang2024] generative artificial intelligence via ChatGPT system... improved learners’ critical thinking ability, problem solving, and learning enjoyment",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Cui2025] AI emerges as a catalyst of educational transformation... compelling educators to rethink how equity can be preserved in AI-rich environments",
+              "score": 0.36,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Wang2025a",
+            "Cui2025",
+            "Song2025",
+            "Zhao2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.59): '[Chang2024] generative artificial intelligence via...'",
+            "Quote not found in source texts (score=0.36): '[Cui2025] AI emerges as a catalyst of educational ...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Emerging Tools and AI Integration Frameworks",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Chen2025a] Multimodal generative AI-powered visual programming support tool MindScratch that balances structured activities with creative programming",
+              "score": 0.35,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[Li2025a] GPT-Assisted Summarization Aid (GASA) applied in collaborative learning activities within experiential learning",
+              "score": 0.43,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Chen2025a",
+            "Gong2025a",
+            "Lin2025a",
+            "Li2025a",
+            "Hsia2025",
+            "Chang2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.35): '[Chen2025a] Multimodal generative AI-powered visua...'",
+            "Quote not found in source texts (score=0.43): '[Li2025a] GPT-Assisted Summarization Aid (GASA) ap...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Need for Cognitive Closure in Human-AI Collaboration",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[Han2025a] Need for Cognitive Closure (NFCC)... regulates how students engage with GenAI and their metacognitive processes",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Nasr2025] passive, AI-directed use and collaborative, AI-supported interaction patterns emerged in usage analysis",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Han2025a",
+            "Nasr2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.62), not verbatim: '[Han2025a] Need for Cognitive Closure (NFCC)... re...'",
+            "Paraphrase detected (score=0.60), not verbatim: '[Nasr2025] passive, AI-directed use and collaborat...'"
+          ],
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

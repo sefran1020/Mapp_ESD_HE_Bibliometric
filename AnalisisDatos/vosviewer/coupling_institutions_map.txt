@@ -1,0 +1,534 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>	score<Avg. pub. year>	description	url
+1	University of California, San Diego	2.7073	0.0397	1	57	123	0	2025.0		
+2	University of California, Los Angeles	2.707	-0.0111	1	57	123	0	2025.0		
+3	Eberswalde University for Sustainable Development	2.4062	0.767	2	367	1360	23	2023.2		
+4	Leibniz Centre for Agricultural Landscape Research	2.2027	0.854	2	83	110	4	2022.0		
+5	University of Dar es Salaam	1.9813	1.1337	3	124	225	22	2019.0		
+6	KTH Royal Institute of Technology	2.0089	1.2008	3	292	595	73	2020.0		
+7	Shannon Applied Biotechnology Centre	1.5981	2.026	4	154	326	13	2024.5		
+8	Munster Technological University	1.5247	2.1333	4	55	91	10	2025.0		
+9	University College Dublin	1.0505	2.3098	5	334	1071	29	2024.5		
+10	Trinity College Dublin	1.5791	2.147	4	55	91	10	2025.0		
+11	Tufts University	1.0821	2.3389	5	260	637	18	2022.0		
+12	University of Michigan–Ann Arbor	1.0649	2.3352	5	260	637	18	2022.0		
+13	Ann Arbor Center for Independent Living	1.0683	2.3387	5	260	637	18	2022.0		
+14	Northwestern University in Qatar	0.2717	2.4473	6	318	1061	37	2024.0		
+15	Institute of Advanced Studies in Administration	0.3183	2.4782	6	299	927	37	2023.0		
+16	University of Edinburgh	0.3543	2.5343	6	299	927	37	2023.0		
+17	The Open University	0.2947	2.524	6	299	927	37	2023.0		
+18	University of Glasgow	0.4076	2.4227	6	375	1285	40	2024.0		
+19	American University of Sharjah	0.3154	2.4065	6	318	1061	37	2024.0		
+20	King's College London	0.3614	2.4402	6	299	927	37	2023.0		
+21	King's College School	0.3973	2.496	6	299	927	37	2023.0		
+22	Romanian Academy	-0.1791	2.5329	7	153	359	1	2025.0		
+23	Univesity of Life Science 'King Mihai I' from Timisoara	-0.1731	2.4838	7	153	359	1	2025.0		
+24	West University of Timişoara	-0.1967	2.4942	7	153	359	1	2025.0		
+25	University of Agronomic Sciences and Veterinary Medicine of Bucharest	-0.1995	2.5241	7	153	359	1	2025.0		
+26	Aurel Vlaicu University of Arad	-0.1665	2.5096	7	153	359	1	2025.0		
+27	University of Alabama in Huntsville	-0.833	2.2445	8	127	221	2	2025.0		
+28	University of Twente	-0.8801	2.2704	8	127	221	2	2025.0		
+29	Marshall Space Flight Center	-0.881	2.2009	8	127	221	2	2025.0		
+30	University of Otago	0.9143	2.1602	5	102	143	82	2015.0		
+31	Innovative University of Eurasia	-0.3247	2.376	7	170	386	31	2024.0		
+32	Georgian Technical University	-0.328	2.3375	7	113	243	15	2024.0		
+33	Angel Kanchev University of Ruse	-0.2813	2.3815	7	113	243	15	2024.0		
+34	University of Basilicata	-0.2865	2.3559	7	113	243	15	2024.0		
+35	S. Toraighyrov Pavlodar State University	-0.3028	2.3327	7	113	243	15	2024.0		
+36	Esslingen University of Applied Sciences	-1.5462	1.8933	9	19	122	50	2018.0		
+37	University of Plymouth	-1.5303	1.8359	9	255	587	106	2017.0		
+38	Universidad de Jaén	-1.6391	1.8905	9	95	331	54	2021.5		
+39	Maastricht University	-1.5859	1.814	9	71	178	58	2020.5		
+40	Technological University Dublin	1.5544	2.0405	4	138	289	3	2024.5		
+41	United Arab Emirates University	1.9841	1.4661	3	353	748	205	2022.0		
+42	United Nations University Institute for the Advanced Study of Sustainability	2.1649	1.2775	3	246	561	298	2019.0		
+43	United Nations University Institute for Sustainability and Peace	2.1479	1.2545	3	246	561	298	2019.0		
+44	University of Queensland	2.2037	1.2022	3	300	864	314	2019.0		
+45	University of the Basque Country	1.0121	2.2135	5	325	758	81	2020.5		
+46	Meiho University	-0.1255	2.6477	7	157	211	17	2023.33		
+47	Clemson University	-1.6295	-2.1679	15	28	79	7	2021.0		
+48	Temple University	-1.6041	-2.1985	15	28	79	7	2021.0		
+49	University of Huddersfield	-2.581	0.2687	12	2	36	5	2021.0		
+50	Vilnius Gediminas Technical University	-2.2268	-0.0642	12	2	36	5	2021.0		
+51	University of Ruhuna	-2.6922	-0.2045	12	2	36	5	2021.0		
+52	University of Hong Kong	0.9567	2.2672	5	289	875	25	2020.5		
+53	Education University of Hong Kong	0.9047	2.2551	5	194	384	21	2017.0		
+54	Open University of the Netherlands	0.9977	2.248	5	322	1010	129	2018.0		
+55	University of Girona	1.0135	2.2419	5	369	1314	200	2019.33		
+56	Charles University	0.9977	2.248	5	322	1010	129	2018.0		
+57	Technological University of Tajikistan	-0.3481	2.3864	7	157	292	16	2024.0		
+58	International University of Kyrgyzstan	-0.3159	2.4041	7	157	292	16	2024.0		
+59	Toraighyrov University	-0.3589	2.3581	7	157	292	16	2024.0		
+60	Alexandria University	2.5431	0.1973	1	25	259	9	2025.5		
+61	Pharos University in Alexandria	2.6124	0.3689	1	1	22	0	2026.0		
+62	Manchester Metropolitan University	-1.138	2.2432	8	405	1984	127	2019.86		
+63	University of Gävle	0.9816	2.1716	5	214	392	72	2016.0		
+64	Thurgau University of Teacher Education	2.4015	0.2839	2	17	212	36	2023.0		
+65	University of Konstanz	2.3584	0.3311	2	17	212	36	2023.0		
+66	University of Education Weingarten	2.4352	0.3372	2	17	212	36	2023.0		
+67	Universidade de Passo Fundo	-0.414	2.5217	7	305	645	51	2020.0		
+68	Universidade Federal de Santa Maria	-0.3931	2.5371	7	305	645	51	2020.0		
+69	Advance HE	-1.1326	2.3063	8	341	1193	59	2021.0		
+70	University of Bristol	-1.1003	2.3261	8	362	1296	85	2019.0		
+71	University of St Andrews	-1.1072	2.2912	8	341	1193	59	2021.0		
+72	University of the West of England	-1.147	2.3472	8	401	1887	192	2019.5		
+73	Cardiff Metropolitan University	-1.0655	2.2583	8	366	1410	129	2019.0		
+74	Universidade Aberta	2.1049	1.3755	3	364	1652	271	2020.2		
+75	University of Coimbra	2.1565	1.4567	3	74	280	7	2021.0		
+76	University of Hagen	2.1775	1.4273	3	74	280	7	2021.0		
+77	Technische Universität Berlin	2.4063	0.6893	2	234	560	0	2025.0		
+78	University of Potsdam	2.3755	0.6574	2	234	560	0	2025.0		
+79	Freie Universität Berlin	2.3314	0.6643	2	388	1514	188	2023.0		
+80	University of Applied Sciences Mainz	2.3241	0.7194	2	234	560	0	2025.0		
+81	University of Bayreuth	1.1071	2.3246	5	241	430	21	2022.5		
+82	University of Lisbon	2.1376	1.3699	3	357	1035	42	2020.5		
+83	Universidad Autónoma de Madrid	2.1029	1.3656	3	343	1124	203	2020.0		
+84	University of Padua	2.3791	1.3763	3	128	237	151	2017.0		
+85	University of Crete	2.3639	1.4184	3	127	207	101	2018.0		
+86	University of Agriculture Faisalabad	1.6004	1.9378	4	300	783	67	2020.0		
+87	Institute of Business Management	1.625	1.9468	4	300	783	67	2020.0		
+88	Huazhong Agricultural University	1.5879	1.9144	4	300	783	67	2020.0		
+89	Shenzhen University	1.6309	1.9244	4	300	783	67	2020.0		
+90	University of Faisalabad	1.6102	1.9102	4	300	783	67	2020.0		
+91	Universidad Pablo de Olavide	-0.4937	2.4682	7	250	467	43	2021.0		
+92	Universidad de Cádiz	-0.4676	2.4281	7	276	623	63	2021.67		
+93	Universitat Politècnica de Catalunya	-0.4405	2.4572	7	350	1103	128	2020.5		
+94	Tampere University	1.0737	2.2647	5	256	563	23	2021.0		
+95	Universidad de Sevilla	-0.3821	2.4134	7	188	322	39	2020.0		
+96	Leipzig University	2.362	0.5763	2	311	817	74	2022.5		
+97	Centro Universitário de Franca	-1.2591	2.1376	8	119	277	32	2021.0		
+98	Universidad Externado de Colombia	-1.22	2.0715	8	208	511	64	2021.5		
+99	Jorge Basadre Grohmann National University	-1.2045	2.12	8	119	277	32	2021.0		
+100	Universidade Nova de Lisboa	2.0877	1.3344	3	263	854	236	2020.0		
+101	National Taichung University of Science and Technology	-0.2379	2.3505	7	148	186	8	2024.0		
+102	Armenian State Pedagogical University after Khachatur Abovian	1.064	2.1772	5	265	475	4	2020.0		
+103	Tbilisi State University	1.0776	2.1822	5	265	475	4	2020.0		
+104	BOKU University	1.053	2.1783	5	265	475	4	2020.0		
+105	Prince Sattam Bin Abdulaziz University	2.4772	0.1513	1	24	237	9	2025.0		
+106	Mansoura University	2.5128	0.1257	1	24	237	9	2025.0		
+107	University of Bahrain	2.5497	0.1401	1	24	237	9	2025.0		
+108	Damanhour University	2.5003	0.1788	1	24	237	9	2025.0		
+109	University of Cincinnati	-2.247	-1.1953	14	37	51	1	2025.0		
+110	University of Córdoba	1.7201	1.857	4	211	472	20	2022.0		
+111	Hong Kong Baptist University	0.9542	2.2833	5	231	570	4	2024.0		
+112	Hong Kong Polytechnic University	0.9548	2.3041	5	231	570	4	2024.0		
+113	The Hang Seng University of Hong Kong	0.9516	2.2823	5	231	570	4	2024.0		
+114	Sultan Idris Education University	1.7847	1.7769	4	232	457	21	2023.0		
+115	King Abdul Aziz University Hospital	1.7897	1.8281	4	212	382	20	2021.0		
+116	Kanazawa Institute of Technology	1.7645	1.8024	4	212	382	20	2021.0		
+117	University of Rijeka	0.9368	2.1932	5	134	288	8	2017.0		
+118	University of Nis	0.9973	2.2245	5	309	887	32	2018.5		
+119	Saints Cyril and Methodius University of Skopje	0.9234	2.2076	5	134	288	8	2017.0		
+120	Catholic University of Eichstätt-Ingolstadt	1.1022	2.3593	5	244	414	4	2022.5		
+121	University of Bern	1.0215	2.2568	5	372	1694	190	2020.75		
+122	Kantonsspital Winterthur	1.0336	2.2564	5	315	985	116	2019.0		
+123	Instituto Superior de Gestão	1.1389	2.306	5	211	344	14	2021.0		
+124	Instituto Superior de Educação e Ciências	1.1407	2.3073	5	211	344	14	2021.0		
+125	ISEG - Instituto Superior de Economia e Gestão	1.1302	2.3279	5	211	344	14	2021.0		
+126	Universiti Putra Malaysia	-0.4083	2.5911	7	261	563	12	2024.33		
+127	Nottingham Trent University	-0.358	2.5805	7	218	417	70	2021.25		
+128	Zhejiang International Studies University	1.0976	2.2618	5	312	663	8	2023.0		
+129	Zhejiang University	1.0978	2.2619	5	312	663	8	2023.0		
+130	Beijing Forestry University	2.0302	1.41	3	224	436	2	2026.0		
+131	Lanzhou University of Finance and Economics	2.0051	1.4254	3	224	436	2	2026.0		
+132	Hunan University of Science and Technology	2.0593	1.4388	3	224	436	2	2026.0		
+133	Minzu University of China	2.0316	1.454	3	224	436	2	2026.0		
+134	University of Aveiro	2.053	1.333	3	190	477	61	2020.0		
+135	Aalborg University	-2.1435	-1.3986	14	359	1332	252	2022.0		
+136	Malmö University	-2.2971	-1.4973	14	18	110	22	2022.0		
+137	Qatar University	-2.2449	-1.5685	14	114	233	26	2022.5		
+138	Pedagocial University Tyrol	2.5467	0.5695	2	328	781	18	2021.0		
+139	University of Applied Sciences of the Grisons	2.4989	0.5443	2	328	781	18	2021.0		
+140	National University of Malaysia	1.9115	1.6472	3	101	128	1	2025.0		
+141	Hamad bin Khalifa University	2.0788	1.2467	3	271	627	40	2022.0		
+142	Qatar Foundation	2.1051	1.24	3	271	627	40	2022.0		
+143	Beijing Normal University	1.6485	1.8745	4	165	421	36	2023.0		
+144	Zhejiang Normal University	1.6497	1.8139	4	254	727	36	2024.0		
+145	Yulin University	1.604	1.8618	4	165	421	36	2023.0		
+146	Monash University	1.6278	1.8658	4	165	421	36	2023.0		
+147	Addis Ababa University	1.0299	2.2987	5	367	1205	65	2020.0		
+148	Leuphana University of Lüneburg	2.5063	0.7575	2	376	1545	162	2021.6		
+149	Universitat Internacional de Catalunya	1.0049	2.2761	5	298	812	148	2019.0		
+150	Tohoku University	-0.255	2.4323	7	185	255	40	2022.0		
+151	University of Technology Sydney	1.0372	2.222	5	344	912	42	2020.5		
+152	Excelsia College	1.0242	2.1145	5	149	235	14	2022.0		
+153	SIMAD University	1.0374	2.1888	5	289	484	7	2024.0		
+154	Ollscoil na Gaillimhe – University of Galway	-0.5534	2.3734	7	82	96	33	2022.0		
+155	Universiti Teknologi Petronas	1.6711	1.7319	4	181	382	16	2020.5		
+156	Umm al-Qura University	1.7066	1.7092	4	141	306	0	2025.0		
+157	Western Sydney University	1.6506	1.6984	4	141	306	0	2025.0		
+158	Fudan University	1.6799	1.6919	4	141	306	0	2025.0		
+159	National Taipei University of Technology	0.9	2.202	5	135	337	37	2020.0		
+160	Beijing Institute of Technology	0.8938	2.2297	5	135	337	37	2020.0		
+161	National Taipei University	0.9039	2.22	5	135	337	37	2020.0		
+162	Madison Area Technical College	2.5582	-0.1925	1	25	82	6	2020.0		
+163	University of Wisconsin–Madison	2.6162	-0.1942	1	25	82	6	2020.0		
+164	Georgia Institute of Technology	2.5278	-0.2491	1	140	228	81	2019.5		
+165	Universidad de Sonora	1.8871	1.2232	3	154	407	4	2015.0		
+166	Universidad Juárez del Estado de Durango	1.9279	1.178	3	154	407	4	2015.0		
+167	University of Massachusetts Lowell	1.8675	1.1661	3	158	447	48	2014.5		
+168	Universidad Autónoma de Nuevo León	1.9077	1.1995	3	154	407	4	2015.0		
+169	Western Norway University of Applied Sciences	-2.0745	-1.3323	14	292	830	0	2025.0		
+170	Norwegian University of Life Sciences	-2.0874	-1.2705	14	292	830	0	2025.0		
+171	Nordland Research Institute	-2.0151	-1.3589	14	292	830	0	2025.0		
+172	Nord University	-1.971	-1.2584	14	311	1038	0	2025.0		
+173	Universidad Tecnológica de Santiago	1.7238	1.8285	4	167	377	7	2023.0		
+174	Tongji University	1.1032	2.2386	5	271	553	17	2019.0		
+175	Wageningen University & Research	1.0111	2.2952	5	368	1127	52	2020.0		
+176	Universidad de Zaragoza	1.7912	1.5015	3	80	91	25	2022.0		
+177	Sonora Institute of Technology	-1.2818	1.9655	8	137	234	32	2022.0		
+178	University of Novi Sad	1.0339	2.2058	5	304	711	24	2020.0		
+179	AGH University of Krakow	-0.4135	2.3929	7	242	406	47	2022.0		
+180	Bucharest University of Economic Studies	1.0406	2.2263	5	350	816	78	2018.5		
+181	Franklin College	-1.6526	-1.9533	15	171	416	15	2021.0		
+182	University of Minnesota	-1.65	-1.9241	15	171	416	15	2021.0		
+183	Minnesota Department of Natural Resources	-1.6182	-1.9164	15	171	416	15	2021.0		
+184	University of Georgia	-1.6201	-1.9441	15	171	416	15	2021.0		
+185	Hasanuddin University	-1.1232	-2.0088	16	57	134	0	2026.0		
+186	Universitas Islam Jakarta	-0.7685	-2.3315	16	57	134	0	2026.0		
+187	Islamic University of Indonesia	-1.2239	-2.482	16	57	134	0	2026.0		
+188	Kaunas University of Technology	-0.3214	-2.5852	17	219	355	26	2022.0		
+189	University of Gothenburg	-0.2556	-2.4852	17	363	1189	68	2023.5		
+190	Ecole Nationale d’Ingénieurs – Abderhamane Baba Touré	-0.2186	-2.5636	17	230	414	5	2025.0		
+191	Queen's University Belfast	-0.787	2.5291	8	78	79	1	2024.0		
+192	Universidad de Lima	1.9851	1.5305	3	118	214	1	2025.0		
+193	Universidade do Sul de Santa Catarina	1.9369	1.528	3	125	274	1	2025.0		
+194	University of Graz	1.1096	2.1807	5	206	310	57	2020.0		
+195	Universität für Weiterbildung Krems	1.1283	2.2006	5	206	310	57	2020.0		
+196	Complexity Science Hub Vienna	1.1205	2.1969	5	206	310	57	2020.0		
+197	United Nations University	2.4125	1.0873	3	79	171	33	2021.0		
+198	Institute for Environment and Human Security	2.3854	1.0682	3	79	171	33	2021.0		
+199	University of Tübingen	2.4312	1.1174	3	79	171	33	2021.0		
+200	University of Duisburg-Essen	2.4184	1.1522	3	79	171	33	2021.0		
+201	University of Turin	-1.0417	2.3888	8	369	1431	178	2021.67		
+202	NEOMA Business School	1.0955	2.2866	5	274	654	15	2021.0		
+203	Kedge Business School	1.0893	2.2844	5	298	809	170	2019.0		
+204	Ningbo University of Technology	1.1297	1.8128	5	6	6	9	2022.0		
+205	Konrad Lorenz Institute for Evolution and Cognition Research	2.5561	0.783	2	128	282	12	2022.0		
+206	Vietnam National University, Hanoi	1.0457	2.3083	5	318	980	19	2024.0		
+207	University of Westminster	-0.4649	2.3993	7	324	655	11	2023.67		
+208	Universidade de São Paulo	-0.587	2.3116	7	2	43	13	2020.0		
+209	Czech University of Life Sciences Prague	1.9334	1.4404	3	90	133	22	2023.0		
+210	Universidad Autónoma del Estado de Hidalgo	-0.2017	2.3593	7	143	179	0	2025.0		
+211	Copenhagen Business School	-0.3459	2.5163	7	290	613	42	2022.0		
+212	TU Dresden	-0.3689	2.4763	7	348	1037	49	2023.5		
+213	Kristianstad University	-0.3644	2.501	7	327	923	65	2022.5		
+214	Tun Hussein Onn University of Malaysia	0.9907	2.3195	5	329	854	26	2024.5		
+215	Huaibei Normal University	1.0069	2.3408	5	247	552	26	2023.0		
+216	Indonesia University of Education	-1.7929	-1.9219	15	231	462	18	2023.5		
+217	Bandung Institute of Technology	-1.8301	-1.9101	15	49	126	4	2025.0		
+218	Hashemite University	2.2806	1.3404	3	112	313	64	2020.5		
+219	University of Waikato	2.256	1.2422	3	130	408	21	2023.5		
+220	University of Hull	-1.0055	2.1787	8	201	489	72	2017.5		
+221	Keele University	-0.996	2.3165	8	371	1348	101	2021.33		
+222	Cranfield University	-0.9828	2.1111	8	119	374	70	2021.0		
+223	Cardiff University	-0.9629	2.2348	8	192	422	74	2020.0		
+224	University of the West Indies System	0.5117	2.6603	6	189	271	36	2022.0		
+225	University of Tennessee at Knoxville	0.6352	2.7553	6	113	127	8	2022.0		
+226	Sophia University	-1.394	2.4057	8	68	93	6	2023.5		
+227	Ayuntamiento de Bilbao	1.0119	2.1971	5	255	511	47	2020.0		
+228	Corporación Universitaria Minuto de Dios	2.1054	1.5773	3	76	140	20	2023.0		
+229	University of Abuja	2.149	1.5679	3	76	140	20	2023.0		
+230	International Atomic Energy Agency	-1.2668	2.4388	8	72	241	3	2025.0		
+231	Al-Ahliyya Amman University	-1.2347	2.476	8	72	241	3	2025.0		
+232	Stockholm University	0.9966	2.3913	5	185	263	2	2026.0		
+233	Liverpool John Moores University	0.9798	2.3759	5	185	263	2	2026.0		
+234	Uppsala University	0.9267	2.295	5	300	651	5	2021.8		
+235	University of Jyväskylä	0.9606	2.3593	5	211	299	2	2025.5		
+236	University of Chester	0.9819	2.3716	5	190	280	15	2022.0		
+237	Coventry University	-0.9686	2.4288	8	281	820	31	2021.0		
+238	Coventry City Council	-1.0038	2.4139	8	281	820	31	2021.0		
+239	Robert Gordon University	-0.9782	2.3862	8	297	857	31	2023.0		
+240	Martin Luther University Halle-Wittenberg	-1.0157	2.4426	8	281	820	31	2021.0		
+241	Universidad de Salamanca	2.3584	-0.0559	1	421	1690	75	2023.0		
+242	Universidad Santo Tomás	2.3038	-0.1211	1	336	890	17	2022.0		
+243	University of Bremen	0.0416	2.1696	6	82	91	27	2022.0		
+244	Chiba University	-0.4935	2.2368	7	88	100	3	2022.0		
+245	Kanazawa University	2.581	1.0142	2	29	53	0	2026.0		
+246	Ehime University	2.473	1.0598	2	29	53	0	2026.0		
+247	Universidad EAFIT	-0.2895	-2.4353	17	411	1887	33	2022.75		
+248	Brock University	-0.2729	-2.404	17	376	1306	7	2024.5		
+249	University of Guayaquil	-0.5397	2.463	7	223	375	4	2024.0		
+250	Freiwillige Akademische Gesellschaft	2.1865	0.5842	2	84	141	55	2022.0		
+251	Karelia University of Applied Sciences	1.0264	2.334	5	285	685	7	2024.0		
+252	Universität Hamburg	-0.3413	-2.4918	17	409	2157	159	2020.0		
+253	Centre interdisciplinaire de recherche 'Culture, éducation, formation, travail'	-0.3779	-2.4812	17	205	728	12	2023.0		
+254	Université Paris 8	-0.39	-2.4558	17	205	728	12	2023.0		
+255	Délégation Paris 7	-0.3906	-2.5031	17	205	728	12	2023.0		
+256	Université Paris Cité	-0.3606	-2.4599	17	205	728	12	2023.0		
+257	Université Paris-Est Créteil	-0.4271	-2.458	17	205	728	12	2023.0		
+258	National Technical University of Athens	-0.4092	-2.496	17	205	728	12	2023.0		
+259	Sorbonne Paris Cité	-0.3946	-2.4241	17	205	728	12	2023.0		
+260	Institut des Sciences Humaines et Sociales	-0.372	-2.4353	17	205	728	12	2023.0		
+261	National University of Distance Education	-0.3673	-2.5196	17	341	1347	42	2020.0		
+262	University of Castilla-La Mancha	-0.4139	-2.4406	17	205	728	12	2023.0		
+263	Laboratoire de Didactique André Revuz	-0.4186	-2.4768	17	205	728	12	2023.0		
+264	Western Michigan University	1.1137	2.2663	5	283	518	5	2024.0		
+265	Kiel University	-0.291	2.6513	7	156	273	0	2025.0		
+266	Fachhochschule Kiel	-0.2631	2.6399	7	156	273	0	2025.0		
+267	University of New Hampshire	1.0497	2.2783	5	308	786	31	2021.0		
+268	University of Southern Maine	1.0411	2.2812	5	308	786	31	2021.0		
+269	University of Geneva	1.0278	2.2766	5	299	856	19	2021.0		
+270	Siam University	1.0692	2.3173	5	301	717	5	2024.0		
+271	University of Belgrade	-0.3783	2.4486	7	332	857	71	2019.5		
+272	Institute of Architecture and Urban & Spatial Planning of Serbia	-0.4013	2.4478	7	332	857	71	2019.5		
+273	Zemun Hospital	-0.4068	2.4862	7	248	454	49	2020.0		
+274	Goethe University Frankfurt	-0.2865	-2.5613	17	255	536	33	2021.0		
+275	College of Charleston	-1.3382	2.2479	8	100	174	11	2019.0		
+276	University of Kentucky	-1.3387	2.3082	8	100	174	11	2019.0		
+277	Kingston University	1.1118	2.2939	5	270	605	178	2019.5		
+278	Tribhuvan University	2.0638	1.3843	3	312	628	18	2024.5		
+279	Jagiellonian University	1.0627	2.3928	5	234	379	0	2025.0		
+280	University of Surrey	1.0834	2.3876	5	234	379	0	2025.0		
+281	Cornell University	1.4714	1.9563	4	111	183	17	2019.0		
+282	Nutrition Sciences (Belgium)	1.4694	1.9203	4	111	183	17	2019.0		
+283	University of Central Missouri	1.4851	1.8916	4	111	183	17	2019.0		
+284	Universidad Politécnica de Madrid	1.8886	1.4904	3	160	222	10	2023.0		
+285	University of Reggio Calabria	-1.7318	1.9042	9	83	209	4	2025.0		
+286	Universidad Complutense de Madrid	-1.7055	1.9567	9	83	209	4	2025.0		
+287	Universidad de Guadalajara	2.299	1.505	3	94	126	6	2022.0		
+288	Tatung University	1.989	1.7738	4	22	24	1	2025.0		
+289	German University in Cairo	1.7579	1.9751	4	160	202	30	2024.0		
+290	Tecnológico de Monterrey	1.8757	1.3201	3	154	184	40	2022.5		
+291	St. George's University	-1.5272	-1.7691	15	30	30	4	2024.0		
+292	Bern University of Applied Sciences	-0.2952	-2.3167	17	197	467	12	2024.0		
+293	University of Winchester	1.1098	2.2994	5	255	549	155	2017.0		
+294	Plovdiv University	1.9773	1.3782	3	226	410	5	2023.0		
+295	University of Tehran	1.0118	2.2633	5	316	901	106	2017.0		
+296	University of Strathclyde	2.4897	-0.4107	1	143	188	93	2018.5		
+297	University of Limerick	1.0846	2.2474	5	288	577	32	2021.0		
+298	Universidad Rey Juan Carlos	-1.0507	2.6192	8	125	136	11	2023.0		
+299	Arizona State University	2.6346	0.674	2	266	483	131	2019.0		
+300	Xi’an Jiaotong-Liverpool University	2.0648	1.6517	3	93	119	0	2025.0		
+301	RMIT University	1.0234	2.2198	5	244	484	33	2016.0		
+302	Imperial College London	1.031	2.3291	5	331	771	39	2022.0		
+303	Chemnitz University of Technology	1.0717	2.1978	5	278	504	15	2022.0		
+304	University of Wuppertal	0.9906	2.1517	5	162	273	13	2022.0		
+305	Universidade da Coruña	2.0648	1.1395	3	163	218	30	2020.0		
+306	Pompeu Fabra University	1.0274	2.2502	5	339	1024	95	2022.5		
+307	Borys Grinchenko Kyiv Metropolitan University	-0.4169	2.2326	7	122	146	3	2024.0		
+308	Universidad de La Frontera	-0.8144	2.6268	7	14	15	0	2026.0		
+309	North-West University	2.2278	1.4486	3	219	378	28	2021.5		
+310	University of Ljubljana	0.3014	2.7534	6	185	269	25	2021.0		
+311	National Taiwan Normal University	2.5636	-0.0038	1	139	391	5	2024.5		
+312	University of Primorska	2.0138	1.6579	3	128	175	3	2025.0		
+313	University of Vechta	-0.3128	-2.4412	17	400	1788	91	2023.2		
+314	Universidad de Antioquia	-0.3148	-2.4137	17	364	1312	7	2024.5		
+315	Universidad Técnica del Norte	-0.2978	-2.4639	17	364	1312	7	2024.5		
+316	Mid Sweden University	1.0378	2.2596	5	321	810	1	2025.0		
+317	Swedish University of Agricultural Sciences	1.002	2.2697	5	332	878	1	2023.0		
+318	Vienna University of Economics and Business	0.9867	2.2789	5	247	488	87	2017.0		
+319	University of Jordan	2.5059	1.3926	3	29	72	50	2016.0		
+320	Universidad de Deusto	1.1325	2.2302	5	218	311	3	2023.0		
+321	University of Arizona	1.7134	2.0918	4	59	76	23	2023.0		
+322	University College London	-0.4622	-2.6703	17	69	103	3	2025.0		
+323	Medan Area University	-0.5098	-2.6328	17	69	103	3	2025.0		
+324	University of Basel	1.124	2.2533	5	229	368	66	2017.0		
+325	Karachi School for Business and Leadership	-0.9215	1.9651	8	59	148	0	2025.0		
+326	BPP University	-0.9772	1.9528	8	59	148	0	2025.0		
+327	University of Sussex	0.9879	2.2073	5	249	384	37	2018.0		
+328	University of Education	1.6678	1.9502	4	318	759	77	2021.67		
+329	Termez State University	1.4976	2.4716	5	3	18	0	2025.0		
+330	TU Dortmund University	1.1742	2.3416	5	274	419	6	2025.0		
+331	Tashkent Institute of Architecture and Construction	1.5056	2.4266	5	3	18	0	2025.0		
+332	Urgench State University	1.4703	2.5042	5	3	18	0	2025.0		
+333	University of Liège	-0.3383	2.4912	7	257	420	0	2026.0		
+334	Krirk University	0.3806	-2.4815	18	0	0	3	2020.0		
+335	IAIN Palangka Raya	0.9542	-2.009	19	6	96	11	2024.0		
+336	Universitas PGRI Semarang	1.3074	-2.331	19	6	96	11	2024.0		
+337	Yogyakarta State University	0.8541	-2.4822	19	6	96	11	2024.5		
+338	Camilo José Cela University	1.0062	2.2972	5	304	785	74	2018.5		
+339	Universitat de València	0.982	2.3188	5	271	647	0	2025.0		
+340	Universidad de Murcia	0.9852	2.3207	5	271	647	0	2025.0		
+341	Seoul National University of Education	-1.499	-2.146	15	59	296	0	2025.0		
+342	Northumbria University	-1.4734	-2.1302	15	59	296	0	2025.0		
+343	Adam Mickiewicz University in Poznań	-1.5181	-2.1247	15	59	296	0	2025.0		
+344	Nkumba University	-1.4764	-2.1015	15	59	296	0	2025.0		
+345	Seoul National University	-1.5053	-2.0971	15	59	296	0	2025.0		
+346	National Chiayi University	2.5125	-0.0347	1	103	344	0	2025.0		
+347	National Sun Yat-sen University	2.5258	0.0104	1	103	344	0	2025.0		
+348	Empowerment Program	2.552	-0.0434	1	103	344	0	2025.0		
+349	Royal Agricultural University	-0.3657	-2.2851	17	126	310	1	2025.0		
+350	Université Paris-Saclay	-0.3394	-2.3001	17	126	310	1	2025.0		
+351	Sumy National Agrarian University	-0.3121	-2.2776	17	126	310	1	2025.0		
+352	Yenepoya University	2.1108	1.4981	3	190	295	0	2024.0		
+353	University of the Sunshine Coast	0.1413	2.598	6	226	460	18	2024.0		
+354	Rowan University	0.1128	2.5222	6	226	460	18	2024.0		
+355	Bowling Green State University	1.0272	2.3514	5	265	553	3	2025.0		
+356	National University of Modern Languages	1.6894	1.9039	4	272	631	32	2023.5		
+357	Universidad Pontificia Bolivariana	1.0093	2.2319	5	297	674	6	2024.5		
+358	Wolaita Sodo University	-0.4306	2.3698	7	261	411	0	2025.0		
+359	Universidad Nacional de Itapúa	2.3514	0.0547	1	72	223	0	2025.0		
+360	Central American Technological University	2.3942	0.0462	1	72	223	0	2025.0		
+361	University of Bath	2.3786	-0.0084	1	72	223	0	2025.0		
+362	University of Atacama	2.3367	0.0112	1	72	223	0	2025.0		
+363	Universidad de Valladolid	2.4215	0.0009	1	149	324	0	2025.0		
+364	Beaconhouse National University	1.6916	1.94	4	222	458	32	2022.0		
+365	University of Bari Aldo Moro	1.0593	2.2478	5	333	817	2	2024.0		
+366	University of Warwick	2.0962	1.1962	3	151	190	6	2025.0		
+367	Australian National Botanic Gardens	2.3025	0.945	2	198	336	0	2026.0		
+368	University College Cork	2.3742	0.9747	2	198	336	0	2026.0		
+369	Université Côte d'Azur	-0.8377	2.3401	8	141	196	4	2023.0		
+370	De Montfort University	-0.8779	2.3814	8	163	242	4	2023.5		
+371	Universidad de Extremadura	1.1445	2.2748	5	222	320	55	2022.0		
+372	Memorial University of Newfoundland	2.1986	1.5104	3	183	269	5	2024.0		
+373	Texas A&M University – Commerce	2.3236	1.2533	3	177	273	11	2024.0		
+374	University of Tennessee at Martin	2.3466	1.2922	3	177	273	11	2024.0		
+375	Équipe de Recherche sur l’Utilisation des Données Individuelles en Lien avec la Théorie Économique	1.0919	2.3521	5	268	528	0	2025.0		
+376	Université Gustave Eiffel	1.0813	2.3679	5	268	528	0	2025.0		
+377	Metropolitan University	-0.4953	2.5819	7	256	522	0	2026.0		
+378	Centre for Advanced Study	-0.528	2.5424	7	256	522	0	2026.0		
+379	Universidad Metropolitana	-0.5223	2.5749	7	256	522	0	2026.0		
+380	University of Oslo	-0.5012	2.5514	7	256	522	0	2026.0		
+381	Zhetysu University named after Ilyas Zhansugurov	1.4164	-1.672	20	1	3	1	2025.0		
+382	University of Žilina	1.8579	-2.1068	20	1	3	1	2025.0		
+383	University of Melbourne	-1.9756	-1.5552	14	98	170	28	2024.0		
+384	Université Libre de Bruxelles	-2.063	-1.5924	14	98	170	28	2024.0		
+385	Halmstad University	-1.7229	-1.7388	15	78	227	1	2025.0		
+386	Université de Lyon	-1.6983	-1.7161	15	78	227	1	2025.0		
+387	Université Claude Bernard Lyon 1	-1.6922	-1.7561	15	78	227	1	2025.0		
+388	Laboratoire Interuniversitaire de Biologie de la Motricité	-1.6684	-1.7308	15	78	227	1	2025.0		
+389	University of Minho	2.1801	1.176	3	170	308	42	2020.5		
+390	Osun State University	-0.462	2.6319	7	144	244	0	2025.0		
+391	King Faisal University	2.0165	-1.0878	21	5	5	52	2024.0		
+392	Applied Science Private University	2.3756	-1.4083	21	5	5	52	2024.0		
+393	Middle East University	2.1898	-1.6154	21	5	5	52	2024.0		
+394	Ajman University	1.9183	-1.5586	21	5	5	52	2024.0		
+395	Al-Hussein Bin Talal University	2.288	-1.1446	21	5	5	52	2024.0		
+396	University of Business and Technology	1.8307	-1.2949	21	5	5	52	2024.0		
+397	University of Klagenfurt	1.1587	2.243	5	211	265	14	2022.0		
+398	University of Zimbabwe	1.1496	2.2196	5	211	265	14	2022.0		
+399	Sunan Kalijaga State Islamic University Yogyakarta	1.6007	1.7965	4	266	543	0	2025.0		
+400	King Mongkut's Institute of Technology Ladkrabang	1.6245	1.7913	4	266	543	0	2025.0		
+401	Ibero American University	-0.3656	-2.6225	17	269	527	46	2018.0		
+402	State University of Management	1.1303	1.988	5	28	35	0	2026.0		
+403	California State University System	1.1733	2.0075	5	28	35	0	2026.0		
+404	Yuan Ze University	0.9778	2.2717	5	326	773	0	2026.0		
+405	Roskilde University	1.2554	2.5329	5	19	23	0	2025.0		
+406	Universiti Tenaga Nasional	1.8591	1.7058	4	42	75	1	2025.0		
+407	Konan University	0.8899	2.1524	5	128	151	34	2020.0		
+408	Universidade Federal do ABC	1.8502	1.6553	3	28	60	0	2025.0		
+409	University of Cambridge	1.8072	1.6007	3	28	60	0	2025.0		
+410	University of Stavanger	1.0926	2.3176	5	304	579	9	2026.0		
+411	Universitätsmedizin Göttingen	1.542	1.986	4	132	227	0	2025.0		
+412	University of Turku	1.5098	1.9332	4	306	687	0	2025.33		
+413	University of Göttingen	1.5141	1.9837	4	132	227	0	2025.0		
+414	Shanghai Jiao Tong University	-0.2838	2.4863	7	250	500	1	2025.0		
+415	Université de Strasbourg	-0.2997	2.5078	7	250	500	1	2025.0		
+416	Asian Development Bank Institute	-0.3005	2.4694	7	250	500	1	2025.0		
+417	Shanghai University of Finance and Economics	2.2437	1.5599	3	71	109	5	2023.0		
+418	University of Education Freiburg	1.0287	2.3798	5	238	422	0	2025.0		
+419	Ludwigsburg University of Education	0.969	2.338	5	291	670	2	2025.0		
+420	Uniwersytet Komisji Edukacji Narodowej w Krakowie	1.0284	2.3817	5	238	422	0	2025.0		
+421	HAN University of Applied Sciences	1.0057	2.3673	5	238	422	0	2025.0		
+422	Cracow University of Technology	1.0107	2.3727	5	238	422	0	2025.0		
+423	Juntendo University	1.5074	1.7882	4	38	40	0	2025.0		
+424	Aristotle University of Thessaloniki	2.4311	-0.6282	22	0	0	4	2024.0		
+425	Dalarna University	-0.2027	-2.4375	17	175	469	6	2024.0		
+426	Karolinska Institutet	-0.2051	-2.5028	17	175	469	6	2024.0		
+427	Danderyds sjukhus	-0.191	-2.4718	17	175	469	6	2024.0		
+428	Munich University of Applied Sciences	1.0051	1.9976	5	41	43	8	2016.5		
+429	University of the Western Cape	1.7087	1.6545	3	56	78	2	2025.0		
+430	Cape Peninsula University of Technology	1.752	1.7087	3	56	78	2	2025.0		
+431	Universiti Sains Malaysia	0.8583	2.3147	5	118	165	9	2020.0		
+432	DePaul University	-1.7364	-1.5183	15	20	92	1	2025.0		
+433	Community Initiatives	-1.797	-1.4931	15	20	92	1	2025.0		
+434	University of Uyo	-1.7507	-1.4776	15	20	92	1	2025.0		
+435	Northeastern Illinois University	-1.7858	-1.5329	15	20	92	1	2025.0		
+436	Budapest University of Economics and Business	1.9677	1.3124	3	208	397	0	2026.0		
+437	International Business School	1.9316	1.345	3	208	397	0	2026.0		
+438	Budapest University of Technology and Economics	1.9326	1.3004	3	208	397	0	2026.0		
+439	International University of Business Agriculture and Technology	-0.2018	2.4003	7	153	175	0	2026.0		
+440	Midlands State University	0.7097	2.3042	5	40	69	1	2021.0		
+441	World Health Organization - Zimbabwe	0.7056	2.2635	5	40	69	1	2021.0		
+442	Rhodes University	1.1301	2.3783	5	186	199	28	2018.0		
+443	Blekinge Institute of Technology	1.051	2.369	5	251	424	50	2020.0		
+444	Technische Universität Dresden	0.8906	2.3838	5	165	261	0	2026.0		
+445	Anglia Ruskin University	1.1465	2.3456	5	196	218	2	2023.0		
+446	Rajamangala University of Technology Rattanakosin	-0.503	-2.3976	17	118	156	0	2024.0		
+447	Krakow University of Economics	-0.1897	2.6677	7	88	102	29	2020.0		
+448	University of the Fraser Valley	2.359	1.521	3	39	72	10	2022.0		
+449	Hacettepe University	-0.0498	-2.3023	17	42	54	0	2026.0		
+450	Sultan Zainal Abidin University	-2.6194	0.9217	11	8	34	0	2026.0		
+451	Universiti Malaysia Kelantan	-2.178	0.487	11	1	27	0	2026.0		
+452	Åbo Akademi University	1.4212	1.9082	4	221	340	0	2025.0		
+453	North China University of Technology	2.2166	1.8763	4	3	3	3	2021.0		
+454	Bogdan Khmelnitsky Melitopol State Pedagogical University	-0.3202	2.1072	7	95	103	18	2020.0		
+455	Saint Peter's University	1.0839	2.2157	5	259	622	17	2020.0		
+456	Fordham University	1.0823	2.2185	5	259	622	17	2020.0		
+457	City University of New York	1.0814	2.2197	5	259	622	17	2020.0		
+458	John Jay College of Criminal Justice	1.0998	2.2288	5	259	622	17	2020.0		
+459	Universidad Nacional Autónoma de México	0.9692	2.246	5	272	551	5	2017.0		
+460	IHE Delft Institute for Water Education	0.9691	2.2461	5	272	551	5	2017.0		
+461	Heriot-Watt University	2.3412	1.139	3	37	167	7	2022.0		
+462	South African College of Applied Psychology	2.3188	1.0833	3	37	167	7	2022.0		
+463	University of Lagos	2.2853	1.0918	3	37	167	7	2022.0		
+464	University of Sydney	2.3116	1.1235	3	37	167	7	2022.0		
+465	Purdue University West Lafayette	1.459	1.4008	4	9	9	0	2024.0		
+466	University of Nottingham Ningbo China	2.2904	1.5702	3	46	57	5	2021.0		
+467	Prague University of Economics and Business	-2.6194	-0.487	13	1	14	0	2025.0		
+468	Universitat de Barcelona	-2.178	-0.9217	13	1	14	0	2025.0		
+469	FC Barcelona	1.1241	2.3481	5	199	250	42	2017.0		
+470	Gulf University for Science & Technology	2.2488	1.3843	3	99	116	4	2024.0		
+471	University of Zululand	-2.4707	-1.3533	14	92	153	15	2022.5		
+472	Humboldt-Universität zu Berlin	0.9254	2.3809	5	176	248	0	2025.0		
+473	Avrasya University	2.4896	0.8779	2	204	370	1	2025.0		
+474	University of Rostock	2.5633	0.8576	2	206	385	1	2025.0		
+475	Fundação Dom Cabral	-1.7972	-1.2086	14	113	275	0	2025.0		
+476	Centro Universitário do Norte	-1.877	-1.1019	14	113	275	0	2025.0		
+477	Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul	-1.7984	-1.1245	14	113	275	0	2025.0		
+478	Colorado State University	-1.9706	2.0517	9	11	12	0	2025.0		
+479	Pascual Bravo Institution University	1.037	2.1444	5	148	223	0	2025.0		
+480	University of Malaya	-0.4874	2.7167	7	93	139	1	2025.0		
+481	Curtin University	-1.7209	-2.1866	15	63	72	0	2026.0		
+482	Sanda University	0.8986	2.3482	5	173	302	0	2026.0		
+483	University of KwaZulu-Natal	-2.4845	-1.4583	14	84	141	15	2020.0		
+484	Southwestern University of Finance and Economics	1.8281	1.3844	3	91	101	1	2025.0		
+485	Instituto Federal do Sul de Minas	-0.6484	1.9214	8	14	35	0	2025.0		
+486	Universidade Federal de Alfenas	-0.594	1.9965	8	14	35	0	2025.0		
+487	Dublin City University	1.4166	2.1563	4	28	54	0	2025.0		
+488	United States Institute of Peace	1.4598	2.1929	4	28	54	0	2025.0		
+489	University of Malta	1.1469	2.258	5	229	338	2	2023.5		
+490	Louisiana State University	1.0448	2.3423	5	260	574	0	2025.0		
+491	Framingham State University	1.0562	2.3583	5	260	574	0	2025.0		
+492	James Madison University	1.0545	2.358	5	260	574	0	2025.0		
+493	McGill University	0.969	2.2226	5	272	443	0	2025.0		
+494	Hamburg School of Business Administration	0.976	2.3018	5	306	618	0	2025.0		
+495	Canterbury Christ Church University	-1.3878	1.7687	9	50	64	1	2018.0		
+496	University of Siena	0.7539	2.5054	6	126	139	9	2022.0		
+497	New York University	-0.915	2.6007	8	90	96	3	2023.0		
+498	Health Education North West	1.1315	2.6073	5	11	14	2	2025.0		
+499	Adam Smith Institute	0.5369	2.3043	6	138	211	1	2024.0		
+500	University of Manchester	-0.3705	2.7081	7	36	63	0	2025.0		
+501	Caribbean Disaster Emergency Management Agency	2.2377	1.0382	3	85	145	4	2023.0		
+502	University of Wales Trinity Saint David	2.2056	1.0579	3	85	145	4	2023.0		
+503	University of Leeds	2.141	1.6263	3	178	254	0	2025.0		
+504	SRM Institute of Science and Technology	-2.1148	1.3399	10	0	0	0	2025.0		
+505	International University of Sarajevo	2.188	1.3163	3	117	156	0	2024.0		
+506	North-Caucasus Federal University	0.2928	2.0499	6	51	51	2	2020.0		
+507	Hochschule Niederrhein	1.0089	2.3196	5	326	689	1	2025.0		
+508	Polytechnic University of Turin	1.855	0.678	2	18	21	9	2021.0		
+509	Winona State University	-1.3244	-2.2776	15	21	21	1	2025.0		
+510	Zittau/Görlitz University of Applied Sciences	1.0784	2.3002	5	247	472	2	2018.0		
+511	International University Institute	1.075	2.2937	5	247	472	2	2018.0		
+512	Riga Technical University	0.8429	2.2444	5	80	137	1	2021.0		
+513	Norwegian University of Science and Technology	0.9779	2.2966	5	268	492	4	2023.0		
+514	Samuel S. Fleisher Art Memorial	-0.6597	-2.5057	17	23	39	2	2023.0		
+515	Malta College of Arts, Science and Technology	-0.6577	-2.4196	17	23	39	2	2023.0		
+516	HAW Hamburg	1.9822	1.2489	3	117	163	22	2017.0		
+517	Politecnico di Milano	-0.3875	-3.0776	17	2	2	1	2023.0		
+518	Suffolk University	-0.4244	-2.3426	17	252	381	1	2025.0		
+519	University of Verona	1.0593	2.2465	5	324	785	0	2025.0		
+520	Caraga State University	2.1443	1.0623	3	101	136	9	2016.0		
+521	Macquarie University	1.1589	2.288	5	218	268	12	2016.0		
+522	Telkom University	-0.0144	2.6366	7	48	48	1	2024.0		
+523	City University of Macau	2.075	1.5401	3	97	141	8	2022.0		
+524	Daugavpils University	0.89	2.2815	5	168	248	12	2016.0		
+525	University of Worcester	1.0577	2.2224	5	300	642	7	2018.5		
+526	University of North Carolina at Greensboro	0.7739	2.204	5	46	56	3	2022.0		
+527	University of Latvia	-1.5432	-1.5285	15	52	54	3	2021.0		
+528	Darmstadt University of Applied Sciences	-0.2453	2.5282	7	143	206	4	2023.0		
+529	Wilhelm Büchner Hochschule	-0.2588	2.5591	7	143	206	4	2023.0		
+530	Boston Latin Academy	1.7059	1.0319	3	8	40	44	2014.0		
+531	University of Manitoba	0.9302	2.1447	5	150	268	58	2013.0		
+532	Université de Saint-Boniface	0.9436	2.1337	5	150	268	58	2013.0		
+533	Muğla University	-1.7287	-1.8624	15	77	106	13	2023.5		

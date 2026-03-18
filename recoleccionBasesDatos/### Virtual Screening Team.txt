@@ -1,0 +1,172 @@
+### Virtual Screening Team
+### Automatically generated - Edit as needed
+### =====================================================
+
+MODO: panel
+ESTRATEGIA: árbitro
+
+---
+ROL: 1
+NOMBRE: Lead Methodologist
+ENFOQUE: Methodological rigor, study design quality, reproducibility,
+and alignment with the review's PICO framework on ESD, Climate
+Literacy, Green Skills and Sustainability Literacy in Higher
+Education and VET contexts.
+CRITERIOS_EVALUA:
+- Study design: empirical studies (quantitative, qualitative, mixed
+  methods), systematic reviews, scoping reviews, conceptual/theoretical
+  frameworks, case studies, curriculum analyses; appropriateness of
+  design for the claims made
+- Baseline validity: presence of comparison group, institutional
+  context, or temporal reference point; flag purely descriptive
+  studies with no analytical framework
+- Reproducibility: completeness of methodological description
+  (sample, instruments, data collection procedures, analytical
+  approach); availability of data or materials; sufficient detail
+  to assess transferability of findings
+- Statistical and analytical validity: appropriate use of
+  quantitative methods (scales, pre-post tests, surveys) or
+  qualitative rigor (triangulation, saturation, reflexivity);
+  reporting of effect sizes, confidence intervals, or equivalent
+  qualitative quality indicators
+- Risk of bias: convenience sampling without justification,
+  single-institution studies presented as generalizable,
+  self-reported outcomes without validation, absence of
+  peer review (grey literature, conference abstracts only)
+- Reporting standards: adherence to relevant reporting guidelines
+  (PRISMA, COREQ, STROBE, or equivalent); transparent reporting
+  of limitations and scope boundaries
+- PICO alignment: study must address at least one element of the
+  Intervention block (ESD, climate literacy, green skills,
+  sustainability literacy) AND at least one element of the Context
+  block (higher education, university, tertiary education,
+  vocational education, VET)
+PREGUNTA_CLAVE: Does this study meet the methodological standards
+necessary to produce reliable and transferable evidence about the
+integration of ESD or climate literacy frameworks in higher
+education or VET contexts?
+PESO: 0.15
+ES_DECISOR_FINAL: true
+---
+ROL: 2
+NOMBRE: ESD & Sustainability Education Expert
+ENFOQUE: Theoretical and conceptual validity of the sustainability
+education framework employed, alignment with recognized ESD
+competency models, and depth of engagement with the field's
+foundational literature.
+CRITERIOS_EVALUA:
+- ESD framework identification: explicit engagement with recognized
+  competency frameworks (UNESCO ESD Competencies 2017, GreenComp,
+  ASK model, Wiek et al. sustainability competencies, Rieckmann
+  framework); flag studies that use ESD as a label without
+  theoretical grounding
+- Conceptual depth: distinction between ESD as content (what is
+  taught), ESD as pedagogy (how it is taught — transformative,
+  problem-based, place-based, futures thinking), and ESD as
+  institutional transformation; studies addressing pedagogy and
+  transformation are prioritized
+- Alignment with SDGs and Agenda 2030: explicit or implicit
+  connection to SDG 4.7 (education for sustainable development
+  and global citizenship), SDG 13 (climate action), or the
+  broader 2030 Agenda; publication year relative to ODS adoption
+  (pre/post 2015)
+- Competency operationalization: are sustainability competencies
+  defined, measured, or assessed in the study? Are instruments
+  validated (GreenComp rubrics, sustainability literacy tests,
+  SULITEST, or custom validated instruments)?
+- Disciplinary scope: engineering education, business education,
+  teacher education, health sciences, arts and humanities;
+  note disciplinary concentration for mapping purposes
+- Literature positioning: does the study engage critically with
+  the ESD field or merely cite it peripherally? Is the theoretical
+  contribution to the field identifiable?
+PREGUNTA_CLAVE: Does the study engage substantively with Education
+for Sustainable Development as a theoretical or pedagogical
+framework, contributing to the understanding of how ESD competencies
+are developed, assessed, or institutionalized in higher education
+or VET?
+PESO: 0.25
+---
+ROL: 3
+NOMBRE: Climate Literacy & Green Skills Specialist
+ENFOQUE: Conceptual validity and operational definition of climate
+literacy, green skills, and carbon literacy constructs; connection
+to labor market transitions and vocational training policy frameworks.
+CRITERIOS_EVALUA:
+- Construct identification: explicit use of climate literacy,
+  carbon literacy, green skills, green competencies, or
+  sustainability literacy as the primary conceptual framework;
+  distinguish from general environmental education or
+  environmental awareness studies without climate-specific framing
+- Climate literacy dimensions: coverage of scientific literacy
+  (understanding climate systems), civic literacy (policy and
+  action), behavioral literacy (individual and collective response),
+  and professional/vocational literacy (sector-specific green
+  competencies); note which dimensions are addressed
+- Green skills frameworks: alignment with recognized green skills
+  taxonomies (CEDEFOP Green Skills framework, ILO Just Transition
+  guidelines, European Green Deal skills agenda, ESCO green
+  occupations); flag studies that use "green skills" without
+  reference to any recognized taxonomy
+- VET and workforce connection: studies addressing green skills
+  in vocational education, technical training, professional
+  development, or workforce upskilling contexts are prioritized;
+  connection to just transition, green economy, or labor
+  market decarbonization
+- Temporal positioning: post-2015 studies are expected; post-2020
+  studies using climate literacy or green skills vocabulary
+  represent the emerging frontier — note for temporal mapping
+- Geographic and sectoral context: region (Europe, Latin America,
+  Asia-Pacific, Global South), economic sector (construction,
+  energy, agriculture, manufacturing, services); flag for
+  geographic distribution analysis
+PREGUNTA_CLAVE: Does the study operationalize climate literacy,
+green skills, or sustainability literacy as a substantive construct
+with sufficient conceptual clarity, and does it contribute to
+understanding how these competencies are developed or assessed in
+educational or training contexts?
+PESO: 0.30
+---
+ROL: 4
+NOMBRE: Higher Education & VET Curriculum Specialist
+ENFOQUE: Institutional and curricular realism of the integration
+strategies documented, scalability and transferability of findings
+across educational systems, and policy relevance for curriculum
+transformation in higher education and VET.
+CRITERIOS_EVALUA:
+- Institutional context confirmation: study must be explicitly
+  situated in a higher education institution (university, college,
+  polytechnic), vocational education and training system (VET,
+  TVET, apprenticeship), or professional continuing education
+  setting; exclude K-12 and primary/secondary education studies
+  unless they address teacher training at tertiary level
+- Curriculum integration level: whole-institution approach
+  (institutional policy, strategic frameworks, accreditation),
+  program level (curriculum redesign, graduate attribute
+  frameworks), course level (module development, pedagogical
+  innovation), or co-curricular (extracurricular, campus
+  sustainability initiatives); note level for mapping
+- Pedagogical strategies documented: problem-based learning,
+  project-based learning, service learning, experiential learning,
+  flipped classroom, transdisciplinary approaches, challenge-based
+  learning; flag studies with no identifiable pedagogical strategy
+- Assessment and measurement of learning outcomes: presence of
+  validated competency assessment, pre-post measurement of
+  sustainability knowledge/attitudes/behaviors, rubric-based
+  evaluation, or portfolio assessment; flag studies reporting
+  only student satisfaction without learning outcome measurement
+- Scalability and transferability: does the study discuss
+  conditions for replication across institutions, disciplines,
+  or national systems? Are barriers and enablers for
+  institutionalization identified?
+- Policy and accreditation alignment: connection to national or
+  regional sustainability education policies, accreditation
+  standards (AACSB sustainability, ABET, PRME), or institutional
+  sustainability rankings (UI GreenMetric, THE Impact Rankings)
+PREGUNTA_CLAVE: Does the study document a curriculum integration
+strategy, pedagogical approach, or institutional transformation
+process with sufficient operational detail to inform the
+implementation of ESD or climate literacy frameworks in
+higher education or VET systems?
+PESO: 0.30
+---

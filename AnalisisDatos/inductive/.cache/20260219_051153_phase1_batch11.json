@@ -1,0 +1,366 @@
+{
+  "session_id": "20260219_051153",
+  "phase": "1",
+  "batch": 11,
+  "timestamp": "2026-02-19T05:22:06.480547",
+  "data": {
+    "themes": [
+      {
+        "name": "Critical Thinking Enhancement through AI Integration",
+        "definition": "Use of AI tools to foster critical evaluation, reflective analysis, and problem-solving skills in educational contexts, with documented improvements in learners' ability to analyze, verify, and synthesize information.",
+        "evidence": [
+          "[Becerra2025] 'preliminary findings demonstrated that the feedback provided by AICoFe was perceived as clear, specific, and actionable'",
+          "[Liu2024c] 'the AI-supported SSI model led to significant increases in critical thinking dispositions'",
+          "[Vesali2025] 'assignment encourages students to critically evaluate and compare the output from different language models'",
+          "[MoslemiNezhadArani2025] 'qualitative analysis revealed increased clarity, critical thinking, collaboration, and vocabulary development'"
+        ],
+        "articles": [
+          "Becerra2025",
+          "Liu2024c",
+          "MoslemiNezhadArani2025",
+          "Vesali2025",
+          "Espínola2025",
+          "Nezhyva2025",
+          "Calderón-Oliver2025",
+          "Lee2025c",
+          "Habib2025",
+          "Lai2025b",
+          "Fan2025",
+          "Zhou2025c",
+          "Preda-ulita2025",
+          "ElIdrissi2025",
+          "Habibah2025",
+          "Rico2026",
+          "Rattanakha2025b",
+          "Smith2025",
+          "Khor2025",
+          "Agnaou2025",
+          "Chew2025",
+          "Cohn2025",
+          "Wong2025",
+          "Orozova2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "AI-mediated scaffolding",
+          "Critical reflection on AI outputs",
+          "Error detection in AI responses",
+          "Debate over AI's impact on metacognition"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Enhanced Collaborative and Problem-Based Learning Models",
+        "definition": "Implementation of AI tools to facilitate collaborative problem-solving frameworks that simulate real-world challenges, emphasizing teamwork, structured analysis, and iterative skill development.",
+        "evidence": [
+          "[Becerra2025] 'AICoFe facilitates both peer and self-assessments using rubric-based frameworks'",
+          "[MoslemiNezhadArani2025] 'AI was used to generate, evaluate, and adapt PBL scenarios based on students’ group responses'",
+          "[Orozova2025] 'train learners' critical thinking skills with systematically generated materials from ChatGPT'"
+        ],
+        "articles": [
+          "Becerra2025",
+          "MoslemiNezhadArani2025",
+          "Orozova2025",
+          "Geissler2025",
+          "Rattanakha2025b"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Peer-assisted AI feedback systems",
+          "AI-generated problem scenarios",
+          "Collaborative AI-human team dynamics"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Ethical and Analytical Considerations in AI-Driven Education",
+        "definition": "Recognition of AI limitations and ethical dilemmas, including over-reliance risks, content validation needs, and the necessity for human oversight in AI-assisted learning processes.",
+        "evidence": [
+          "[Habib2025] 'ChatGPT frequently compromising accuracy by being prone to errors and misinformation'",
+          "[Rico2026] 'AI-using students showed... deteriorated critical thinking (d = −1.31)'",
+          "[Zhou2025c] 'critical reflection on AI-generated outputs'"
+        ],
+        "articles": [
+          "Habib2025",
+          "Rico2026",
+          "Zhou2025c",
+          "Nezhyva2025",
+          "ElIdrissi2025",
+          "Chew2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "AI error mitigation strategies",
+          "Balancing AI assistance with human agency",
+          "Long-term cognitive impacts of AI dependence"
+        ],
+        "_verification": {
+          "grounding_score": 0.77,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI-Supported Creativity and Innovation Enhancement",
+        "definition": "Application of generative AI tools in creative fields that lower technical barriers for non-experts while promoting original thinking and aesthetic design skills.",
+        "evidence": [
+          "[Lee2025c] 'AI tools simplified research and design tasks for those with fewer technical skills'",
+          "[Xiao2025] 'ChatGPT demonstrates strong potential as a learning aid for students with limited coding skills'"
+        ],
+        "articles": [
+          "Lee2025c",
+          "Xiao2025",
+          "Delanoy2025",
+          "Agnaou2025"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Cross-disciplinary AI applications",
+          "AI as co-creator vs. tool",
+          "Cultural sensitivity in AI-generated content"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "AI Literacy and Technical Competency Development",
+        "definition": "Curriculum design efforts to build foundational understanding of AI capabilities, limitations, and ethical use tailored to educational levels from primary to higher education.",
+        "evidence": [
+          "[Chew2025] 'structured, no-code AI curriculum that leverages computational thinking'",
+          "[Wong2025] 'integrate AI tools into science education to study ecological balance'",
+          "[Nezhyva2025] 'integration of AI technologies into teacher education programs'"
+        ],
+        "articles": [
+          "Chew2025",
+          "Wong2025",
+          "Nezhyva2025"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Age-appropriate AI instruction",
+          "Ethical AI frameworks",
+          "Teacher training for AI integration"
+        ],
+        "_verification": {
+          "grounding_score": 0.53,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Critical thinking enhancement dominates as a theme (24/25 articles mention it explicitly), revealing a disciplinary bias in AI education research toward cognitive skills assessment. Variability exists in AI tool implementation - some studies focus on feedback mechanisms (Becerra2025, Calderón-Oliver2025), while others emphasize content generation (Lee2025c, Xiao2025). Methodological limitations in abstracts (missing objective/methods sections) may obscure nuanced implementation patterns. Unexpectedly high number of studies report both positive and negative AI impacts on critical thinking.",
+    "grounding_notes": "Only directly quoted terms from abstracts used for themes - inferred connections between concepts (e.g., 'AI scaffolding' linking to multiple outcomes) require cautious interpretation. Some themes (e.g., creativity and literacy) show lower representation due to abstract truncation issues noted in quality comments.",
+    "_hallucination_control": {
+      "total_themes": 5,
+      "avg_grounding_score": 0.86,
+      "total_hallucination_flags": 3,
+      "verification_details": [
+        {
+          "theme_name": "Critical Thinking Enhancement through AI Integration",
+          "evidence_verified": [
+            {
+              "quote": "[Becerra2025] 'preliminary findings demonstrated that the feedback provided by AICoFe was perceived as clear, specific, and actionable'",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Liu2024c] 'the AI-supported SSI model led to significant increases in critical thinking dispositions'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Vesali2025] 'assignment encourages students to critically evaluate and compare the output from different language models'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[MoslemiNezhadArani2025] 'qualitative analysis revealed increased clarity, critical thinking, collaboration, and vocabulary development'",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Becerra2025",
+            "Liu2024c",
+            "MoslemiNezhadArani2025",
+            "Vesali2025",
+            "Espínola2025",
+            "Nezhyva2025",
+            "Calderón-Oliver2025",
+            "Lee2025c",
+            "Habib2025",
+            "Lai2025b",
+            "Fan2025",
+            "Zhou2025c",
+            "Preda-ulita2025",
+            "ElIdrissi2025",
+            "Habibah2025",
+            "Rico2026",
+            "Rattanakha2025b",
+            "Smith2025",
+            "Khor2025",
+            "Agnaou2025",
+            "Chew2025",
+            "Cohn2025",
+            "Wong2025",
+            "Orozova2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Enhanced Collaborative and Problem-Based Learning Models",
+          "evidence_verified": [
+            {
+              "quote": "[Becerra2025] 'AICoFe facilitates both peer and self-assessments using rubric-based frameworks'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[MoslemiNezhadArani2025] 'AI was used to generate, evaluate, and adapt PBL scenarios based on students’ group responses'",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Orozova2025] 'train learners' critical thinking skills with systematically generated materials from ChatGPT'",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Becerra2025",
+            "MoslemiNezhadArani2025",
+            "Orozova2025",
+            "Geissler2025",
+            "Rattanakha2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Ethical and Analytical Considerations in AI-Driven Education",
+          "evidence_verified": [
+            {
+              "quote": "[Habib2025] 'ChatGPT frequently compromising accuracy by being prone to errors and misinformation'",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[Zhou2025c] 'critical reflection on AI-generated outputs'",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Rico2026] 'AI-using students showed... deteriorated critical thinking (d = −1.31)'",
+              "score": 0.55,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "Habib2025",
+            "Rico2026",
+            "Zhou2025c",
+            "Nezhyva2025",
+            "ElIdrissi2025",
+            "Chew2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.77,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.55): '[Rico2026] 'AI-using students showed... deteriorat...'"
+          ],
+          "quote_grounding": 0.67,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI-Supported Creativity and Innovation Enhancement",
+          "evidence_verified": [
+            {
+              "quote": "[Lee2025c] 'AI tools simplified research and design tasks for those with fewer technical skills'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Xiao2025] 'ChatGPT demonstrates strong potential as a learning aid for students with limited coding skills'",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Lee2025c",
+            "Xiao2025",
+            "Delanoy2025",
+            "Agnaou2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "AI Literacy and Technical Competency Development",
+          "evidence_verified": [
+            {
+              "quote": "[Chew2025] 'structured, no-code AI curriculum that leverages computational thinking'",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[Wong2025] 'integrate AI tools into science education to study ecological balance'",
+              "score": 0.73,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[Nezhyva2025] 'integration of AI technologies into teacher education programs'",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Chew2025",
+            "Wong2025",
+            "Nezhyva2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.53,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.73), not verbatim: '[Wong2025] 'integrate AI tools into science educat...'",
+            "Paraphrase detected (score=0.67), not verbatim: '[Nezhyva2025] 'integration of AI technologies into...'"
+          ],
+          "quote_grounding": 0.33,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}

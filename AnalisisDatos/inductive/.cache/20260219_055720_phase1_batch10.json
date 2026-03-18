@@ -1,0 +1,507 @@
+{
+  "session_id": "20260219_055720",
+  "phase": "1",
+  "batch": 10,
+  "timestamp": "2026-02-19T06:06:02.142257",
+  "data": {
+    "themes": [
+      {
+        "name": "AI-enhanced learning environments",
+        "definition": "The implementation of AI tools and technologies as components of educational settings to transform traditional teaching methods and create new learning experiences.",
+        "evidence": [
+          "[Molina-Barrón2025] This research documents the implementation of the artificial intelligence tool ChatGPT in higher education settings as a learning instrument rather than a content creator.",
+          "[Malang2025] The integration of artificial intelligence (AI) tools in education has garnered significant attention, with Chat Generative Pre-Trained Transformers (ChatGPT) emerging as a potential aid in enhancing student learning experiences.",
+          "[AlYakin2024] This study investigates the efficiency of blending artificial intelligence (AI) technologies to support behavioral intention and critical thinking in higher education settings."
+        ],
+        "articles": [
+          "AlYakin2024",
+          "Han2026",
+          "Kim2023",
+          "Molina-Barrón2025",
+          "Malang2025",
+          "Browning2024",
+          "Ravi2025",
+          "Camarillo2025",
+          "Han2025b",
+          "Rass2025"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "ChatGPT",
+          "GenAI tools",
+          "virtual learning",
+          "pedagogical redesign",
+          "educational transformation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Critical thinking development through AI integration",
+        "definition": "The impact of AI tools on the development of critical thinking skills among students, including evaluation of AI outputs, problem solving with AI assistance, and reflective judgment.",
+        "evidence": [
+          "[King2025] However, there are also significant drawbacks, including the possibility of over-reliance on the tools and the hindrance of critical thinking, which can lead students to accept incorrect AI-generated answers.",
+          "[Maya2025] Qualitative analysis revealed increased student awareness of the need to verify and contextualize AI-provided information, recognizing critical thinking's importance.",
+          "[Chen2025f] Furthermore, Gen AI was perceived to influence cognitive processes central to inquiry, such as reflection and critical thinking, and to contribute to a reshaping of learning dynamics."
+        ],
+        "articles": [
+          "Álvarez-Otero2026",
+          "Han2026",
+          "AlYakin2024",
+          "Kim2023",
+          "Molina-Barrón2025",
+          "King2025",
+          "Chen2025f",
+          "Hong2025c",
+          "Fahmi2025",
+          "Malang2025",
+          "Che2025",
+          "Camarillo2025",
+          "Han2025b",
+          "Singh2025b"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "analytical skills",
+          "reflective thinking",
+          "critical evaluation of AI outputs",
+          "problem solving"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Frameworks for AI integration",
+        "definition": "The development and implementation of structured approaches and pedagogical models for incorporating AI into educational practices, including instructional strategies and assessment methods.",
+        "evidence": [
+          "[Wang2025e] An AI-aided six-step writing instruction method has been developed, emphasizing thematic recognition, intention understanding, structural migration, skill analysis, comprehensive argumentation, and expressive writing, alongside progressive AI training.",
+          "[Yang2024] A six-step human-AI hybrid argumentative writing framework was proposed to guide the course and enhance students' prompting skills, including the steps of claim, structure, arguments and counterarguments, credibility and reliability, extend arguments, and revisions.",
+          "[Hong2025c] This pedagogical model draws on Bloom’s taxonomy, Vygotsky’s Zone of Proximal Development, and cognitive apprenticeship theory to scaffold learners through increasingly complex reasoning tasks."
+        ],
+        "articles": [
+          "Wang2025e",
+          "Yang2024",
+          "Hong2025c",
+          "Richter2024",
+          "Chen2025f",
+          "Ravi2025",
+          "Camarillo2025",
+          "Han2025b"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "scaffolding models",
+          "instructional design",
+          "pedagogical structures",
+          "assessment methods"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Human-AI collaborative learning",
+        "definition": "The interplay between students, instructors, and AI tools in the learning process, including both human-AI interactions and collaborative learning among humans with AI assistance, often focusing on how AI complements human activities.",
+        "evidence": [
+          "[Browning2024] This research is grounded in the implementation of ChatGPT in a data analysis course, aiming to evaluate its effectiveness in fostering students' analytical and decision-making capabilities.",
+          "[Che2025] This study investigates how Generative AI, specifically ChatGPT, can support CBL through distributed scaffolding, combining both structural and problem-based approaches to enhance learning.",
+          "[Lu2025] Specifically, males show a greater preference for field verification, while females demonstrate a higher level of review depth. However, it is also found that over-reliance on AIGC may weaken HOTS."
+        ],
+        "articles": [
+          "Browning2024",
+          "Che2025",
+          "Lu2025",
+          "Ke2025",
+          "Camarillo2025",
+          "Singh2025b"
+        ],
+        "frequency": "Medium",
+        "confidence": "medium",
+        "related_concepts": [
+          "distributed scaffolding",
+          "prompt engineering",
+          "AI literacy",
+          "collaborative problem-solving"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment of AI implementation",
+        "definition": "The evaluation of AI's effectiveness in educational settings through various measurement tools and methods, including both quantitative and qualitative assessments of learning outcomes.",
+        "evidence": [
+          "[Maya2025] Quantitative results indicated a positive trend towards PAIR model implementation. Students reported significant improvement in critical thinking skills (Mean = 3.82, SD = 0.86) and high engagement with AI interaction activities (Mean = 3.78, SD = 0.89).",
+          "[Rachmat2025] The pretest yielded 86 completed responses, while the post-test had 49 participants out of over 400 students enrolled in the course.",
+          "[Malang2025] Results revealed an overall positive perception, with a high average weighted mean of 3.85, indicating that ChatGPT supports students in understanding complex concepts, improving writing and critical thinking skills, increasing engagement, and facilitating collaborative learning."
+        ],
+        "articles": [
+          "Maya2025",
+          "AlYakin2024",
+          "Zakirova2025",
+          "Rass2025",
+          "Che2025",
+          "Camarillo2025",
+          "Malang2025",
+          "Rachmat2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "mixed-methods research",
+          "learning outcomes",
+          "student engagement metrics",
+          "effectiveness measures"
+        ],
+        "_verification": {
+          "grounding_score": 0.96,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Prompt engineering",
+        "definition": "Explicit attention to and teaching of how to effectively interact with AI tools through formulation of prompts and queries to get optimal results.",
+        "evidence": [
+          "[Yang2024] The results underscored two crucial components of AI literacy in using ChatGPT for academic writing, including the prompt skills to ensure the synergistic interactions with GenAI",
+          "[Browning2024] A notable innovation of our approach is the introduction of a dual-report assessment method, which not only evaluates the students' project results but also their proficiency in prompt engineering - a crucial skill for effective interaction with genAI tools.",
+          "[Rachmat2025] The intervention consisted of a brief explanation of chatbot training and utilisation, along with a specifically designed prompt intended to support learning."
+        ],
+        "articles": [
+          "Yang2024",
+          "Browning2024",
+          "Rachmat2025",
+          "Kim2023",
+          "Che2025",
+          "Camarillo2025"
+        ],
+        "frequency": "Medium",
+        "confidence": "medium",
+        "related_concepts": [
+          "AI literacy",
+          "effective interaction techniques",
+          "query formulation",
+          "prompt literacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Domain-specific AI applications",
+        "definition": "The application of AI tools to enhance learning in specific academic disciplines with approaches tailored to those fields, recognizing that the implementation varies across subjects.",
+        "evidence": [
+          "[Ravi2025] The research was conducted in the context of a two-week intensive course on engineering solutions for a sustainable world, where activities such as AI chatbot discussions, AI-based image generation and AI-designed quizzes were employed.",
+          "[Lu2025] the impact of AIGC on students' higher-order thinking skills (HOTS) in the teaching of core design courses",
+          "[Kim2023] This study aims to develop and explore a Critical-PBLL framework utilizing ChatGPT and Google Bard within college English education"
+        ],
+        "articles": [
+          "Ravi2025",
+          "Lu2025",
+          "Kim2023",
+          "Chen2025f",
+          "Rass2025",
+          "Wang2025e",
+          "Yang2024",
+          "Murali2024"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "subject-specific instruction",
+          "domain knowledge generation",
+          "language learning",
+          "discipline-specific literacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on AI integration in educational settings, particularly university-level instruction. Many of the studies represent early-stage implementations of AI tools in classrooms. The recurring emphasis on critical thinking suggests concerns about maintaining cognitive development while incorporating AI assistance. Several studies propose frameworks or models for AI integration, indicating the emerging nature of this field. Quality notes across abstracts indicate missing information in most submissions, particularly about methodology and conclusions - suggesting these may be early explorations rather than fully developed research studies. There's notable attention to both the technical proficiency required to interact with AI (prompt engineering) and the pedagogical considerations for its integration across different disciplines.",
+    "grounding_notes": "Due to missing information in many abstracts (particularly methods and quantitative results), some interpretations required extrapolation from limited evidence. The use of similar terminology across different contexts created potential ambiguity in theme identification. Some themes could only be inferred from implicit descriptions rather than explicit mentions. The provided quality notes indicating missing elements in many abstracts suggest limitations in the data available for analysis.",
+    "_hallucination_control": {
+      "total_themes": 7,
+      "avg_grounding_score": 0.99,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "AI-enhanced learning environments",
+          "evidence_verified": [
+            {
+              "quote": "[Molina-Barrón2025] This research documents the implementation of the artificial intelligence tool ChatGPT in higher education settings as a learning instrument rather than a content creator.",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Malang2025] The integration of artificial intelligence (AI) tools in education has garnered significant attention, with Chat Generative Pre-Trained Transformers (ChatGPT) emerging as a potential aid in enhancing student learning experiences.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[AlYakin2024] This study investigates the efficiency of blending artificial intelligence (AI) technologies to support behavioral intention and critical thinking in higher education settings.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "AlYakin2024",
+            "Han2026",
+            "Kim2023",
+            "Molina-Barrón2025",
+            "Malang2025",
+            "Browning2024",
+            "Ravi2025",
+            "Camarillo2025",
+            "Han2025b",
+            "Rass2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Critical thinking development through AI integration",
+          "evidence_verified": [
+            {
+              "quote": "[King2025] However, there are also significant drawbacks, including the possibility of over-reliance on the tools and the hindrance of critical thinking, which can lead students to accept incorrect AI-generated answers.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Maya2025] Qualitative analysis revealed increased student awareness of the need to verify and contextualize AI-provided information, recognizing critical thinking's importance.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Chen2025f] Furthermore, Gen AI was perceived to influence cognitive processes central to inquiry, such as reflection and critical thinking, and to contribute to a reshaping of learning dynamics.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Álvarez-Otero2026",
+            "Han2026",
+            "AlYakin2024",
+            "Kim2023",
+            "Molina-Barrón2025",
+            "King2025",
+            "Chen2025f",
+            "Hong2025c",
+            "Fahmi2025",
+            "Malang2025",
+            "Che2025",
+            "Camarillo2025",
+            "Han2025b",
+            "Singh2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Frameworks for AI integration",
+          "evidence_verified": [
+            {
+              "quote": "[Wang2025e] An AI-aided six-step writing instruction method has been developed, emphasizing thematic recognition, intention understanding, structural migration, skill analysis, comprehensive argumentation, and expressive writing, alongside progressive AI training.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Yang2024] A six-step human-AI hybrid argumentative writing framework was proposed to guide the course and enhance students' prompting skills, including the steps of claim, structure, arguments and counterarguments, credibility and reliability, extend arguments, and revisions.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Hong2025c] This pedagogical model draws on Bloom’s taxonomy, Vygotsky’s Zone of Proximal Development, and cognitive apprenticeship theory to scaffold learners through increasingly complex reasoning tasks.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Wang2025e",
+            "Yang2024",
+            "Hong2025c",
+            "Richter2024",
+            "Chen2025f",
+            "Ravi2025",
+            "Camarillo2025",
+            "Han2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Human-AI collaborative learning",
+          "evidence_verified": [
+            {
+              "quote": "[Browning2024] This research is grounded in the implementation of ChatGPT in a data analysis course, aiming to evaluate its effectiveness in fostering students' analytical and decision-making capabilities.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Che2025] This study investigates how Generative AI, specifically ChatGPT, can support CBL through distributed scaffolding, combining both structural and problem-based approaches to enhance learning.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Lu2025] Specifically, males show a greater preference for field verification, while females demonstrate a higher level of review depth. However, it is also found that over-reliance on AIGC may weaken HOTS.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Browning2024",
+            "Che2025",
+            "Lu2025",
+            "Ke2025",
+            "Camarillo2025",
+            "Singh2025b"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Assessment of AI implementation",
+          "evidence_verified": [
+            {
+              "quote": "[Maya2025] Quantitative results indicated a positive trend towards PAIR model implementation. Students reported significant improvement in critical thinking skills (Mean = 3.82, SD = 0.86) and high engagement with AI interaction activities (Mean = 3.78, SD = 0.89).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Rachmat2025] The pretest yielded 86 completed responses, while the post-test had 49 participants out of over 400 students enrolled in the course.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Malang2025] Results revealed an overall positive perception, with a high average weighted mean of 3.85, indicating that ChatGPT supports students in understanding complex concepts, improving writing and critical thinking skills, increasing engagement, and facilitating collaborative learning.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "AlYakin2024",
+            "Zakirova2025",
+            "Rass2025",
+            "Che2025",
+            "Camarillo2025",
+            "Malang2025",
+            "Rachmat2025"
+          ],
+          "articles_unverified": [
+            "Maya2025"
+          ],
+          "grounding_score": 0.96,
+          "hallucination_flags": [
+            "Article key not found in batch: 'Maya2025'"
+          ],
+          "quote_grounding": 1.0,
+          "article_grounding": 0.88
+        },
+        {
+          "theme_name": "Prompt engineering",
+          "evidence_verified": [
+            {
+              "quote": "[Yang2024] The results underscored two crucial components of AI literacy in using ChatGPT for academic writing, including the prompt skills to ensure the synergistic interactions with GenAI",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Browning2024] A notable innovation of our approach is the introduction of a dual-report assessment method, which not only evaluates the students' project results but also their proficiency in prompt engineering - a crucial skill for effective interaction with genAI tools.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Rachmat2025] The intervention consisted of a brief explanation of chatbot training and utilisation, along with a specifically designed prompt intended to support learning.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Yang2024",
+            "Browning2024",
+            "Rachmat2025",
+            "Kim2023",
+            "Che2025",
+            "Camarillo2025"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        },
+        {
+          "theme_name": "Domain-specific AI applications",
+          "evidence_verified": [
+            {
+              "quote": "[Ravi2025] The research was conducted in the context of a two-week intensive course on engineering solutions for a sustainable world, where activities such as AI chatbot discussions, AI-based image generation and AI-designed quizzes were employed.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Lu2025] the impact of AIGC on students' higher-order thinking skills (HOTS) in the teaching of core design courses",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Kim2023] This study aims to develop and explore a Critical-PBLL framework utilizing ChatGPT and Google Bard within college English education",
+              "score": 0.76,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Ravi2025",
+            "Lu2025",
+            "Kim2023",
+            "Chen2025f",
+            "Rass2025",
+            "Wang2025e",
+            "Yang2024",
+            "Murali2024"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "hallucination_flags": [],
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0
+        }
+      ]
+    }
+  }
+}
