@@ -1,7 +1,7 @@
 # Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19416905-blue)](https://doi.org/10.5281/zenodo.19416905)
 
 **Associated article:** Segura-Altamirano, S.F., Hilario-Vargas, J.S., Vela-Melendez, L., Arbulu-Perez-Vargas, C.G., Reupo-Periche, J.T., Garcia-Lopez, J.W., Rios-Villacorta, M.A., Chiclayo-Padilla, H.J., & Castro-Cardenas, D.M. (2026). *F1000Research*. [DOI pending]
 
