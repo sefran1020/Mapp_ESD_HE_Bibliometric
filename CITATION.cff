@@ -1,0 +1,86 @@
+cff-version: 1.2.0
+title: >-
+  Mapping the Intellectual Architecture of Education for Sustainable
+  Development in Higher Education: A Bibliometric and AI-Assisted
+  Thematic Synthesis — Data and Analysis Repository
+message: >-
+  If you use the data, scripts, or analysis materials from this
+  repository, please cite the associated article and this dataset.
+type: dataset
+authors:
+  - family-names: Segura-Altamirano
+    given-names: Segundo Francisco
+    orcid: "https://orcid.org/0000-0002-0103-7222"
+    affiliation: Universidad Nacional Pedro Ruiz Gallo
+  - family-names: Hilario-Vargas
+    given-names: Julio Santos
+    orcid: "https://orcid.org/0000-0002-8656-6843"
+    affiliation: Universidad Nacional de Trujillo
+  - family-names: Vela-Melendez
+    given-names: Lindon
+    orcid: "https://orcid.org/0000-0002-9644-7151"
+    affiliation: Universidad Nacional Pedro Ruiz Gallo
+  - family-names: Arbulu-Perez-Vargas
+    given-names: Carmen Graciela
+    orcid: "https://orcid.org/0000-0002-8463-6553"
+    affiliation: Universidad Cesar Vallejo
+  - family-names: Reupo-Periche
+    given-names: Jose Teodoro
+    orcid: "https://orcid.org/0000-0003-2030-3191"
+    affiliation: Universidad Nacional Pedro Ruiz Gallo
+  - family-names: Garcia-Lopez
+    given-names: Jhon Wiston
+    orcid: "https://orcid.org/0000-0001-7581-201X"
+    affiliation: Universidad Nacional Pedro Ruiz Gallo
+  - family-names: Rios-Villacorta
+    given-names: Mauro Adriel
+    orcid: "https://orcid.org/0000-0002-6197-0559"
+    affiliation: Universidad Nacional Pedro Ruiz Gallo
+  - family-names: Chiclayo-Padilla
+    given-names: Hugo Javier
+    orcid: "https://orcid.org/0000-0002-9620-5056"
+    affiliation: Universidad Nacional Pedro Ruiz Gallo
+  - family-names: Castro-Cardenas
+    given-names: Diana Mercedes
+    orcid: "https://orcid.org/0000-0001-8489-9671"
+    affiliation: Universidad Nacional Pedro Ruiz Gallo
+date-released: "2026-04-03"
+keywords:
+  - Education for Sustainable Development
+  - Higher Education
+  - Bibliometrics
+  - Science Mapping
+  - Sustainability Competencies
+  - Green Skills
+  - Artificial Intelligence
+  - Inductive Thematic Analysis
+license: CC-BY-4.0
+repository-code: "https://github.com/USUARIO/REPOSITORIO"
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  title: >-
+    Mapping the Intellectual Architecture of Education for Sustainable
+    Development in Higher Education: A Bibliometric and AI-Assisted
+    Thematic Synthesis
+  authors:
+    - family-names: Segura-Altamirano
+      given-names: Segundo Francisco
+    - family-names: Hilario-Vargas
+      given-names: Julio Santos
+    - family-names: Vela-Melendez
+      given-names: Lindon
+    - family-names: Arbulu-Perez-Vargas
+      given-names: Carmen Graciela
+    - family-names: Reupo-Periche
+      given-names: Jose Teodoro
+    - family-names: Garcia-Lopez
+      given-names: Jhon Wiston
+    - family-names: Rios-Villacorta
+      given-names: Mauro Adriel
+    - family-names: Chiclayo-Padilla
+      given-names: Hugo Javier
+    - family-names: Castro-Cardenas
+      given-names: Diana Mercedes
+  journal: "F1000Research"
+  year: 2026

@@ -1,10 +1,15 @@
 # Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+**Associated article:** Segura-Altamirano, S.F., Hilario-Vargas, J.S., Vela-Melendez, L., Arbulu-Perez-Vargas, C.G., Reupo-Periche, J.T., Garcia-Lopez, J.W., Rios-Villacorta, M.A., Chiclayo-Padilla, H.J., & Castro-Cardenas, D.M. (2026). *F1000Research*. [DOI pending]
+
 ---
 
 ## Overview
 
-This repository contains the **data, scripts, analyses, and manuscript materials** for a comprehensive bibliometric systematic review that exhaustively maps the field of **Education for Sustainable Development (ESD)** in higher education and vocational education and training (VET), covering the period **2015–2026**.
+This repository contains the **data, scripts, analyses, and manuscript materials** for a bibliometric systematic review that maps the field of **Education for Sustainable Development (ESD)** in higher education and vocational education and training (VET), covering the period **2015--2026**.
 
 The study integrates three complementary methodological approaches:
 
@@ -20,9 +25,9 @@ The study integrates three complementary methodological approaches:
 | Temporal coverage | 2015–2026 |
 | Databases queried | Scopus, Web of Science, ERIC |
 | Initial records retrieved | 3,367 |
-| Countries represented | 110+ |
+| Countries represented | 86 |
 | Cited references analyzed | 10,009 |
-| Knowledge gaps identified | 40+ |
+| Knowledge gaps identified | 56 |
 | Open access coverage | 50.45% |
 
 ---
@@ -46,6 +51,8 @@ The study integrates three complementary methodological approaches:
 paraRepositorioSp/
 │
 ├── README.md                          ← This file
+├── LICENSE                            ← CC-BY 4.0 license
+├── CITATION.cff                       ← Citation metadata for Zenodo/GitHub
 │
 ├── recoleccionBasesDatos/             ← Search strategy and data collection documentation
 │   ├── propuestaRevision.txt          ← Review proposal with PICO framework and search string
@@ -114,9 +121,10 @@ paraRepositorioSp/
 │   │   ├── thesaurus_keywords.txt
 │   │   └── {network_type}_map.txt / _network.txt  ← 10 network types
 │   │
+│   ├── corpus_442_articles.csv         ← Complete listing of all 442 articles (Authors, Title, Year, Journal, DOI)
+│   │
 │   ├── inductive/                     ← AI-assisted inductive thematic analysis
-│   │   ├── inductive_report_20260225_211319.md  ← Complete inductive analysis report
-│   │   └── .cache/                    ← LLM batch processing cache
+│   │   └── inductive_report_20260225_211319.md  ← Complete inductive analysis report
 │   │
 │   ├── educational_ct/                ← Educational levels and critical thinking analysis
 │   │   ├── educational_ct_report.md
@@ -149,14 +157,14 @@ paraRepositorioSp/
 │   └── spectroscopy/                  ← Reference spectroscopy (citation foundation analysis)
 │       └── spectroscopy_report.md
 │
-└── manuscrit/                         ← LaTeX manuscript for publication (Springer Nature)
-    ├── sn-article.tex                 ← Main manuscript document
-    ├── sn-article.pdf                 ← Compiled PDF
-    ├── sn-bibliography.bib            ← Complete bibliography (446+ references)
-    ├── sn-jnl.cls                     ← Springer Nature LaTeX class
-    ├── figuras/                       ← Figures included in the manuscript
-    ├── bst/                           ← Alternative bibliography styles
-    └── user-manual.pdf                ← Template documentation
+└── manuscrit/                         ← Manuscript materials
+    ├── f1000_manuscript.md            ← F1000Research manuscript (Markdown + pandoc)
+    ├── sn-article.tex                 ← LaTeX version of the manuscript
+    ├── sn-article.pdf                 ← Compiled PDF (LaTeX version)
+    ├── sn-bibliography.bib            ← Complete bibliography (references cited in manuscript)
+    ├── apa.csl                        ← APA citation style for pandoc
+    ├── sn-article.bbl                 ← Compiled bibliography (LaTeX)
+    └── figuras/                       ← Figures included in the manuscript (8 PNG files)
 ```
 
 ---
@@ -251,45 +259,48 @@ Networks are available in GEXF, GraphML, and interactive HTML formats, along wit
 
 ### Phase 5: AI-Assisted Inductive Thematic Synthesis
 
-Three-phase analysis processed by LLM (DeepSeek Reasoner):
+Three-phase analysis processed by LLM (Qwen3-235B for thematic extraction, DeepSeek V3.2 for cross-thematic reasoning):
 
 | Phase | Description | Output |
 |-------|-------------|--------|
-| Phase 1 | Emergent thematic mapping | 6 major themes identified |
-| Phase 2 | Cross-thematic axis analysis | 3 organizing dimensions |
+| Phase 1 | Emergent thematic mapping | 5 consolidated themes identified |
+| Phase 2 | Cross-thematic axis analysis | 3 organizing configurations |
 | Phase 3 | Framework construction | Institutional-Educational Integration Framework |
 
-**Grounding score:** 92% — evidence verified against source abstracts.
+**Alignment score:** 92% — evidence verified against source abstracts. 37 hallucination flags identified and subjected to human expert review.
 
-**Emergent themes identified:**
+**Consolidated themes identified:**
 
-1. **Curriculum design and content integration** — ESD integration into university curricula
-2. **Pedagogical approaches and learning environments** — Problem-based learning, digital tools
-3. **Sustainability competencies and educational outcomes** — Knowledge, skills, attitudes
-4. **Institutional and collaborative strategies** — University policies, whole-institution approach
-5. **Assessment of ESD effectiveness** — Evaluation methods, competency measurement
-6. **Educator professional development** — Academic staff training programs
+1. **ESD Integration in Curricula** — Curriculum reform, subject-specific integration, barriers to implementation
+2. **Transformative Pedagogies and Experiential Learning** — Student engagement, transdisciplinary pedagogies
+3. **Institutional and Faculty Roles in Advancing ESD** — Faculty leadership, educator transformation, professional development
+4. **Sustainability Literacy, Values, and Behavioral Outcomes** — Literacy assessment, value-based learning, pro-environmental behavior
+5. **Digital Innovation in ESD Delivery** — Digital/virtual learning environments, emerging technologies
 
 ### Phase 6: Knowledge Gap Detection
 
 | Gap Type | Count | Description |
 |----------|-------|-------------|
-| Structural | 10 | Frequent method-concept combinations that never co-occur |
-| Declared | 26 | Explicitly stated by authors in the corpus |
-| Emergent | 4 | High-growth topics with insufficient coverage |
-| **Total** | **40+** | |
+| Structural | 25 | Frequent method-concept combinations that never co-occur |
+| Declared | 23 | Explicitly stated by authors in the corpus |
+| Emergent | 8 | High-growth topics with insufficient coverage |
+| **Total** | **56** | |
 
-**Methods × Concepts coverage matrix:** 68.0% (51/75 cells)
+**Methods × Concepts coverage matrix:** 64.0% (48/75 cells)
 
 ### Phase 7: Manuscript Preparation
 
-Manuscript prepared in LaTeX using the **Springer Nature** template (`sn-jnl.cls`), compilable with:
+Manuscript prepared for **F1000Research** submission. The repository includes both:
+- `f1000_manuscript.md` — Markdown source with pandoc/citeproc citations (primary)
+- `sn-article.tex` — LaTeX version (archival)
+
+To generate the DOCX from the Markdown source:
 
 ```bash
-pdflatex sn-article.tex
-bibtex sn-article
-pdflatex sn-article.tex
-pdflatex sn-article.tex
+cd manuscrit/
+pandoc f1000_manuscript.md -f markdown -t docx --citeproc \
+  --bibliography=sn-bibliography.bib --csl=apa.csl \
+  -o f1000_manuscript.docx
 ```
 
 ---
@@ -304,40 +315,47 @@ pdflatex sn-article.tex
 
 | Research Design | Articles | % |
 |-----------------|----------|---|
-| Case study | 117 | 26.5% |
-| Survey | 105 | 23.7% |
-| Quantitative | 57 | 12.9% |
-| Qualitative | 53 | 12.0% |
-| Interview-based | 52 | 11.8% |
-| Mixed methods | 42 | 9.5% |
-| Action research | 23 | 5.2% |
-| Experimental | 18 | **4.1%** |
+| Survey | 87 | 19.5% |
+| Case Study | 81 | 18.2% |
+| Qualitative | 50 | 11.2% |
+| Quantitative | 43 | 9.6% |
+| Mixed Methods | 30 | 6.7% |
+| Interview-based | 26 | 5.8% |
+| Content Analysis | 23 | 5.2% |
+| Action Research | 15 | 3.4% |
+| Experimental | 14 | 3.1% |
+| Systematic Review | 13 | 2.9% |
+| Quasi-experimental | 4 | **0.9%** |
 
 ### Study Populations
 
 | Population | Articles | % |
 |------------|----------|---|
-| Undergraduate students | 82 | 18.6% |
-| Not specified | 79 | 17.9% |
-| University students (general) | 76 | 17.2% |
-| Pre-service teachers | 22 | 5.0% |
-| Graduate/postgraduate students | 20 | 4.5% |
-| University faculty | 17 | **3.8%** |
+| Higher Education Context | 73 | 16.4% |
+| University Students | 58 | 13.0% |
+| Undergraduate Students | 43 | 9.6% |
+| Higher Education Students | 28 | 6.3% |
+| Pre-service Teachers | 21 | 4.7% |
+| University Educators | 13 | 2.9% |
+| University Faculty | 12 | 2.7% |
+| Business Students | 9 | 2.0% |
+| Higher Education Institutions | 9 | 2.0% |
+| Engineering Students | 8 | **1.8%** |
 
 ### Geographic Distribution (Top 10)
 
 | Country | Articles |
 |---------|----------|
-| Germany | 30 |
-| United Kingdom | 23 |
-| Spain | 20 |
-| China | 18 |
-| Malaysia | 13 |
-| Sweden | 8 |
-| Colombia | 7 |
-| South Africa | 7 |
-| Indonesia | 6 |
-| United States | 5 |
+| Spain | 63 |
+| United Kingdom | 52 |
+| Germany | 40 |
+| United States | 27 |
+| Brazil | 17 |
+| Portugal | 16 |
+| South Africa | 14 |
+| Sweden | 14 |
+| Italy | 13 |
+| Colombia | 12 |
 
 ### Open Access
 
@@ -350,12 +368,12 @@ pdflatex sn-article.tex
 
 ### Critical Gaps Identified
 
-- **Experimental designs** represent only 4.1% of the corpus
-- **Faculty** are severely understudied (3.8%) relative to students (32.7%)
+- **Experimental designs** represent only 4.0% of the corpus (experimental + quasi-experimental)
+- **Faculty** are severely understudied (7.0%) relative to students (32.7%)
 - **Climate literacy** and **green skills** remain conceptually peripheral despite policy urgency
-- **Simulation × Pedagogy:** non-existent combination despite 5.73x growth in simulation research
+- **Simulation × Pedagogy:** non-existent combination; simulation is the fastest-growing frontier
 - **Longitudinal studies:** critical scarcity of long-term evidence
-- **Global South:** significant underrepresentation
+- **Global South:** significant underrepresentation (9 countries remain isolates with no collaborative links)
 
 ---
 
@@ -370,7 +388,7 @@ pdflatex sn-article.tex
 
 ### AI-Assisted Inductive Thematic Analysis (`AnalisisDatos/inductive/`)
 
-Three-phase thematic synthesis assisted by LLM with 92% grounding score and hallucination control. Includes complete batch processing cache for reproducibility.
+Three-phase thematic synthesis assisted by LLM (Qwen3-235B + DeepSeek V3.2) with 92% alignment score, 37 hallucination flags identified and subjected to human expert review. Includes complete batch processing cache for reproducibility.
 
 ### Educational Levels and Critical Thinking Analysis (`AnalisisDatos/educational_ct/`)
 
@@ -390,7 +408,7 @@ Distribution by OA color (Gold, Hybrid, Green, Bronze, Diamond), license analysi
 
 ### State-of-the-Art and Knowledge Gaps (`AnalisisDatos/sota_analysis/`)
 
-Coverage matrices for Methods × Applications (93.3%) and Methods × Concepts (68.0%). Taxonomy of 40+ knowledge gaps categorized as structural, declared, and emergent. Prioritized research agenda with 7 recommended directions.
+Coverage matrices for Methods × Applications (74.1%) and Methods × Concepts (64.0%). Taxonomy of 56 knowledge gaps categorized as structural (25), declared (23), and emergent (8). Prioritized research agenda with 4 priority axes.
 
 ### Reference Spectroscopy (`AnalisisDatos/spectroscopy/`)
 
@@ -405,10 +423,10 @@ Analysis of 10,009 cited references: concept life cycles (emergence-to-peak), co
 | Bibliometric analysis | `bibliometrix` (R package) |
 | Network visualization | VOSviewer, Gephi (GEXF/GraphML formats) |
 | Deduplication | Python (`rapidfuzz`, RIS/NBIB parsing) |
-| AI-assisted thematic analysis | DeepSeek (`deepseek-reasoner`) |
+| AI-assisted thematic analysis | Qwen3-235B (thematic extraction), DeepSeek V3.2 (cross-thematic reasoning) |
 | Reliability statistics | Fleiss' Kappa, Cohen's Kappa, ICC |
 | Visualization | R graphics, Python (matplotlib/plotly), interactive HTML |
-| Manuscript preparation | LaTeX (Springer Nature `sn-jnl` template) |
+| Manuscript preparation | Pandoc + citeproc (Markdown to DOCX); LaTeX (archival) |
 
 ---
 
@@ -430,9 +448,15 @@ pip install rapidfuzz
 python merge_sources.py
 ```
 
-### Manuscript compilation (LaTeX)
+### Manuscript generation (Pandoc)
 
-Requires a complete LaTeX distribution (TeX Live, MiKTeX) with the Springer Nature packages included in `manuscrit/`.
+```bash
+# Requires pandoc >= 3.0 with citeproc
+cd manuscrit/
+pandoc f1000_manuscript.md -f markdown -t docx --citeproc \
+  --bibliography=sn-bibliography.bib --csl=apa.csl \
+  -o f1000_manuscript.docx
+```
 
 ---
 
@@ -447,9 +471,10 @@ Requires a complete LaTeX distribution (TeX Live, MiKTeX) with the Springer Natu
 | GraphML | Networks for graph analysis tools | `AnalisisDatos/networks/` |
 | HTML | Interactive network and chart visualizations | `AnalisisDatos/networks/`, subdirectories |
 | PNG | Static figures | `AnalisisDatos/figures/` |
-| LaTeX (.tex) | Manuscript | `manuscrit/` |
-| PDF | Compiled manuscript, manual | `manuscrit/` |
-| Markdown (.md) | Analysis reports, documentation | All subdirectories |
+| Markdown (.md) | F1000 manuscript, analysis reports, documentation | `manuscrit/`, all subdirectories |
+| LaTeX (.tex) | Archival manuscript version | `manuscrit/` |
+| PDF | Compiled manuscript | `manuscrit/` |
+| CFF | Citation metadata for Zenodo | Root |
 
 ---
 
@@ -484,11 +509,34 @@ The screening process follows PRISMA guidelines adapted for bibliometric reviews
 
 ---
 
+## Corpus Traceability
+
+The complete analytical corpus of 442 articles is available in multiple formats for full traceability:
+
+| File | Description |
+|------|-------------|
+| `AnalisisDatos/corpus_442_articles.csv` | Clean listing: Authors, Title, Year, Journal, DOI, Document Type |
+| `AnalisisDatos/bibliometrix_export.csv` | Full bibliometric dataset (442 articles x 28 columns) |
+| `AnalisisDatos/bibliometrix_export.bib` | BibTeX format of the analytical corpus |
+| `Screening/seleccionados80.csv` | Screening decisions with justifications from 3 reviewers per article |
+| `Screening/phase1_results.csv` | Phase 1 screening results |
+| `Screening/phase2_results.csv` | Phase 2 PICO-based screening results |
+| `Screening/reliability_metrics.csv` | Inter-rater reliability metrics |
+| `Screening/disagreement_report.csv` | Reviewer disagreement cases and resolution |
+
+---
+
 ## Citation
 
-If you use the data, analyses, or materials from this repository, please cite:
+If you use the data, analyses, or materials from this repository, please cite both the article and the dataset:
 
-> [Authors]. (2026). Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis. *[Journal]*. [DOI pending publication]
+**Article:**
+> Segura-Altamirano, S.F., Hilario-Vargas, J.S., Vela-Melendez, L., Arbulu-Perez-Vargas, C.G., Reupo-Periche, J.T., Garcia-Lopez, J.W., Rios-Villacorta, M.A., Chiclayo-Padilla, H.J., & Castro-Cardenas, D.M. (2026). Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis. *F1000Research*. [DOI pending]
+
+**Dataset:**
+> Segura-Altamirano, S.F. et al. (2026). Data and analysis repository: ESD in Higher Education bibliometric review [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+
+A machine-readable citation is available in `CITATION.cff`.
 
 ---
 
@@ -500,10 +548,12 @@ If you use the data, analyses, or materials from this repository, please cite:
 
 ## License
 
-[Specify repository license — CC-BY 4.0 is recommended for research data]
+This repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
 ## Contact
 
-[Author contact information]
+Segundo Francisco Segura-Altamirano — sseguraal@unprg.edu.pe
+Universidad Nacional Pedro Ruiz Gallo, Lambayeque, Peru
+ORCID: [0000-0002-0103-7222](https://orcid.org/0000-0002-0103-7222)

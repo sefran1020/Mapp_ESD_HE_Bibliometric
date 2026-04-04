@@ -1,0 +1,17 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.blg
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Generated DOCX (can be rebuilt from source)
+*.docx
