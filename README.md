@@ -534,7 +534,7 @@ If you use the data, analyses, or materials from this repository, please cite bo
 > Segura-Altamirano, S.F., Hilario-Vargas, J.S., Vela-Melendez, L., Arbulu-Perez-Vargas, C.G., Reupo-Periche, J.T., Garcia-Lopez, J.W., Rios-Villacorta, M.A., Chiclayo-Padilla, H.J., & Castro-Cardenas, D.M. (2026). Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis. *F1000Research*. [DOI pending]
 
 **Dataset:**
-> Segura-Altamirano, S.F. et al. (2026). Data and analysis repository: ESD in Higher Education bibliometric review [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Segura-Altamirano, S.F. et al. (2026). Data and analysis repository: ESD in Higher Education bibliometric review [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19416905
 
 A machine-readable citation is available in `CITATION.cff`.
 
