@@ -2,46 +2,52 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19416905-blue)](https://doi.org/10.5281/zenodo.19416905)
+[![PRISMA 2020 Compliant](https://img.shields.io/badge/PRISMA-2020_Compliant-green.svg)](PRISMA_2020_Checklist.md)
 
-**Associated article:** Segura-Altamirano, S.F., Hilario-Vargas, J.S., Vela-Melendez, L., Arbulu-Perez-Vargas, C.G., Reupo-Periche, J.T., Garcia-Lopez, J.W., Rios-Villacorta, M.A., Chiclayo-Padilla, H.J., & Castro-Cardenas, D.M. (2026). *F1000Research*. [DOI pending]
+**Associated article:** Segura-Altamirano, S. F., Hilario-Vargas, J. S., Vela-Melendez, L., Arbulu-Perez-Vargas, C. G., Reupo-Periche, J. T., Garcia-Lopez, J. W., Rios-Villacorta, M. A., Chiclayo-Padilla, H. J., & Castro-Cardenas, D. M. (2026). Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis. *F1000Research*, 15:808. https://doi.org/10.12688/f1000research.179905.1 [Revised Version 2]
 
 ---
 
 ## Overview
 
-This repository contains the **data, scripts, analyses, and manuscript materials** for a bibliometric systematic review that maps the field of **Education for Sustainable Development (ESD)** in higher education and vocational education and training (VET), covering the period **2015--2026**.
+This repository contains the **data, scripts, analyses, supplementary materials, and manuscript files** for a bibliometric systematic review and science mapping that examines the global field of **Education for Sustainable Development (ESD)** in higher education and vocational education and training (VET), covering the post-2030 Agenda era (**2015--2026**).
 
 The study integrates three complementary methodological approaches:
-
-1. **Bibliometric network analysis** (co-citation, bibliographic coupling, keyword co-occurrence, co-authorship)
-2. **AI-assisted inductive thematic synthesis** (LLM processing with grounding verification)
-3. **Systematic knowledge gap detection** (structural, declared, and emergent gaps)
+1. **Bibliometric network analysis** (co-citation, bibliographic coupling, keyword co-occurrence, institutional and co-authorship networks via VOSviewer and `bibliometrix`)
+2. **AI-assisted inductive thematic synthesis** (dual-architecture LLM processing with Qwen3-235B and DeepSeek V3.2, governed by a multi-stage semantic grounding verification protocol)
+3. **Systematic knowledge gap operationalization** (coverage matrices across methods, concepts, and applications categorizing structural, declared, and emergent gaps)
 
 ### Final Analytical Corpus
 
 | Metric | Value |
 |--------|-------|
-| Articles in final corpus | **442** |
-| Temporal coverage | 2015–2026 |
-| Databases queried | Scopus, Web of Science, ERIC |
-| Initial records retrieved | 3,367 |
-| Countries represented | 86 |
-| Cited references analyzed | 10,009 |
-| Knowledge gaps identified | 56 |
+| Articles in final corpus (*n*) | **442** |
+| Temporal coverage | 2015–2026 (post-Agenda 2030 adoption) |
+| Databases queried | Scopus, Web of Science Core Collection, ERIC |
+| Initial records retrieved (*N*) | 3,367 (Scopus: 2,096; WoS: 1,195; ERIC: 76) |
+| Deduplicated unique records | 1,987 |
+| Pre-screened corpus (post-biomedical ESD purge) | 1,450 |
+| Inter-rater screening reliability | Fleiss' $\kappa = 0.55$--$0.69$; 98.4% unanimity on retained corpus |
+| Computational alignment score (AI synthesis) | **92.0%** (37 hallucination flags audited and resolved) |
+| Countries represented | 86 (15 collaborative clusters) |
+| Institutions represented | 526 (200 clusters; 20.3% isolates) |
+| Cited references analyzed | 10,009 (1,067 in core co-citation network) |
+| Operationalized knowledge gaps | 56 (25 structural, 23 declared, 8 emergent) |
 | Open access coverage | 50.45% |
 
 ---
 
-## Research Question
+## Research Questions & PICO Framework
 
-**How has the integration of Education for Sustainable Development, climate literacy, green skills, and sustainability literacy been researched in higher education and vocational education contexts since the adoption of the 2030 Agenda, and what conceptual frameworks, pedagogical strategies, institutional approaches, and measurement instruments have been employed?**
+**Core Research Question:**  
+*How has the integration of Education for Sustainable Development, climate literacy, green skills, and sustainability literacy been researched in higher education and vocational education contexts since the adoption of the 2030 Agenda, and what conceptual frameworks, pedagogical strategies, institutional approaches, and measurement instruments have been employed?*
 
-### PICO Framework
+### PICO-Adapted Framework
 
-- **P (Population):** Students, educators, institutions, and curricula within higher education (universities, tertiary institutions) and vocational education and training (VET) systems globally.
-- **I (Intervention):** Integration of ESD, climate literacy, green skills, and sustainability literacy frameworks into curricula, pedagogical strategies, institutional policies, and competency frameworks.
-- **C (Comparison):** Comparative analyses across institutional types, geographic regions, disciplinary fields, pre/post-SDG adoption periods, or between ESD-traditional and climate literacy-emergent approaches.
-- **O (Outcome):** Development, integration, or assessment of sustainability-related competencies: ESD competencies, climate literacy, green skills, sustainability literacy, curriculum greening and institutional transformation, and pedagogical strategies.
+- **P (Population):** Students (undergraduate, postgraduate), educators, faculty, pre-service teachers, and institutional leadership within Higher Education Institutions (HEIs) and Vocational Education and Training (VET) systems.
+- **I (Intervention):** Integration of ESD, climate literacy, green skills, and sustainability literacy frameworks into curricula, pedagogical strategies (e.g., project-based learning, service-learning, simulation), institutional policies, and competency frameworks.
+- **C (Comparison):** Accepted flexibly to include pre/post-intervention benchmarks, cross-national/cross-institutional contrasts, comparative analyses between traditional ESD and emerging green skills/climate literacy paradigms, or non-experimental baseline evaluations.
+- **O (Outcome):** Development, assessment, and institutionalization of sustainability competencies (cognitive, behavioral, normative, systems thinking), climate literacy, green skills, and whole-institution greening.
 
 ---
 
@@ -50,251 +56,173 @@ The study integrates three complementary methodological approaches:
 ```
 paraRepositorioSp/
 │
-├── README.md                          ← This file
-├── LICENSE                            ← CC-BY 4.0 license
-├── CITATION.cff                       ← Citation metadata for Zenodo/GitHub
+├── README.md                          ← Repository documentation and overview (This file)
+├── LICENSE                            ← Creative Commons Attribution 4.0 International (CC-BY 4.0)
+├── CITATION.cff                       ← Machine-readable citation metadata (Zenodo/GitHub)
+├── PRISMA_2020_Checklist.docx         ← Completed official PRISMA 2020 Checklist (Word)
+├── PRISMA_2020_Checklist.md           ← Completed PRISMA 2020 Checklist (Markdown)
+├── Response_to_Reviewers_F1000.docx   ← Point-by-point response letter to Reviewer 1 (Word)
+├── Response_to_Reviewers_F1000.md     ← Point-by-point response letter to Reviewer 1 (Markdown)
 │
-├── recoleccionBasesDatos/             ← Search strategy and data collection documentation
-│   ├── propuestaRevision.txt          ← Review proposal with PICO framework and search string
-│   ├── few_shot_examples.txt          ← Training examples for AI-assisted classification
-│   └── ### Virtual Screening Team.txt ← Virtual screening team coordination protocol
+├── recoleccionBasesDatos/             ← Search strategy and multi-database retrieval protocols
+│   ├── propuestaRevision.txt          ← Original review proposal with PICO criteria and search string
+│   ├── few_shot_examples.txt          ← Few-shot prompt calibration examples for semantic evaluation
+│   ├── ### Virtual Screening Team.txt ← Screening team specification and role prompt definitions
+│   ├── esd.bib                        ← Raw bibliographic extract (Scopus)
+│   ├── metdoologia.bib                ← Methodology bibliographic references
+│   └── discusion.bib                  ← Discussion contextual references
 │
-├── Screening/                         ← Deduplication, screening, and corpus selection
-│   ├── merge_sources.py               ← Python script for multi-source merging and deduplication
-│   ├── consolidado.csv                ← Consolidated records pre-deduplication
-│   ├── consolidado_merged.csv         ← Merged records post-deduplication (1,987 unique)
+├── Screening/                         ← Deduplication, screening, and inter-rater reliability data
+│   ├── merge_sources.py               ← Multi-source merging and deduplication script (rapidfuzz)
+│   ├── consolidado.csv                ← Consolidated multi-database dataset (3,367 records)
+│   ├── consolidado_merged.csv         ← Merged dataset post-deduplication (1,987 unique records)
 │   ├── consolidado2.csv               ← Intermediate consolidated file
-│   ├── dedup_report.txt               ← Detailed deduplication report
-│   ├── uncertain_duplicates.csv       ← Uncertain duplicate pairs for manual review
-│   ├── errores.csv                    ← Records with parsing errors
-│   ├── phase1_results.csv             ← Phase 1 screening results
-│   ├── phase2_results.csv             ← Phase 2 screening results with PICO decisions
-│   ├── reliability_metrics.csv        ← Inter-rater reliability metrics
-│   ├── disagreement_report.csv        ← Reviewer disagreement report
-│   ├── seleccionados80.csv            ← Final corpus (442 articles, threshold ≥80/100)
-│   ├── criterios_metricas_screening.md     ← Detailed inclusion/exclusion criteria
-│   ├── reliability_metrics_80.md           ← Final corpus reliability metrics
-│   └── metricas_seleccionados_umbral80.md  ← Descriptive metrics for selected corpus
+│   ├── dedup_report.txt               ← Detailed deduplication execution audit report
+│   ├── uncertain_duplicates.csv       ← Borderline fuzzy matches arbitrated manually
+│   ├── errores.csv                    ← Parsing exceptions log
+│   ├── phase1_results.csv             ← Phase 1 title and abstract screening outputs
+│   ├── phase2_results.csv             ← Phase 2 PICO dimension-by-dimension scoring results
+│   ├── reliability_metrics.csv        ← Full inter-rater reliability metrics (Fleiss' κ, Cohen's κ, ICC)
+│   ├── disagreement_report.csv        ← Inter-rater disagreement log and consensus arbitration
+│   ├── seleccionados80.csv            ← Final analytical corpus (442 articles, CRS threshold ≥80)
+│   ├── criterios_metricas_screening.md← Operational inclusion/exclusion rules and formulas
+│   ├── Quality_Control.md             ← AI hallucination mitigation protocol and HITL audit summary
+│   └── AI Hallucination Audit Trail and Quality Control.xlsx ← Complete 37 hallucination flags audit log
 │
-├── AnalisisDatos/                     ← Complete bibliometric and thematic analyses
-│   ├── bibliometrix_export.csv        ← Complete bibliometric dataset (443 × 91 columns)
-│   ├── bibliometrix_export.bib        ← BibTeX format export
-│   ├── bibliometrix_analysis.R        ← R script (bibliometrix package) for full analysis
-│   ├── citation_keys_mapping.txt      ← Citation key mapping
-│   ├── citation_keys_mapping_full.txt ← Complete citation key mapping
+├── AnalisisDatos/                     ← Complete bibliometric, scientometric, and gap analyses
+│   ├── corpus_442_articles.csv        ← Master tabular listing of all 442 retained publications
+│   ├── bibliometrix_export.csv        ← Full bibliometric export (442 articles × 91 indicators)
+│   ├── bibliometrix_export.bib        ← BibTeX format of the complete corpus
+│   ├── bibliometrix_analysis.R        ← R script for execution via the bibliometrix package
+│   ├── citation_keys_mapping.txt      ← Citation key cross-reference table
 │   │
-│   ├── figures/                       ← Bibliometric visualizations (45+ PNG figures)
-│   │   ├── lotka_author_productivity.png
-│   │   ├── bradford_journals.png
-│   │   ├── temporal_trends.png
-│   │   ├── conceptual_structure_map.png
-│   │   ├── country_collaboration.png
-│   │   ├── keyword_frequency.png
-│   │   ├── keyword_trends.png
-│   │   ├── methods_by_year.png
-│   │   ├── methods_by_country.png
-│   │   ├── network_cocitation_cluster.png
-│   │   ├── network_coauthorship_*.png
-│   │   ├── network_bibliographic_coupling_*.png
-│   │   ├── network_keyword_cooccurrence_*.png
-│   │   └── by_item_type/              ← Stratified analysis by document type
-│   │       ├── Book Chapter/
-│   │       ├── conferencePaper/
-│   │       └── journalArticle/
+│   ├── figures/                       ← Visualizations (45+ publication-ready PNG figures)
+│   ├── networks/                      ← Network files in GEXF, GraphML, and interactive HTML
+│   ├── vosviewer/                     ← VOSviewer input maps, matrices, and thesaurus files
 │   │
-│   ├── networks/                      ← Network files in standard formats
-│   │   ├── cocitation.{gexf,graphml,html}
-│   │   ├── cocitation_journals.{gexf,graphml,html}
-│   │   ├── bibliographic_coupling.{gexf,graphml,html}
-│   │   ├── coauthorship_authors.{gexf,graphml,html}
-│   │   ├── coauthorship_countries.{gexf,graphml,html}
-│   │   ├── coauthorship_institutions.{gexf,graphml,html}
-│   │   ├── coupling_countries.{gexf,graphml,html}
-│   │   ├── coupling_institutions.{gexf,graphml,html}
-│   │   ├── coupling_journals.{gexf,graphml,html}
-│   │   ├── keyword_cooccurrence.{gexf,graphml,html}
-│   │   └── by_item_type/              ← Stratified networks by document type
-│   │
-│   ├── vosviewer/                     ← VOSviewer input/output files
-│   │   ├── corpus.txt
-│   │   ├── scores.txt
-│   │   ├── thesaurus_keywords.txt
-│   │   └── {network_type}_map.txt / _network.txt  ← 10 network types
-│   │
-│   ├── corpus_442_articles.csv         ← Complete listing of all 442 articles (Authors, Title, Year, Journal, DOI)
-│   │
-│   ├── inductive/                     ← AI-assisted inductive thematic analysis
-│   │   └── inductive_report_20260225_211319.md  ← Complete inductive analysis report
-│   │
+│   ├── inductive/                     ← AI-assisted inductive thematic analysis execution traces
+│   ├── sota_analysis/                 ← State-of-the-art coverage matrices and 56 knowledge gaps
+│   │   ├── sota_gap_report.md         ← Full gap analysis report
+│   │   └── figures/                   ← Methods × Concepts and Methods × Applications heatmaps
+│   ├── spectroscopy/                  ← Reference Publication Year Spectroscopy (RPYS)
+│   ├── population_analysis/           ← Target population and research focus distributions
 │   ├── educational_ct/                ← Educational levels and critical thinking analysis
-│   │   ├── educational_ct_report.md
-│   │   ├── educational_ct_data.json
-│   │   ├── manual_review_unclassified.{csv,md}
-│   │   └── *.{html,png}              ← Interactive and static visualizations
-│   │
-│   ├── population_analysis/           ← Study populations and research focus analysis
-│   │   ├── population_analysis_report.md
-│   │   ├── manual_review_unclassified.{csv,md}
-│   │   └── *.{html,png}              ← Interactive and static visualizations
-│   │
-│   ├── population_sample/             ← Sample size extraction
-│   │   ├── extraction_summary.json
-│   │   └── trace_20260226_001051.json
-│   │
-│   ├── quality/                       ← Abstract quality assessment
-│   │   ├── abstract_quality_report.md
-│   │   ├── quality_by_item_type.md
-│   │   └── quality_*.png
-│   │
-│   ├── oa_corpus/                     ← Open access analysis
-│   │   ├── oa_corpus_report.md
-│   │   ├── oa_corpus_listing.csv
-│   │   └── oa_distribution_*.png
-│   │
-│   ├── sota_analysis/                 ← State-of-the-art and knowledge gaps
-│   │   └── sota_gap_report.md
-│   │
-│   └── spectroscopy/                  ← Reference spectroscopy (citation foundation analysis)
-│       └── spectroscopy_report.md
+│   └── oa_corpus/                     ← Open access models, temporal trends, and license analysis
 │
-└── manuscrit/                         ← Manuscript materials
-    ├── f1000_manuscript.md            ← F1000Research manuscript (Markdown + pandoc)
-    ├── sn-article.tex                 ← LaTeX version of the manuscript
-    ├── sn-article.pdf                 ← Compiled PDF (LaTeX version)
-    ├── sn-bibliography.bib            ← Complete bibliography (references cited in manuscript)
-    ├── apa.csl                        ← APA citation style for pandoc
-    ├── sn-article.bbl                 ← Compiled bibliography (LaTeX)
-    └── figuras/                       ← Figures included in the manuscript (8 PNG files)
+└── manuscrit/                         ← Manuscript source files and production assets
+    ├── f1000_manuscript.docx          ← Revised Clean Manuscript (Version 2, Word)
+    ├── f1000_manuscript_marked.docx   ← Revised Marked Manuscript with highlighted changes (Word)
+    ├── f1000_manuscript.md            ← Source manuscript in Markdown with citeproc citations
+    ├── sn-article.tex                 ← Archival LaTeX source file
+    ├── sn-article.pdf                 ← Compiled PDF version
+    ├── sn-bibliography.bib            ← Complete BibTeX reference library
+    ├── apa.csl                        ← APA citation style definition
+    └── figuras/                       ← Figures embedded in the manuscript (Figures 1 to 8)
 ```
 
 ---
 
-## Methodological Pipeline
+## Methodological Pipeline (7 Phases)
 
-The study follows a reproducible 7-phase pipeline:
+### Phase 1: Search Strategy Validation and Multi-Database Retrieval
 
-### Phase 1: Data Acquisition (February 25, 2026)
+Systematic retrieval executed on **February 25, 2026** across Scopus, Web of Science Core Collection, and ERIC. Initial Boolean querying was unconstrained chronologically, while the analytical corpus was delimited to **2015–2026** post-Agenda 2030 adoption.
 
-Systematic search across three databases using the Boolean query:
+| Database | Native Query Syntax | Field Tags & Filters Applied | Raw Yield (*N*) |
+|:---|:---|:---|---:|
+| **Scopus** | `TITLE-ABS-KEY(("education for sustainable development" OR "esd" OR "climate literacy" OR "green skill*" OR "sustainability literacy") AND ("higher education" OR "university" OR "tertiary education" OR "vocational education" OR "VET"))` | Title, Abstract, Author Keywords (`TITLE-ABS-KEY`); Document types: `ar`, `cp`, `ch`; Language: All | 2,096 |
+| **Web of Science (Core Collection)** | `TS=(("education for sustainable development" OR "esd" OR "climate literacy" OR "green skill*" OR "sustainability literacy") AND ("higher education" OR "university" OR "tertiary education" OR "vocational education" OR "VET"))` | Topic (`TS`); Indexes: `SCI-EXPANDED`, `SSCI`, `A&HCI`, `CPCI-S`, `CPCI-SSH`, `ESCI`; Types: `Article`, `Proceedings Paper`, `Book Chapter` | 1,195 |
+| **ERIC (ProQuest/EBSCOhost)** | `(TI,AB,KW("education for sustainable development" OR "esd" OR "climate literacy" OR "green skill*" OR "sustainability literacy") AND TI,AB,KW("higher education" OR "university" OR "tertiary education" OR "vocational education" OR "VET"))` | Title, Abstract, Keywords (`TI,AB,KW`); Peer-Reviewed: `Yes`; Document types: `Journal Articles`, `Reports/Research` | 76 |
+| **Total** | | | **3,367** |
 
-```
-( "education for sustainable development" OR "esd" OR "climate literacy"
-  OR "green skill*" OR "sustainability literacy" )
-AND
-( "higher education" OR "university" OR "tertiary education"
-  OR "vocational education" OR "VET" )
-```
+### Phase 2: Deduplication and Domain Purge
 
-| Database | Records Retrieved |
-|----------|-------------------|
-| Scopus | 2,096 |
-| Web of Science | 1,195 |
-| ERIC | 76 |
-| **Total** | **3,367** |
+Implemented via custom Python scripts (`Screening/merge_sources.py`) leveraging the `rapidfuzz` library:
+1. **Exact DOI matching:** 812 duplicates eliminated.
+2. **Fuzzy title matching (Levenshtein distance $\ge 90\%$):** 46 additional duplicates removed.
+3. **Polysemic domain filter:** 520 biomedical entries (*Endoscopic Submucosal Dissection*) purged.
+4. **Metadata quality filter:** 17 records lacking essential metadata removed.
+5. **Yield:** **1,450 pre-screened unique documents**.
 
-### Phase 2: Deduplication and Quality Filtering
+### Phase 3: PICO-Adapted Screening and Inter-Rater Reliability
 
-Automated pipeline implemented in Python (`merge_sources.py`) using the `rapidfuzz` library:
+Evaluated by a specialized three-role panel operating in a Human-in-the-Loop (HITL) architecture:
+- **Role 1 (Lead Methodologist, $w_1 = 0.20$):** Methodological design, baseline validity, reproducibility.
+- **Role 2 (ESD & Sustainability Education Expert, $w_2 = 0.40$):** Theoretical depth, competency frameworks.
+- **Role 3 (Climate Literacy & Green Skills Specialist, $w_3 = 0.40$):** Climate constructs, labor market transitions.
 
-1. **Exact DOI matching:** 812 duplicates identified
-2. **Fuzzy title matching** (Levenshtein distance, 90% threshold): 46 additional duplicates
-3. **Medical content filter:** 520 biomedical ESD records (*Endoscopic Submucosal Dissection*) removed
-4. **Quality filtering:** 17 records missing abstracts or essential metadata removed
-5. **Result:** **1,987 unique pre-screening records**
+**Composite Relevance Score ($CRS$):**
+$$CRS_j = \sum_{i=1}^{3} w_i \cdot \mathcal{D}_{i,j} \cdot C_{i,j}$$
+where $\mathcal{D}_{i,j} \in \{1.0 \text{ (Include)}, 0.5 \text{ (Uncertain)}, 0.0 \text{ (Exclude)}\}$ and $C_{i,j} \in [0, 100\%]$ is the confidence rating. Inclusion threshold: $CRS_j \ge 80.0$. Borderline cases ($60.0 \le CRS < 80.0$) arbitrated by senior author consensus.
 
-Metadata completeness of the deduplicated corpus:
+**Inter-Rater Agreement Statistics ($n = 1,450$):**
+- **Fleiss' Kappa ($\kappa$):** $0.547 \text{ to } 0.688$ (moderate to substantial agreement).
+- **Pairwise Cohen's Kappa:** $\kappa_{1-2} = 0.795$; $\kappa_{1-3} = 0.546$; $\kappa_{2-3} = 0.738$.
+- **Intraclass Correlation ($ICC_{2,1}$):** $0.605$ on continuous confidence ratings.
+- **Percent Agreement:** $76.7\%$ across all 1,450 records; **$98.4\%$ unanimous agreement** and $100\%$ majority agreement on the retained corpus ($n = 442$).
 
-| Field | Completeness |
-|-------|-------------|
-| Authors | 100.0% |
-| Title | 100.0% |
-| Year | 100.0% |
-| Abstract | 100.0% |
-| DOI | 92.9% |
-| Keywords | 93.0% |
-| Affiliations | 96.3% |
+### Phase 4: Scientometric and Network Mapping
 
-### Phase 3: PICO-Based Screening
-
-Three-expert reviewer panel:
-
-| Role | Specialization |
-|------|----------------|
-| Reviewer 1 | Lead Methodologist |
-| Reviewer 2 | ESD & Sustainability Education Expert |
-| Reviewer 3 | Climate Literacy & Green Skills Specialist |
-
-**Inclusion criteria:** Alignment with all four PICO components (Population in higher education, ESD Intervention, implicit or explicit Comparison, sustainability competency Outcomes).
-
-**Exclusion criteria:** Context outside higher education, misalignment with ESD interventions, absence of sustainability competency outcomes.
-
-**Relevance threshold:** ≥80/100 for inclusion in the final analytical corpus.
-
-**Inter-rater reliability metrics:**
-
-| Metric | Value |
-|--------|-------|
-| Percent agreement | 71.43% |
-| Fleiss' Kappa | 0.5962 |
-| ICC (Intraclass Correlation Coefficient) | 0.5435 |
-| Unanimity on final corpus (442 articles) | 98.4% |
-
-**Result:** **442 highly relevant articles** in the final analytical corpus.
-
-### Phase 4: Bibliometric Analysis
-
-Implemented in R using the `bibliometrix` package (`bibliometrix_analysis.R`):
-
-- **Bibliometric laws:** Lotka (author productivity), Bradford (journal scatter)
-- **Network analysis:**
-  - Co-citation (intellectual foundation)
-  - Bibliographic coupling (document similarity)
-  - Co-authorship (authors, countries, institutions)
-  - Keyword co-occurrence (conceptual structure)
-- **Temporal trends:** Exponential growth, CAGR, citation half-life
-- **Geographic distribution:** International collaboration, country-level productivity
-- **Document type analysis:** Journal articles, conference papers, book chapters
-
-Networks are available in GEXF, GraphML, and interactive HTML formats, along with input files for **VOSviewer**.
+Conducted in R (`bibliometrix`) and VOSviewer (v1.6.20):
+- Reference co-citation (intellectual pillars, 1,067 cited references, 54 clusters)
+- Bibliographic coupling (document and institutional similarities, 502 institutions, 41 clusters)
+- Keyword co-occurrence (conceptual structure, 352 keywords, 7 clusters)
+- International co-authorship (86 countries, 15 clusters; Total Link Strength)
 
 ### Phase 5: AI-Assisted Inductive Thematic Synthesis
 
-Three-phase analysis processed by LLM (Qwen3-235B for thematic extraction, DeepSeek V3.2 for cross-thematic reasoning):
+- **Phase 1 (Inductive Category Extraction):** Qwen3-235B (Temperature = 0.2, Top-p = 0.90, context 32k tokens, API Feb 2026) processed across 15 thematic batches ($\approx 29$--$30$ abstracts/batch).
+- **Phase 2 (Cross-Thematic Axis Analysis):** DeepSeek V3.2 (Temperature = 0.1, Top-p = 0.95) evaluating latent structural relationships.
+- **Phase 3 (Framework Construction):** Integrative educational and institutional model building.
+- **Alignment Score:** **92.0%** ($(1 - 37/462) \times 100\%$) via Semantic Grounding Verification against source abstracts.
+- **Hallucination Flags Audit:** 37 flags identified and corrected by human experts (14 polysemic acronyms, 11 experimental design overestimations, 12 student vs. faculty population conflations).
 
-| Phase | Description | Output |
-|-------|-------------|--------|
-| Phase 1 | Emergent thematic mapping | 5 consolidated themes identified |
-| Phase 2 | Cross-thematic axis analysis | 3 organizing configurations |
-| Phase 3 | Framework construction | Institutional-Educational Integration Framework |
+### Phase 6: Knowledge Gap Operationalization
 
-**Alignment score:** 92% — evidence verified against source abstracts. 37 hallucination flags identified and subjected to human expert review.
+56 knowledge gaps operationalized across three categories:
+1. **Structural Gaps ($n = 25$):** Unpopulated cells ($f_{ij} = 0$) in coverage matrices ($5 \times 15$ Methods $\times$ Concepts at 64.0% coverage; $5 \times 12$ Methods $\times$ Applications at 74.1% coverage) where marginal frequencies exceed the 75th percentile ($f_i, f_j > P_{75}$).
+2. **Declared Gaps ($n = 23$):** Explicit research needs articulated in abstract conclusions extracted via semantic NLP triggers.
+3. **Emergent Gaps ($n = 8$):** High-acceleration domains (temporal growth factor $\ge 1.5\times$, e.g. Simulation with $5.73\times$) with low empirical coverage ($< 25\%$).
 
-**Consolidated themes identified:**
+### Phase 7: PRISMA 2020 & Open Science Materials
 
-1. **ESD Integration in Curricula** — Curriculum reform, subject-specific integration, barriers to implementation
-2. **Transformative Pedagogies and Experiential Learning** — Student engagement, transdisciplinary pedagogies
-3. **Institutional and Faculty Roles in Advancing ESD** — Faculty leadership, educator transformation, professional development
-4. **Sustainability Literacy, Values, and Behavioral Outcomes** — Literacy assessment, value-based learning, pro-environmental behavior
-5. **Digital Innovation in ESD Delivery** — Digital/virtual learning environments, emerging technologies
+Full compliance with PRISMA 2020 guidelines documented in [`PRISMA_2020_Checklist.docx`](PRISMA_2020_Checklist.docx) and [`PRISMA_2020_Checklist.md`](PRISMA_2020_Checklist.md). Complete point-by-point rebuttal to peer review comments in [`Response_to_Reviewers_F1000.docx`](Response_to_Reviewers_F1000.docx).
 
-### Phase 6: Knowledge Gap Detection
+---
 
-| Gap Type | Count | Description |
-|----------|-------|-------------|
-| Structural | 25 | Frequent method-concept combinations that never co-occur |
-| Declared | 23 | Explicitly stated by authors in the corpus |
-| Emergent | 8 | High-growth topics with insufficient coverage |
-| **Total** | **56** | |
+## Key Synthesis Findings
 
-**Methods × Concepts coverage matrix:** 64.0% (48/75 cells)
+### Growth Dynamics
+- **Substantial and accelerated expansion:** Annual output grew from 33 documents (2015–2016) to 121 (2023–2024) and 90 in 2025 alone ($R^2 = 0.913$ for exponential model fit; Compound Annual Growth Rate $\text{CAGR} = 18.4\%$).
+- **Relative Research Interest (RRI):** Rose from 0.049 in 2015 to 0.202 in 2025.
 
-### Phase 7: Manuscript Preparation
+### Methodological & Population Distribution
 
-Manuscript prepared for **F1000Research** submission. The repository includes both:
-- `f1000_manuscript.md` — Markdown source with pandoc/citeproc citations (primary)
-- `sn-article.tex` — LaTeX version (archival)
+| Research Design | Articles (*n*) | % | Study Population | Articles (*n*) | % |
+|:---|---:|---:|:---|---:|---:|
+| Survey | 87 | 19.5% | Higher Education Context | 73 | 16.4% |
+| Case Study | 81 | 18.2% | University Students | 58 | 13.0% |
+| Qualitative | 50 | 11.2% | Undergraduate Students | 43 | 9.6% |
+| Quantitative | 43 | 9.6% | Higher Education Students | 28 | 6.3% |
+| Mixed Methods | 30 | 6.7% | Pre-service Teachers | 21 | 4.7% |
+| Interview-based | 26 | 5.8% | University Educators | 13 | 2.9% |
+| Content Analysis | 23 | 5.2% | University Faculty | 12 | 2.7% |
+| Action Research | 15 | 3.4% | Business Students | 9 | 2.0% |
+| Experimental | 14 | 3.1% | Higher Education Institutions | 9 | 2.0% |
+| Systematic Document/Curricular Review* | 13 | 2.9% | Engineering Students | 8 | 1.8% |
+| Quasi-experimental | 4 | 0.9% | Other Populations | 170 | 38.4% |
 
-To generate the DOCX from the Markdown source:
+*\*Note: Systematic Document/Curricular Reviews represent primary documentary syntheses of university course curricula and competencies, distinct from excluded meta-bibliometrics.*
+
+### Geographic Concentration and Epistemic Context
+- Spain (*n* = 63, 14.1%), United Kingdom (*n* = 52, 11.7%), and Germany (*n* = 40, 9.0%) account for over one-third of total indexed output.
+- **Sur Global Contextualization:** Findings are framed considering the structural English-language and Northern indexing biases of commercial databases (Scopus, WoS, ERIC). Rich regional scholarship in SciELO, Redalyc, and African Journals Online (AJOL) remains underrepresented in commercial indexes; geographic concentration reflects indexing architectures rather than an absence of regional educational practice.
+
+---
+
+## Reproducibility and Compilation
+
+### Compiling the Revised Manuscript (Pandoc)
 
 ```bash
 cd manuscrit/
@@ -303,257 +231,38 @@ pandoc f1000_manuscript.md -f markdown -t docx --citeproc \
   -o f1000_manuscript.docx
 ```
 
----
+### Reproducing Inter-Rater Reliability Metrics (Python)
 
-## Key Findings
+```bash
+cd Screening/
+python -c "import pandas as pd; df = pd.read_csv('reliability_metrics.csv'); print(df.to_string())"
+```
 
-### Growth Trajectory
-- Exponential growth since 2019
-- Spain, the United Kingdom, and Germany account for >33% of scientific output
-
-### Methodological Profile
-
-| Research Design | Articles | % |
-|-----------------|----------|---|
-| Survey | 87 | 19.5% |
-| Case Study | 81 | 18.2% |
-| Qualitative | 50 | 11.2% |
-| Quantitative | 43 | 9.6% |
-| Mixed Methods | 30 | 6.7% |
-| Interview-based | 26 | 5.8% |
-| Content Analysis | 23 | 5.2% |
-| Action Research | 15 | 3.4% |
-| Experimental | 14 | 3.1% |
-| Systematic Review | 13 | 2.9% |
-| Quasi-experimental | 4 | **0.9%** |
-
-### Study Populations
-
-| Population | Articles | % |
-|------------|----------|---|
-| Higher Education Context | 73 | 16.4% |
-| University Students | 58 | 13.0% |
-| Undergraduate Students | 43 | 9.6% |
-| Higher Education Students | 28 | 6.3% |
-| Pre-service Teachers | 21 | 4.7% |
-| University Educators | 13 | 2.9% |
-| University Faculty | 12 | 2.7% |
-| Business Students | 9 | 2.0% |
-| Higher Education Institutions | 9 | 2.0% |
-| Engineering Students | 8 | **1.8%** |
-
-### Geographic Distribution (Top 10)
-
-| Country | Articles |
-|---------|----------|
-| Spain | 63 |
-| United Kingdom | 52 |
-| Germany | 40 |
-| United States | 27 |
-| Brazil | 17 |
-| Portugal | 16 |
-| South Africa | 14 |
-| Sweden | 14 |
-| Italy | 13 |
-| Colombia | 12 |
-
-### Open Access
-
-| Metric | Value |
-|--------|-------|
-| OA articles | 223 (50.45%) |
-| Gold OA share | 71.7% |
-| CC-BY license | 72.2% |
-| Mean citations (OA) | 18.45 |
-
-### Critical Gaps Identified
-
-- **Experimental designs** represent only 4.0% of the corpus (experimental + quasi-experimental)
-- **Faculty** are severely understudied (7.0%) relative to students (32.7%)
-- **Climate literacy** and **green skills** remain conceptually peripheral despite policy urgency
-- **Simulation × Pedagogy:** non-existent combination; simulation is the fastest-growing frontier
-- **Longitudinal studies:** critical scarcity of long-term evidence
-- **Global South:** significant underrepresentation (9 countries remain isolates with no collaborative links)
-
----
-
-## Analyses Included
-
-### Core Bibliometric Analysis (`AnalisisDatos/`)
-
-- **45+ visualizations** in PNG format including co-citation networks, bibliographic coupling, co-authorship, keyword co-occurrence, temporal trends, author productivity (Lotka's Law), journal scatter (Bradford's Law), geographic distribution, and citation impact analysis
-- **30+ network files** in GEXF, GraphML, and interactive HTML formats
-- **VOSviewer files** for 10 network types (maps and network matrices)
-- **Stratified analysis** by document type (journal articles, conference papers, book chapters) with comparative figures and networks
-
-### AI-Assisted Inductive Thematic Analysis (`AnalisisDatos/inductive/`)
-
-Three-phase thematic synthesis assisted by LLM (Qwen3-235B + DeepSeek V3.2) with 92% alignment score, 37 hallucination flags identified and subjected to human expert review. Includes complete batch processing cache for reproducibility.
-
-### Educational Levels and Critical Thinking Analysis (`AnalisisDatos/educational_ct/`)
-
-Classification of all 442 articles by educational level, critical thinking dimensions, identified AI tools, research designs, sample sizes, and geographic distribution. Includes interactive visualizations (heatmaps, Sankey diagrams, bubble charts, temporal evolution).
-
-### Study Populations and Research Focus Analysis (`AnalisisDatos/population_analysis/`)
-
-Distribution of study populations (18 categories), research foci (18 unique foci), tools/interventions employed (361 unique), and detailed geographic analysis. Includes radar charts by population and Sankey diagrams.
-
-### Abstract Quality Assessment (`AnalisisDatos/quality/`)
-
-Multidimensional assessment of 442 abstracts across four dimensions: structure (88.3/100), informativeness (80.3/100), completeness (31.8/100), readability (54.7/100). 93.2% exceed the quality threshold. Analysis by document type included.
-
-### Open Access Analysis (`AnalisisDatos/oa_corpus/`)
-
-Distribution by OA color (Gold, Hybrid, Green, Bronze, Diamond), license analysis, OA temporal trends, and complete open access corpus listing with PDF URLs.
-
-### State-of-the-Art and Knowledge Gaps (`AnalisisDatos/sota_analysis/`)
-
-Coverage matrices for Methods × Applications (74.1%) and Methods × Concepts (64.0%). Taxonomy of 56 knowledge gaps categorized as structural (25), declared (23), and emergent (8). Prioritized research agenda with 4 priority axes.
-
-### Reference Spectroscopy (`AnalisisDatos/spectroscopy/`)
-
-Analysis of 10,009 cited references: concept life cycles (emergence-to-peak), co-occurring concept pairs, Reference Publication Year Spectroscopy (RPYS), and 519 seminal works identified.
-
----
-
-## Tools and Technologies
-
-| Component | Tool |
-|-----------|------|
-| Bibliometric analysis | `bibliometrix` (R package) |
-| Network visualization | VOSviewer, Gephi (GEXF/GraphML formats) |
-| Deduplication | Python (`rapidfuzz`, RIS/NBIB parsing) |
-| AI-assisted thematic analysis | Qwen3-235B (thematic extraction), DeepSeek V3.2 (cross-thematic reasoning) |
-| Reliability statistics | Fleiss' Kappa, Cohen's Kappa, ICC |
-| Visualization | R graphics, Python (matplotlib/plotly), interactive HTML |
-| Manuscript preparation | Pandoc + citeproc (Markdown to DOCX); LaTeX (archival) |
-
----
-
-## Reproducibility Requirements
-
-### Bibliometric analysis (R)
+### Reproducing Bibliometric Analysis (R)
 
 ```r
 install.packages("bibliometrix")
-# Run from the AnalisisDatos/ directory
+setwd("AnalisisDatos/")
 source("bibliometrix_analysis.R")
 ```
 
-### Deduplication (Python)
-
-```bash
-pip install rapidfuzz
-# Run from the Screening/ directory
-python merge_sources.py
-```
-
-### Manuscript generation (Pandoc)
-
-```bash
-# Requires pandoc >= 3.0 with citeproc
-cd manuscrit/
-pandoc f1000_manuscript.md -f markdown -t docx --citeproc \
-  --bibliography=sn-bibliography.bib --csl=apa.csl \
-  -o f1000_manuscript.docx
-```
-
 ---
 
-## Data Formats
+## Citation & Licensing
 
-| Format | Use | Location |
-|--------|-----|----------|
-| CSV (UTF-8) | Tabular data, corpus, metrics | `Screening/`, `AnalisisDatos/` |
-| BibTeX (.bib) | Bibliographic references | `AnalisisDatos/`, `manuscrit/` |
-| JSON | Structured extraction data, AI cache | `AnalisisDatos/` subdirectories |
-| GEXF | Networks for Gephi | `AnalisisDatos/networks/` |
-| GraphML | Networks for graph analysis tools | `AnalisisDatos/networks/` |
-| HTML | Interactive network and chart visualizations | `AnalisisDatos/networks/`, subdirectories |
-| PNG | Static figures | `AnalisisDatos/figures/` |
-| Markdown (.md) | F1000 manuscript, analysis reports, documentation | `manuscrit/`, all subdirectories |
-| LaTeX (.tex) | Archival manuscript version | `manuscrit/` |
-| PDF | Compiled manuscript | `manuscrit/` |
-| CFF | Citation metadata for Zenodo | Root |
+**Article Citation:**
+> Segura-Altamirano, S. F., Hilario-Vargas, J. S., Vela-Melendez, L., Arbulu-Perez-Vargas, C. G., Reupo-Periche, J. T., Garcia-Lopez, J. W., Rios-Villacorta, M. A., Chiclayo-Padilla, H. J., & Castro-Cardenas, D. M. (2026). Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis. *F1000Research*, 15:808. https://doi.org/10.12688/f1000research.179905.1
 
----
+**Dataset & Repository Citation:**
+> Segura-Altamirano, S. F. et al. (2026). Data and analysis repository: ESD in Higher Education bibliometric review and AI thematic synthesis [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19416905
 
-## Screening Flow
-
-The screening process follows PRISMA guidelines adapted for bibliometric reviews:
-
-```
-3,367 records identified
-    │
-    ├── Quality filter: -2 (missing title/authors)
-    ├── Medical filter (endoscopic ESD): -520
-    │
-    ▼
-2,845 records entering deduplication
-    │
-    ├── DOI-based duplicates: -812
-    ├── Fuzzy title duplicates: -46
-    ├── Missing abstracts: -15
-    │
-    ▼
-1,987 unique pre-screening records
-    │
-    ├── Phase 1 screening (title + abstract)
-    ├── Phase 2 screening (full PICO evaluation)
-    ├── 3-expert panel × relevance scoring
-    ├── Inclusion threshold: ≥80/100
-    │
-    ▼
-442 articles in final analytical corpus
-```
-
----
-
-## Corpus Traceability
-
-The complete analytical corpus of 442 articles is available in multiple formats for full traceability:
-
-| File | Description |
-|------|-------------|
-| `AnalisisDatos/corpus_442_articles.csv` | Clean listing: Authors, Title, Year, Journal, DOI, Document Type |
-| `AnalisisDatos/bibliometrix_export.csv` | Full bibliometric dataset (442 articles x 28 columns) |
-| `AnalisisDatos/bibliometrix_export.bib` | BibTeX format of the analytical corpus |
-| `Screening/seleccionados80.csv` | Screening decisions with justifications from 3 reviewers per article |
-| `Screening/phase1_results.csv` | Phase 1 screening results |
-| `Screening/phase2_results.csv` | Phase 2 PICO-based screening results |
-| `Screening/reliability_metrics.csv` | Inter-rater reliability metrics |
-| `Screening/disagreement_report.csv` | Reviewer disagreement cases and resolution |
-
----
-
-## Citation
-
-If you use the data, analyses, or materials from this repository, please cite both the article and the dataset:
-
-**Article:**
-> Segura-Altamirano, S.F., Hilario-Vargas, J.S., Vela-Melendez, L., Arbulu-Perez-Vargas, C.G., Reupo-Periche, J.T., Garcia-Lopez, J.W., Rios-Villacorta, M.A., Chiclayo-Padilla, H.J., & Castro-Cardenas, D.M. (2026). Mapping the Intellectual Architecture of Education for Sustainable Development in Higher Education: A Bibliometric and AI-Assisted Thematic Synthesis. *F1000Research*. [DOI pending]
-
-**Dataset:**
-> Segura-Altamirano, S.F. et al. (2026). Data and analysis repository: ESD in Higher Education bibliometric review [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19416905
-
-A machine-readable citation is available in `CITATION.cff`.
-
----
-
-## Keywords
-
-`Education for Sustainable Development` · `Higher Education` · `Bibliometrics` · `Science Mapping` · `Sustainability Competencies` · `Green Skills` · `Climate Literacy` · `Artificial Intelligence` · `Inductive Thematic Analysis` · `VOSviewer` · `Bibliometrix` · `PRISMA` · `Knowledge Gaps` · `Open Access` · `Co-citation Networks`
-
----
-
-## License
-
-This repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This repository is distributed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 ---
 
 ## Contact
 
-Segundo Francisco Segura-Altamirano — sseguraal@unprg.edu.pe
-Universidad Nacional Pedro Ruiz Gallo, Lambayeque, Peru
+**Segundo Francisco Segura-Altamirano** (Corresponding Author)  
+Email: `sseguraal@unprg.edu.pe`  
+Universidad Nacional Pedro Ruiz Gallo, Lambayeque, Peru  
 ORCID: [0000-0002-0103-7222](https://orcid.org/0000-0002-0103-7222)
